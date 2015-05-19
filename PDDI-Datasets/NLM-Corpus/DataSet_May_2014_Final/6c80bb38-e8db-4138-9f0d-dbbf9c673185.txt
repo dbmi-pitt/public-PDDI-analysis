@@ -1,0 +1,121 @@
+REMODULIN (treprostinil) injection, solution
+
+Remodulin (treprostinil) Injection is a sterile solution of treprostinil formulated for subcutaneous or intravenous administration.
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 General
+
+Remodulin is supplied in 20 mL vials containing 20, 50, 100, or 200 mg of treprostinil (1 mg/mL, 2.5 mg/mL, 5 mg/mL or 10 mg/mL). Remodulin can be administered as supplied or diluted for intravenous infusion with Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan® Sterile Diluent for Injection prior to administration.
+
+2.2 Initial Dose for Patients New to Prostacyclin Infusion Therapy
+
+Remodulin is indicated for subcutaneous (SC) or intravenous (IV) use only as a continuous infusion. Remodulin is preferably infused subcutaneously, but can be administered by a central intravenous line if the subcutaneous route is not tolerated, because of severe site pain or reaction. The infusion rate is initiated at 1.25 ng/kg/min. If this initial dose cannot be tolerated because of systemic effects, the infusion rate should be reduced to 0.625 ng/kg/min.
+
+2.3 Dosage Adjustments
+
+The goal of chronic dosage adjustments is to establish a dose at which PAH symptoms are improved, while minimizing excessive pharmacologic effects of Remodulin (headache, nausea, emesis, restlessness, anxiety and infusion site pain or reaction).
+
+The infusion rate should be increased in increments of 1.25 ng/kg/min per week for the first four weeks of treatment and then 2.5 ng/kg/min per week for the remaining duration of infusion, depending on clinical response. Dosage adjustments may be undertaken more often if tolerated. There is little experience with doses >40 ng/kg/min. Abrupt cessation of infusion should be avoided [see Warnings and Precautions (5.4)]. Restarting a Remodulin infusion within a few hours after an interruption can be done using the same dose rate. Interruptions for longer periods may require the dose of Remodulin to be re-titrated.
+
+2.4 Patients with Hepatic Insufficiency
+
+In patients with mild or moderate hepatic insufficiency, the initial dose of Remodulin should be decreased to 0.625 ng/kg/min ideal body weight and should be increased cautiously. Remodulin has not been studied in patients with severe hepatic insufficiency [see Warnings and Precautions (5.5), Use In Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+2.5 Patients with Renal Insufficiency
+
+No studies have been performed in patients with renal insufficiency. No specific advice about dosing in patients with renal impairment can be given.
+
+[see Clinical Pharmacology (12.3)].
+
+2.6 Administration
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit. If either particulate matter or discoloration is noted, Remodulin should not be administered.
+
+Subcutaneous Infusion
+
+Remodulin is administered subcutaneously by continuous infusion, via a self-inserted subcutaneous catheter, using an infusion pump designed for subcutaneous drug delivery. To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and subcutaneous infusion sets. The ambulatory infusion pump used to administer Remodulin should: (1) be small and lightweight, (2) be adjustable to approximately 0.002 mL/hr, (3) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (4) have delivery accuracy of ±6% or better and (5) be positive pressure driven. The reservoir should be made of polyvinyl chloride, polypropylene or glass.
+
+Intravenous Infusion
+
+Remodulin must be diluted with either Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan Sterile Diluent for Injection and is administered intravenously by continuous infusion, via a surgically placed indwelling central venous catheter, using an infusion pump designed for intravenous drug delivery. If clinically necessary, a temporary peripheral intravenous cannula, preferably placed in a large vein, may be used for short term administration of Remodulin. Use of a peripheral intravenous infusion for more than a few hours may be associated with an increased risk of thrombophlebitis. To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and infusion sets. The ambulatory infusion pump used to administer Remodulin should: (1) be small and lightweight, (2) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (3) have delivery accuracy of ±6% or better of the hourly dose, and (4) be positive pressure driven. The reservoir should be made of polyvinyl chloride, polypropylene or glass.
+
+Diluted Remodulin has been shown to be stable at ambient temperature for up to 48 hours at concentrations as low as 0.004 mg/mL (4,000 ng/mL).
+
+2.7 Patients Requiring Transition from Flolan
+
+Transition from Flolan to Remodulin is accomplished by initiating the infusion of Remodulin and increasing it, while simultaneously reducing the dose of intravenous Flolan. The transition to Remodulin should take place in a hospital with constant observation of response (e.g., walk distance and signs and symptoms of disease progression). During the transition, Remodulin is initiated at a recommended dose of 10% of the current Flolan dose, and then escalated as the Flolan dose is decreased (see Table 1 for recommended dose titrations).
+
+Patients are individually titrated to a dose that allows transition from Flolan therapy to Remodulin while balancing prostacyclin-limiting adverse events. Increases in the patient's symptoms of PAH should be first treated with increases in the dose of Remodulin. Side effects normally associated with prostacyclin and prostacyclin analogs are to be first treated by decreasing the dose of Flolan.
+
+4 CONTRAINDICATIONS
+
+None
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Risks Attributable to the Drug Delivery System
+
+Chronic intravenous infusions of Remodulin are delivered using an indwelling central venous catheter. This route is associated with the risk of blood stream infections (BSIs) and sepsis, which may be fatal. Therefore, continuous subcutaneous infusion (undiluted) is the preferred mode of administration.
+
+In an open-label study of IV treprostinil (n=47), there were seven catheter-related line infections during approximately 35 patient years, or about 1 BSI event per 5 years of use. A CDC survey of seven sites that used IV treprostinil for the treatment of PAH found approximately 1 BSI (defined as any positive blood culture) event per 3 years of use.
+
+5.2 General Conditions of Use
+
+Remodulin should be used only by clinicians experienced in the diagnosis and treatment of PAH.
+
+Remodulin is a potent pulmonary and systemic vasodilator. Initiation of Remodulin must be performed in a setting with adequate personnel and equipment for physiological monitoring and emergency care. Therapy with Remodulin may be used for prolonged periods, and the patient's ability to administer Remodulin and care for an infusion system should be carefully considered.
+
+5.3 Dose Modification
+
+Dose should be increased for lack of improvement in, or worsening of, symptoms and it should be decreased for excessive pharmacologic effects or for unacceptable infusion site symptoms [see Dosage and Administration (2)].
+
+5.4 Abrupt Withdrawal or Sudden Large Dose Reduction
+
+Abrupt withdrawal or sudden large reductions in dosage of Remodulin may result in worsening of PAH symptoms and should be avoided.
+
+5.5 Patients with Hepatic or Renal Insufficiency
+
+Titrate slowly in patients with hepatic or renal insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic or renal function [see Dosage and Administration (2.4, 2.5), Use In Specific Populations (8.6, 8.7), and Clinical Pharmacology (12.3)].
+
+5.6 Effect of Other Drugs on Treprostinil
+
+Co-administration of a cytochrome P450 (CYP) 2C8 enzyme inhibitor (e.g., gemfibrozil) may increase exposure (both Cmax and AUC) to treprostinil. Co-administration of a CYP2C8 enzyme inducer (e.g., rifampin) may decrease exposure to treprostinil. Increased exposure is likely to increase adverse events associated with treprostinil administration, whereas decreased exposure is likely to reduce clinical effectiveness [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+
+7 DRUG INTERACTIONS
+
+Pharmacokinetic/pharmacodynamic interaction studies have been conducted with treprostinil administered subcutaneously (Remodulin) and orally (treprostinil diethanolamine).
+
+Pharmacodynamics
+
+7.1 Antihypertensive Agents or Other Vasodilators
+
+Concomitant administration of Remodulin with diuretics, antihypertensive agents or other vasodilators may increase the risk of symptomatic hypotension.
+
+7.2 Anticoagulants
+
+Since treprostinil inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulants.
+
+Pharmacokinetics
+
+7.3 Bosentan
+
+In a human pharmacokinetic study conducted with bosentan (250 mg/day) and an oral formulation of treprostinil (treprostinil diethanolamine), no pharmacokinetic interactions between treprostinil and bosentan were observed.
+
+7.4 Sildenafil
+
+In a human pharmacokinetic study conducted with sildenafil (60 mg/day) and an oral formulation of treprostinil (treprostinil diethanolamine), no pharmacokinetic interactions between treprostinil and sildenafil were observed.
+
+7.5 Effect of Treprostinil on Cytochrome P450 Enzymes
+
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A. Additionally, treprostinil does not induce cytochrome P450 isoenzymes CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A. Thus Remodulin is not expected to alter the pharmacokinetics of compounds metabolized by CYP enzymes.
+
+7.6 Effect of Cytochrome P450 Inhibitors and Inducers on Treprostinil
+
+Human pharmacokinetic studies with an oral formulation of treprostinil (treprostinil diethanolamine) indicated that co-administration of the cytochrome P450 (CYP) 2C8 enzyme inhibitor gemfibrozil increases exposure (both Cmax and AUC) to treprostinil. Co-administration of the CYP2C8 enzyme inducer rifampin decreases exposure to treprostinil. It has not been determined if the safety and efficacy of treprostinil by the parenteral (subcutaneously or intravenously) route are altered by inhibitors or inducers of CYP2C8 [see Warnings and Precautions (5.6)].
+
+Remodulin has not been studied in conjunction with Flolan or Tracleer® (bosentan).
+
+7.7 Effect of Other Drugs on Treprostinil
+
+Drug interaction studies have been carried out with treprostinil (oral or subcutaneous) co-administered with acetaminophen (4 g/day), warfarin (25 mg/day), and fluconazole (200 mg/day), respectively in healthy volunteers. These studies did not show a clinically significant effect on the pharmacokinetics of treprostinil. Treprostinil does not affect the pharmacokinetics or pharmacodynamics of warfarin. The pharmacokinetics of R- and S- warfarin and the INR in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous infusion of treprostinil at an infusion rate of 10 ng/kg/min.

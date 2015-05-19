@@ -1,0 +1,102 @@
+NITROMIST (nitroglycerin) aerosol, metered 
+
+Nitroglycerin, an organic nitrate, is a vasodilator which has effects on both arteries and veins. The chemical name for nitroglycerin is 1,2,3-propanetriol trinitrate (C3H5N3O9). 
+
+4 CONTRAINDICATIONS
+
+4.1 PDE5 Inhibitor Use
+
+Administration of NitroMist is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), as PDE5 inhibitors such as sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates [see DRUG INTERACTIONS (7.1)].
+
+4.2 Severe Anemia
+
+NitroMist is contraindicated in patients with severe anemia.
+
+4.3 Increased Intracranial Pressure
+
+NitroMist is contraindicated in patients with increased intracranial pressure.
+
+4.4 Hypersensitivity
+
+NitroMist is contraindicated in patients who have shown hypersensitivity to it or to other nitrates or nitrites. Skin reactions consistent with hypersensitivity have been observed with organic nitrates.
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Tolerance
+
+Excessive use may lead to the development of tolerance. Only the smallest number of doses required for effective relief of the acute anginal attack should be used [see DOSAGE AND ADMINISTRATION (2)].
+
+As tolerance to other forms of nitroglycerin develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is reduced.
+
+5.2 Hypotension
+
+Severe hypotension, particularly with upright posture, may occur even with small doses of nitroglycerin. The drug should therefore be used with caution in patients who may be volume-depleted or who, for whatever reason, are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris.
+
+The benefits of NitroMist in patients with acute myocardial infarction or congestive heart failure have not been established. If one elects to use NitroMist in these conditions, careful clinical or hemodynamic monitoring must be used because of the possibility of hypotension and tachycardia.
+
+5.3 Hypertrophic Cardiomyopathy
+
+Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
+
+5.4 Headache
+
+Nitroglycerin produces dose-related headaches, which may be severe. Tolerance to headaches occurs.
+
+7 DRUG INTERACTIONS
+
+7.1 PDE5 Inhibitors
+
+Administration of NitroMist is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5). PDE5 inhibitors such as sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
+
+The time course and dose dependence of this interaction have not been studied, and use within a few days of one another cannot be recommended. Appropriate supportive care for the severe hypotension has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. The use of any form of nitroglycerin during the early days of acute myocardial infarction requires particular attention to hemodynamic monitoring and clinical status.
+
+7.2 Antihypertensives
+
+Patients receiving antihypertensive drugs, beta-adrenergic blockers, and nitrates should be observed for possible additive hypotensive effects. Marked orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used concomitantly.
+
+Labetolol blunts the reflex tachycardia produced by nitroglycerin without preventing its hypotensive effects. If labetolol is used with nitroglycerin in patients with angina pectoris, additional hypotensive effects may occur.
+
+7.3 Aspirin
+
+Coadministration of aspirin and nitroglycerin has been reported to result in increased nitroglycerin maximum concentrations by as much as 67% and AUC by 73% when administered as a single dose. The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of aspirin.
+
+7.4 Tissue-type Plasminogen Activator (t-PA)
+
+Intravenous administration of nitroglycerin decreases the thrombolytic effect of tissue-type plasminogen activator (t-PA). Plasma levels of t-PA are reduced when coadministered with nitroglycerin. Therefore, caution should be observed in patients receiving nitroglycerin during t-PA therapy.
+
+7.5 Heparin
+
+Intravenous nitroglycerin reduces the anticoagulant effect of heparin. Activated partial thromboplastin times (APTT) should be monitored in patients receiving heparin and intravenous nitroglycerin. It is not known if this effect occurs following single nitroglycerin doses.
+
+7.6 Ergotamine
+
+Oral administration of nitroglycerin markedly decreases the first-pass metabolism of dihydroergotamine and subsequently increases its oral bioavailability. Ergotamine is known to precipitate angina pectoris. Therefore, patients receiving sublingual nitroglycerin should avoid ergotamine and related drugs or be monitored for symptoms of ergotism if this is not possible.
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 Recommended Dosage
+
+At the onset of an attack, one metered spray or two metered sprays should be administered on or under the tongue. A spray may be repeated approximately every 5 minutes as needed. If two sprays are used initially, the patient may only administer one more spray after waiting 5 minutes. No more than 3 metered sprays are recommended within a 15-minute period. If chest pain persists after a total of 3 sprays, prompt medical attention is recommended. NitroMist may be used prophylactically 5 minutes to 10 minutes before engaging in activities that might precipitate an acute attack.
+
+2.2 Priming the Container
+
+After an initial priming of 10 sprays, each metered spray of NitroMist delivers 33 mg of solution containing 400 mcg of nitroglycerin. It will remain adequately primed for 6 weeks. If the product is not used within 6 weeks, it can be adequately re-primed with 2 sprays. NitroMist is available in either 230 metered sprays or 90 metered sprays per container, but the total number of available doses depends on the number of sprays per use (1 spray or 2 sprays), and the frequency of priming.
+
+2.3 Administration
+
+During use the patient should rest, ideally in the sitting position. The container should be held vertically with the valve head uppermost and the spray orifice as close to the mouth as possible. The dose should preferably be sprayed into the mouth on or under the tongue by pressing the button firmly and the mouth should be closed immediately after each dose. THE SPRAY SHOULD NOT BE INHALED. Patients should be instructed to familiarize themselves with the position of the spray orifice, which can be identified by the finger rest on top of the valve, in order to facilitate orientation for administration at night.
+
+    Do not shake container.
+    Remove plastic cap.
+    If this is the first time using the bottle, press actuator button 10 times to ensure proper dose priming (holding unit away from yourself and others).
+    Hold container upright with forefinger on top of the actuator button.
+    Open mouth and bring the container as close as possible.
+    Press the actuator button firmly with forefinger to release spray(s) onto or under the tongue.
+    Release button and close mouth. The medication should not be spit out or the mouth rinsed for 5 minutes to 10 minutes following administration.
+    If a second administration is required to obtain relief, repeat steps 4, 5, and 6. No more than 3 metered sprays can be given within a 15-minute period.
+    Replace plastic cover.
+    If the product is not used for more than 6 weeks, then it can be adequately re-primed with 2 sprays.
+
+The level of the liquid in the container should be periodically checked. While the container is in the upright position, if the liquid reaches the top or middle of the hole on the side of the container, one should order more. When the liquid reaches the bottom of the hole, the remaining doses will have less than label content.
+
+

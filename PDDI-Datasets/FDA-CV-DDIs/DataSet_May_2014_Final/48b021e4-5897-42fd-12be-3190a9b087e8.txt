@@ -1,0 +1,139 @@
+ATACAND HCT (candesartan cilexetil and hydrochlorothiazide) tablet
+ATACAND HCT (candesartan cilexetil hydrochlorothiazide) tablet 
+
+ATACAND HCT (candesartan cilexetil-hydrochlorothiazide) combines an angiotensin II receptor (type AT1) antagonist and a diuretic, hydrochlorothiazide. 
+
+WARNING: FETAL TOXICITY
+
+When pregnancy is detected, discontinue ATACAND HCT as soon as possible.
+Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See Warnings: Fetal Toxicity 
+
+CONTRAINDICATIONS
+
+ATACAND HCT is contraindicated in patients who are hypersensitive to candesartan, to hydrochlorothiazide or to other sulfonamide-derived drugs.
+
+Do not co-administer aliskiren with ATACAND HCT in patients with diabetes (see PRECAUTIONS, Drug Interactions).
+
+ATACAND HCT is contraindicated in patients with anuria. 
+
+WARNINGS
+
+Fetal Toxicity
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue ATACAND HCT as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examinations to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue ATACAND HCT, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to ATACAND HCT for hypotension, oliguria, and hyperkalemia. (see PRECAUTIONS, Pediatric Use.)
+
+There was no evidence of teratogenicity or other adverse effects on embryo-fetal development when pregnant mice, rats or rabbits were treated orally with candesartan cilexetil alone or in combination with hydrochlorothiazide. For mice, the maximum dose of candesartan cilexetil was 1000 mg/kg/day (about 150 times the maximum recommended daily human dose [MRHD]1). For rats, the maximum dose of candesartan cilexetil was 100 mg/kg/day (about 31 times the MRHD1). For rabbits, the maximum dose of candesartan cilexetil was 1 mg/kg/day (a maternally toxic dose that is about half the MRHD1). In each of these studies, hydrochlorothiazide was tested at the same dose level (10 mg/kg/day, about 4, 8, and 15 times the MRHD1 in mouse, rats, and rabbit, respectively). There was no evidence of harm to the rat or mouse fetus or embryo in studies in which hydrochlorothiazide was administered alone to the pregnant rat or mouse at doses of up to 1000 and 3000 mg/kg/day, respectively.
+
+Thiazides cross the placental barrier and appear in cord blood. There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+Hypotension
+
+ATACAND HCT can cause symptomatic hypotension. Symptomatic hypotension is most likely to occur in patients who have been volume and/or salt depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Patients with symptomatic hypotension may require temporarily reducing the dose of ATACAND HCT or volume repletion. Volume and/or salt depletion should be corrected before initiating therapy with ATACAND HCT.
+
+In patients with heart failure, ATACAND HCT may cause excessive hypotension, which may lead to oliguria, azotemia, and (rarely) with acute renal failure and death (see WARNINGS, Impaired Renal Function). In such patients, ATACAND HCT therapy should be started under close medical supervision; they should be followed closely for the first 2 weeks of treatment and whenever the dose of candesartan or diuretic is increased.
+
+Impaired Renal Function
+
+Monitor renal function periodically in patients treated with ATACAND HCT. Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing oliguria, progressive azotemia, or acute renal failure on ATACAND HCT. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on ATACAND HCT.
+
+Potassium Abnormalities
+
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia. Hydrochlorothiazide can cause hypokalemia and hyponatremia. Hypomagnesema can result in hypokalemia which appears difficult to treat despite potassium repletion. Monitor serum electrolytes periodically.
+
+In clinical trials of various doses of candesartan cilexetil and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 2.5% versus 2.1% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% versus 1.0% for placebo. No patient receiving ATACAND HCT 16-12.5 mg or 32-12.5 mg was discontinued due to increases or decreases in serum potassium.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+Hypersensitivity Reaction
+
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+PRECAUTIONS
+
+Metabolic Disturbances
+
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
+
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
+
+Thiazides decrease urinary calcium excretion and may cause mild elevation of serum calcium. Avoid using ATACAND HCT in patients with hypercalcemia.
+
+Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+Information for Patients
+
+Pregnancy
+
+Female patients of childbearing age should be told about the consequences of exposure to ATACAND HCT during pregnancy. Discuss treatment options with women planning to become pregnant. Patients should be asked to report pregnancies to their physicians as soon as possible.
+
+Symptomatic Hypotension
+
+Tell patients receiving ATACAND HCT that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician. Tell patients that if syncope occurs, discontinue ATACAND HCT until the physician has been consulted.
+
+Tell all patients that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
+
+Hyperkalemia
+
+Tell patients receiving ATACAND HCT not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+
+Drug Interactions
+
+Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+
+Interactions common to both Candesartan Cilexetil and Hydrochlorothiazde
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving candesartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Lithium − Renal clearance of lithium is reduced by thiazides and increases the risk of lithium toxicity. Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists. An increase in serum lithium concentration has been reported during concomitant administration of lithium with candesartan cilexetil. Monitor serum lithium levels.
+
+Interactions with Candesartan Cilexetil
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on ATACAND HCT and other agents that affect the RAS.
+
+Do not co-administer aliskiren with ATACAND HCT in patients with diabetes. Avoid use of aliskiren with ATACAND HCT in patients with renal impairment (GFR <60 ml/min) (see CONTRAINDICATIONS).
+
+Interactions with Hydrochlorothiazide
+
+Alcohol, barbiturates, or narcotics − Potentiation of orthostatic hypotension may occur.
+
+Antidiabetic drugs (oral agents and insulin) − Dosage adjustment of the antidiabetic drug may be required.
+
+Ion Exchange resins − Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively. Stagger the dosage of hydrochlorothiazide and ion exchange resins such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins.
+
+Skeletal muscle relaxants, nondepolarizing (eg, tubocurarine) −Possible increased responsiveness to muscle relaxants such as curare derivatives.
+
+Digitalis: Thiazide-induced hypokalemia or hypomagnesemia may predispose to digoxin toxicity.
+
+DOSAGE AND ADMINISTRATION
+
+The usual recommended starting dose of candesartan cilexetil is 16 mg once daily when it is used as monotherapy in patients who are not volume depleted. ATACAND can be administered once or twice daily with total daily doses ranging from 8 mg to 32 mg. Patients requiring further reduction in blood pressure should be titrated to 32 mg. Doses larger than 32 mg do not appear to have a greater blood pressure lowering effect.
+
+Hydrochlorothiazide is effective in doses of 12.5 to 50 mg once daily.
+
+Use in Renal Impairment: Dosing recommendations for ATACAND HCT in patients with creatinine clearance < 30 mg/min cannot be provided (see SPECIAL POPULATIONS, Renal Insufficiency).
+
+Use in moderate to severe Hepatic Impairment: ATACAND HCT is not recommended for initiation because the appropriate starting dose, 8 mg, cannot be given. (see SPECIAL POPULATIONS, Hepatic Insufficiency).
+
+Replacement Therapy: The combination may be substituted for the titrated individual components.
+
+Dose Titration by Clinical Effect: A patient whose blood pressure is not controlled on 25 mg of hydrochlorothiazide once daily can expect an incremental effect from ATACAND HCT 16-12.5 mg. A patient whose blood pressure is controlled on 25 mg of hydrochlorothiazide but is experiencing decreases in serum potassium can expect the same or incremental blood pressure effects from ATACAND HCT 16-12.5 mg and serum potassium may improve.
+
+A patient whose blood pressure is not controlled on 32 mg of ATACAND can expect incremental blood pressure effects from ATACAND HCT 32-12.5 mg and then 32-25 mg. The maximal antihypertensive effect of any dose of ATACAND HCT can be expected within 4 weeks of initiating that dose.
+
+ATACAND HCT may be administered with other antihypertensive agents.
+
+ATACAND HCT may be administered with or without food.
+
+

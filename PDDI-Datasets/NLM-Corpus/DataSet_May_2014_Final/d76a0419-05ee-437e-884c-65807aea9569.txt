@@ -1,0 +1,130 @@
+Drug Label for drug brand Diovan HCT, containing valsartan and hydrochlorothiazide.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Diovan HCT as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Diovan HCT as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+Diovan HCT (valsartan and hydrochlorothiazide, USP) is contraindicated in patients who are hypersensitive to any component of this product.
+Because of the hydrochlorothiazide component, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
+Do not coadminister aliskiren with Diovan HCT in patients with diabetes see Drug Interactions (7).
+Anuria, Hypersensitivity to any sulfonamide-derived drugs or any component, Do not coadminister aliskiren with Diovan HCT in patients with diabetes (
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Hypotension: Correct volume depletion prior to initiation (5.2).
+ <item>
+ <item>Observe for signs of fluid or electrolyte imbalance (5.9).
+ <item>
+ <item>Monitor renal function and potassium in susceptible patients (5.3, 5.7).
+ <item>
+ <item>Exacerbation or activation of systemic lupus erythematosus (5.5).
+ <item>
+ <item>Acute angle-closure glaucoma (5.8)
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Diovan HCT as soon as possible see Use in Specific Populations (8.1).
+Intrauterine exposure to thiazide diuretics is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+5.2 Hypotension in Volume- and/or Salt-Depleted Patients
+
+Excessive reduction of blood pressure was rarely seen (0.7%) in patients with uncomplicated hypertension treated with Diovan HCT in controlled trials. In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur. This condition should be corrected prior to administration of Diovan HCT, or the treatment should start under close medical supervision.
+If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.3 Impaired Renal Function
+
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan HCT. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan HCT see Drug Interactions (7).
+
+5.4 Hypersensitivity Reaction
+
+Hydrochlorothiazide : Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+5.5 Systemic Lupus Erythematosus
+
+Hydrochlorothiazide : Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+5.6 Lithium Interaction
+
+Hydrochlorothiazide : Lithium generally should not be given with thiazides see Drug Interactions (7).
+
+5.7 Potassium Abnormalities
+
+Valsartan Hydrochlorothiazide : In the controlled trials of various doses of Diovan HCT the incidence of hypertensive patients who developed hypokalemia (serum potassium 3.5 mEq/L) was 3.0%, the incidence of hyperkalemia (serum potassium 5.7 mEq/L) was 0.4%.
+Hydrochlorothiazide can cause hypokalemia and hyponatremia. Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion. Drugs that inhibit the renin-angiotensin system can cause hyperkalemia. Monitor serum electrolytes periodically.
+If hypokalemia is accompanied by clinical signs (e.g. muscular weakness, paresis, or ECG alterations), Diovan HCT should be discontinued. Correction of hypokalemia and any coexisting hypomagnesemia is recommended prior to the initiation of thiazides.
+Some patients with heart failure have developed increases in potassium with Diovan therapy. These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of the diuretic and/or Diovan may be required see Adverse Reactions (6.1).
+
+5.8 Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+5.9 Metabolic Disturbances
+
+Hydrochlorothiazide
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium. Monitor calcium levels in patients with hypercalcemia receiving Diovan HCT.
+
+
+7 DRUG INTERACTIONS
+
+Valsartan : No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin. The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+CYP 450 Interactions : In vitro metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and co-administered drugs are unlikely because of the low extent of metabolism see Clinical Pharmacology (12.3).
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2. Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g. spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine. If co-medication is considered necessary, monitoring of serum potassium is advisable.
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function, and electrolytes in patients on Diovan HCT and other agents that affect the RAS.
+Do not coadminister aliskiren with Diovan HCT in patients with diabetes. Avoid use of aliskiren with Diovan HCT in patients with renal impairment (GFR 60 mL/min).
+Hydrochlorothiazide : When administered concurrently, the following drugs may interact with thiazide diuretics:
+Antidiabetic D rugs (oral agents and insulin) - Dosage adjustment of the antidiabetic drug may be required.
+Lithium - Diuretic agents increase the risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with Diovan HCT. Monitoring of serum lithium concentrations is recommended during concurrent use.
+Nonsteroidal Anti-inflammatory Drugs (NSAIDs and COX-2 selective inhibitors) - When Diovan HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Carbamazepine May lead to symptomatic hyponatremia.
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimize the interaction see Clinical Pharmacology (12.3).
+Cyclosporine: Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.
+ <list>
+ <item>
+ <item>Antidiabetic drugs: Dosage adjustment of antidiabetic may be required (7).
+ <item>
+ <item>Cholestyramine and colestipol: Reduced absorption of thiazides (12.3).
+ <item>
+ <item>Lithium: Diuretics increase risk of lithium toxicity. Monitor serum lithium concentrations during concurrent use. (7).
+ <item>
+ <item>Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): May increase risk of renal impairment. Can reduce diuretic, natriuretic and antihypertensive effects of diuretics. (7).
+ <item>
+ <item>Dual inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia (7)
+ <item>
+ </list>
+
+

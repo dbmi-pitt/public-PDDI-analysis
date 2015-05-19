@@ -1,0 +1,13 @@
+drug pair    SemMedDB    PKCorpus
+http://bio2rdf.org/drugbank:DB00404-http://bio2rdf.org/drugbank:DB00501    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00759-http://bio2rdf.org/drugbank:DB01233    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00993-http://bio2rdf.org/drugbank:DB00437    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00321-http://bio2rdf.org/drugbank:DB00176    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB00454    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00458-http://bio2rdf.org/drugbank:DB00176    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00382-http://bio2rdf.org/drugbank:DB00501    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00390-http://bio2rdf.org/drugbank:DB01233    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00343-http://bio2rdf.org/drugbank:DB01115    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB01115    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01235-http://bio2rdf.org/drugbank:DB01233    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB00829    [(None, None)]    [(None, None)]

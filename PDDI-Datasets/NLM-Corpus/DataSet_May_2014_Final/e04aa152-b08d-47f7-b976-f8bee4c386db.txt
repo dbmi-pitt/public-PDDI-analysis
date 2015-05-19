@@ -1,0 +1,110 @@
+Drug Label for drug brand Procardia, containing NIFEDIPINE.
+
+
+CONTRAINDICATIONS
+
+
+Known hypersensitivity reaction to PROCARDIA.
+
+
+WARNINGS
+
+
+Excessive Hypotension
+
+Although, in most patients, the hypotensive effect of PROCARDIA is modest and well tolerated, occasional patients have had excessive and poorly tolerated hypotension. These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment. Although patients have rarely experienced excessive hypotension on PROCARDIA alone, this may be more common in patients on concomitant beta blocker therapy. Although not approved for this purpose, PROCARDIA and other immediate-release nifedipine capsules have been used (orally and sublingually) for acute reduction of blood pressure. Several well-documented reports describe cases of profound hypotension, myocardial infarction, and death when immediate-release nifedipine was used in this way. PROCARDIA capsules should not be used for the acute reduction of blood pressure.
+Severe hypotension and/or increased fluid volume requirements have been reported in patients receiving PROCARDIA together with a beta-blocking agent who underwent coronary artery bypass surgery using high dose fentanyl anesthesia. The interaction with high dose fentanyl appears to be due to the combination of PROCARDIA and a beta blocker, but the possibility that it may occur with PROCARDIA alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out. In PROCARDIA treated patients where surgery using high dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient's condition permits, sufficient time (at least 36 hours) should be allowed for PROCARDIA to be washed out of the body prior to surgery.
+
+Increased Angina and/or Myocardial Infarction
+
+Rarely, patients, particularly those who have severe obstructive coronary artery disease, have developed well documented increased frequency, duration, and/or severity of angina or acute myocardial infarction on starting PROCARDIA or at the time of dosage increase. The mechanism of this effect is not established.
+Several well-controlled, randomized trials studied the use of immediate-release nifedipine in patients who had just sustained myocardial infarctions. In none of these trials did immediate-release nifedipine appear to provide any benefit. In some of the trials, patients who received immediate-release nifedipine had significantly worse outcomes than patients who received placebo. PROCARDIA capsules should not be administered within the first week or two after myocardial infarction, and they should also be avoided in the setting of acute coronary syndrome (when infarction may be imminent).
+
+Use in Essential Hypertension
+
+PROCARDIA and other immediate-release nifedipine capsules have also been used for the long-term control of essential hypertension, although PROCARDIA capsules have not been approved for this purpose and no properly controlled studies have been conducted to define an appropriate dose or dose interval for such treatment. PROCARDIA capsules should not be used for the control of essential hypertension.
+
+Beta Blocker Withdrawal
+
+Patients recently withdrawn from beta blockers may develop a withdrawal syndrome with increased angina, probably related to increased sensitivity to catecholamines. Initiation of PROCARDIA treatment will not prevent this occurrence and might be expected to exacerbate it by provoking reflex catecholamine release. There have been occasional reports of increased angina in a setting of beta blocker withdrawal and PROCARDIA initiation. It is important to taper beta blockers if possible, rather than stopping them abruptly before beginning PROCARDIA.
+
+Congestive Heart Failure
+
+Rarely, patients, usually those receiving a beta blocker, have developed heart failure after beginning PROCARDIA. Patients with tight aortic stenosis may be at greater risk for such an event, as the unloading effect of PROCARDIA would be expected to be of less benefit to these patients, owing to their fixed impedance to flow across the aortic valve.
+
+
+PRECAUTIONS
+
+
+General
+
+
+Hypotension
+
+Because PROCARDIA decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of PROCARDIA is suggested. Close observation is especially recommended for patients already taking medications that are known to lower blood pressure. (See WARNINGS.)
+
+Peripheral Edema
+
+Mild to moderate peripheral edema, typically associated with arterial vasodilation and not due to left ventricular dysfunction, occurs in about one in ten patients treated with PROCARDIA (nifedipine). This edema occurs primarily in the lower extremities and usually responds to diuretic therapy. With patients whose angina is complicated by congestive heart failure, care should be taken to differentiate this peripheral edema from the effects of increasing left ventricular dysfunction.
+
+Laboratory Tests
+
+Rare, usually transient, but occasionally significant elevations of enzymes such as alkaline phosphatase, CPK, LDH, SGOT, and SGPT have been noted. The relationship to PROCARDIA therapy is uncertain in most cases, but probable in some. These laboratory abnormalities have rarely been associated with clinical symptoms, however, cholestasis with or without jaundice has been reported. Rare instances of allergic hepatitis have been reported.
+PROCARDIA, like other calcium channel blockers, decreases platelet aggregation in vitro. Limited clinical studies have demonstrated a moderate but statistically significant decrease in platelet aggregation and an increase in bleeding time in some PROCARDIA patients. This is thought to be a function of inhibition of calcium transport across the platelet membrane. No clinical significance for these findings has been demonstrated.
+Positive direct Coombs Test with/without hemolytic anemia has been reported but a causal relationship between PROCARDIA administration and positivity of this laboratory test, including hemolysis, could not be determined.
+Although PROCARDIA has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect, in certain cases, rare, reversible elevations in BUN and serum creatinine have been reported in patients with pre-existing chronic renal insufficiency. The relationship to PROCARDIA therapy is uncertain in most cases but probable in some.
+
+Drug Interactions
+
+
+Beta-adrenergic blocking agents
+
+(See INDICATIONS AND USAGE and WARNINGS.) Experience in over 1400 patients in a non-comparative clinical trial has shown that concomitant administration of PROCARDIA and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
+
+Long-acting nitrates
+
+PROCARDIA may be safely co-administered with nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
+
+Digitalis
+
+Since there have been isolated reports of patients with elevated digoxin levels, and since there is a possible interaction between digoxin and nifedipine, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.
+
+Quinidine
+
+There have been rare reports of an interaction between quinidine and nifedipine (with a decreased plasma level of quinidine).
+
+Coumarin anticoagulants
+
+There have been rare reports of increased prothrombin time in patients taking coumarin anticoagulants to whom PROCARDIA was administered. However, the relationship to PROCARDIA therapy is uncertain.
+
+Cimetidine
+
+A study in six healthy volunteers has shown a significant increase in peak nifedipine plasma levels (80%) and area-under-the-curve (74%) after a one week course of cimetidine at 1000 mg per day and nifedipine at 40 mg per day. Ranitidine produced smaller, non-significant increases. The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450, the enzyme system probably responsible for the first-pass metabolism of nifedipine. If nifedipine therapy is initiated in a patient currently receiving cimetidine, cautious titration is advised.
+
+Other Interactions
+
+
+Grapefruit Juice
+
+Co-administration of nifedipine with grapefruit juice resulted in approximately a 2-fold increase in nifedipine AUC and Cmax with no change in half-life. The increased plasma concentrations are most likely due to inhibition of CYP 3A4 related first-pass metabolism. Co-administration of nifedipine with grapefruit juice is to be avoided.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Nifedipine was administered orally to rats for two years and was not shown to be carcinogenic. When given to rats prior to mating, nifedipine caused reduced fertility at a dose approximately 30 times the maximum recommended human dose. There is a literature report of reversible reduction in the ability of human sperm obtained from a limited number of infertile men taking recommended doses of nifedipine to bind to and fertilize an ovum in vitro. In vivo mutagenicity studies were negative.
+
+Pregnancy
+
+
+Pregnancy Category C
+
+Nifedipine has been shown to produce teratogenic findings in rats and rabbits, including digital anomalies similar to those reported for phenytoin. Digital anomalies have been reported to occur with other members of the dihydropyridine class and are possibly a result of compromised uterine blood flow. Nifedipine administration was associated with a variety of embryotoxic, placentotoxic, and fetotoxic effects, including stunted fetuses (rats, mice, rabbits), rib deformities (mice), cleft palate (mice), small placentas and underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice, rabbits), and prolonged pregnancy/decreased neonatal survival (rats, not evaluated in other species). On a mg/kg basis, all of the doses associated with the teratogenic embryotoxic or fetotoxic effects in animals were higher (3.5 to 42 times) than the maximum recommended human dose of 120 mg/day. On a mg/m2 basis, some doses were higher and some were lower than the maximum recommended human dose but all were within an order of magnitude of it. The doses associated with placentotoxic effects in monkeys were equivalent to or lower than the maximum recommended human dose on a mg/m2 basis.
+There are no adequate and well-controlled studies in pregnant women. PROCARDIA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established. Use in pediatric population is not recommended.
+
+Geriatric Use
+
+Although small pharmacokinetic studies have identified an increased half-life and increased Cmax and AUC (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism), clinical studies of nifedipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in response between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+

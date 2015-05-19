@@ -1,0 +1,154 @@
+Drug Label for drug brand Exforge HCT, containing amlodipine valsartan and hydrochlorothiazide.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Exforge HCT as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+WARNING: FETAL TOXICITY
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Exforge HCT as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+Do not use in patients with anuria, hypersensitivity to other sulfonamide-derived drugs, or hypersensitivity to any component of this product.
+Do not coadminister aliskiren with Exforge HCT in patients with diabetes see Drug Interactions (7).
+ <list>
+ <item>
+ <item>Anuria (4)
+ <item>
+ <item>Hypersensitivity to sulfonamide-derived drugs (4)
+ <item>
+ <item>Known hypersensitivity to any component (4)
+ <item>
+ <item>Do not coadminister aliskiren with Exforge HCT in patients with diabetes (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Hypotension: Correct volume depletion prior to initiation (5.2).
+ <item>
+ <item>Increased angina and/or myocardial infarction (5.3).
+ <item>
+ <item>Monitor renal function and potassium in susceptible patients (5.4, 5.5).
+ <item>
+ <item>Exacerbation or activation of systemic lupus erythematosus (5.7).
+ <item>
+ <item>Observe for signs of fluid or electrolyte imbalance (5.9).
+ <item>
+ <item>Acute angle-closure glaucoma (5.10)
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Exforge HCT as soon as possible see Use in Specific Populations (8.1).
+
+5.2 Hypotension in Volume- or Salt-Depleted Patients
+
+Excessive hypotension, including orthostatic hypotension, was seen in 1.7% of patients treated with the maximum dose of Exforge HCT (10/320/25 mg) compared to 1.8% of valsartan/HCTZ (320/25 mg) patients, 0.4% of amlodipine/valsartan (10/320 mg) patients, and 0.2% of HCTZ/amlodipine (25/10 mg) patients in a controlled trial in patients with moderate to severe uncomplicated hypertension. In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur in patients receiving angiotensin receptor blockers. Correct this condition prior to administration of Exforge HCT.
+Exforge HCT has not been studied in patients with heart failure, recent myocardial infarction, or in patients undergoing surgery or dialysis. Patients with heart failure or post-myocardial infarction patients given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed. In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients. In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
+Since the vasodilation induced by amlodipine is gradual in onset, acute hypotension has rarely been reported after oral administration. Do not initiate treatment with Exforge HCT in patients with aortic or mitral stenosis or obstructive hypertrophic cardiomyopathy.
+If excessive hypotension occurs with Exforge HCT, the patient should be placed in a supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.3 Increased Angina and/or Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.
+
+5.4 Impaired Renal Function
+
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Exforge HCT. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Exforge HCT see Drug Interactions (7).
+
+5.5 Potassium Abnormalities
+
+In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium 3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg). One patient (0.2%) discontinued therapy due to an adverse event of hypokalemia in each of the Exforge HCT and HCTZ/amlodipine groups. The incidence of hyperkalemia (serum potassium 5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2-0.7% with the dual therapies.
+Some patients with heart failure have developed increases in potassium on valsartan. These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of the diuretic and/or valsartan may be required.
+Hydrochlorothiazide can cause hypokalemia and hyponatremia. Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion. Drugs that inhibit the renin-angiotensin system can cause hyperkalemia. Monitor serum electrolytes periodically.
+If hypokalemia is accompanied by clinical signs (e.g., muscular weakness, paresis, or ECG alterations), Exforge HCT should be discontinued. Correction of hypokalemia and any coexisting hypomagnesmia is recommended prior to the initiation of thiazides.
+
+5.6 Hypersensitivity Reaction
+
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+5.7 Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+5.8 Lithium Interaction
+
+Lithium generally should not be given with thiazides see Drug Interactions, Hydrochlorothiazide, Lithium (7).
+
+5.9 Metabolic Imbalances
+
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium. Monitor calcium levels in patients with hypercalcemia receiving Exforge HCT.
+
+5.10 Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+
+7 DRUG INTERACTIONS
+
+No drug interaction studies have been conducted with Exforge HCT and other drugs, although studies have been conducted with the individual components. A pharmacokinetic drug-drug interaction study has been conducted to address the potential for pharmacokinetic interaction between the triple combination, Exforge HCT, and the corresponding 3 double combinations. No clinically relevant interaction was observed.
+Amlodipine
+Simvastatin: Coadministration of simvastatin with amlodipine increases the systemic exposure of simvastatin. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+CYP3A4 Inhibitors: Coadministration with CYP3A inhibitors (moderate and strong) result in increased systemic exposure to amlodipine warranting dose reduction. Monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A4 inhibitors to determine the need for dose adjustment.
+CYP3A4 Inducers: No information is available on the quantitative effects of CYP3A4 inducers on amlodipine. Blood pressure should be monitored when amlodipine is coadministered with CYP3A4 inducers.
+Valsartan
+No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin. The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+In vitro metabolism studies have indicated that CYP450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism see Pharmacokinetics Valsartan, (12.3).
+Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine. If co-medication is considered necessary, monitoring of serum potassium is advisable.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function, and electrolytes in patients on Exforge HCT and other agents that affect the RAS.
+Do not coadminister aliskiren with Exforge HCT in patients with diabetes. Avoid use of aliskiren with Exforge HCT in patients with renal impairment (GFR 60 mL/min).
+Hydrochlorothiazide
+When administered concurrently the following drugs may interact with thiazide diuretics:
+Antidiabetic drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+Lithium: Diuretic agents increase the risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with Exforge HCT. Monitoring of serum lithium concentrations is recommended during concurrent use.
+Non-steroidal anti-inflammatory drugs (NSAIDs and COX-2 selective inhibitors): When Exforge HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of diuretic is obtained.
+Carbamazepine: May lead to symptomatic hyponatremia.
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimize the interaction. see Clinical Pharmacology (12.3) 
+Cyclosporine: Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.
+ <list>
+ <item>
+ <item>If simvastatin is coadministered with amlodipine, do not exceed doses greater than 20 mg daily of simvastatin (7).
+ <item>
+ <item>Antidiabetic drugs: Dosage adjustment of antidiabetic may be required (7).
+ <item>
+ <item>Cholestyramine and colestipol: Reduced absorption of thiazides (12.3).
+ <item>
+ <item>Lithium: Diuretics increase risk of lithium toxicity. Monitor serum lithium concentrations during concurrent use. (7).
+ <item>
+ <item>NSAID use may lead to increased risk of renal impairment and loss of anti-hypertensive effect (7)
+ <item>
+ <item>Dual inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia (7)
+ <item>
+ </list>
+
+

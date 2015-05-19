@@ -1,0 +1,46 @@
+Drug Label for drug brand Lidocaine Hydrochloride and Dextrose, containing LIDOCAINE HYDROCHLORIDE ANHYDROUS.
+
+
+CONTRAINDICATIONS
+
+
+Lidocaine is contraindicated in patients with a known hypersensitivity to local anesthetics of the amide type. Administration of lidocaine is contraindicated in patients with Adams-Stokes syndrome or with severe degrees of sinoatrial, atrioventricular or intraventricular heart block.
+Dextrose solutions without electrolytes should not be administered simultaneously with blood through the same infusion set because of the possibility that pseudoagglutination of red cells may occur.
+
+
+WARNINGS
+
+Constant monitoring with an electrocardiograph is essential for proper administration of lidocaine. Signs of excessive depression of cardiac conductivity, such as prolongation of PR interval and QRS complex and appearance or aggravation of arrhythmias, should be followed by prompt cessation of intravenous infusion of this agent. It is mandatory to have emergency equipment and drugs immediately available to manage possible adverse reactions involving the cardiovascular, respiratory or central nervous systems.
+Excess administration of potassium-free solutions may result in significant hypokalemia.
+The intravenous administration of these solutions can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.
+As the dosage of dilute solutions of lidocaine must be titrated to individual patient response, additive medications should not be delivered via this solution. (See PRECAUTIONS.)
+Overt or relative toxicity may result in evidence of central nervous system depression (sedation) or irritability (twitching) which may progress to frank convulsions accompanied by respiratory depression and/or arrest. Early recognition of premonitory signs, assurance of adequate oxygenation and where necessary, establishment of artificial airway with ventilatory support are essential to management of this problem. Should convulsions persist despite ventilatory therapy, small increments of anticonvulsant drugs may be used intravenously. Examples of such agents include benzodiazepines (e.g., diazepam), and ultrashort-acting barbiturate (e.g., thiopental or thiamylal). If the patient is under anesthesia, a short-acting muscle relaxant (succinylcholine) may be used. Longer acting drugs should be used only when recurrent convulsions are evidenced.
+
+
+PRECAUTIONS
+
+The safe use of lidocaine requires careful electrocardiographic (ECG) observation in an environment and by persons capable of resuscitation.
+Caution should be exercised with repeated use of lidocaine in patients with severe liver or renal disease because accumulation may lead to toxic phenomena, since the drug is metabolized mainly in the liver and partially excreted unchanged by the kidney. In patients with cardiac or hepatic failure, the rate of lidocaine clearance may be decreased. Prolonged (24 hour) infusion of the drug also appears to result in a longer half-life and reduced rate of clearance (even in patients without cardiac or hepatic failure) that may result in toxic accumulation of lidocaine in the plasma. After the first 24 hours, the rate of infusion of lidocaine should be reduced by about one-half to compensate for the drop in the rate of elimination of the drug.
+Miscellaneous: Amide local anesthetic administration may be associated with acute onset of fulminant hypermetabolism of skeletal muscle known as malignant hyperthermic crisis. Key to successful outcome of fulminant hypermetabolism is early recognition of premonitory signs, i.e., tachycardia and increased metabolic rate as evidenced by respiratory and/or metabolic acidosis. Treatment includes administration of oxygen and discontinuation of infusion and, where necessary, intravenous administration of dantrolene sodium. For additional information on management see prescribing information of dantrolene sodium.
+In patients with sinus bradycardia the intravenous administration of lidocaine for the elimination of ventricular ectopic beats without prior acceleration in heart rate (e.g., by isoproterenol or by electric pacing) may provoke more frequent and serious ventricular arrhythmias.
+Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance, electrolyte concentrations and acid-base balance during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation.
+Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.
+Do not administer unless solution is clear and container is undamaged. Discard unused portion.
+
+Pregnancy Category B.
+
+Reproduction studies have been performed in rats at doses up to 5 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to lidocaine hydrochloride. There are, however, no adequate well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+Pediatric Use:
+
+The safety and effectiveness of lidocaine has not been established in pediatric patients (neonates to adolescents).
+
+Geriatric Use:
+
+Clinical studies of Lidocaine HCl did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Lidocaine is substantially excreted by the kidney and clearance of lidocaine is decreased in the elderly (see CLINICAL PHARMACOLOGY ). In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal or cardiac function, and of concomitant disease or other drug therapy.
+
+Drug Interactions
+
+Lidocaine should be used with caution in patients with digitalis toxicity accompanied by atrioventricular block. Coadministration of propranolol with lidocaine has been reported to reduce the clearance of lidocaine from the plasma and may result in toxic accumulation of the drug.
+When lidocaine is administered with other antiarrhythmic drugs such as phenytoin, procainamide, propranolol or quinidine, the cardiac effects may be additive or antagonistic and toxic effects may be additive. Phenytoin may stimulate the hepatic metabolism of lidocaine, but the clinical significance of this effect is not known.
+

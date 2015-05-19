@@ -1,0 +1,121 @@
+DEMADEX (torsemide) tablet
+
+CONTRAINDICATIONS
+
+DEMADEX is contraindicated in patients with known hypersensitivity to DEMADEX or to sulfonylureas.
+
+DEMADEX is contraindicated in patients who are anuric.
+
+WARNINGS
+
+Hepatic Disease With Cirrhosis and Ascites
+DEMADEX should be used with caution in patients with hepatic disease with cirrhosis and ascites, since sudden alterations of fluid and electrolyte balance may precipitate hepatic coma. In these patients, diuresis with DEMADEX (or any other diuretic) is best initiated in the hospital. To prevent hypokalemia and metabolic alkalosis, an aldosterone antagonist or potassium-sparing drug should be used concomitantly with DEMADEX.
+
+Ototoxicity
+Tinnitus and hearing loss (usually reversible) have been observed after rapid intravenous injection of other loop diuretics and have also been observed after oral DEMADEX. It is not certain that these events were attributable to DEMADEX. Ototoxicity has also been seen in animal studies when very high plasma levels of torsemide were induced.
+
+Volume and Electrolyte Depletion
+Patients receiving diuretics should be observed for clinical evidence of electrolyte imbalance, hypovolemia, or prerenal azotemia. Symptoms of these disturbances may include one or more of the following: dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, nausea, and vomiting. Excessive diuresis may cause dehydration, blood-volume reduction, and possibly thrombosis and embolism, especially in elderly patients. In patients who develop fluid and electrolyte imbalances, hypovolemia, or prerenal azotemia, the observed laboratory changes may include hyper- or hyponatremia, hyper- or hypochloremia, hyper- or hypokalemia, acid-base abnormalities, and increased blood urea nitrogen (BUN). If any of these occur, DEMADEX should be discontinued until the situation is corrected; DEMADEX may be restarted at a lower dose.
+
+In controlled studies in the United States, DEMADEX was administered to hypertensive patients at doses of 5 mg or 10 mg daily. After 6 weeks at these doses, the mean decrease in serum potassium was approximately 0.1 mEq/L. The percentage of patients who had a serum potassium level below 3.5 mEq/L at any time during the studies was essentially the same in patients who received DEMADEX (1.5%) as in those who received placebo (3%). In patients followed for 1 year, there was no further change in mean serum potassium levels. In patients with congestive heart failure, hepatic cirrhosis, or renal disease treated with DEMADEX at doses higher than those studied in United States antihypertensive trials, hypokalemia was observed with greater frequency, in a dose-related manner.
+
+In patients with cardiovascular disease, especially those receiving digitalis glycosides, diuretic-induced hypokalemia may be a risk factor for the development of arrhythmias. The risk of hypokalemia is greatest in patients with cirrhosis of the liver, in patients experiencing a brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes, and in patients receiving concomitant therapy with corticosteroids or ACTH.
+
+Periodic monitoring of serum potassium and other electrolytes is advised in patients treated with DEMADEX.
+
+PRECAUTIONS
+
+Laboratory Values
+
+Potassium: See WARNINGS
+
+Calcium
+Single doses of DEMADEX increased the urinary excretion of calcium by normal subjects, but serum calcium levels were slightly increased in 4- to 6-week hypertension trials. In a long-term study of patients with congestive heart failure, the average 1-year change in serum calcium was a decrease of 0.10 mg/dL (0.02 mmol/L). Among 426 patients treated with DEMADEX for an average of 11 months, hypocalcemia was not reported as an adverse event.
+
+Magnesium
+Single doses of DEMADEX caused healthy volunteers to increase their urinary excretion of magnesium, but serum magnesium levels were slightly increased in 4- to 6-week hypertension trials. In long-term hypertension studies, the average 1-year change in serum magnesium was an increase of 0.03 mg/dL (0.01 mmol/L). Among 426 patients treated with DEMADEX for an average of 11 months, one case of hypomagnesemia (1.3 mg/dL [0.53 mmol/L]) was reported as an adverse event.
+
+In a long-term clinical study of DEMADEX in patients with congestive heart failure, the estimated annual change in serum magnesium was an increase of 0.2 mg/dL (0.08 mmol/L), but these data are confounded by the fact that many of these patients received magnesium supplements. In a 4-week study in which magnesium supplementation was not given, the rate of occurrence of serum magnesium levels below 1.7 mg/dL (0.70 mmol/L) was 6% and 9% in the groups receiving 5 mg and 10 mg of DEMADEX, respectively.
+
+Blood Urea Nitrogen (BUN), Creatinine and Uric Acid
+DEMADEX produces small dose-related increases in each of these laboratory values. In hypertensive patients who received 10 mg of DEMADEX daily for 6 weeks, the mean increase in blood urea nitrogen was 1.8 mg/dL (0.6 mmol/L), the mean increase in serum creatinine was 0.05 mg/dL (4 mmol/L), and the mean increase in serum uric acid was 1.2 mg/dL (70 mmol/L). Little further change occurred with long-term treatment, and all changes reversed when treatment was discontinued.
+
+Symptomatic gout has been reported in patients receiving DEMADEX, but its incidence has been similar to that seen in patients receiving placebo.
+
+Glucose
+Hypertensive patients who received 10 mg of daily DEMADEX experienced a mean increase in serum glucose concentration of 5.5 mg/dL (0.3 mmol/L) after 6 weeks of therapy, with a further increase of 1.8 mg/dL (0.1 mmol/L) during the subsequent year. In long-term studies in diabetics, mean fasting glucose values were not significantly changed from baseline. Cases of hyperglycemia have been reported but are uncommon.
+
+Serum Lipids
+In the controlled short-term hypertension studies in the United States, daily doses of 5 mg, 10 mg, and 20 mg of DEMADEX were associated with increases in total plasma cholesterol of 4, 4, and 8 mg/dL (0.10 to 0.20 mmol/L), respectively. The changes subsided during chronic therapy.
+
+In the same short-term hypertension studies, daily doses of 5 mg, 10 mg and 20 mg of DEMADEX were associated with mean increases in plasma triglycerides of 16, 13 and 71 mg/dL (0.15 to 0.80 mmol/L), respectively.
+
+In long-term studies of 5 mg to 20 mg of DEMADEX daily, no clinically significant differences from baseline lipid values were observed after 1 year of therapy.
+
+Other
+In long-term studies in hypertensive patients, DEMADEX has been associated with small mean decreases in hemoglobin, hematocrit, and erythrocyte count and small mean increases in white blood cell count, platelet count, and serum alkaline phosphatase. Although statistically significant, all of these changes were medically inconsequential. No significant trends have been observed in any liver enzyme tests other than alkaline phosphatase.
+
+Drug Interactions
+
+In patients with essential hypertension, DEMADEX has been administered together with beta-blockers, ACE inhibitors, and calcium-channel blockers. In patients with congestive heart failure, DEMADEX has been administered together with digitalis glycosides, ACE inhibitors, and organic nitrates. None of these combined uses was associated with new or unexpected adverse events.
+
+Torsemide does not affect the protein binding of glyburide or of warfarin, the anticoagulant effect of phenprocoumon (a related coumarin derivative), or the pharmacokinetics of digoxin or carvedilol (a vasodilator/beta-blocker). In healthy subjects, coadministration of DEMADEX was associated with significant reduction in the renal clearance of spironolactone, with corresponding increases in the AUC. However, clinical experience indicates that dosage adjustment of either agent is not required.
+
+Because DEMADEX and salicylates compete for secretion by renal tubules, patients receiving high doses of salicylates may experience salicylate toxicity when DEMADEX is concomitantly administered. Also, although possible interactions between torsemide and nonsteroidal anti-inflammatory agents (including aspirin) have not been studied, coadministration of these agents with another loop diuretic (furosemide) has occasionally been associated with renal dysfunction.
+
+The natriuretic effect of DEMADEX (like that of many other diuretics) is partially inhibited by the concomitant administration of indomethacin. This effect has been demonstrated for DEMADEX under conditions of dietary sodium restriction (50 mEq/day) but not in the presence of normal sodium intake (150 mEq/day).
+
+The pharmacokinetic profile and diuretic activity of torsemide are not altered by cimetidine or spironolactone. Coadministration of digoxin is reported to increase the area under the curve for torsemide by 50%, but dose adjustment of DEMADEX is not necessary.
+
+Concomitant use of torsemide and cholestyramine has not been studied in humans but, in a study in animals, coadministration of cholestyramine decreased the absorption of orally administered torsemide. If DEMADEX and cholestyramine are used concomitantly, simultaneous administration is not recommended.
+
+Coadministration of probenecid reduces secretion of DEMADEX into the proximal tubule and thereby decreases the diuretic activity of DEMADEX.
+
+Other diuretics are known to reduce the renal clearance of lithium, inducing a high risk of lithium toxicity, so coadministration of lithium and diuretics should be undertaken with great caution, if at all. Coadministration of lithium and DEMADEX has not been studied.
+
+Other diuretics have been reported to increase the ototoxic potential of aminoglycoside antibiotics and of ethacrynic acid, especially in the presence of impaired renal function. These potential interactions with DEMADEX have not been studied.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No overall increase in tumor incidence was found when torsemide was given to rats and mice throughout their lives at doses up to 9 mg/kg/day (rats) and 32 mg/kg/day (mice). On a body-weight basis, these doses are 27 to 96 times a human dose of 20 mg; on a body-surface-area basis, they are 5 to 8 times this dose. In the rat study, the high-dose female group demonstrated renal tubular injury, interstitial inflammation, and a statistically significant increase in renal adenomas and carcinomas. The tumor incidence in this group was, however, not much higher than the incidence sometimes seen in historical controls. Similar signs of chronic non-neoplastic renal injury have been reported in high-dose animal studies of other diuretics such as furosemide and hydrochlorothiazide.
+
+No mutagenic activity was detected in any of a variety of in vivo and in vitro tests of torsemide and its major human metabolite. The tests included the Ames test in bacteria (with and without metabolic activation), tests for chromosome aberrations and sister-chromatid exchanges in human lymphocytes, tests for various nuclear anomalies in cells found in hamster and murine bone marrow, tests for unscheduled DNA synthesis in mice and rats, and others.
+
+In doses up to 25 mg/kg/day (75 times a human dose of 20 mg on a body-weight basis; 13 times this dose on a body-surface-area basis), torsemide had no adverse effect on the reproductive performance of male or female rats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

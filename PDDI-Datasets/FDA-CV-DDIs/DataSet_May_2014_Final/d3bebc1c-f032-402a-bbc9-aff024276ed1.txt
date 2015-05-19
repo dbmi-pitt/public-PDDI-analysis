@@ -1,0 +1,61 @@
+Drug Label for drug brand Ventavis, containing iloprost.
+
+
+4. CONTRAINDICATIONS
+
+
+None
+None (4)
+
+
+5. WARNINGS AND PRECAUTIONS
+
+Ventavis solution should not be allowed to come into contact with the skin or eyes, oral ingestion of Ventavis solution should be avoided.
+ <list>
+ <item>
+ <item>Hypotension leading to syncope has been observed. Ventavis should not be administered in patients with systolic blood pressure below 85 mmHg (5.1).
+ <item>
+ <item>Pulmonary venous hypertension: Discontinue if pulmonary edema is present (5.2).
+ <item>
+ <item>May cause bronchospasm: Patients with a history of hyperreactive airway disease may be more sensitive (5.3).
+ <item>
+ </list>
+
+
+5.1 Risk of Syncope
+
+Monitor vital signs while initiating Ventavis. Do not initiate Ventavis in patients with systolic blood pressure below 85 mmHg. Syncope can also occur in association with pulmonary arterial hypertension, particularly in association with physical exertion. The occurrence of exertional syncope may reflect a therapeutic gap or insufficient efficacy, and the need to adjust dose or change therapy should be considered.
+
+5.2 Pulmonary Venous Hypertension
+
+Should signs of pulmonary edema occur when inhaled Ventavis is administered in patients with pulmonary hypertension, stop treatment immediately, as this may be a sign of pulmonary venous hypertension.
+
+5.3 Bronchospasm
+
+Ventavis inhalation can induce bronchospasm. Bronchospasm may be more severe or frequent in patients with a history of hyperreactive airways. Ventavis has not been evaluated in patients with chronic obstructive pulmonary disease (COPD), severe asthma, or with acute pulmonary infections.
+
+
+7. DRUG INTERACTIONS
+
+During clinical trials, iloprost was used concurrently with anticoagulants, diuretics, cardiac glycosides, calcium channel blockers, analgesics, antipyretics, nonsteroidal anti-inflammatory drugs, corticosteroids, and other medications. Intravenous infusion of iloprost had no effect on the pharmacokinetics of digoxin. Acetylsalicylic acid did not alter the clearance (pharmacokinetics) of iloprost.
+ <list>
+ <item>
+ <item>Ventavis has the potential to increase the hypotensive effect of vasodilators and antihypertensive agents (7.2).
+ <item>
+ <item>There is a potential for increased risk of bleeding, particularly in patients maintained on anticoagulants (7.3).
+ <item>
+ </list>
+
+
+7.1 Cytochrome P450
+
+Although clinical studies have not been conducted with Ventavis (inhaled iloprost), in vitro studies of iloprost indicate that no relevant inhibition of cytochrome P450 drug metabolism would be expected.
+
+7.2 Antihypertensives and Vasodilators
+
+In studies in normal subjects, there was no pharmacodynamic interaction between intravenous iloprost and either nifedipine, diltiazem, or captopril. However, Ventavis has the potential to increase the hypotensive effect of vasodilators and antihypertensive agents.
+
+7.3 Anticoagulants and Platelet Inhibitors
+
+Since Ventavis inhibits platelet function, there is a potential for increased risk of bleeding, particularly in patients maintained on anticoagulants or platelet inhibitors.
+

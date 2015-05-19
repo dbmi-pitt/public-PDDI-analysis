@@ -1,0 +1,45 @@
+Drug Label for drug brand Trental, containing pentoxifylline.
+
+
+CONTRAINDICATIONS
+
+
+TRENTAL should not be used in patients with recent cerebral and/or retinal hemorrhage or in patients who have previously exhibited intolerance to this product or methylxanthines such as caffeine, theophylline, and theobromine.
+
+
+PRECAUTIONS
+
+
+General
+
+At the first sign of anaphylactic/anaphylactoid reaction, TRENTAL must be discontinued.
+Patients with chronic occlusive arterial disease of the limbs frequently show other manifestations of arteriosclerotic disease. TRENTAL has been used safely for treatment of peripheral arterial disease in patients with concurrent coronary artery and cerebrovascular diseases, but there have been occasional reports of angina, hypotension, and arrhythmia. Controlled trials do not show that TRENTAL causes such adverse effects more often than placebo, but, as it is a methylxanthine derivative, it is possible some individuals will experience such responses. Patients on Warfarin should have more frequent monitoring of prothrombin times, while patients with other risk factors complicated by hemorrhage (e.g., recent surgery, peptic ulceration, cerebral and/or retinal bleeding) should have periodic examinations for bleeding including, hematocrit and/or hemoglobin.
+
+Drug Interactions
+
+Although a causal relationship has not been established, there have been reports of bleeding and/or prolonged prothrombin time in patients treated with TRENTAL with and without anticoagulants or platelet aggregation inhibitors. Patients on Warfarin should have more frequent monitoring of prothrombin times, while patients with other risk factors complicated by hemorrhage (e.g., recent surgery, peptic ulceration) should have periodic examinations for bleeding including hematocrit and/or hemoglobin.
+Concomitant administration of TRENTAL and theophylline-containing drugs leads to increased theophylline levels and theophylline toxicity in some individuals. Such patients should be closely monitored for signs of toxicity and have their theophylline dosage adjusted as necessary.
+TRENTAL has been used concurrently with beta blockers, digitalis, diuretics, antidiabetic agents, and antiarrhythmics, without observed problems. Small decreases in blood pressure have been observed in some patients treated with TRENTAL plus nifedipine or captopril, periodic systemic blood pressure monitoring is recommended for patients receiving concomitant antihypertensive therapy. If indicated, dosage of the antihypertensive agents should be reduced.
+Postmarketing cases of increased anticoagulant activity have been reported in patients concomitantly treated with pentoxifylline and vitamin K antagonists. Monitoring of anticoagulant activity in these patients is recommended when pentoxifylline is introduced or the dose is changed.
+
+Carcinogenesis, Mutagenesis and Impairment of Fertility
+
+Long-term studies of the carcinogenic potential of pentoxifylline were conducted in mice and rats by dietary administration of the drug at doses up to 450 mg/kg (approximately 19 times the maximum recommended human daily dose (MRHD) in both species when based on body weight, 1.5 times the MRHD in the mouse and 3.3 times the MRHD in the rat when based on body surface area). In mice, the drug was administered for 18 months, whereas in rats, the drug was administered for 18 months followed by an additional 6 months without drug exposure. In the rat study, there was a statistically significant increase in benign mammary fibroadenomas in females of the 450 mg/kg group. The relevance of this finding to human use is uncertain. Pentoxifylline was devoid of mutagenic activity in various strains of Salmonella (Ames test) and in cultured mammalian cells (unscheduled DNA synthesis test) when tested in the presence and absence of metabolic activation. It was also negative in the in vivo mouse micronucleus test.
+
+Pregnancy
+
+Category C. Teratogenicity studies have been performed in rats and rabbits using oral doses up to 576 and 264 mg/kg, respectively. On a weight basis, these doses are 24 and 11 times the maximum recommended human daily dose (MRHD), on a body-surface-area basis, they are 4.2 and 3.5 times the MRHD. No evidence of fetal malformation was observed. Increased resorption was seen in rats of the 576 mg/kg group. There are no adequate and well controlled studies in pregnant women. TRENTAL (pentoxifylline) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nursing Mothers
+
+Pentoxifylline and its metabolites are excreted in human milk. Because of the potential for tumorigenicity shown for pentoxifylline in rats, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of TRENTAL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+The active metabolite is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+

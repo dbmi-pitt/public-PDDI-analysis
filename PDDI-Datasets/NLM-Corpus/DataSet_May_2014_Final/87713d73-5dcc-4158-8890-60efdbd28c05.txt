@@ -1,0 +1,112 @@
+Drug Label for drug brand Vaprisol, containing conivaptan hydrochloride.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+
+<list>
+<item>
+<item>Loading Dose: 20 mg IV administered over 30 minutes (2.1), followed by
+<item>
+<item>Continuous infusion: 20 mg per day over 24 hours for 2 to 4 days (2.1).
+<item>
+<item>Following initial day of treatment, dosage may be increased to 40 mg/day continuous infusion as needed to raise serum sodium (2.1).
+<item>
+<item>Monitor volume status and serum sodium frequently and discontinue if patient develops hypovolemia, hypotension or an undesirably rapid rate of rise of serum sodium (2.1, 5.2).
+<item>
+<item>Hepatic impairment: Decrease the dose in patients with moderate hepatic impairment (8.6, 12.3)
+<item>
+</list>
+VAPRISOL is for intravenous use only.
+VAPRISOL is for use in hospitalized patients only.
+Administer VAPRISOL through large veins and change of the infusion site every 24 hours to minimize the risk of vascular irritation see Warnings and Precautions (5.5).
+Initiate with a loading dose of 20 mg IV administered over 30 minutes.
+Follow the loading dose with 20 mg of VAPRISOL administered in a continuous intravenous infusion over 24 hours. After the initial day of treatment, administer VAPRISOL for an additional 1 to 3 days in a continuous infusion of 20 mg/day. If serum sodium is not rising at the desired rate, VAPRISOL may be titrated upward to a dose of 40 mg daily, administered in a continuous intravenous infusion.
+The total duration of infusion of VAPRISOL (after the loading dose) should not exceed four days. The maximum daily dose of VAPRISOL (after the loading dose) is 40 mg/day.
+Patients receiving VAPRISOL must have frequent monitoring of serum sodium and volume status. An overly rapid rise in serum sodium ( 12 mEq/L/24 hours) may result in serious neurologic sequelae. For patients who develop an undesirably rapid rate of rise of serum sodium, VAPRISOL should be discontinued, and serum sodium and neurologic status should be carefully monitored. If the serum sodium continues to rise, VAPRISOL should not be resumed. If hyponatremia persists or recurs, and the patient has had no evidence of neurologic sequelae of rapid rise in serum sodium, VAPRISOL may be resumed at a reduced dose see Warnings and Precautions (5.2). For patients who develop hypovolemia or hypotension while receiving VAPRISOL, VAPRISOL should be discontinued, and volume status and vital signs should be frequently monitored. Once the patient is again euvolemic and is no longer hypotensive, VAPRISOL may be resumed at a reduced dose if the patient remains hyponatremic.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If particulate matter, discoloration or cloudiness is observed, the drug solution should not be used.
+VAPRISOL is supplied in a single-use 100 mL flexible INTRAVIA Container containing a sterile premixed dilute, ready-to-use, nonpyrogenic solution of conivaptan hydrochloride, 0.2 mg per mL (20 mg/100 mL) in 5% Dextrose. NO FURTHER DILUTION OF THIS PREPARATION IS NECESSARY.
+VAPRISOL is compatible with 5% Dextrose Injection. VAPRISOL is physically and chemically compatible with 0.9% Sodium Chloride Injection for up to 48 hours when the two solutions are co-administered via a Y-site connection at a flow rate for VAPRISOL of 4.2 mL/hour and at flow rates for 0.9% Sodium Chloride Injection of either 2.1 mL/hour or 6.3 mL/hour.
+VAPRISOL has been shown to be incompatible with both Lactated Ringer's Injection and furosemide injection when these products are mixed in the same container, therefore, do not combine VAPRISOL with these products in the same intravenous line or container.
+VAPRISOL should also not be combined with any other product in the same intravenous line or container..
+Loading Dose
+Administer the content of a 20 mg/100 mL VAPRISOL flexible plastic container over 30 minutes..
+Continuous Infusion
+For patients requiring 20 mg VAPRISOL injection per day, administer the content of one 20 mg/100 mL VAPRISOL flexible plastic container over 24 hours.
+For patients requiring 40 mg VAPRISOL injection per day, administer the content of two consecutive 20 mg/100 mL VAPRISOL flexible plastic containers over 24 hours.
+Since the flexible container is for single-use only, any unused portion should be discarded.
+CAUTION : Do not use plastic containers in series connections. Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
+Do not remove container from overwrap until ready for use. The overwrap is a moisture and light barrier. The inner container maintains the sterility of the product.
+Tear overwrap down side at slit and remove solution container. Some opacity of the plastic due to moisture absorption during the sterilization process may be observed. This is normal and does not affect the solution quality or safety. The opacity will diminish gradually. After removing overwrap, check for minute leaks by squeezing inner container firmly. If leaks are found, discard solution as sterility may be impaired. Do not use if the solution is cloudy or a precipitate is present.
+DO NOT ADD SUPPLEMENTARY MEDICATION.
+Preparation for Administration:
+<list>
+<item>
+<item>Suspend container from eyelet support.
+<item>
+<item>Remove protector from outlet port at bottom of container.
+<item>
+<item>Attach administration set. Refer to complete directions accompanying set.
+<item>
+</list>
+In patients with moderate hepatic impairment, initiate VAPRISOL with a loading dose of 10 mg over 30 minutes followed by 10 mg per day as a continuous infusion for 2 to 4 days. If serum sodium is not rising at the desired rate, VAPRISOL may be titrated upward to 20 mg per day see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3).
+
+CONTRAINDICATIONS SECTION
+
+<list>
+<item>
+<item>Hypovolemic hyponatremia (4.1).
+<item>
+<item>Coadministration with potent CYP3A inhibitors (4.2, 5.3, 7.1).
+<item>
+<item>Anuria: no benefit can be expected (4.3).
+<item>
+<item>Known allergy to corn or corn products (4.4).
+<item>
+</list>
+VAPRISOL is contraindicated in patients with hypovolemic hyponatremia.
+The coadministration of VAPRISOL with potent CYP3A inhibitors, such as ketoconazole, itraconazole, clarithromycin, ritonavir, and indinavir, is contraindicated see Drug Interactions (7.1).
+In patients unable to make urine, no benefit can be expected see Clinical Pharmacology (12.3).
+Solutions containing dextrose are contraindicated in patients with known allergy to corn or corn products.
+
+WARNINGS AND PRECAUTIONS SECTION
+
+<list>
+<item>
+<item>Hypervolemic hyponatremia associated with heart failure : Data are limited. Consider other treatment options (5.1, 6.1).
+<item>
+<item>Overly rapid correction of serum sodium : Monitor serum sodium and neurologic status as serious neurologic sequelae can result from over rapid correction of serum sodium (2.1, 5.2).
+<item>
+<item>Infusion site reactions : Serious reactions have occurred. Administer through large veins and change infusion site every 24 hours (2.1, 5.5, 6).
+<item>
+</list>
+The amount of safety data on the use of VAPRISOL in patients with hypervolemic hyponatremia associated with heart failure is limited. VAPRISOL should be used to raise serum sodium in such patients only after consideration of other treatment options see Adverse Reactions (6.1).
+Osmotic demyelination syndrome is a risk associated with overly rapid correction of hyponatremia (i.e., 12 mEq/L/24 hours). Osmotic demyelination results in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma or death. In susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, use slower rates of correction. In controlled clinical trials of VAPRISOL, about 9% of patients who received VAPRISOL in doses of 20-40 mg/day IV had rises of serum sodium 12 mEq/L/24 hours, but none of these patients had evidence of osmotic demyelination or permanent neurologic sequelae. Serum sodium concentration and neurologic status should be monitored appropriately during VAPRISOL administration, and VAPRISOL administration should be discontinued if the patient develops an undesirably rapid rate of rise of serum sodium. If the serum sodium concentration continues to rise, VAPRISOL should not be resumed. If hyponatremia persists or recurs (after initial discontinuation of VAPRISOL for an undesirably rapid rate of rise of serum sodium concentration), and the patient has had no evidence of neurologic sequelae of rapid rise in serum sodium, VAPRISOL may be resumed at a reduced dose see Dosage and Administration (2.1).
+In clinical trials of oral conivaptan, two cases of rhabdomyolysis occurred in patients who were also receiving a CYP3A-metabolized HMG-CoA reductase inhibitor. Avoid concomitant use of VAPRISOL with drugs eliminated primarily by CYP3A-mediated metabolism. Subsequent treatment with CYP3A substrate drugs may be initiated no sooner than 1 week after the infusion of VAPRISOL is completed see Drug Interactions (7.1).
+Coadministration of digoxin with oral conivaptan resulted in a 1.8- and 1.4-fold increase in digoxin Cmax and AUC, respectively. Monitor digoxin levels see Drug Interactions (7.2).
+Infusion site reactions are common and can include serious reactions, even with proper infusion rates see Adverse Reactions (6.1). Administer VAPRISOL via large veins, and rotate the infusion site every 24 hours see Dosage and Administration (2.1).
+
+DRUG INTERACTIONS SECTION
+
+<list>
+<item>
+<item>Potent CYP3A inhibitors may increase the exposure of conivaptan and are contraindicated (4.2, 7.1).
+<item>
+<item>Generally avoid CYP3A substrates (5.3, 7.1).
+<item>
+<item>Exposure to coadministered digoxin may be increased and digoxin levels should be monitored (5.4, 7.2).
+<item>
+</list>
+Conivaptan is a sensitive substrate of CYP3A. The effect of ketoconazole, a potent CYP3A inhibitor, on the pharmacokinetics of intravenous conivaptan has not been evaluated. Coadministration of oral conivaptan hydrochloride 10 mg with ketoconazole 200 mg resulted in 4- and 11-fold increases in Cmax and AUC of conivaptan, respectively see Contraindications (4.2).
+Conivaptan is a potent mechanism-based inhibitor of CYP3A. The effect of conivaptan on the pharmacokinetics of co-administered CYP3A substrates has been evaluated with the coadministration of conivaptan with midazolam, simvastatin, and amlodipine. VAPRISOL 40 mg/day increased the mean AUC values by approximately 2- and 3-fold for 1 mg intravenous or 2 mg oral doses of midazolam, respectively. VAPRISOL 30 mg/day resulted in a 3-fold increase in the AUC of simvastatin. Oral conivaptan hydrochloride 40 mg twice daily resulted in a 2-fold increase in the AUC and half-life of amlodipine see Warnings and Precautions (5.3).
+Coadministration of a 0.5 mg dose of digoxin, a P-glycoprotein substrate, with oral conivaptan hydrochloride 40 mg twice daily resulted in a 30% reduction in clearance and 79% and 43% increases in digoxin Cmax and AUC values, respectively see Warnings and Precautions (5.4).
+VAPRISOL (40 mg/day for 4 days) administered with a single 25 mg dose of warfarin, which undergoes major metabolism by CYP2C9 and minor metabolism by CYP3A, increased the mean S-warfarin AUC and S-warfarin Cmax by 14% and 17%, respectively. The corresponding prothrombin time and international normalized ratio values were unchanged.
+The pharmacokinetics of oral conivaptan (20 - 40 mg/day) were unchanged with coadministration of either captopril 25 mg or furosemide up to 80 mg/day.
+
+DESCRIPTION SECTION
+
+<paragraph>
+<main>Conivaptan hydrochloride is chemically 1,1 -biphenyl -2-carboxamide, N - 4- (4,5-dihydro-2-methylimidazo 4,5-d 1 benzazepin-6(1H )-yl)carbonyl phenyl -, monohydrochloride, having a molecular weight of 535.04 and molecular formula C32H26N4O2 HCl. The structural formula of conivaptan hydrochloride is:
+<item>Conivaptan hydrochloride is a white to off-white or pale orange-white powder that is very slightly soluble in water (0.15 mg/mL at 23 C). Conivaptan hydrochloride injection is supplied as a sterile premixed solution with dextrose in a flexible plastic container.
+<item>Each container contains a clear, colorless, sterile, non-pyrogenic solution of conivaptan hydrochloride in dextrose. Each 100 mL, single-use premixed INTRAVIA Container contains 20 mg of conivaptan hydrochloride and 5 g of Dextrose Hydrous, USP. Lactic Acid, USP is added for pH adjustment to pH 3.4 to 3.8. The flexible plastic container is fabricated from a specially designed multilayer plastic (PL 2408). Solutions in contact with the plastic container leach out certain of the chemical components from the plastic in very small amounts, however, biological testing was supportive of the safety of the plastic container materials. The flexible container has a foil overwrap. Water can permeate the plastic into the overwrap, but the amount is insufficient to significantly affect the premixed solution.
+</paragraph>
+Formula Image

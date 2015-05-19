@@ -1,0 +1,59 @@
+Drug Label for drug brand DilacorXR, containing diltiazem hydrochloride.
+
+
+CONTRAINDICATIONS
+
+
+Diltiazem hydrochloride is contraindicated in: (1) patients with sick sinus syndrome except in the presence of a functioning ventricular pacemaker, (2) patients with second or third degree AV block except in the presence of a functioning ventricular pacemaker, (3) patients with hypotension (less than 90 mmHg systolic), (4) patients who have demonstrated hypersensitivity to the drug, and (5) patients with acute myocardial infarction and pulmonary congestion as documented by X-ray on admission.
+
+
+WARNINGS
+
+Cardiac Conduction: Diltiazem hydrochloride prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome. This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second, or third degree AV block (22 of 10,119 patients, or 0.2%), 41% of these 22 patients were receiving concomitant -adrenoceptor antagonists versus 17% of the total group. Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction. A patient with Prinzmetal s angina developed periods of asystole (2 to 5 seconds) after a single 60 mg dose of diltiazem.
+Congestive Heart Failure: Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dp/dt). An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction of 24% 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dp/dt). Worsening of congestive heart failure has been reported in patients with preexisting impairment of ventricular function. Experience with the use of diltiazem hydrochloride in combination with beta-blockers in patients with impaired ventricular function is limited. Caution should be exercised when using this combination.
+Hypotension: Decreases in blood pressure associated with diltiazem hydrochloride therapy may occasionally result in symptomatic hypotension.
+Acute Hepatic Injury: Mild elevations of serum transaminases with and without concomitant elevation in alkaline phosphatase and bilirubin have been observed in clinical studies. Such elevations were usually transient and frequently resolved even with continued diltiazem treatment. In rare instances, significant elevations in alkaline phoshatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted. These reactions tended to occur early after therapy initiation (1 to 6 weeks) and have been reversible upon discontinuation of drug therapy. The relationship to diltiazem is uncertain in some cases, but probable in some others. (See PRECAUTIONS.)
+
+
+PRECAUTIONS
+
+
+General:
+
+Diltiazem hydrochloride is extensively metabolized by the liver and is excreted by the kidneys and in bile. As with any drug given over prolonged periods, laboratory parameters should be monitored at regular intervals. The drug should be used with caution in patients with impaired renal or hepatic function. In subacute and chronic dog and rat studies designed to produce toxicity, high doses of diltiazem were associated with hepatic damage. In special subacute hepatic studies, oral doses of 125 mg/kg and higher in rats were associated with histological changes in the liver which were reversible when the drug was discontinued. In dogs, doses of 20 mg/kg were also associated with hepatic changes, however, these changes were reversible with continued dosing.
+Dermatological events (see ADVERSE REACTIONS ) may be transient and may disappear despite continued use of diltiazem hydrochloride. However, skin eruptions progressing to erythema multiforme and/or exfoliative dermatitis have also been infrequently reported. Should a dermatologic reaction persist, the drug should be discontinued.
+Although Dilacor XR utilizes a slowly disintegrating matrix, caution should still be used in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic). There have been no reports of obstructive symptoms in patients with known strictures in association with the ingestion of Dilacor XR.
+
+Information for Patients:
+
+Dilacor XR capsules should be taken on an empty stomach. Patients should be cautioned that the Dilacor XR capsules should not be opened, chewed or crushed, and should be swallowed whole.
+
+Drug Interactions:
+
+Due to the potential for additive effects, caution and careful titration are warranted in patients receiving diltiazem hydrochloride concomitantly with any agents known to affect cardiac contractility and/or conduction. (See WARNINGS.) Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with diltiazem hydrochloride. (See WARNINGS.) As with all drugs, care should be exercised when treating patients with multiple medications. Diltiazem hydrochloride undergoes biotransformation by cytochrome P-450 mixed function oxidase. Co-administration of diltiazem hydrochloride with other agents which follow the same route of biotransformation may result in the competitive inhibition of metabolism. Especially in patients with renal and/or hepatic impairment, dosages of similarly metabolized drugs, particularly those of low therapeutic ratio such as cyclosporine, may require adjustment when starting or stopping concomitantly administered diltiazem hydrochloride to maintain optimum therapeutic blood levels. Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated plasma levels of carbamazepine, resulting in toxicity in some cases.
+Beta-Blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem hydrochloride and beta-blockers is usually well-tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities. Administration of diltiazem hydrochloride concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and the bioavailability of propranolol was increased approximately 50%. If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted. (See WARNINGS.)
+Cimetidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and area-under-the-curve (53%) after a 1 week course of cimetidine at 1,200 mg per day and diltiazem 60 mg per day. Ranitidine produced smaller, nonsignificant increases. The effect may be mediated by cimetidine s known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem. Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine. An adjustment in the diltiazem dose may be warranted.
+Clonidine: Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with diltiazem. Monitor heart rate in patients receiving concomitant diltiazem and clonidine.
+Digitalis: Administration of diltiazem hydrochloride with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%. Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease. Since there have been conflicting results regarding the effects of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing diltiazem hydrochloride therapy to avoid possible over- or under-digitalization. (See WARNINGS.)
+Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers. When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.
+Statins: Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins. The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem. When possible, use a non-CYP3A4-metabolized statin with diltiazem, otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+In a healthy volunteer cross-over study (N 10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg twice daily diltiazem SR resulted in a 5-fold higher mean simvastatin AUC compared with simvastatin alone. High average steady-state exposures of diltiazem would result in a greater increase in simvastatin exposure. A daily dose of 480 mg of diltiazem would be expected to result in an 8-fold higher mean simvastatin AUC compared with simvastatin alone. If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg twice daily diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold higher mean lovastatin AUC and Cmax values compared with lovastatin alone. In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem co-administration.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+A 24-month study in rats and an 18-month study in mice showed no evidence of carcinogenicity. There was also no mutagenic response in vitro or in vivo in mammalian cell assays or in vitro in bacteria. No evidence of impaired fertility was observed in male or female rats at oral doses of up to 100 mg/kg/day.
+
+Pregnancy:
+
+Category C: Reproduction studies have been conducted in mice, rats, and rabbits. Administration of doses ranging from 4 to 6 times (depending on species) the upper limit of the optimum dosage range in clinical trials (480 mg once daily or 8 mg/kg once daily for a 60 kg patient) has resulted in embryo and fetal lethality. These studies have revealed, in one species or another, a propensity to cause abnormalities of the skeleton, heart, retina, and tongue. Also observed were reductions in early individual pup weights and pup survival, prolonged delivery, and increased incidence of stillbirths.
+There are no well-controlled studies in pregnant women, therefore, use diltiazem hydrochloride in pregnant women only if the potential benefit justifies the potential risk to the fetus.
+
+Nursing Mothers:
+
+Diltiazem is excreted in human milk. One report suggests that concentrations in breast milk may approximate serum levels. If use of diltiazem hydrochloride is deemed essential, an alternate method of infant feeding should be instituted.
+
+Pediatric Use:
+
+Safety and effectiveness in pediatric patients have not been established.
+

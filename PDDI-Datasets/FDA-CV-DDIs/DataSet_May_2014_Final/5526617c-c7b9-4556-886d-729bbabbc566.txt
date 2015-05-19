@@ -1,0 +1,145 @@
+Drug Label for drug brand SAMSCA, containing tolvaptan.
+
+
+WARNING: INITIATE AND RE-INITIATE IN A HOSPITAL AND MONITOR SERUM SODIUM
+
+
+SAMSCA should be initiated and re-initiated in patients only in a hospital where serum sodium can be monitored closely.
+Too rapid correction of hyponatremia (e.g., 12 mEq/L/24 hours) can cause osmotic demyelination resulting in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma and death. In susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, slower rates of correction may be advisable.
+WARNING: INITIATE AND RE-INITIATE IN A HOSPITAL AND MONITOR SERUM SODIUM
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>SAMSCA should be initiated and re-initiated in patients only in a hospital where serum sodium can be monitored closely.
+ <item>
+ <item>Too rapid correction of hyponatremia (e.g., 12 mEq/L/24 hours) can cause osmotic demyelination resulting in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma and death. In susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, slower rates of correction may be advisable.
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+ <paragraph>
+ <main>SAMSCA is contraindicated in the following conditions:
+ </paragraph>
+ <list>
+ <item>
+ <item>Need to raise serum sodium acutely (4.1)
+ <item>
+ <item>Patients who are unable to respond appropriately to thirst (4.2)
+ <item>
+ <item>Hypovolemic hyponatremia (4.3)
+ <item>
+ <item>Concomitant use of strong CYP 3A inhibitors (4.4)
+ <item>
+ <item>Anuria (4.5)
+ <item>
+ </list>
+
+
+4.1 Urgent need to raise serum sodium acutely
+
+SAMSCA has not been studied in a setting of urgent need to raise serum sodium acutely.
+
+4.2 Inability of the patient to sense or appropriately respond to thirst
+
+Patients who are unable to auto-regulate fluid balance are at substantially increased risk of incurring an overly rapid correction of serum sodium, hypernatremia and hypovolemia.
+
+4.3 Hypovolemic hyponatremia
+
+Risks associated with worsening hypovolemia, including complications such as hypotension and renal failure, outweigh possible benefits.
+
+4.4 Concomitant use of strong CYP 3A inhibitors
+
+Ketoconazole 200 mg administered with tolvaptan increased tolvaptan exposure by 5 fold. Larger doses would be expected to produce larger increases in tolvaptan exposure. There is not adequate experience to define the dose adjustment that would be needed to allow safe use of tolvaptan with strong CYP 3A inhibitors such as clarithromycin, ketoconazole, itraconazole, ritonavir, indinavir, nelfinavir, saquinavir, nefazodone, and telithromycin.
+
+4.5 Anuric patients
+
+In patients unable to make urine, no clinical benefit can be expected.
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Liver injury: Limit treatment duration to 30 days. If hepatic injury is suspected, discontinue SAMSCA. Avoid use in patients with underlying liver disease. (5.2)
+ <item>
+ <item>Dehydration and hypovolemia may require intervention (5.3)
+ <item>
+ <item>Avoid use with hypertonic saline (5.4)
+ <item>
+ <item>Avoid use with CYP 3A inducers and moderate CYP 3A inhibitors (5.5)
+ <item>
+ <item>Consider dose reduction if co-administered with P-gp inhibitors (5.5)
+ <item>
+ <item>Monitor serum potassium in patients with potassium 5 mEq/L or on drugs known to increase potassium (5.6)
+ <item>
+ </list>
+
+
+5.1 Too Rapid Correction of Serum Sodium Can Cause Serious Neurologic Sequelae
+
+(see BOXED WARNING)
+Osmotic demyelination syndrome is a risk associated with too rapid correction of hyponatremia (e.g., 12 mEq/L/24 hours). Osmotic demyelination results in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma or death. In susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, slower rates of correction may be advisable. In controlled clinical trials in which tolvaptan was administered in titrated doses starting at 15 mg once daily, 7% of tolvaptan-treated subjects with a serum sodium 130 mEq/L had an increase in serum sodium greater than 8 mEq/L at approximately 8 hours and 2% had an increase greater than 12 mEq/L at 24 hours. Approximately 1% of placebo-treated subjects with a serum sodium 130 mEq/L had a rise greater than 8 mEq/L at 8 hours and no patient had a rise greater than 12 mEq/L/24 hours. Osmotic demyelination syndrome has been reported in association with SAMSCA therapy see Adverse Reactions (6.2). Patients treated with SAMSCA should be monitored to assess serum sodium concentrations and neurologic status, especially during initiation and after titration. Subjects with SIADH or very low baseline serum sodium concentrations may be at greater risk for too-rapid correction of serum sodium. In patients receiving SAMSCA who develop too rapid a rise in serum sodium, discontinue or interrupt treatment with SAMSCA and consider administration of hypotonic fluid. Fluid restriction during the first 24 hours of therapy with SAMSCA may increase the likelihood of overly-rapid correction of serum sodium, and should generally be avoided.
+
+5.2 Liver Injury
+
+SAMSCA can cause serious and potentially fatal liver injury. In a placebo-controlled and open label extension study of chronically administered tolvaptan in patients with autosomal dominant polycystic kidney disease, cases of serious liver injury attributed to tolvaptan were observed. An increased incidence of ALT greater than three times the upper limit of normal was associated with tolvaptan (42/958 or 4.4%) compared to placebo (5/484 or 1.0%). Cases of serious liver injury were generally observed starting 3 months after initiation of tolvaptan although elevations of ALT occurred prior to 3 months.
+Patients with symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice should discontinue treatment with SAMSCA.
+Limit duration of therapy with SAMSCA to 30 days. Avoid use in patients with underlying liver disease, including cirrhosis, because the ability to recover from liver injury may be impaired see Adverse Reactions (6.1).
+
+5.3 Dehydration and Hypovolemia
+
+SAMSCA therapy induces copious aquaresis, which is normally partially offset by fluid intake. Dehydration and hypovolemia can occur, especially in potentially volume-depleted patients receiving diuretics or those who are fluid restricted. In multiple-dose, placebo-controlled trials in which 607 hyponatremic patients were treated with tolvaptan, the incidence of dehydration was 3.3% for tolvaptan and 1.5% for placebo-treated patients. In patients receiving SAMSCA who develop medically significant signs or symptoms of hypovolemia, interrupt or discontinue SAMSCA therapy and provide supportive care with careful management of vital signs, fluid balance and electrolytes. Fluid restriction during therapy with SAMSCA may increase the risk of dehydration and hypovolemia. Patients receiving SAMSCA should continue ingestion of fluid in response to thirst.
+
+5.4 Co-administration with Hypertonic Saline
+
+Concomitant use with hypertonic saline is not recommended.
+
+5.5 Drug Interactions
+
+Other Drugs Affecting Exposure to Tolvaptan
+CYP 3A Inhibitors
+Tolvaptan is a substrate of CYP 3A. CYP 3A inhibitors can lead to a marked increase in tolvaptan concentrations see Dosage and Administration (2.3), Drug Interactions (7.1). Do not use SAMSCA with strong inhibitors of CYP 3A see Contraindications (4.4) and avoid concomitant use with moderate CYP 3A inhibitors.
+CYP 3A Inducers
+Avoid co-administration of CYP 3A inducers (e.g., rifampin, rifabutin, rifapentin, barbiturates, phenytoin, carbamazepine, St. John's Wort) with SAMSCA, as this can lead to a reduction in the plasma concentration of tolvaptan and decreased effectiveness of SAMSCA treatment. If co-administered with CYP 3A inducers, the dose of SAMSCA may need to be increased see Dosage and Administration (2.3), Drug Interactions (7.1).
+P-gp Inhibitors
+The dose of SAMSCA may have to be reduced when SAMSCA is co-administered with P-gp inhibitors, e.g., cyclosporine see Dosage and Administration (2.3), Drug Interactions (7.1).
+
+5.6 Hyperkalemia or Drugs that Increase Serum Potassium
+
+Treatment with tolvaptan is associated with an acute reduction of the extracellular fluid volume which could result in increased serum potassium. Serum potassium levels should be monitored after initiation of tolvaptan treatment in patients with a serum potassium 5 mEq/L as well as those who are receiving drugs known to increase serum potassium levels.
+
+
+7 DRUG INTERACTIONS
+
+
+7.1 Effects of Drugs on Tolvaptan
+
+Ketoconazole and Other Strong CYP 3A Inhibitors
+SAMSCA is metabolized primarily by CYP 3A. Ketoconazole is a strong inhibitor of CYP 3A and also an inhibitor of P-gp. Co-administration of SAMSCA and ketoconazole 200 mg daily results in a 5 fold increase in exposure to tolvaptan. Co-administration of SAMSCA with 400 mg ketoconazole daily or with other strong CYP 3A inhibitors (e.g., clarithromycin, itraconazole, telithromycin, saquinavir, nelfinavir, ritonavir and nefazodone) at the highest labeled dose would be expected to cause an even greater increase in tolvaptan exposure. Thus, SAMSCA and strong CYP 3A inhibitors should not be co-administered see Dosage and Administration (2.3) and Contraindications (4.4).
+Moderate CYP 3A Inhibitors
+The impact of moderate CYP 3A inhibitors (e.g., erythromycin, fluconazole, aprepitant, diltiazem and verapamil) on the exposure to co-administered tolvaptan has not been assessed. A substantial increase in the exposure to tolvaptan would be expected when SAMSCA is co-administered with moderate CYP 3A inhibitors. Co-administration of SAMSCA with moderate CYP3A inhibitors should therefore generally be avoided see Dosage and Administration (2.3) and Warnings and Precautions (5.5).
+Grapefruit Juice
+Co-administration of grapefruit juice and SAMSCA results in a 1.8 fold increase in exposure to tolvaptan see Dose and Administration (2.3) and Warnings and Precautions (5.5).
+P-gp Inhibitors
+Reduction in the dose of SAMSCA may be required in patients concomitantly treated with P-gp inhibitors, such as e.g., cyclosporine, based on clinical response see Dose and Administration (2.3) and Warnings and Precautions (5.5).
+Rifampin and Other CYP 3A Inducers
+Rifampin is an inducer of CYP 3A and P-gp. Co-administration of rifampin and SAMSCA reduces exposure to tolvaptan by 85%. Therefore, the expected clinical effects of SAMSCA in the presence of rifampin and other inducers (e.g., rifabutin, rifapentin, barbiturates, phenytoin, carbamazepine and St. John's Wort) may not be observed at the usual dose levels of SAMSCA. The dose of SAMSCA may have to be increased Dosage and Administration (2.3) and Warnings and Precautions (5.5).
+Lovastatin, Digoxin, Furosemide, and Hydrochlorothiazide
+Co-administration of lovastatin, digoxin, furosemide, and hydrochlorothiazide with SAMSCA has no clinically relevant impact on the exposure to tolvaptan.
+
+7.2 Effects of Tolvaptan on Other Drugs
+
+Digoxin
+Digoxin is a P-gp substrate. Co-administration of SAMSCA with digoxin increased digoxin AUC by 20% and Cmax by 30%.
+Warfarin, Amiodarone, Furosemide, and Hydrochlorothiazide
+Co-administration of tolvaptan does not appear to alter the pharmacokinetics of warfarin, furosemide, hydrochlorothiazide, or amiodarone (or its active metabolite, desethylamiodarone) to a clinically significant degree.
+Lovastatin
+SAMSCA is a weak inhibitor of CYP 3A. Co-administration of lovastatin and SAMSCA increases the exposure to lovastatin and its active metabolite lovastatin- hydroxyacid by factors of 1.4 and 1.3, respectively. This is not a clinically relevant change.
+Pharmacodynamic Interactions
+Tolvaptan produces a greater 24 hour urine volume/excretion rate than does furosemide or hydrochlorothiazide. Concomitant administration of tolvaptan with furosemide or hydrochlorothiazide results in a 24 hour urine volume/excretion rate that is similar to the rate after tolvaptan administration alone.
+Although specific interaction studies were not performed, in clinical studies tolvaptan was used concomitantly with beta-blockers, angiotensin receptor blockers, angiotensin converting enzyme inhibitors and potassium sparing diuretics. Adverse reactions of hyperkalemia were approximately 1-2% higher when tolvaptan was administered with angiotensin receptor blockers, angiotensin converting enzyme inhibitors and potassium sparing diuretics compared to administration of these medications with placebo. Serum potassium levels should be monitored during concomitant drug therapy.
+As a V2-receptor antagonist, tolvaptan may interfere with the V2-agonist activity of desmopressin (dDAVP). In a male subject with mild Von Willebrand (vW) disease, intravenous infusion of dDAVP 2 hours after administration of oral tolvaptan did not produce the expected increases in vW Factor Antigen or Factor VIII activity. It is not recommended to administer SAMSCA with a V2-agonist.
+

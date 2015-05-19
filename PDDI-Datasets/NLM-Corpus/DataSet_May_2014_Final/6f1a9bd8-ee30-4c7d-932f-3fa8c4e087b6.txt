@@ -1,0 +1,112 @@
+CADUET (amlodipine besylate and atorvastatin calcium) tablet, film coated
+
+CADUET (amlodipine and atorvastatin) is indicated in patients for whom treatment with both amlodipine and atorvastatin is appropriate.
+
+2 DOSAGE AND ADMINISTRATION
+
+CADUET
+
+Dosage of CADUET must be individualized on the basis of both effectiveness and tolerance for each individual component in the treatment of hypertension/angina and hyperlipidemia. Select doses of amlodipine and atorvastatin independently.
+
+CADUET may be substituted for its individually titrated components. Patients may be given the equivalent dose of CADUET or a dose of CADUET with increased amounts of amlodipine, atorvastatin, or both for additional antianginal effects, blood pressure lowering, or lipid-lowering effect.
+
+CADUET may be used to provide additional therapy for patients already on one of its components. CADUET may be used to initiate treatment in patients with hyperlipidemia and either hypertension or angina.
+
+Amlodipine
+
+The usual initial antihypertensive oral dose of amlodipine is 5 mg once daily, and the maximum dose is 10 mg once daily.
+
+Pediatric (age > 6 years), small adult, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding amlodipine to other antihypertensive therapy.
+
+Adjust dosage according to blood pressure goals. In general, wait 7 to 14 days between titration steps. Titration may proceed more rapidly, however, if clinically warranted, provided the patient is assessed frequently.
+
+Angina: The recommended dose of amlodipine for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency. Most patients will require 10 mg for adequate effect.
+
+Coronary artery disease: The recommended dose range of amlodipine for patients with coronary artery disease is 5–10 mg once daily. In clinical studies, the majority of patients required 10 mg [see Clinical Studies (14.4)].
+
+Pediatrics: The effective antihypertensive oral dose of amlodipine in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily. Doses in excess of 5 mg daily have not been studied in pediatric patients [see Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+
+Atorvastatin (Hyperlipidemia)
+
+Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb): The recommended starting dose of atorvastatin is 10 or 20 mg once daily. Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily. The dosage range of atorvastatin is 10 to 80 mg once daily. Atorvastatin can be administered as a single dose at any time of the day, with or without food. The starting dose and maintenance doses of atorvastatin should be individualized according to patient characteristics such as goal of therapy and response (see current NCEP Guidelines). After initiation and/or upon titration of atorvastatin, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
+
+Homozygous Familial Hypercholesterolemia: The dosage range of atorvastatin in patients with homozygous FH is 10 to 80 mg daily. Atorvastatin should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
+
+Concomitant Lipid-Lowering Therapy: Atorvastatin may be used with bile acid resins. Monitor for signs of myopathy in patients receiving the combination of HMG-CoA reductase inhibitors (statins) and fibrates [see Warnings and Precautions (5.1), Drug Interactions (7)].
+
+Patients with Renal Impairment: Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+
+Use with Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors: In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), avoid therapy with atorvastatin . In patients with HIV taking lopinavir plus ritonavir, use the lowest necessary dose of atorvastatin. In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, limit therapy with atorvastatin to 20 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed. In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, limit therapy with atorvastatin to 40 mg, and make appropriate clinical assessment to ensure that the lowest dose necessary of atorvastatin is employed [see Warnings and Precautions (5.1), Drug Interactions (7.13)].
+
+Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10–17 years of age): The recommended starting dose of atorvastatin is 10 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population). Doses should be individualized according to the recommended goal of therapy [see current NCEP Pediatric Panel Guidelines 1, (References (15), Clinical Pharmacology (12), and Indications and Usage (1.4)]. Adjustments should be made at intervals of 4 weeks or more.
+
+4 CONTRAINDICATIONS
+
+4.1 Active Liver Disease
+
+Atorvastatin is contraindicated in patients with active liver disease, which may include unexplained persistent elevations in hepatic transaminase levels [see Warnings and Precautions 5.2 and Clinical Pharmacology 12.3].
+
+4.2 Pregnancy
+
+Atorvastatin is contraindicated in women who are pregnant or may become pregnant. Atorvastatin may cause fetal harm when administered to a pregnant woman. Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development. Atherosclerosis is a chronic process and discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia.
+
+There are no adequate and well-controlled studies of atorvastatin use during pregnancy; however, in rare reports congenital anomalies were observed following intrauterine exposure to statins. In rat and rabbit animal reproduction studies, atorvastatin revealed no evidence of teratogenicity. CADUET should be administered to women of childbearing age only when such patients are highly unlikely to conceive and have been informed of the potential hazard. If the patient becomes pregnant while taking this drug, therapy should be discontinued immediately and the patient apprised of the potential hazard to the fetus [see Specific Populations (8.1)].
+
+4.3 Nursing Mothers
+
+It is not known whether atorvastatin or amlodipine are excreted into human milk; however, a small amount of another statin does pass into breast milk. Because statins have the potential for serious adverse reactions in nursing infants, women taking CADUET should not breastfeed their infants [see Specific Populations (8.3)].
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Myopathy and Rhabdomyolysis
+
+Rare cases of rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with atorvastatin and with other drugs in this class. A history of renal impairment may be a risk factor for the development of rhabdomyolysis. Such patients merit closer monitoring for skeletal muscle effects.
+
+Atorvastatin, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values >10 times upper limit of normal [ULN]. The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong CYP3A4 inhibitors (e.g., clarithromycin, itraconazole, and HIV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use. IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
+
+Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, or marked elevation of CPK. Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing CADUET. CADUET therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+
+The risk of myopathy during treatment with statins is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, the hepatitis C protease inhibitor telaprevir, combinations of HIV protease inhibitors, including saquinavir plus ritonavir, lopinavir plus ritonavir, tipranavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, and fosamprenavir plus ritonavir, niacin, or azole antifungals. Physicians considering combined therapy with CADUET and fibric acid derivatives, erythromycin, clarithromycin, a combination of saquinavir plus ritonavir, lopinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug. Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7.13)]. Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
+
+Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.23)].
+
+Withhold or discontinue in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection; hypotension; major surgery; trauma; severe metabolic, endocrine, and electrolyte disorders; and uncontrolled seizures).
+
+5.2 Liver Dysfunction
+
+Statins, like atorvastatin, and some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function. Persistent elevations (>3 times the upper limit of normal [ULN] occurring on 2 or more occasions) in serum transaminases occurred in 0.7% of patients who received atorvastatin in clinical trials. The incidence of these abnormalities was 0.2%, 0.2%, 0.6%, and 2.3% for 10, 20, 40, and 80 mg, respectively.
+
+One patient in clinical trials with atorvastatin developed jaundice. Increases in liver function tests (LFT) in other patients were not associated with jaundice or other clinical signs or symptoms. Upon dose reduction, drug interruption, or discontinuation, transaminase levels returned to or near pretreatment levels without sequelae. Eighteen of 30 patients with persistent LFT elevations continued treatment with a reduced dose of atorvastatin.
+
+It is recommended that liver enzyme tests be obtained prior to initiating therapy with atorvastatin and repeated as clinically indicated. There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including atorvastatin. If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with CADUET, promptly interrupt therapy. If an alternate etiology is not found, do not restart CADUET.
+
+Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of CADUET [see Contraindications (4.1)].
+
+5.3 Increased Angina and Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.
+
+5.4 Hypotension
+
+Symptomatic hypotension is possible with use of amlodipine, particularly in patients with severe aortic stenosis. Because of the gradual onset of action, acute hypotension is unlikely.
+
+5.5 Endocrine Function
+
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including atorvastatin.
+
+Statins interfere with cholesterol synthesis and theoretically might blunt adrenal and/or gonadal steroid production. Clinical studies have shown that atorvastatin does not reduce basal plasma cortisol concentration or impair adrenal reserve. The effects of statins on male fertility have not been studied in adequate numbers of patients. The effects, if any, on the pituitary-gonadal axis in premenopausal women are unknown. Avoid a statin with drugs that may decrease the levels or activity of endogenous steroid hormones such as ketoconazole, spironolactone, and cimetidine.
+
+5.6 CNS Toxicity
+
+Brain hemorrhage was seen in a female dog treated with atorvastatin for 3 months at 120 mg/kg/day. Brain hemorrhage and optic nerve vacuolation were seen in another female dog that was sacrificed in moribund condition after 11 weeks of escalating doses up to 280 mg/kg/day. The 120 mg/kg dose resulted in a systemic exposure approximately 16 times the human plasma area-under-the-curve (AUC, 0–24 hours) based on the maximum human dose of 80 mg/day. A single tonic convulsion was seen in each of 2 male dogs (one treated at 10 mg/kg/day and one at 120 mg/kg/day) in a 2-year study. No CNS lesions have been observed in mice after chronic treatment for up to 2 years at doses up to 400 mg/kg/day or in rats at doses up to 100 mg/kg/day. These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0–24) based on the maximum recommended human dose of 80 mg/day.
+
+CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other statins. A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
+
+5.7 Hemorrhagic Stroke
+
+In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) study where atorvastatin 80 mg vs. placebo was administered in 4,731 subjects without CHD who had a stroke or TIA within the preceding 6 months, a higher incidence of hemorrhagic stroke was seen in the atorvastatin 80 mg group compared to placebo (55, 2.3% atorvastatin vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168). The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively). The incidence of non-fatal hemorrhagic stroke was significantly higher in the atorvastatin group (38, 1.6%) as compared to the placebo group (16, 0.7%). Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the atorvastatin group [see Adverse Reactions (6.1)].
+
+
+

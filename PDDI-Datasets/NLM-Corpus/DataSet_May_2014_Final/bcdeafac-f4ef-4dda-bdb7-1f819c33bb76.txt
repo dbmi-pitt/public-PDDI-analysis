@@ -1,0 +1,76 @@
+SULAR (nisoldipine) tablet, film coated, extended release
+
+SULAR (nisoldipine) is an extended release tablet dosage form of the dihydropyridine calcium channel blocker nisoldipine.
+
+CONTRAINDICATIONS
+
+SULAR is contraindicated in patients with known hypersensitivity to dihydropyridine calcium channel blockers.
+
+WARNINGS
+
+Increased angina and/or myocardial infarction in patients with coronary artery disease
+
+Rarely, patients, particularly those with severe obstructive coronary artery disease, have developed increased frequency, duration and/or severity of angina, or acute myocardial infarction on starting calcium channel blocker therapy or at the time of dosage increase. The mechanism of this effect has not been established. In controlled studies of SULAR in patients with angina this was seen about 1.5% of the time in patients given nisoldipine, compared with 0.9% in patients given placebo.
+
+PRECAUTIONS
+
+General
+
+Hypotension
+
+Because nisoldipine, like other vasodilators, decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of SULAR is recommended. Close observation is especially important for patients already taking medications that are known to lower blood pressure. Although in most patients the hypotensive effect of SULAR is modest and well tolerated, occasional patients have had excessive and poorly tolerated hypotension. These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment.
+
+Congestive Heart Failure
+
+Although acute hemodynamic studies of nisoldipine in patients with NYHA Class II-IV heart failure have not demonstrated negative inotropic effects, safety of SULAR in patients with heart failure has not been established. Caution therefore should be exercised when using SULAR in patients with heart failure or compromised ventricular function, particularly in combination with a beta-blocker.
+
+Patients with Hepatic Impairment
+
+Because nisoldipine is extensively metabolized by the liver and, in patients with cirrhosis, it reaches blood concentrations about 5 times those in normals, SULAR should be administered cautiously in patients with severe hepatic dysfunction (See DOSAGE AND ADMINISTRATION).
+
+Information for Patients
+
+SULAR is an extended release tablet and should be swallowed whole. Tablets should not be chewed, divided or crushed. SULAR should be taken on an empty stomach (1 hour before or 2 hours after a meal). Grapefruit juice, which has been shown to increase significantly the bioavailability of nisoldipine and other dihydropyridine type calcium channel blockers, should not be taken with SULAR.
+
+This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons. Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
+
+Laboratory Tests
+
+SULAR is not known to interfere with the interpretation of laboratory tests.
+
+Drug Interactions
+
+A 30 to 45% increase in AUC and Cmax of nisoldipine was observed with concomitant administration of cimetidine 400 mg twice daily. Ranitidine 150 mg twice daily did not interact significantly with nisoldipine (AUC was decreased by 15 - 20%). No pharmacodynamic effects of either histamine H2 receptor antagonist were observed.
+
+CYP3A4 inhibitors and inducers
+
+SULAR is substrate of CYP3A4 and coadministration of SULAR with any known inducer or inhibitor of CYP3A4 should be avoided in general.
+
+Coadministration of phenytoin with a dose bioequivalent to 34 mg SULAR tablets in epileptic patients lowered the nisoldipine plasma concentrations to undetectable levels. Coadministration of SULAR with phenytoin should be avoided and alternative antihypertensive therapy should be considered. Pharmacokinetic interactions between nisoldipine and beta-blockers (atenolol, propranolol) were variable and not significant. Propranolol attenuated the heart rate increase following administration of immediate release nisoldipine. The blood pressure effect of SULAR tended to be greater in patients on atenolol than in patients on no other antihypertensive therapy. Quinidine at 648 mg bid decreased the bioavailability (AUC) of nisoldipine by 26%, but not the peak concentration. Immediate release nisoldipine increased plasma quinidine concentrations by about 20%. This interaction was not accompanied by ECG changes and its clinical significance is not known. No significant interactions were found between nisoldipine and warfarin of digoxin.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Dietary administration of nisoldipine to male and female rats for up to 24 months (mean doses up to 82 and 111 mg/kg/day, 16 and 19 times the maximum recommended human dose [MRHD] on a mg/m2 basis, respectively and female mice for up to 21 months (mean doses of up to 217 mg/kg/day, 20 times the MRHD on a mg/m2 basis) revealed no evidence of tumorigenic effect of nisoldipine. In male mice receiving a mean dose of 163 mg nisoldipine/kg/day (16 times the MRHD of 60 mg/day on a mg/m2 basis), an increased frequency of stomach papilloma, but still within the historical range, was observed. No evidence of stomach neoplasia was observed at lower doses (up to 58 mg/kg/day). Nisoldipine was negative when tested in a battery of genotoxicity assays including the Ames test and the CHO/HGRPT assay for mutagenicity and the in vivo mouse micronucleus test and in vitro CHO cell test for clastogenicity.
+
+When administered to male and female rats at doses of up to 30 mg/kg/day (about 5 times the MRHD on a mg/m2 basis) nisoldipine had no effect on fertility.
+
+Pregnancy Category C
+
+Nisoldipine was neither teratogenic nor fetotoxic at doses that were not maternally toxic. Nisoldipine was fetotoxic but not teratogenic in rats and rabbits at doses resulting in maternal toxicity (reduced maternal body weight gain). In pregnant rats, increased fetal resorption (postimplantation loss) was observed at 100 mg/kg/day and decreased fetal weight was observed at both 30 and 100 mg/kg/day. These doses are, respectively, about 5 and 16 times the MRHD when compared on a mg/m2 basis. In pregnant rabbits, decreased fetal and placental weights were observed at a dose of 30 mg/kg/day, about 10 times the MRHD when compared on a mg/m2 basis. In a study in which pregnant monkeys (both treated and control) had high rates of abortion and mortality, the only surviving fetus from a group exposed to a maternal dose of 100 mg nisoldipine/kg/day (about 30 times the MRHD when compared on a mg/m2 basis) presented with forelimb and vertebral abnormalities not previously seen in control monkeys of the same strain. There are no adequate and well controlled studies in pregnant women. SULAR should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nursing Mothers
+
+It is not known whether nisoldipine is excreted in human milk. Because many drugs are excreted in human milk, a decision should be made to discontinue nursing, or to discontinue SULAR, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of nisoldipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Patients over 65 are expected to develop higher plasma concentrations of nisoldipine. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+DOSAGE AND ADMINISTRATION
+
+The dosage of SULAR must be adjusted to each patient's needs. Therapy usually should be initiated with 17 mg orally once daily, then increased by 8.5 mg per week or longer intervals, to attain adequate control of blood pressure. Usual maintenance dosage is 17 to 34 mg once daily. Blood pressure response increases over the 8.5 - 34 mg daily dose range but adverse event rates also increase. Doses beyond 34 mg once daily are not recommended. SULAR has been used safely with diuretics, ACE inhibitors, and beta-blocking agents. Patients over age 65, or patients with impaired liver function are expected to develop higher plasma concentrations of nisoldipine. Their blood pressure should be monitored closely during any dosage adjustment. A starting dose not exceeding 8.5 mg daily is recommended in these patient groups. SULAR tablets should be administered orally once daily. SULAR should be taken on an empty stomach (1 hour before or 2 hours after a meal). Grapefruit products should be avoided before and after dosing. SULAR is an extended release dosage form and tablets should be swallowed whole, not bitten, divided or crushed. 
+

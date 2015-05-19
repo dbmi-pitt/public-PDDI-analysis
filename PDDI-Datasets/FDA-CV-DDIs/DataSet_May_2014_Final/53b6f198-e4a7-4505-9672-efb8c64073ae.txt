@@ -1,0 +1,149 @@
+Drug Label for drug brand Triamterene and Hydrochlorothiazide, containing Triamterene and Hydrochlorothiazide.
+
+
+CONTRAINDICATIONS
+
+
+Hyperkalemia
+
+
+Triamterene and hydrochlorothiazide should not be used in the presence of elevated serum potassium levels (greater than or equal to 5.5 mEq/liter). If hyperkalemia develops, this drug should be discontinued and a thiazide alone should be substituted.
+
+Antikaliuretic Therapy or Potassium Supplementation
+
+Triamterene and hydrochlorothiazide should not be given to patients receiving other potassium-conserving agents such as spironolactone, amiloride hydrochloride or other formulations containing triamterene. Concomitant potassium supplementation in the form of medication, potassium-containing salt substitute or potassium-enriched diets should also not be used.
+
+Impaired Renal Function
+
+Triamterene and hydrochlorothiazide is contraindicated in patients with anuria, acute and chronic renal insufficiency or significant renal impairment.
+
+Hypersensitivity
+
+Triamterene and hydrochlorothiazide should not be used in patients who are hypersensitive to triamterene or hydrochlorothiazide or other sulfonamide-derived drugs.
+
+
+
+
+
+WARNINGS
+
+Hyperkalemia
+Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-conserving diuretic combinations, including triamterene and hydrochlorothiazide. Hyperkalemia is more likely to occur in patients with renal impairment, diabetes (even without evidence of renal impairment), or elderly or severely ill patients. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients first receiving triamterene and hydrochlorothiazide, when dosages are changed or with any illness that may influence renal function.
+If hyperkalemia is suspected, (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock) an electrocardiogram (ECG) should be obtained. However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
+If hyperkalemia is present, triamterene and hydrochlorothiazide should be discontinued immediately and a thiazide alone should be substituted. If the serum potassium exceeds 6.5 mEq/liter, more vigorous therapy is required. The clinical situation dictates the procedures to be employed. These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation. Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered. Persistent hyperkalemia may require dialysis.
+The development of hyperkalemia associated with potassium-sparing diuretics is accentuated in the presence of renal impairment (see CONTRAINDICATIONS). Patients with mild renal functional impairment should not receive this drug without frequent and continuing monitoring of serum electrolytes. Cumulative drug effects may be observed in patients with impaired renal function. The renal clearances of hydrochlorothiazide and the pharmacologically active metabolite of triamterene, the sulfate ester of hydroxytriamterene, have been shown to be reduced and the plasma levels increased following triamterene and hydrochlorothiazide administration to elderly patients and patients with impaired renal function.
+Hyperkalemia has been reported in diabetic patients with the use of potassium-conserving agents even in the absence of apparent renal impairment. Accordingly, triamterene and hydrochlorothiazide should be avoided in diabetic patients. If it is employed, serum electrolytes must be frequently monitored.
+Because of the potassium-sparing properties of angiotensin-converting enzyme (ACE) inhibitors, triamterene and hydrochlorothiazide should be used cautiously, if at all, with these agents (see PRECAUTIONS: Drug Interactions).
+
+Metabolic or Respiratory Acidosis
+
+Potassium-conserving therapy should also be avoided in severely ill patients in whom respiratory or metabolic acidosis may occur. Acidosis may be associated with rapid elevations in serum potassium levels. If triamterene and hydrochlorothiazide is employed, frequent evaluations of acid/base balance and serum electrolytes are necessary.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+
+PRECAUTIONS
+
+
+General
+
+
+Electrolyte Imbalance and BUN Increases
+
+Patients receiving triamterene and hydrochlorothiazide should be carefully monitored for fluid or electrolyte imbalances, i.e., hyponatremia, hypochloremic alkalosis, hypokalemia and hypomagnesemia. Determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals. Serum and urine electrolyte determinations are especially important and should be frequently performed when the patient is vomiting or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance include: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia and gastrointestinal disturbances such as nausea and vomiting.
+Any chloride deficit during thiazide therapy is generally mild and usually does not require any specific treatment except under extraordinary circumstances (as in liver disease or renal disease). Dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+Hypokalemia may develop with thiazide therapy, especially with brisk diuresis, when severe cirrhosis is present, or during concomitant use of corticosteroids, ACTH, amphotericin B or after prolonged thiazide therapy. However, hypokalemia of this type is usually prevented by the triamterene component of triamterene and hydrochlorothiazide.
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia can sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
+Triamterene and hydrochlorothiazide may produce an elevated blood urea nitrogen level (BUN), creatinine level or both. This is probably not the result of renal toxicity but is secondary to a reversible reduction of the glomerular filtration rate or a depletion of the intravascular fluid volume. Elevations in BUN and creatinine levels may be more frequent in patients receiving divided dose diuretic therapy. Periodic BUN and creatinine determinations should be made especially in elderly patients, patients with suspected or confirmed hepatic disease or renal insufficiencies. If azotemia increases, triamterene and hydrochlorothiazide should be discontinued.
+
+Hepatic Coma
+
+Triamterene and hydrochlorothiazide should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+
+Renal Stones
+
+Triamterene has been reported in renal stones in association with other calculus components. Triamterene and hydrochlorothiazide should be used with caution in patients with histories of renal lithiasis.
+
+Folic Acid Deficiency
+
+Triamterene is a weak folic acid antagonist and may contribute to the appearance of megaloblastosis in instances where folic acid stores are decreased. In such patients, periodic blood elevations are recommended.
+
+Hyperuricemia
+
+Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazide therapy.
+
+Metabolic and Endocrine Effects
+
+The thiazides may decrease serum PBI levels without signs of thyroid disturbance.
+Calcium excretion is decreased by thiazides. Pathological changes in the parathyroid gland with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy. The common complications of hyperparathyroidism such as renal lithiasis, bone resorption, and peptic ulceration have not been seen. Thiazides should be discontinued before carrying out tests for parathyroid function.
+Insulin requirements in diabetic patients may be increased, decreased or unchanged. Diabetes mellitus which has been latent may become manifest during thiazide administration.
+Sensitivity reactions to thiazides may occur in patients with or without a history of allergy or bronchial asthma.
+Possible exacerbation or activation of systemic lupus erythematosus by thiazides has been reported.
+
+Drug Interactions
+
+Thiazides may add to or potentiate the action of other antihypertensive drugs.
+The thiazides may decrease arterial responsiveness to norepinephrine. This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use. Thiazides have also been shown to increase the responsiveness to tubocurarine.
+Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity. Refer to the package insert on lithium before use of such concomitant therapy.
+Acute renal failure has been reported in a few patients receiving indomethacin and formulations containing triamterene and hydrochlorothiazide. Caution is therefore advised when administering non-steroidal anti-inflammatory agents with triamterene and hydrochlorothiazide.
+Potassium-sparing agents should be used very cautiously, if at all, in conjunction with angiotensin-converting enzyme (ACE) inhibitors due to a greatly increased risk of hyperkalemia. Serum potassium should be monitored frequently.
+
+Drug/Laboratory Test Interactions
+
+Triamterene and quinidine have similar fluorescence spectra, thus triamterene and hydrochlorothiazide may interfere with the measurement of quinidine.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+Carcinogenesis
+
+Long term studies with triamterene and hydrochlorothiazide have not been conducted.
+
+Triamterene
+
+In studies conducted under the auspices of the National Toxicology Program, groups of rats were fed diets containing 0, 150, 300 or 600 ppm triamterene, and groups of mice were fed diets containing 0, 100, 200 or 400 ppm triamterene. Male and female rats exposed to the highest tested concentration received triamterene at about 25 and 30 mg/kg/day, respectively. Male and female mice exposed to the highest tested concentration received triamterene at about 45 and 60 mg/kg/day, respectively.
+There was an increased incidence of hepatocellular neoplasia (primarily adenomas) in male and female mice at the highest dosage level. These doses represent 7.5 times and 10 times the MRHD of 300 mg/kg (or 6 mg/kg/day based on a 50 kg patient) for male and female mice, respectively when based on body-weight and 0.7 times and 0.9 times the MRHD when based on body-surface area. Although hepatocellular neoplasia (exclusively adenomas) in the rat study was limited to triamterene-exposed males, incidence was not dose dependent and there was no statistically significant difference from control incidence at any dose level.
+
+Hydrochlorothiazide
+
+Two-year feeding studies in mice and rats, conducted under the auspices of the National Toxicology Program (NTP), treated mice and rats with doses of hydrochlorothiazide up to 600 and 100 mg/kg/day, respectively. On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the Maximum Recommended Human Dose (MRHD) for hydrochlorothiazide (50 mg/day or 1 mg/kg/day based on a 50 kg patient). On the basis of body-surface area, these doses are 56 times (in mice) and 21 times (in rats) the MRHD. These studies uncovered no evidence of carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
+
+Mutagenesis
+
+Studies of the mutagenic potential of triamterene and hydrochlorothiazide have not been performed.
+Triamterene was not mutagenic in bacteria (S. typhimurium strains TA 98, TA 100, TA 1535 or TA 1537) with or without metabolic activation. It did not induce chromosomal aberrations in Chinese hamster ovary (CHO) cells in vitro with or without metabolic activation, but it did induce sister chromatid exchanges in CHO cells in vitro with and without metabolic activation.
+Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537 and TA 1538 of Salmonella typhimurium (the Ames test), in the Chinese hamster ovary (CHO) test for chromosomal aberrations, or in in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained in the in vitro CHO sister chromatid exchange (clastogenicity) test, and in the mouse lymphoma cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 mcg/mL. Positive test results were also obtained in the Aspergillus nidulans nondisjunction assay using an unspecified concentration of hydrochlorothiazide.
+
+Impairment of Fertility
+
+Studies of the effects of triamterene and hydrochlorothiazide or of triamterene alone on animal reproductive function have not been conducted.
+Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation. Corresponding multiples of the MRHD are 100 (mice) and 4 (rats) on the basis of body-weight and 9.4 (mice) and 0.8 (rats) on the basis of body-surface area.
+
+Pregnancy
+
+
+Teratogenic Effects. Category C
+
+
+Triamterene and Hydrochlorothiazide
+
+Animal reproduction studies to determine the potential for fetal harm by triamterene and hydrochlorothiazide have not been conducted. Nevertheless, a One Generation Study in the rat approximated triamterene and hydrochlorothiazide's composition by using a 1:1 ratio of triamterene to hydrochlorothiazide (30:30 mg/kg/day). There was no evidence of teratogenicity at those doses that were, on a body-weight basis, 15 and 30 times, respectively, the MRHD, and, on the basis of body-surface area, 3.1 and 6.2 times, respectively, the MRHD.
+The safe use of triamterene and hydrochlorothiazide in pregnancy has not been established since there are no adequate and well-controlled studies with triamterene and hydrochlorothiazide in pregnant women. Triamterene and hydrochlorothiazide should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
+Reproduction studies have been performed in rats at doses as high as 20 times the Maximum Recommended Human Dose (MRHD) on the basis of body-weight, and 6 times the MRHD on the basis of body-surface area without evidence of harm to the fetus due to triamterene.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3000 and 1000 mg/kg/day, respectively. At these doses, which are multiples of the MRHD equal to 3000 for mice and 1000 for rats, based on body-weight, and equal to 282 for mice and 206 for rats, based on body-surface area, there was no evidence of harm to the fetus. There are, however, no adequate and well controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+Nonteratogenic Effects
+
+Thiazides and triamterene have been shown to cross the placental barrier and appear in cord blood. The use of thiazides and triamterene in pregnant women requires that the anticipated benefits be weighed against possible hazards to the fetus. These hazards include fetal or neonatal jaundice, pancreatitis, thrombocytopenia, and possibly other adverse reactions that have occurred in the adult.
+
+Nursing Mothers
+
+Thiazides and triamterene in combination have not been studied in nursing mothers. Triamterene appears in animal milk and this may occur in humans. Thiazides are excreted in human breast milk. If use of the combination drug product is deemed essential, the patient should stop nursing.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+

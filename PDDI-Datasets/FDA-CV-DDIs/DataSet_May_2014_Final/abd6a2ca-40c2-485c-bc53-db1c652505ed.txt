@@ -1,0 +1,97 @@
+NORVASC (amlodipine besylate) tablet 
+
+4 CONTRAINDICATIONS
+
+NORVASC is contraindicated in patients with known sensitivity to amlodipine.
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Hypotension
+
+Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. Because of the gradual onset of action, acute hypotension is unlikely.
+
+5.2 Increased Angina or Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of NORVASC, particularly in patients with severe obstructive coronary artery disease.
+
+5.3 Patients with Hepatic Failure
+
+Because NORVASC is extensively metabolized by the liver and the plasma elimination half-life (t 1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering NORVASC to patients with severe hepatic impairment.
+
+7 DRUG INTERACTIONS
+
+7.1 In Vitro Data
+
+In vitro data indicate that NORVASC has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+7.2 Cimetidine
+
+Co-administration of NORVASC with cimetidine did not alter the pharmacokinetics of NORVASC.
+
+7.3 Grapefruit Juice
+
+Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+
+7.4 Magnesium and Aluminum Hydroxide Antacid
+
+Co-administration of a magnesium and aluminum hydroxide antacid with a single dose of NORVASC had no significant effect on the pharmacokinetics of NORVASC.
+
+7.5 Sildenafil
+
+A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of NORVASC. When NORVASC and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+
+7.6 Atorvastatin
+
+Co-administration of multiple 10 mg doses of NORVASC with 80 mg of atorvastatin resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.
+
+7.7 Simvastatin
+
+Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
+7.8 Digoxin
+
+Co-administration of NORVASC with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+
+7.9 Ethanol (Alcohol)
+
+Single and multiple 10 mg doses of NORVASC had no significant effect on the pharmacokinetics of ethanol.
+
+7.10 Warfarin
+
+Co-administration of NORVASC with warfarin did not change the warfarin prothrombin response time.
+
+7.11 CYP3A4 Inhibitors
+
+Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure. Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure. However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
+
+7.12 CYP3A4 Inducers
+
+No information is available on the quantitative effects of CYP3A4 inducers on amlodipine. Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
+
+7.13 Cyclosporine
+
+A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.
+
+7.14 Drug/Laboratory Test Interactions
+
+None known.
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 Adults
+
+The usual initial antihypertensive oral dose of NORVASC is 5 mg once daily, and the maximum dose is 10 mg once daily.
+
+Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding NORVASC to other antihypertensive therapy.
+
+Adjust dosage according to blood pressure goals. In general, wait 7 to 14 days between titration steps. Titrate more rapidly, however, if clinically warranted, provided the patient is assessed frequently.
+
+Angina: The recommended dose for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency. Most patients will require 10 mg for adequate effect.
+
+Coronary artery disease: The recommended dose range for patients with coronary artery disease is 5–10 mg once daily. In clinical studies, the majority of patients required 10 mg [see Clinical Studies (14.4)].
+
+2.2 Children
+
+The effective antihypertensive oral dose in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily. Doses in excess of 5 mg daily have not been studied in pediatric patients [see Clinical Pharmacology (12.4), Clinical Studies (14.1)].
+
+

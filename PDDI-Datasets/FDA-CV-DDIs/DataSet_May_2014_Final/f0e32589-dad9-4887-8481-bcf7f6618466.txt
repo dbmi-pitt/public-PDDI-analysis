@@ -1,0 +1,60 @@
+Drug Label for drug brand Adenocard, containing adenosine.
+
+
+Contraindications
+
+ <paragraph>
+ <main>Intravenous Adenocard (adenosine injection) is contraindicated in:
+ <item>
+ <item>Second- or third-degree A-V block (except in patients with a functioning artificial pacemaker).
+ <item>
+ <item>Sinus node disease, such as sick sinus syndrome or symptomatic bradycardia (except in patients with a functioning artificial pacemaker).
+ <item>
+ <item>Known hypersensitivity to adenosine.
+ <item>
+ </paragraph>
+
+
+Warnings
+
+
+Heart Block
+
+Adenocard (adenosine injection) exerts its effect by decreasing conduction through the A-V node and may produce a short lasting first-, second- or third-degree heart block. Appropriate therapy should be instituted as needed. Patients who develop high-level block on one dose of Adenocard should not be given additional doses. Because of the very short half-life of adenosine, these effects are generally self-limiting. Appropriate resuscitative measures should be available.
+Transient or prolonged episodes of asystole have been reported with fatal outcomes in some cases. Rarely, ventricular fibrillation has been reported following Adenocard administration, including both resuscitated and fatal events. In most instances, these cases were associated with the concomitant use of digoxin and, less frequently with digoxin and verapamil. Although no causal relationship or drug-drug interaction has been established, Adenocard should be used with caution in patients receiving digoxin or digoxin and verapamil in combination.
+
+Arrhythmias at Time of Conversion
+
+At the time of conversion to normal sinus rhythm, a variety of new rhythms may appear on the electrocardiogram. They generally last only a few seconds without intervention, and may take the form of premature ventricular contractions, atrial premature contractions, atrial fibrillation, sinus bradycardia, sinus tachycardia, skipped beats, and varying degrees of A-V nodal block. Such findings were seen in 55% of patients.
+
+Bronchoconstriction
+
+Adenocard (adenosine injection) is a respiratory stimulant (probably through activation of carotid body chemoreceptors) and intravenous administration in man has been shown to increase minute ventilation (Ve) and reduce arterial PCO2 causing respiratory alkalosis.
+Adenosine administered by inhalation has been reported to cause bronchoconstriction in asthmatic patients, presumably due to mast cell degranulation and histamine release. These effects have not been observed in normal subjects. Adenocard has been administered to a limited number of patients with asthma and mild to moderate exacerbation of their symptoms has been reported. Respiratory compromise has occurred during adenosine infusion in patients with obstructive pulmonary disease. Adenocard should be used with caution in patients with obstructive lung disease not associated with bronchoconstriction (e.g., emphysema, bronchitis, etc.) and should be avoided in patients with bronchoconstriction or bronchospasm (e.g., asthma). Adenocard should be discontinued in any patient who develops severe respiratory difficulties.
+
+
+Precautions
+
+
+Drug Interactions
+
+Intravenous Adenocard (adenosine injection) has been effectively administered in the presence of other cardioactive drugs, such as quinidine, beta-adrenergic blocking agents, calcium channel blocking agents, and angiotensin converting enzyme inhibitors, without any change in the adverse reaction profile. Digoxin and verapamil use may be rarely associated with ventricular fibrillation when combined with Adenocard (see Warnings ). Because of the potential for additive or synergistic depressant effects on the SA and AV nodes, however, Adenocard should be used with caution in the presence of these agents. The use of Adenocard in patients receiving digitalis may be rarely associated with ventricular fibrillation (see Warnings ).
+The effects of adenosine are antagonized by methylxanthines such as caffeine and theophylline. In the presence of these methylxanthines, larger doses of adenosine may be required or adenosine may not be effective. Adenosine effects are potentiated by dipyridamole. Thus, smaller doses of adenosine may be effective in the presence of dipyridamole. Carbamazepine has been reported to increase the degree of heart block produced by other agents. As the primary effect of adenosine is to decrease conduction through the A-V node, higher degrees of heart block may be produced in the presence of carbamazepine.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Studies in animals have not been performed to evaluate the carcinogenic potential of Adenocard (adenosine injection). Adenosine was negative for genotoxic potential in the Salmonella (Ames Test) and Mammalian Microsome Assay.
+Adenosine, however, like other nucleosides at millimolar concentrations present for several doubling times of cells in culture, is known to produce a variety of chromosomal alterations. Fertility studies in animals have not been conducted with adenosine.
+
+Pregnancy Category C
+
+Animal reproduction studies have not been conducted with adenosine, nor have studies been performed in pregnant women. As adenosine is a naturally occurring material, widely dispersed throughout the body, no fetal effects would be anticipated. However, since it is not known whether Adenocard can cause fetal harm when administered to pregnant women, Adenocard should be used during pregnancy only if clearly needed.
+
+Pediatric Use
+
+No controlled studies have been conducted in pediatric patients to establish the safety and efficacy of Adenocard for the conversion of paroxysmal supraventricular tachycardia (PSVT). However, intravenous adenosine has been used for the treatment of PSVT in neonates, infants, children and adolescents (see Dosage and Administration ).
+
+Geriatric Use
+
+Clinical studies of Adenocard did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, Adenocard in geriatric patients should be used with caution since this population may have a diminished cardiac function, nodal dysfunction, concomitant diseases or drug therapy that may alter hemodynamic function and produce severe bradycardia or AV block.
+

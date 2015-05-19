@@ -1,0 +1,211 @@
+UNIRETIC (moexipril hydrochloride and hydrochlorothiazide) tablet, film coated 
+
+DESCRIPTION
+
+uniretic (moexipril hydrochloride/hydrochlorothiazide) is a combination of an angiotensin-converting enzyme (ACE) inhibitor, moexipril hydrochloride, and a diuretic, hydrochlorothiazide. 
+
+WARNING: FETAL TOXICITY
+
+See full prescribing information for complete boxed warning.
+
+    When pregnancy is detected, discontinue uniretic as soon as possible.
+    Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See Warnings: Fetal Toxicity
+
+CONTRAINDICATIONS
+
+uniretic is contraindicated in patients who are hypersensitive to any component of this product and in patients with a history of angioedema related to previous treatment with an ACE inhibitor. Because of the hydrochlorothiazide component, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs. Hypersensitivity reactions are more likely to occur in patients with a history of allergy or bronchial asthma.
+
+Do not co-administer aliskiren with uniretic in patients with diabetes (see PRECATIONS, Drug Interactions).
+
+WARNINGS
+
+Anaphylactoid and Possibly Related Reactions
+
+Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors, including uniretic, may be subject to a variety of adverse reactions, some of them serious.
+
+Head and Neck Angioedema
+
+Angioedema involving the face, extremities, lips, tongue, glottis, and/or larynx has been reported in patients treated with ACE inhibitors, including moexipril. Symptoms suggestive of angioedema or facial edema occurred in <0.5% of moexipril-treated patients in placebo-controlled trials. None of the cases were considered life-threatening and all resolved either without treatment or with medication (antihistamines or glucocorticoids). One patient treated with hydrochlorothiazide alone experienced laryngeal edema. No instances of angioedema were reported in placebo-treated patients.
+
+In cases of angioedema, treatment with uniretic should be promptly discontinued and the patient carefully observed until the swelling disappears. In instances where swelling has been confined to the face and lips, the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
+
+Angioedema associated with involvement of the tongue, glottis, or larynx may be fatal due to airway obstruction. Appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 mL) and/or measures to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
+
+Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+Anaphylactoid Reactions During Desensitization
+
+Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions did not occur when ACE inhibitors were temporarily withheld, but they reappeared when the ACE inhibitors were inadvertently readministered.
+
+Anaphylactoid Reactions During Membrane Exposure
+
+Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+Hypotension
+
+uniretic can cause symptomatic hypotension, although, as with other ACE inhibitors, this is unusual in uncomplicated hypertensive patients treated with uniretic alone. Symptomatic hypotension is most likely to occur in patients who have been salt- and/or volume-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Volume- and/or salt-depletion should be corrected before initiating therapy with uniretic (see ADVERSE REACTIONS).
+
+The thiazide component of uniretic may potentiate the action of other antihypertensive drugs, especially ganglionic or peripheral adrenergic-blocking drugs. The antihypertensive effects of the thiazide component may also be enhanced in the postsympathectomy patient.
+
+In patients with congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria or progressive azotemia, and rarely, with acute renal failure and death. In these patients, uniretic therapy should be started under close medical supervision, and patients should be followed closely for the first two weeks of treatment and whenever the dose of uniretic is increased. Care in avoiding hypotension should also be taken in patients with ischemic heart disease, aortic stenosis, or cerebrovascular disease, in whom an excessive decrease in blood pressure could result in a myocardial infarction or a cerebrovascular accident.
+
+If hypotension occurs, the patient should be placed in a supine position and, if necessary, treated with an intravenous infusion of normal saline. uniretic treatment usually can be continued following restoration of blood pressure and volume.
+
+Impaired Renal Function
+
+uniretic should be used with caution in patients with severe renal disease. Thiazide diuretics may precipitate azotemia in such patients and the effects of repeated dosing may be cumulative.
+
+As a consequence of inhibition of the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. There is no clinical experience of uniretic in the treatment of hypertension in patients with renal failure.
+
+Some hypertensive patients with no apparent preexisting renal vascular disease have developed increases in blood urea nitrogen and serum creatinine, usually minor and transient, especially when moexipril has been given concomitantly with a thiazide diuretic. This is more likely to occur in patients with preexisting renal impairment. There may be a need for dose adjustment of uniretic. Evaluation of hypertensive patients should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
+
+In hypertensive patients with severe congestive heart failure, whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including moexipril, may be associated with oliguria and/or progressive azotemia and, rarely, acute renal failure and/or death.
+
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine have been observed in some patients following ACE inhibitor therapy. These increases were almost always reversible upon discontinuation of the ACE inhibitor and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+
+Neutropenia/Agranulocytosis
+
+Another ACE inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in patients with uncomplicated hypertension, but more frequently in hypertensive patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma. Although there were no instances of severe neutropenia (absolute neutrophil count <500/mm3) among patients given moexipril, as with other ACE inhibitors, monitoring of white blood cell counts should be considered for patients who have collagen-vascular disease, especially if the disease is associated with impaired renal function. Available data from clinical trials of moexipril are insufficient to show that moexipril does not cause agranulocytosis at rates similar to captopril.
+
+Fetal Toxicity
+
+Pregnancy category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydraminios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse events include skull hypoplasia, anuria, hypotension, renal failure and death. When pregnancy is detected, discontinue uniretic as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examinations to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue uniretic, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to uniretic for hypotension, oliguria, and hyperkalemia. (see PRECAUTIONS, Pediatric Use)
+
+Intrauterine exposure to thiazide diuretics is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+Reproduction studies with the combination of moexipril hydrochloride and hydrochlorothiazide (ratio 7.5:12.5) indicated that the combination possessed no teratogenic properties up to the lethal dose of 800 mg/kg/day in rats and up to the maternotoxic dose of 160 mg/kg/day in rabbits.
+
+Hepatic Failure
+
+Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and sometimes death. The mechanism of this syndrome is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE Inhibitor and receive appropriate medical follow-up.
+
+Impaired Hepatic Function
+
+uniretic should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma. In patients with mild to moderate cirrhosis given single 15 mg doses of moexipril, the Cmax of moexipril was increased by about 50% and the AUC increased by about 120%, while the Cmax for moexiprilat was decreased by about 50% and the AUC increased by almost 300%. No formal pharmacokinetic studies have been carried out with uniretic in hypertensive patients with impaired liver function.
+
+Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+PRECAUTIONS
+
+General
+
+Serum Electrolyte Imbalances
+
+In clinical trials with moexipril monotherapy, persistent hyperkalemia (serum potassium above 5.4 mEq/L) occurred in approximately 1.3% of hypertensive patients receiving moexipril. Risk factors for the development of hyperkalemia with ACE inhibitors include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes.
+
+Treatment with thiazide diuretics has been associated with hypokalemia, hyponatremia, and hypochloremic alkalosis. These disturbances sometimes manifest as one or more of the following: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, nausea, and vomiting. Hypokalemia has also been reported to sensitize or exaggerate the response of the heart to the toxic effects of digitalis. The risk of hypokalemia is greatest in patients with cirrhosis of the liver, in patients experiencing a brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes, and in patients receiving concomitant therapy with corticosteroids or ACTH.
+
+The opposite effects of moexipril and hydrochlorothiazide on serum potassium will approximately counterbalance each other in many patients, so that little net effect upon serum potassium will be seen. Initial and periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
+
+Chloride deficits generally are mild and require specific treatment only under extraordinary circumstances (e.g., in liver disease or renal disease). Dilutional hyponatremia may occur in edematous patients; appropriate therapy is water restriction rather than administration of salt, except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+
+Calcium excretion is reduced by thiazides. In a few patients on prolonged thiazide therapy, pathological changes in the parathyroid gland have been seen, with hypercalcemia and hypophosphatemia. More serious complications of hyperparathyroidism (renal lithiasis, bone resorption, and peptic ulceration) have not been seen. Thiazides enhance urinary excretion of magnesium and hypomagnesemia may result.
+
+Other Metabolic Disturbances
+
+Thiazide diuretics may reduce glucose tolerance and may raise serum levels of cholesterol, triglycerides, and uric acid. These effects are usually minor, but frank gout or overt diabetes may be precipitated in susceptible patients.
+
+Surgery/Anesthesia
+
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, moexipril may block the effects of compensatory renin release. If hypotension occurs in this setting and is considered to be due to this mechanism, it can be corrected by volume expansion.
+
+Cough
+
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough. In placebo-controlled trials with uniretic, cough was present in 3% of uniretic patients and 1% of patients given placebo.
+
+Drug Interactions
+
+Potassium Supplements and Potassium-Sparing Diuretics
+
+As noted above (Serum Electrolyte Imbalances), the net effect of uniretic may be to elevate a patient's serum potassium, to reduce it, or to leave it unchanged. Potassium-sparing diuretics (spironolactone, amiloride, triamterene) or potassium supplements can increase the risk of hyperkalemia. If concomitant use of such agents is indicated, they should be given with caution, and the patient's serum potassium should be monitored.
+
+Oral Anticoagulants
+
+Interaction studies with warfarin failed to identify any clinically important effect of moexipril monotherapy on the serum concentrations of the anticoagulant or on its anticoagulant effect.
+
+Lithium
+
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium. Because renal clearance of lithium is reduced by thiazides, the risk of lithium toxicity is presumably raised further when, as in therapy with uniretic, a thiazide diuretic is coadministered with the ACE inhibitor. These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.
+
+Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting, and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including uniretic.
+
+Alcohol, Barbiturates, or Narcotics
+
+Potentiation of orthostatic hypotension may occur in patients on thiazide diuretic therapy with concomitant use of alcohol, barbiturates, or narcotics.
+
+Antidiabetic Agents
+
+Use of thiazide diuretics concomitantly with antidiabetic agents (oral agents and insulin) may require dosage adjustment of the antidiabetic agent. Moexipril has been used in clinical trials concomitantly with oral hypoglycemic agents and there was no evidence of any clinically important adverse interactions.
+
+Cholestyramine and Colestipol Resins
+
+Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+
+Corticosteroids, ACTH
+
+Use of thiazide diuretics concomitantly with corticosteroids or ACTH may intensify electrolyte depletion, particularly hypokalemia.
+
+Pressor Amines
+
+Thiazide diuretics may decrease arterial responsiveness to pressor amines
+(e.g. norepinephrine), but not enough to preclude effectiveness of the pressor agent for therapeutic use.
+
+Skeletal Muscle Relaxants, Nondepolarizing
+
+Thiazide diuretics may increase the responsiveness to tubocurarine.
+
+Non-steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDS, including selective COX-2 inhibitors, with ACE inhibitors, including moexipril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving moexipril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors and hydrochlorothiazide, as well as the diuretic and natriuretic effects of hydrochlorothiazide, may be attenuated by NSAIDS.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on uniretic and other agents that affect the RAS.
+
+Do not co-administer aliskiren with uniretic in patients with diabetes. Avoid use of aliskiren with uniretic in patients with renal impairment (GFR <60 mL/min).
+
+Other Agents
+
+No clinically important pharmacokinetic interactions occurred when moexipril was administered concomitantly with digoxin or cimetidine.
+
+Moexipril has been used in clinical trials concomitantly with calcium-channel-blocking agents, diuretics, H2 blockers, digoxin, and cholesterol-lowering agents. There was no evidence of clinically important adverse interactions. In general, ACE inhibitors have less than additive effects with beta-adrenergic blockers, presumably because both work by inhibiting the renin-angiotensin system.
+
+Coadministration of propantheline or guanabenz increased the absorption of hydrochlorothiazide.
+
+DOSAGE AND ADMINISTRATION
+
+Moexipril and hydrochlorothiazide are effective treatments for hypertension. The recommended dosage range of moexipril is 7.5 to 30 mg daily, administered in a single or two divided doses one hour before meals, while hydrochlorothiazide is effective in a dosage of 12.5 to 50 mg daily.
+
+The side effects (see WARNINGS) of moexipril are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter. Therapy with any combination of moexipril and hydrochlorothiazide will be associated with both sets of dose-independent side effects, but regimens in which moexipril is combined with low doses of hydrochlorothiazide produce minimal effects on serum potassium. In uniretic controlled clinical trials, the average change in serum potassium was near zero in subjects who received 3.75 mg / 6.25 mg or 7.5 mg / 12.5 mg, but subjects who received 15 mg / 12.5 mg or 15 mg / 25 mg experienced a mild decrease in serum potassium, similar to that experienced by subjects who received the same dose of hydrochlorothiazide monotherapy. To minimize dose-independent side effects, it is usually appropriate to begin combination therapy only after a patient has failed to achieve the desired effect with monotherapy.
+
+Dose Titration Guided by Clinical Effect
+
+A patient whose blood pressure is not adequately controlled with either moexipril or hydrochlorothiazide monotherapy may be given uniretic 7.5 mg / 12.5 mg, uniretic 15 mg / 12.5 mg or uniretic 15 mg / 25 mg one hour before a meal. Further increases of moexipril, hydrochlorothiazide or both depend on clinical response. The hydrochlorothiazide dose should generally not be increased until 2-3 weeks have elapsed.
+
+Total daily doses above 30 mg / 50 mg a day have not been studied in hypertensive patients. Patients whose blood pressures are adequately controlled with 25 mg of hydrochlorothiazide daily, but who experience significant potassium loss with this regimen, may achieve blood pressure control without electrolyte disturbance if they are switched to moexipril 3.75 mg/hydrochlorothiazide 6.25 mg (one-half of the uniretic 7.5 mg / 12.5 tablet). For patients who experience an excessive reduction in blood pressure with uniretic 7.5 mg / 12.5 mg, the physician may consider prescribing moexipril 3.75 mg/hydrochlorothiazide 6.25 mg.
+
+Replacement Therapy
+
+The combination may be substituted for the titrated individual active ingredients.
+
+Use in Renal Impairment
+
+The usual dosage regimen of uniretic does not need to be adjusted as long as the patient's creatinine clearance is > 40 mL/min/1.73 m2 (serum creatinine approximately ≤ 3 mg/dL or 265 µmol/L). In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so uniretic is not recommended (see PRECAUTIONS, General).
+
+

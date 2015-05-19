@@ -1,0 +1,152 @@
+Drug Label for drug brand Verapamil Hydrochloride, containing verapamil hydrochloride.
+
+
+CONTRAINDICATIONS
+
+ <paragraph>
+ <main>Verapamil HCl is contraindicated in:
+ <item>
+ <item>Severe left ventricular dysfunction. (See WARNINGS. )
+ <item>
+ <item>Hypotension (less than 90 mm Hg systolic pressure) or cardiogenic shock.
+ <item>
+ <item>Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker).
+ <item>
+ <item>Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker).
+ <item>
+ <item>Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g., Wolff-Parkinson-White, Lown-Ganong-Levine syndromes). (See WARNINGS. )
+ <item>
+ <item>Patients with known hypersensitivity to erapamil hydrochloride.
+ <item>
+ </paragraph>
+
+
+WARNINGS
+
+
+Heart Failure
+
+Verapamil has a negative inotropic effect which, in most patients, is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance. In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema. Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30% or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker. (See DRUG INTERACTIONS. ) Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment (note interactions with digoxin under: PRECAUTIONS ).
+
+Hypotension
+
+Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels which may result in dizziness or symptomatic hypotension. The incidence of hypotension observed in 4,954 patients enrolled in clinical trials was 2.5%. In hypertensive patients, decreases in blood pressure below normal are unusual. Tilt table testing (60 degrees) was not able to induce orthostatic hypotension.
+
+Elevated Liver Enzymes
+
+Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported. Such elevations have sometimes been transient and may disappear even in the face of continued verapamil treatment. Several cases of hepatocellular injury related to verapamil have been proven by rechallenge, half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain) in addition to elevations of SGOT, SGPT and alkaline phosphatase. Periodic monitoring of liver function in patients receiving verapamil is therefore prudent.
+
+Accessory Bypass Tract (Wolff-Parkinson-White or Lown-Ganong-Levine)
+
+Some patients with paroxysmal and/or chronic atrial flutter or atrial fibrillation and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis). Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated. (See CONTRAINDICATIONS. )
+Treatment is usually DC-cardioversion. Cardioversion has been used safely and effectively after oral verapamil.
+
+Atrioventricular Block
+
+The effect of verapamil on AV conduction and the SA node may lead to asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms. PR interval prolongation is correlated with verapamil plasma concentrations, especially during the early titration phase of therapy. Higher degrees of AV block, however, were infrequently (0.8%) observed.
+Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil HCl and institution of appropriate therapy depending upon the clinical situation.
+
+Patients with Hypertrophic Cardiomyopathy (IHSS)
+
+In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen. Three patients died in pulmonary edema, all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction. Eight other patients had pulmonary edema and/or severe hypotension, abnormally high (over 20 mm Hg) capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients. Concomitant administration of quinidine (See Drug Interactions ) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema). Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2%. It must be appreciated that this group of patients had a serious disease with a high mortality rate. Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued.
+
+
+PRECAUTIONS
+
+THE CONTENTS OF THE VERAPAMIL HYDROCHLORIDE SUSTAINED-RELEASE CAPSULES SHOULD NOT BE CRUSHED OR CHEWED. VERAPAMIL HYDROCHLORIDE SUSTAINED-RELEASE CAPSULES ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE (See DOSAGE AND ADMINISTRATION ).
+
+General
+
+Use in Patients with Impaired Hepatic Function. Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function. Severe liver dysfunction prolongs the elimination half-life of immediate-release verapamil to about 14 to 16 hours, hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients. Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (See OVERDOSAGE ) should be carried out.
+Use in Patients with Attenuated (Decreased) Neuromuscular Transmission. It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne"s muscular dystrophy, and that verapamil prolongs recovery from the neuromuscular blocking agent vecuronium and causes a worsening of myasthenia gravis. It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission.
+Use in Patients with Impaired Renal Function. About 70% of an administered dose of verapamil is excreted as metabolites in the urine. Until further data are available, verapamil should be administered cautiously to patients with impaired renal function. These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage. (See OVERDOSAGE. )
+
+Information for Patients
+
+When the sprinkle method of administration is prescribed, details of the proper technique should be explained to the patient. (See DOSAGE AND ADMINISTRATION.)
+
+Drug-Drug Interactions
+
+
+Drug interactions: Effects of other drugs on verapamil pharmacokinetics
+
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, CYP3A4, CYP1A2, and CYP2C. Clinically significant interactions have been reported with inhibitors of CYP3A4 (eg, erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (eg, rifampin) have caused a lowering of plasma levels of verapamil. Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
+
+HMG-CoA Reductase Inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone. Limit the dose of simvastatin in patients on verapamil to 10 mg daily. Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+
+Beta Blockers
+
+Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility. The combination of sustained-release verapamil and beta-adrenergic blocking agents has not been studied. However, there have been reports of excess bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension.
+For hypertensive patients, the risk of combined therapy may outweigh the potential benefits. The combination should be used only with caution and close monitoring.
+Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil.
+A decrease in metoprolol clearance has been reported when verapamil and metoprolol were administered together. A similar effect has not been observed when verapamil and atenolol are given together.
+
+Clonidine
+
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil. Monitor heart rate in patients receiving concomitant verapamil and clonidine.
+
+Digitalis
+
+Consider reducing digoxin dose when verapamil and digoxin are to be given together. Monitor digoxin level periodically during therapy. Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity. In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified. Verapamil may reduce total body clearance and extrarenal clearance of digoxin by 27% and 29%, respectively. If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
+In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
+
+Antihypertensive Agents
+
+Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta blockers) will usually have an additive effect on lowering blood pressure. Patients receiving these combinations should be appropriately monitored. Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in reduction in blood pressure that is excessive in some patients. Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
+
+Antiarrhythmic Agents
+
+Disopyramide: Until data on possible interactions between verapamil and disopyramide phosphate are obtained, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.
+Flecainide: A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization. Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.
+Quinidine: In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension. Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided.. The electrophysiological effects of quinidine and verapamil on AV conduction were studied in 8 patients. Verapamil significantly counteracted the effects of quinidine on AV conduction. There has been a report of increased quinidine levels during verapamil therapy.
+Nitrates: Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions. The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
+Alcohol: Verapamil has been found to significantly inhibit ethanol elimination resulting in elevated blood ethanol concentrations that may prolong the intoxicating effects of alcohol. (See CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism.)
+
+Other
+
+Aspirin: In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
+Cimetidine: The interaction between cimetidine and chronically administered verapamil has not been studied. Variable results on clearance have been obtained in acute studies of healthy volunteers, clearance of verapamil was either reduced or unchanged.
+Grapefruit Juice: Grapefruit juice may significantly increase concentrations of verapamil. Grapefruit juice given to nine healthy volunteers increased S- and R- verapamil AUC0-12 by 36% and 28%, respectively. Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively with grapefruit juice compared to control. Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively. Grapefruit juice did not affect half-life, nor was there a significant change in AUC0-12 ratio R/S compared to control. Grapefruit juice did not cause a significant difference in the PK of norverapamil. This increase in verapamil plasma concentration is not expected to have any clinical consequences.
+Lithium: Pharmacokinetic and pharmacodynamic interactions between oral verapamil and lithium have been reported. The former may result in a lowering of serum lithium levels in patients receiving chronic stable oral lithium therapy. The latter may result in an increased sensitivity to the effects of lithium. Patients receiving both drugs must be monitored carefully.
+Carbamazepine: Verapamil therapy may increase carbamazepine concentrations during combined therapy. This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.
+Rifampin: Therapy with rifampin may markedly reduce oral verapamil bioavailability.
+Phenobarbital: Phenobarbital therapy may increase verapamil clearance.
+Cyclosporine: Verapamil therapy may increase serum levels of cyclosporine.
+Inhalation Anesthetics: Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions. When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should be titrated carefully to avoid excessive cardiovascular depression.
+Neuromuscular Blocking Agents: Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing). It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+An 18-month toxicity study in rats, at a low multiple (6 fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential. There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35 and 120 mg/kg per day or approximately 1x, 3.5x and 12x, respectively, the maximum recommended human daily dose (480 mg per day or 9.6 mg/kg/day).
+Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation.
+Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility. Effects on male fertility have not been determined.
+
+Pregnancy
+
+Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the maximum recommended human daily dose, respectively, and have revealed no evidence of teratogenicity. In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams. This oral dose has also been shown to cause hypotension in rats. There are no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery.
+
+Labor and Delivery
+
+It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention. Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil HCl in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor.
+
+Nursing Mothers
+
+Verapamil is excreted in human milk. Because of the potential for adverse reactions in nursing infants from verapamil, nursing should be discontinued while verapamil is administered.
+
+Pediatric Use
+
+Safety and efficacy of verapamil in children below the age of 18 years have not been established.
+
+Geriatric Use
+
+Clinical studies of verapamil did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Aging may affect the pharmacokinetics of verapamil. Elimination half-life may be prolonged in the elderly (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism ).
+Verapamil is highly metabolized by the liver, and about 70% of the administered dose is excreted as metabolites in the urine. Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered (See PRECAUTIONS, General ). In general, lower initial doses of Verapamil Hydrochloride Sustained-Release Capsules may be warranted in the elderly (See DOSAGE AND ADMINISTRATION ).
+
+Animal Pharmacology and/or Animal Toxicology
+
+In chronic animal toxicology studies verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not the rat. Development of cataracts due to verapamil has not been reported in man.
+

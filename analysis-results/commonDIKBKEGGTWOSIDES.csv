@@ -1,0 +1,18 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00850-http://bio2rdf.org/drugbank:DB00476    object:perphenazine precipitant: duloxetine 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00476    object:clozapine precipitant: duloxetine 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00734-http://bio2rdf.org/drugbank:DB01072    object:risperidone precipitant: atazanavir 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01238-http://bio2rdf.org/drugbank:DB01072    object:aripiprazole precipitant: atazanavir 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00897    object:triazolam precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00370-http://bio2rdf.org/drugbank:DB01072    object:mirtazapine precipitant: atazanavir 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB01238    object:aripiprazole precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00734-http://bio2rdf.org/drugbank:DB00476    object:risperidone precipitant: duloxetine 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01238-http://bio2rdf.org/drugbank:DB00476    object:aripiprazole precipitant: duloxetine 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00370-http://bio2rdf.org/drugbank:DB00582    object:mirtazapine precipitant: voriconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00404-http://bio2rdf.org/drugbank:DB01072    object:alprazolam precipitant: atazanavir 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00734-http://bio2rdf.org/drugbank:DB00285    object:risperidone precipitant: venlafaxine 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00370    object:mirtazapine precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00196    object:clozapine precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00897-http://bio2rdf.org/drugbank:DB00582    object:triazolam precipitant: voriconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00285    object:haloperidol precipitant: venlafaxine 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00683    object:midazolam precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Twosides Evidence: None 

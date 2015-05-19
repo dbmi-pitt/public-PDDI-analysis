@@ -1,0 +1,87 @@
+PRADAXA (dabigatran etexilate mesylate) capsule 
+
+The chemical name for dabigatran etexilate mesylate, a direct thrombin inhibitor, is β-Alanine, N-[[2-[[[4-[[[(hexyloxy)carbonyl]amino]iminomethyl] phenyl]amino]methyl]-1-methyl-1H-benzimidazol-5-yl]carbonyl]-N-2-pyridinyl-,ethyl ester, methanesulfonate. 
+
+CONTRAINDICATIONS
+
+PRADAXA is contraindicated in patients with:
+
+    Active pathological bleeding [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+    History of a serious hypersensitivity reaction to PRADAXA (e.g., anaphylactic reaction or anaphylactic shock) [see Adverse Reactions (6.1)].
+    Mechanical prosthetic heart valve [see Warnings and Precautions (5.3)]
+
+WARNINGS AND PRECAUTIONS
+
+5.1 Increased Risk of Stroke with Discontinuation of PRADAXA
+
+Discontinuing PRADAXA in absence of adequate alternative anticoagulation increases the risk of thrombotic events. If PRADAXA must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.6)].
+
+5.2 Risk of Bleeding
+
+PRADAXA increases the risk of bleeding and can cause significant and, sometimes, fatal bleeding. Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension). Discontinue PRADAXA in patients with active pathological bleeding [see Dosage and Administration (2.2)].
+
+Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs). PRADAXA’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
+
+A specific reversal agent for dabigatran is not available. Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)]. Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant Factor VIIa, or concentrates of coagulation factors II, IX or X may be considered but their use has not been evaluated in clinical trials. Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran. Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
+
+5.3  Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves
+
+The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of PRADAXA twice a day. RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm. These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment. Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves [see Contraindications (4)].
+
+The use of PRADAXA for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.
+
+5.4 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
+
+The concomitant use of PRADAXA with P-gp inducers (e.g. rifampin) reduces exposure to dabigatran and should generally be avoided [see Clinical Pharmacology (12.3)].
+
+P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)]. Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
+
+Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min). Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7) and Use in Specific Populations (8.6)].
+
+7 DRUG INTERACTIONS
+
+The concomitant use of PRADAXA with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided [see Clinical Pharmacology (12.3)].
+
+P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)]. Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
+
+In patients with moderate renal impairment (CrCl 30-50 mL/min), consider reducing the dose of PRADAXA to 75 mg twice daily when administered concomitantly with the P-gp inhibitor dronedarone or systemic ketoconazole. The use of P-gp inhibitors (verapamil, amiodarone, quinidine, and clarithromycin) does not require a dose adjustment of PRADAXA. These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+
+The concomitant use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+
+Impact of Other Drugs on Dabigatran
+
+P-gp Inducers
+
+Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively. By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+
+P-gp Inhibitors
+
+In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected. Any observed changes in Cmax and AUC are described below.
+
+Dronedarone: Simultaneous administration of dabigatran etexilate and dronedarone (administered once or twice daily) increases exposure to dabigatran by 70 to 140% compared to dabigatran alone. The increase in exposure is only 30 to 60% higher compared to dabigatran alone when dronedarone is administered 2 hours after dabigatran etexilate.
+
+Ketoconazole: Systemic ketoconazole increased dabigatran AUC and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
+
+Verapamil: When dabigatran etexilate was coadministered with oral verapamil, the Cmax and AUC of dabigatran were increased. The extent of increase depends on the formulation of verapamil and timing of administration. If verapamil is present in the gut when dabigatran is taken, it will increase exposure to dabigatran with the greatest increase observed when a single dose of immediate-release verapamil is given one hour prior to dabigatran (AUC increased by a factor of 2.4). If verapamil is given 2 hours after dabigatran, the increase in AUC is negligible. In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received verapamil.
+
+Amiodarone: When dabigatran etexilate was coadministered with a single 600 mg oral dose of amiodarone, the dabigatran AUC and Cmax increased by 58% and 50%, respectively. The increase in exposure was mitigated by a 65% increase in the renal clearance of dabigatran in the presence of amiodarone. The increase in renal clearance may persist after amiodarone is discontinued because of amiodarone’s long half-life. In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received amiodarone.
+
+Quinidine: Quinidine was given as 200 mg dose every 2 hours up to a total dose of 1000 mg. Dabigatran etexilate was given over 3 consecutive days, the last evening dose on Day 3 with or without quinidine pre-dosing. Concomitant quinidine administration increased dabigatran’s AUC and Cmax by 53% and 56%, respectively.
+
+Clarithromycin: Coadministered clarithromycin had no impact on the exposure to dabigatran.
+
+Other Drugs
+
+Clopidogrel: When dabigatran etexilate was given concomitantly with a loading dose of 300 mg or 600 mg clopidogrel, the dabigatran AUC and Cmax increased by approximately 30% and 40%, respectively. The concomitant administration of dabigatran etexilate and clopidogrel resulted in no further prolongation of capillary bleeding times compared to clopidogrel monotherapy. When comparing combined treatment and the respective mono-treatments, the coagulation measures for dabigatran’s effect (aPTT, ECT, and TT) remained unchanged, and inhibition of platelet aggregation (IPA), a measurement of clopidogrel’s effect, remained unchanged.
+
+Enoxaparin: Enoxaparin 40 mg given subcutaneously for 3 days with the last dose given 24 hours before a single dose of PRADAXA had no impact on the exposure to dabigatran or the coagulation measures aPTT, ECT, or TT.
+
+Diclofenac, Ranitidine, and Digoxin: None of these drugs alters exposure to dabigatran.
+
+In RE-LY, dabigatran plasma samples were also collected. The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.
+
+Impact of Dabigatran on Other Drugs
+
+In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.
+
+

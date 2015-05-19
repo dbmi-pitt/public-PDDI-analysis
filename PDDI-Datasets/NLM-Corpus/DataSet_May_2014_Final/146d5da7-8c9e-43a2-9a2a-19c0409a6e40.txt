@@ -1,0 +1,144 @@
+Lopressor HCT
+metoprolol tartrate USP and hydrochlorothiazide USP 
+
+Lopressor HCT has the antihypertensive effect of Lopressor, metoprolol tartrate, a selective beta1-adrenoreceptor blocking agent, and the antihypertensive and diuretic actions of hydrochlorothiazide.
+
+Ischemic Heart Disease: Following abrupt cessation of therapy with certain beta-blocking agents, exacerbations of angina pectoris and, in some cases, myocardial infarction have been reported. Even in the absence of overt angina pectoris, when discontinuing therapy, Lopressor should not be withdrawn abruptly, and patients should be cautioned against interruption of therapy without the physician’s advice (see PRECAUTIONS, Information for Patients).
+
+CONTRAINDICATIONS
+
+Lopressor
+
+Lopressor is contraindicated in sinus bradycardia, heart block greater than first degree, cardiogenic shock, and overt cardiac failure (see WARNINGS).
+
+Hypersensitivity to Lopressor and related derivatives, or to any of the excipients; hypersensitivity to other beta blockers (cross sensitivity between beta blockers can occur).
+
+Sick-sinus syndrome.
+
+Severe peripheral arterial circulatory disorders.
+
+Hydrochlorothiazide
+
+Hydrochlorothiazide is contraindicated in patients with anuria or hypersensitivity to this or other sulfonamide-derived drugs (see WARNINGS).
+
+WARNINGS
+
+Lopressor
+
+Cardiac Failure: Sympathetic stimulation is a vital component supporting circulatory function in congestive heart failure, and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure. In hypertensive patients who have congestive heart failure controlled by digitalis and diuretics, Lopressor should be administered cautiously.
+
+In Patients Without a History of Cardiac Failure: Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure. At the first sign or symptom of impending cardiac failure, patients should be fully digitalized and/or given a diuretic. The response should be observed closely. If cardiac failure continues, despite adequate digitalization and diuretic therapy, Lopressor should be withdrawn.
+
+ Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS, including Lopressor HCT. Because of its relative beta1 selectivity, however, Lopressor may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment. Since beta1 selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of Lopressor should be used. In these circumstances it would be prudent initially to administer Lopressor in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
+
+Major Surgery: Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes and Hypoglycemia: Lopressor should be used with caution in diabetic patients if a beta-blocking agent is required. Beta blockers, including Lopressor HCT, may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected. Selective beta blockers do not potentiate insulin-induced hypoglycemia and, unlike nonselective beta blockers, do not delay recovery of blood glucose to normal levels.
+
+Pheochromocytoma: If Lopressor is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated. Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) or hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta blockade, which might precipitate a thyroid storm.
+
+Hydrochlorothiazide
+
+Thiazides should be used with caution in patients with severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.
+
+Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte imbalance may precipitate hepatic coma.
+
+Thiazides may add to or potentiate the action of other antihypertensive drugs. Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
+
+Sensitivity reactions are more likely to occur in patients with a history of allergy or bronchial asthma.
+
+The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma: Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+PRECAUTIONS
+
+General
+
+Lopressor: Lopressor should be used with caution in patients with impaired hepatic function.
+
+Hydrochlorothiazide: All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance, namely hyponatremia, hypochloremic alkalosis, and hypokalemia (see Laboratory Tests and Drug/Drug Interactions). Warning signs are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbance, such as nausea or vomiting.
+
+Hypokalemia may develop, especially in cases of brisk diuresis or severe cirrhosis.
+
+Interference with adequate oral intake of electrolytes will also contribute to hypokalemia. Hypokalemia may be avoided or treated by the use of potassium supplements or foods with high potassium content.
+
+Any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease). Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life-threatening. In cases of actual salt depletion, appropriate replacement is the therapy of choice.
+
+Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
+
+Latent diabetes may become manifest during thiazide administration (see Drug/Drug Interactions).
+
+The antihypertensive effects of the drug may be enhanced in the postsympathectomy patient.
+
+If progressive renal impairment becomes evident, withholding or discontinuing diuretic therapy should be considered.
+
+Calcium excretion is decreased by thiazides. Pathological changes in the parathyroid gland with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy. The common complications of hyperparathyroidism, such as renal lithiasis, bone resorption, and peptic ulceration, have not been seen.
+
+Thiazide diuretics have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
+
+Drug/Drug Interactions
+
+Lopressor: Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents. Patients treated with Lopressor plus a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
+
+Both digitalis glycosides and beta blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+Risk of Anaphylactic Reaction: While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+General Anesthetics
+
+Some inhalation anesthetics may enhance the cardiodepressant effect of beta blockers (see WARNINGS; Lopressor; Major Surgery).
+
+CYP2D6 Inhibitors
+
+Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of Lopressor. Strong inhibition of CYP2D6 would mimic the pharmacokinetics of CYP2D6 poor metabolizer. Caution should therefore be exercised when administering potent CYP2D6 inhibitors with Lopressor. Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluoxetine, paroxetine or bupropion, antipsychotics such as thioridazine, antiarrhythmics such as quinidine or propafenone, antiretrovirals such as ritonavir, antihistamines such as diphenhydramine, antimalarials such as hydroxychloroquine or quinidine, antifungals such as terbinafine and medications for stomach ulcers such as cimetidine.
+
+Clonidine
+
+If a patient is treated with clonidine and Lopressor concurrently, and clonidine treatment is to be discontinued, Lopressor should be stopped several days before clonidine is withdrawn. Rebound hypertension that can follow withdrawal of clonidine may be increased in patients receiving concurrent beta blocker treatment.
+
+Hydrochlorothiazide: Hypokalemia can sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
+
+Hypokalemia may develop during concomitant use of steroids or ACTH.
+
+Insulin requirements in diabetic patients may be increased, decreased, or unchanged.
+
+Thiazides may decrease arterial responsiveness to norepinephrine, but not enough to preclude effectiveness of the pressor agent for therapeutic use.
+
+Thiazides may increase the responsiveness to tubocurarine.
+
+Lithium renal clearance is reduced by thiazides, increasing the risk of lithium toxicity.
+
+There have been rare reports in the literature of hemolytic anemia occurring with the concomitant use of hydrochlorothiazide and methyldopa.
+
+Concurrent administration of some nonsteroidal anti-inflammatory agents may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics.
+
+Cholestyramine and colestipol resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+
+Drug/Laboratory Test Interactions
+
+Hydrochlorothiazide: Thiazides may decrease serum levels of protein-bound iodine without signs of thyroid disturbance. Thiazides should be discontinued before tests for parathyroid function are made. (see General, Hydrochlorothiazide, Calcium excretion).
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Lopressor HCT: Carcinogenicity and mutagenicity studies have not been conducted with Lopressor HCT. Lopressor HCT produced no evidence of impaired fertility in male or female rats administered gavaged doses up to 200/50 mg/kg (100/50 times the maximum recommended daily human dose) prior to mating and throughout gestation and rearing of young.
+
+Lopressor: Long-term studies in animals have been conducted to evaluate carcinogenic potential. In a 2-year study in rats at three oral dosage levels of up to 800 mg/kg per day, there was no increase in the development of spontaneously occurring benign or malignant neoplasms of any type. The only histologic changes that appeared to be drug related were an increased incidence of generally mild focal accumulation of foamy macrophages in pulmonary alveoli and a slight increase in biliary hyperplasia. In a 21-month study in Swiss albino mice at three oral dosage levels of up to 750 mg/kg per day, benign lung tumors (small adenomas) occurred more frequently in female mice receiving the highest dose than in untreated control animals. There was no increase in malignant or total (benign plus malignant) lung tumors, or in the overall incidence of tumors or malignant tumors. This 21-month study was repeated in CD-1 mice, and no statistically or biologically significant differences were observed between treated and control mice of either sex for any type of tumor.
+
+All mutagenicity tests performed (a dominant lethal study in mice, chromosome studies in somatic cells, a Salmonella/mammalian-microsome mutagenicity test, and a nucleus anomaly test in somatic interphase nuclei) were negative.
+
+No evidence of impaired fertility due to Lopressor was observed in a study performed in rats at doses up to 55.5 times the maximum daily human dose of 450 mg.
+
+Hydrochlorothiazide: Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses up to approximately 600 mg/kg/day) or in male and female rats (at doses up to approximately 100 mg/kg/day). The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
+
+Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of Salmonella typhimurium (Ames assay) and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 µg/mL, and in the Aspergillus nidulans nondisjunction assay at an unspecified concentration.
+
+Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation.
+
+DOSAGE AND ADMINISTRATION
+
+Dosage should be determined by individual titration (see INDICATIONS AND USAGE).
+
+Hydrochlorothiazide is usually given at a dosage of 12.5 to 50 mg per day. The usual initial dosage of Lopressor is 100 mg daily in single or divided doses. Dosage may be increased gradually until optimum blood pressure control is achieved. The effective dosage range is 100 to 450 mg per day. While once-daily dosing is effective and can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period, and larger or more frequent daily doses may be required. This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. Beta1 selectivity diminishes as dosage of Lopressor is increased.

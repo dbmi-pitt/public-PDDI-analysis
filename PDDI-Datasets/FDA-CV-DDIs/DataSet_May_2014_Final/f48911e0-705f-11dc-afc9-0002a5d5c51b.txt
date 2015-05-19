@@ -1,0 +1,125 @@
+AZOR (amlodipine besylate and olmesartan medoxomil) tablet, film coated 
+
+1   INDICATIONS AND USAGE
+
+Azor is indicated for the treatment of hypertension, alone or with other antihypertensive agents , to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs. There are no controlled trials demonstrating risk reduction with Azor.
+
+Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
+
+Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
+
+Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. 
+
+4   CONTRAINDICATIONS
+
+Do not co-administer aliskiren with Azor in patients with diabetes [See Drug Interactions].
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+
+Hypotension in Volume- or Salt-Depleted Patients
+
+Olmesartan medoxomil. Symptomatic hypotension may be anticipated after initiation of treatment with olmesartan medoxomil. Patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics) may be particularly vulnerable. Initiate treatment with Azor under close medical supervision. If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+Vasodilation
+
+Amlodipine. Since the vasodilation attributable to amlodipine in Azor is gradual in onset, acute hypotension has rarely been reported after oral administration. Nonetheless, exercise caution, as with any other peripheral vasodilator, when administering Azor, particularly in patients with severe aortic stenosis. 
+
+7   DRUG INTERACTIONS
+
+7.1 Drug Interactions with Azor
+
+The pharmacokinetics of amlodipine and olmesartan medoxomil are not altered when the drugs are co-administered.
+
+No drug interaction studies have been conducted with Azor and other drugs, although studies have been conducted with the individual amlodipine and olmesartan medoxomil components of Azor, as described below, and no significant drug interactions have been observed.
+
+7.2  Drug Interactions with Amlodipine
+
+In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+
+Effect of Other Agents on Amlodipine
+
+   Cimetidine: Co-administration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+   Grapefruit juice: Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+   Maalox (antacid): Co-administration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+   Sildenafil: A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine. When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+
+
+Effect of Amlodipine on Other Agents
+
+   Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
+   Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+   Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
+   Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+   Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
+In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta-blockers, angiotensin-converting enzyme inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
+
+7.3 Drug Interactions with Olmesartan Medoxomil
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+
+The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
+
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on Azor and other agents that affect the RAS.
+
+Do not co-administer aliskiren with Azor in patients with diabetes [See Contraindications (4)].
+Avoid use of aliskiren with Azor in patients with renal impairment (GFR <60 ml/min).
+
+Use with Colesevelam Hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan. Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect. Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

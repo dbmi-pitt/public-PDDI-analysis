@@ -1,0 +1,66 @@
+Drug Label for drug brand Nitroglycerin In Dextrose, containing Nitroglycerin.
+
+DESCRIPTION SECTION
+
+
+Nitroglycerin is 1,2,3-propanetriol trinitrate, an organic nitrate whose structural formula is
+whose empiric formula is C3H5N3O9, and whose molecular weight is 227.09. The organic nitrates are vasodilators, active on both arteries and veins.
+Dextrose (Dextrose Hydrous, USP) is D-glucose monohydrate, a hexose sugar whose structural formula is
+whose empiric formula is C6H12O6 H2O, and whose molecular weight is 198.17.
+Nitroglycerin in 5% Dextrose Injection is a sterile, nonpyrogenic solution of nitroglycerin and dextrose in water for injection. The solution is clear and practically colorless. Each 100 mL contains 10 mg, 20 mg, or 40 mg nitroglycerin (added as Diluted Nitroglycerin, USP with propylene glycol), 5 g Dextrose Hydrous, USP, 0.84 mL Alcohol, USP (added as a dissolution aid), and 105 mg Citric Acid Hydrous, USP (added as a buffer). The pH of the solution is adjusted with sodium hydroxide and, if necessary, hydrochloric acid.
+Although dry nitroglycerin is explosive, nitroglycerin in 5% dextrose is not.
+Composition, osmolarity and pH are given in Table 1.
+Nitroglycerin Structural Formula
+Dextrose Structural Formula
+
+CONTRAINDICATIONS SECTION
+
+Allergic reactions to organic nitrates are extremely rare, but they do occur. Nitroglycerin in 5% Dextrose Injection is contraindicated in patients who are allergic to it.
+In patients with pericardial tamponade, restrictive cardiomyopathy, or constrictive pericarditis, cardiac output is dependent upon venous return. Intravenous nitroglycerin is contraindicated in patients with these conditions.
+Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products.
+
+WARNINGS SECTION
+
+Amplification of the vasodilatory effects of Nitroglycerin by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
+Nitroglycerin readily migrates into many plastics, including the polyvinyl chloride (PVC) plastics commonly used for intravenous administration sets. Nitroglycerin absorption by PVC tubing is increased when the tubing is long, the flow rates are low, and the nitroglycerin concentration of the solution is high. The delivered fraction of the solution's original nitroglycerin content has been 20-60% in published studies using PVC tubing, the fraction varies with time during a single infusion, and no simple correction factor can be used. PVC tubing has been used in most published studies of intravenous nitroglycerin, but the reported doses have been calculated by simply multiplying the flow rate of the solution by the solution's original concentration of nitroglycerin. The actual doses delivered have been less, sometimes much less, than those reported.
+Relatively non-absorptive intravenous administration sets are available. If intravenous nitroglycerin is administered through non-absorptive tubing, doses based upon published reports will generally be too high.
+Some in-line intravenous filters also absorb nitroglycerin, these filters should be avoided.
+Solutions containing dextrose without electrolytes should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis.
+The intravenous administration of solutions may cause fluid overloading resulting in dilution of serum electrolyte concentrations, overhydration and congested states of pulmonary edema. The risk of dilutional states is inversely proportional to the electrolyte concentrations of the injections. The risk of solute overload causing congested states with peripheral and pulmonary edema is directly proportional to the electrolyte concentration of the injections.
+
+PRECAUTIONS SECTION
+
+Severe hypotension and shock may occur with even small doses of nitroglycerin. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris.
+Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
+As tolerance to other forms of nitroglycerin develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted.
+In industrial workers who have long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
+Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day. During the nitrate-free intervals in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance. The importance of these observations to the routine, clinical use of intravenous nitroglycerin is not known.
+Lower concentrations of Nitroglycerin in 5% Dextrose Injection increase the potential precision of dosing, but these concentrations increase the total fluid volume that must be delivered to the patient. Total fluid load may be a dominant consideration in patients with compromised function of the heart, liver, and/or kidneys.
+Nitroglycerin in 5% Dextrose Injection should be administered only via an infusion pump that can maintain a constant infusion rate.
+Intracoronary injection of Nitroglycerin in 5% Dextrose Injection has not been studied.
+Solutions containing dextrose should be used with caution in patients with known sub-clinical or overt diabetes mellitus.
+Because of the propylene glycol content of intravenous nitroglycerin, serum triglyceride assays that rely on glycerol oxidase may give falsely elevated results in patients receiving this medication.
+The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
+Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.
+Intravenous nitroglycerin interferes, at least in some patients, with the anticoagulant effect of heparin. In patients receiving intravenous nitroglycerin, concomitant heparin therapy should be guided by frequent measurement of the activated partial thromboplastin time.
+Administration of Nitroglycerin in 5% Dextrose Injection through the same infusion set as blood can result in pseudoagglutination and hemolysis. More generally, Nitroglycerin in 5% Dextrose Injection should not be mixed with any other medication of any kind.
+Animal carcinogenesis studies with injectable nitroglycerin have not been performed.
+Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls and incidences of testicular tumors were 52% vs. 8% in controls. Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
+Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories. Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitro cytogenetic tests in rat and dog tissues.
+In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations. The high-dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F0 generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this three-generation study there was no clear evidence of teratogenicity.
+Animal teratology studies have not been conducted with nitroglycerin injection. Teratology studies in rats and rabbits were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively, and no toxic effects on dams or fetuses were seen. There are no adequate and well-controlled studies in pregnant women. Nitroglycerin should be given to a pregnant woman only if clearly needed.
+It is not known whether nitroglycerin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when nitroglycerin is administered to a nursing woman.
+Safety and effectiveness in the pediatric population have not been established. However, the relationship between hemodynamic effects of nitroglycerin and dose in the pediatric population have been documented in the literature.
+Clinical studies of Nitroglycerin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Do not use unless vacuum is present and solution is clear.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+Nitroglycerin in 5% Dextrose Injection is intended for intravenous administration using sterile equipment. It should be administered only via an infusion pump that can maintain a constant infusion rate. A container which has lost its vacuum, or one in which particulate matter is visible, should not be used.
+Dosage is affected by the type of infusion set used (see Warnings). Although the usual adult starting dose in published studies has been 25 mcg/min or more, these studies used PVC tubing, so the delivered doses were less than those reported. When nonabsorptive tubing is used, doses must be reduced.
+Even using nonabsorptive tubing, the dose necessary to achieve a given response will vary greatly from patient to patient. Patients with normal or low left-ventricular filling pressure (e.g., patients with uncomplicated angina pectoris) may respond fully to as little as 5 mcg/min, while other patients may require a dose that is one or even two orders of magnitude higher. Continuous monitoring of blood pressure and heart rate is necessary in all patients receiving this medication, in many cases, invasive monitoring of pulmonary capillary wedge pressure will also be indicated.
+Lower concentrations of Nitroglycerin in 5% Dextrose Injection increase the potential precision of dosing, but these concentrations increase the total fluid volume that must be delivered to the patient. Total fluid load may be a dominant consideration in patients with compromised function of the heart, liver, and/or kidneys. The necessary flow rates to achieve various dose rates with the available concentrations are shown in the following table.
+Using nonabsorptive tubing, the initial adult dosage of Nitroglycerin in 5% Dextrose Injection should be 5 mcg/min. Subsequent titration must be guided by the clinical results, with dose increments becoming more cautious as partial response is seen. Initial titration should be in 5 mcg/min increments at intervals of 3 to 5 minutes. If no response is seen at 20 mcg/min, increments of 10 and even 20 mcg/min can be used. Once some hemodynamic response is observed, dosage increments should be smaller and less frequent.
+When the concentration is changed, the tubing must be disconnected from the patient and flushed with the new solution before therapy is continued. If this precaution is not taken, then depending upon the tubing, pump, and flow rate used, it might be several hours before nitroglycerin is delivered at the desired rate.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not add supplementary medication to Nitroglycerin in 5% Dextrose Injection.

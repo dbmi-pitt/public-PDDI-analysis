@@ -1,0 +1,105 @@
+Drug Label for drug brand Nicardipine Hydrochloride, containing Nicardipine Hydrochloride.
+
+
+4 CONTRAINDICATIONS
+
+
+ <list>
+ <item>
+ <item>Do not use in patients with advanced aortic stenosis (4.1).
+ <item>
+ </list>
+
+
+4.1 Advanced Aortic Stenosis
+
+Do not use nicardipine in patients with advanced aortic stenosis because of the afterload reduction effect of nicardipine. Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance.
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>To reduce the possibility of venous thrombosis, phlebitis, and vascular impairment, do not use small veins, such as those on the dorsum of the hand or wrist. Exercise extreme care to avoid intra-arterial administration or extravasation (5.7).
+ <item>
+ <item>To minimize the risk of peripheral venous irritation, change the site of infusion of nicardipine every 12 hours (5.7).
+ <item>
+ <item>Nicardipine is not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal. Withdraw beta-blockers gradually (5.8).
+ <item>
+ <item>Closely monitor response in patients with angina (5.3), congestive heart failure (5.4), impaired hepatic function (5.5), portal hypertension (5.5), and renal impairment (5.6) and pheochromocytoma (5.9).
+ <item>
+ </list>
+
+
+5.1 Excessive Pharmacologic Effects
+
+In administrating nicardipine, close monitoring of blood pressure and heart rate is required. Nicardipine may occasionally produce symptomatic hypotension or tachycardia. Avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage.
+
+5.2 Rapid Decreases in Blood Pressure
+
+No clinical events have been reported suggestive of a too rapid decrease in blood pressure with nicardipine. However, as with any antihypertensive agent, blood pressure lowering should be accomplished over as long a time as is compatible with the patient's clinical status.
+
+5.3 Use in Patients with Angina
+
+Increases in frequency, duration, or severity of angina have been seen in chronic oral therapy with nicardipine capsules. Induction or exacerbation of angina has been seen in less than 1% of coronary artery disease patients treated with nicardipine. The mechanism of this effect has not been established.
+
+5.4 Use in Patients with Congestive Heart Failure
+
+Nicardipine reduced afterload without impairing myocardial contractility in preliminary hemodynamic studies of CHF patients. However, in vitro and in some patients, a negative inotropic effect has been observed. Therefore, monitor vital signs carefully when using nicardipine, particularly in combination with a beta-blocker, in patients with CHF or significant left ventricular dysfunction.
+
+5.5 Use in Patients with Impaired Hepatic Function
+
+Since nicardipine is metabolized in the liver, consider lower dosages and closely monitor response. Nicardipine administered intravenously increased hepatic venous pressure gradient by 4 mmHg in cirrhotic patients at high doses (5 mg/20 min) in one study. Use caution in patients with portal hypertension.
+
+5.6 Use in Patients with Impaired Renal Function
+
+When nicardipine was given to mild-to-moderate hypertensive patients with moderate renal impairment, a significantly lower systemic clearance and higher AUC was observed. These results are consistent with those seen after oral administration of nicardipine. Careful dose titration is advised when treating patients with more than mild renal impairment.
+
+5.7 Intravenous Infusion Site
+
+To reduce the possibility of venous thrombosis, phlebitis, local irritation, swelling, extravasation, and the rare occurrence of vascular impairment, administer drug through large peripheral veins or central veins rather than arteries or small peripheral veins, such as those on the dorsum of the hand or wrist. To minimize the risk of peripheral venous irritation, consider changing the site of the drug infusion every 12 hours.
+
+5.8 Beta-Blocker Withdrawal
+
+Nicardipine is not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal. Withdraw beta-blockers gradually.
+
+5.9 Use in Patients with Pheochromocytoma
+
+Only limited clinical experience exists in use of nicardipine for patients with hypertension from pheochromocytoma.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Cimetidine increases nicardipine plasma levels (7.3).
+ <item>
+ <item>Nicardipine increases cyclosporine plasma levels. Monitor cyclosporine levels when co-administering with nicardipine (7.5).
+ <item>
+ </list>
+
+
+7.1 Antihypertensive Agents
+
+Since nicardipine hydrochloride injection may be administered to patients already being treated with other medications, including other antihypertensive agents, careful monitoring of these patients is necessary to detect and to treat promptly any undesired effects from concomitant administration.
+
+7.2 Beta-Blockers
+
+In most patients, nicardipine hydrochloride injection can safely be used concomitantly with beta-blockers. However, monitor response carefully when combining nicardipine hydrochloride injection with a beta-blocker in the treatment of congestive heart failure patients see Warnings and Precautions (5.4).
+
+7.3 Cimetidine
+
+Cimetidine has been shown to increase nicardipine plasma concentrations with oral nicardipine administration. Carefully monitor patients receiving the two drugs concomitantly. Data with other histamine-2 antagonists are not available.
+
+7.4 Digoxin
+
+Studies have shown that oral nicardipine usually does not alter digoxin plasma concentrations.
+
+7.5 Cyclosporine
+
+Concomitant administration of oral nicardipine and cyclosporine results in elevated plasma cyclosporine levels. Monitor closely plasma concentrations of cyclosporine during nicardipine hydrochloride injection administration, and adjust the dose of cyclosporine accordingly.
+
+7.6 In Vitro Interaction
+
+The plasma protein binding of nicardipine was not altered when therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine, or naproxen were added to human plasma in vitro.
+

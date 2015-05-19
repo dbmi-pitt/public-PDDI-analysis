@@ -1,0 +1,38 @@
+PLETAL (cilostazol) tablet 
+
+CONTRAINDICATIONS
+
+Cilostazol and several of its metabolites are inhibitors of phosphodiesterase III. Several drugs with this pharmacologic effect have caused decreased survival compared to placebo in patients with class III-IV congestive heart failure. PLETAL is contraindicated in patients with congestive heart failure of any severity.
+
+PLETAL is contraindicated in patients with haemostatic disorders or active pathologic bleeding, such as bleeding peptic ulcer and intracranial bleeding. PLETAL inhibits platelet aggregation in a reversible manner.
+
+PLETAL is contraindicated in patients with known or suspected hypersensitivity to any of its components. 
+
+PRECAUTIONS
+
+Hematologic adverse reactions
+
+Rare cases have been reported of thrombocytopenia or leukopenia progressing to agranulocytosis when cilostazol was not immediately discontinued. The agranulocytosis, however, was reversible on discontinuation of cilostazol.
+
+Use with Clopidogrel
+
+There is limited information with respect to the efficacy or safety of the concurrent use of cilostazol and clopidogrel, a platelet-aggregation inhibiting drug indicated for use in patients with peripheral arterial disease. Although it cannot be determined whether there was an additive effect on bleeding times during concomitant administration with cilostazol and clopidogrel, caution is advised for checking bleeding times during coadministration.
+
+Drug Interactions
+
+Since PLETAL is extensively metabolized by cytochrome P-450 isoenzymes, caution should be exercised when PLETAL is coadministered with inhibitors of CYP3A4 such as ketoconazole and erythromycin or inhibitors of CYP2C19 such as omeprazole. Pharmacokinetic studies have demonstrated that omeprazole and erythromycin significantly increased the systemic exposure of cilostazol and/or its major metabolites. Population pharmacokinetic studies showed higher concentrations of cilostazol among patients concurrently treated with diltiazem, an inhibitor of CYP3A4 (see CLINICAL PHARMACOLOGY, Pharmacokinetic and Pharmacodynamic Drug-Drug Interactions). PLETAL does not, however, appear to cause increased blood levels of drugs metabolized by CYP3A4, as it had no effect on lovastatin, a drug with metabolism very sensitive to CYP3A4 inhibition.
+
+Use with other antiplatelet agents
+
+PLETAL inhibits platelet aggregation but in a reversible manner. Caution is advised in patients at risk of bleeding from surgery or pathologic processes. Platelet aggregability returns to normal within 96 hours of stopping PLETAL. Caution is advised in patients receiving both PLETAL and any other antiplatelet agent, or in patients with thrombocytopenia.
+
+DOSAGE AND ADMINISTRATION
+
+The recommended dosage of PLETAL is 100 mg b.i.d. taken at least half an hour before or two hours after breakfast and dinner. A dose of 50 mg b.i.d. should be considered during coadministration of such inhibitors of CYP3A4 as ketoconazole, itraconazole, erythromycin and diltiazem, and during coadministration of such inhibitors of CYP2C19 as omeprazole.
+
+Patients may respond as early as 2 to 4 weeks after the initiation of therapy, but treatment for up to 12 weeks may be needed before a beneficial effect is experienced.
+
+Discontinuation of Therapy
+
+The available data suggest that the dosage of PLETAL can be reduced or discontinued without rebound (i.e., platelet hyperaggregability).
+

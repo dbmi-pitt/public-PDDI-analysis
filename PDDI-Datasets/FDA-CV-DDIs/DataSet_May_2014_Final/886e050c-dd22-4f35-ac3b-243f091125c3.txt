@@ -1,0 +1,28 @@
+Drug Label for drug brand TENEX, containing guanfacine hydrochloride.
+
+
+CONTRAINDICATIONS
+
+
+Tenex is contraindicated in patients with known hypersensitivity to guanfacine hydrochloride.
+
+
+PRECAUTIONS
+
+Like other antihypertensive agents, Tenex (guanfacine hydrochloride) should be used with caution in patients with severe coronary insufficiency, recent myocardial infarction, cerebrovascular disease, or chronic renal or hepatic failure.
+Tenex, like other orally active central 2-adrenergic agonists, causes sedation or drowsiness, especially when beginning therapy. These symptoms are dose-related (see ADVERSE REACTIONS ). When Tenex is used with other centrally active depressants (such as phenothiazines, barbiturates, or benzodiazepines), the potential for additive sedative effects should be considered.
+Abrupt cessation of therapy with orally active central 2-adrenergic agonists may be associated with increases (from depressed on-therapy levels) in plasma and urinary catecholamines, symptoms of "nervousness and anxiety" and, less commonly, increases in blood pressure to levels significantly greater than those prior to therapy.
+
+
+Drug Interactions
+
+The potential for increased sedation when Tenex is given with other CNS-depressant drugs should be appreciated.
+The administration of guanfacine concomitantly with a known microsomal enzyme inducer (phenobarbital or phenytoin) to two patients with renal impairment reportedly resulted in significant reductions in elimination half-life and plasma concentration. In such cases, therefore, more frequent dosing may be required to achieve or maintain the desired hypotensive response. Further, if guanfacine is to be discontinued in such patients, careful tapering of the dosage may be necessary in order to avoid rebound phenomena (see Rebound above).
+Ten patients who were stabilized on oral anticoagulants were given guanfacine, 1 - 2 mg/day, for 4 weeks. No changes were observed in the degree of anticoagulation.
+In several well-controlled studies, guanfacine was administered together with diuretics with no drug interactions reported. In the long-term safety studies, Tenex was given concomitantly with many drugs without evidence of any interactions. The principal drugs given (number of patients in parentheses) were: cardiac glycosides (115), sedatives and hypnotics (103), coronary vasodilators (52), oral hypoglycemics (45), cough and cold preparations (45), NSAIDs (38), antihyperlipidemics (29), antigout drugs (24), oral contraceptives (18), bronchodilators (13), insulin (10), and beta blockers (10).
+
+
+Drug/Laboratory Test Interactions
+
+No laboratory test abnormalities related to the use of Tenex (guanfacine hydrochloride) have been identified.
+

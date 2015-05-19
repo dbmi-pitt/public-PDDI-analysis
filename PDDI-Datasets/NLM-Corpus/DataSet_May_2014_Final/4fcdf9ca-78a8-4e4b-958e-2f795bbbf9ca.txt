@@ -1,0 +1,43 @@
+Drug Label for drug brand Dibenzyline, containing Phenoxybenzamine Hydrochloride.
+
+
+CONTRAINDICATIONS
+
+
+Conditions where a fall in blood pressure may be undesirable, hypersensitivity to the drug or any of its components.
+
+
+WARNING
+
+Dibenzyline-induced alpha -adrenergic blockade leaves beta -adrenergic receptors unopposed. Compounds that stimulate both types of receptors may, therefore, produce an exaggerated hypotensive response and tachycardia.
+
+
+PRECAUTIONS
+
+General Administer with caution in patients with marked cerebral or coronary arteriosclerosis or renal damage. Adrenergic blocking effect may aggravate symptoms of respiratory infections.
+
+Drug Interactions
+
+Dibenzyline (phenoxybenzamine hydrochloride) may interact with compounds that stimulate both alpha- and beta- adrenergic receptors (i.e., epinephrine) to produce an exaggerated hypotensive response and tachycardia.(See WARNING.)
+Dibenzyline blocks hyperthermia production by levarterenol, and blocks hypothermia production by reserpine.
+
+Carcinogenesis and Mutagenesis
+
+Case reports of carcinoma in humans after long-term treatment with phenoxybenzamine have been reported. Hence long-term use of phenoxybenzamine is not recommended., Carefully weigh the benefits and risks before prescribing this drug.
+Phenoxybenzamine hydrochloride showed in vitro mutagenic activity in the Ames test and mouse lymphoma assay, it did not show mutagenic activity in vivo in the micronucleus test in mice. In rats and mice, repeated intraperitoneal administration of phenoxybenzamine hydrochloride (three times per week for up to 52 weeks) resulted in peritoneal sarcomas. Chronic oral dosing in rats (for up to 2 years) produced malignant tumors of the small intestine and non-glandular stomach, as well as ulcerative and/or erosive gastritis of the glandular stomach. Whereas squamous cell carcinomas of the non-glandular stomach were observed at all tested doses of phenoxybenzamine hydrochloride, there was a no-observed-effect-level of 10 mg/kg for tumors (carcinomas and sarcomas) of the small intestine. This dose is, on a body surface area basis, about twice the maximum recommended human dosage of 20 mg b.i.d.
+
+Pregnancy
+
+
+Teratogenic Effects - Pregnancy Category C
+
+Adequate reproductive studies in animals have not been performed with Dibenzyline (phenoxybenzamine hydrochloride). It is also not known whether Dibenzyline can cause fetal harm when administered to a pregnant woman. Dibenzyline should be given to a pregnant woman only if clearly needed.
+
+Nursing Mothers
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions from phenoxybenzamine hydrochloride, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+

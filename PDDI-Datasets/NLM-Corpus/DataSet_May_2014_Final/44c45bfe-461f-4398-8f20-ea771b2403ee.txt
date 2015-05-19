@@ -1,0 +1,38 @@
+NATRECOR (nesiritide) injection, powder, lyophilized, for solution 
+
+4 CONTRAINDICATIONS
+
+NATRECOR® is contraindicated in patients with:
+
+    Persistent systolic blood pressure <100 mm Hg prior to therapy because of an increased risk of symptomatic hypotension [see Warnings and Precautions (5.1)]
+    Known hypersensitivity to any of its components [see Warnings and Precautions (5.3)]
+    Cardiogenic shock
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Hypotension
+
+NATRECOR may cause hypotension. In the ASCEND-HF trial, the incidence of symptomatic hypotension was 7.1% in NATRECOR-treated patients compared to 4.0% in placebo-treated patients on a background of standard care. The risk of hypotension may be increased by the concomitant use of NATRECOR with drugs affecting the renin-angiotensin system (i.e., angiotensin receptor blockers and/or angiotensin-converting enzyme inhibitors) or other afterload reducers. In the VMAC trial, in patients given the recommended dose (2 mcg/kg bolus followed by a 0.01 mcg/kg/min infusion) or the adjustable dose, the incidence of symptomatic hypotension in the first 24 hours was similar for NATRECOR (4%) and IV nitroglycerin (5%). When hypotension occurred, however, the duration of symptomatic hypotension was longer with NATRECOR (mean duration was 2.2 hours) than with nitroglycerin (mean duration was 0.7 hours).
+
+Administer NATRECOR only in settings where blood pressure can be monitored closely and hypotension aggressively treated. Reduce the dose of or discontinue NATRECOR in patients who develop hypotension [see Dosage and Administration (2.2)].
+
+Avoid administration of NATRECOR in patients suspected of having, or known to have, low cardiac filling pressures.
+
+NATRECOR is not recommended for patients for whom vasodilating agents are not appropriate, such as patients with significant valvular stenosis, restrictive or obstructive cardiomyopathy, constrictive pericarditis, pericardial tamponade, or other conditions in which cardiac output is dependent upon venous return, or for patients suspected to have low cardiac filling pressures [see Contraindications (4)].
+
+5.2 Worsening of Renal Function
+
+NATRECOR may decrease renal function as judged by increases in serum creatinine. Monitor serum creatinine both during and after therapy has been completed. Monitor serum creatinine until values have stabilized. In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin aldosterone system, treatment with NATRECOR may be associated with azotemia. When NATRECOR was initiated at doses higher than 0.01 mcg/kg/min (0.015 and 0.03 mcg/kg/min), there was an increased rate of elevated serum creatinine over baseline compared with standard therapies, although the rate of acute renal failure and need for dialysis was not increased.
+
+5.3 Hypersensitivity
+
+Serious hypersensitivity/allergic reactions following administration of NATRECOR® have been reported.
+
+These reactions are more likely to occur in individuals with a history of sensitivity to recombinant peptides. Before therapy with NATRECOR is instituted, careful inquiry should be made to determine whether the patient has had a previous hypersensitivity reaction to other recombinant peptides. If an allergic reaction to NATRECOR® occurs, discontinue the drug. Some serious hypersensitivity/allergic reactions may require treatment with epinephrine, oxygen, IV fluids, antihistamines, corticosteroids, pressor amines and airway management, as clinically indicated.
+
+7 DRUG INTERACTIONS
+
+No trials specifically examining potential drug interactions with NATRECOR® were conducted, although many concomitant drugs (including IV nitroglycerin) were used in clinical trials [see Clinical Studies (14)]. No drug interactions were detected except for an increase in symptomatic hypotension in patients receiving afterload reducers or affecting the renin-angiotensin system (i.e., ARBs and/or ACE inhibitors).
+
+The co-administration of NATRECOR® with nitroprusside, milrinone, or IV ACE inhibitors has not been evaluated.
+

@@ -1,0 +1,63 @@
+CARDENE SR (nicardipine hydrochloride) capsule, extended release 
+
+CARDENE SR is a sustained release formulation of CARDENE. CARDENE SR capsules for oral administration each contain 30 mg, 45 mg or 60 mg of nicardipine hydrochloride. 
+
+CONTRAINDICATIONS
+
+CARDENE is contraindicated in patients with hypersensitivity to the drug.
+
+Because part of the effect of CARDENE is secondary to reduced afterload, the drug is also contraindicated in patients with advanced aortic stenosis. Reduction of diastolic pressure by any means in these patients may worsen rather than improve myocardial oxygen balance.
+
+WARNINGS
+
+Increased Angina in Patients With Angina
+
+In short-term, placebo-controlled angina trials with CARDENE (an immediate release oral dosage form of nicardipine), about 7% of patients on CARDENE (compared with 4% of patients on placebo) have developed increased frequency, duration or severity of angina. Comparisons with beta-blockers also show a greater frequency of increased angina, 4% vs 1%. The mechanism of this effect has not been established.
+
+Use in Patients With Congestive Heart Failure
+
+Although preliminary hemodynamic studies in patients with congestive heart failure have shown that CARDENE reduced afterload without impairing myocardial contractility, it has a negative inotropic effect in vitro and in some patients. Caution should be exercised when using the drug in congestive heart failure patients, particularly in combination with a beta-blocker.
+
+Beta-Blocker Withdrawal
+
+CARDENE is not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal; any such withdrawal should be by gradual reduction of the dose of beta-blocker, preferably over 8 to 10 days.
+
+PRECAUTIONS
+
+General
+
+Blood Pressure: Because CARDENE decreases peripheral resistance, careful monitoring of blood pressure during the initial administration and titration of CARDENE is suggested. CARDENE, like other calcium channel blockers, may occasionally produce symptomatic hypotension. Caution is advised to avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage.
+
+Use in Patients With Impaired Hepatic Function: Since the liver is the major site of biotransformation and since CARDENE is subject to first-pass metabolism, CARDENE should be used with caution in patients having impaired liver function or reduced hepatic blood flow. Patients with severe liver disease developed elevated blood levels (fourfold increase in AUC) and prolonged half-life (19 hours) of CARDENE.
+
+Use in Patients With Impaired Renal Function: When 45-mg CARDENE SR bid was given to hypertensive patients with moderate renal impairment, mean AUC and Cmax values were approximately 2-fold to 3-fold higher than in patients with mild renal impairment. Doses in these patients must be adjusted. Mean AUC and Cmax values were similar in patients with mildly impaired renal function and normal volunteers (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+
+Drug Interactions
+
+Beta-Blockers: In controlled clinical studies, adrenergic beta-receptor blockers have been frequently administered concomitantly with CARDENE. The combination is well tolerated.
+
+Cimetidine: Cimetidine increases CARDENE plasma levels. Patients receiving the two drugs concomitantly should be carefully monitored.
+
+Digoxin: Some calcium blockers may increase the concentration of digitalis preparations in the blood. CARDENE usually does not alter the plasma levels of digoxin; however, serum digoxin levels should be evaluated after concomitant therapy with CARDENE is initiated.
+
+Fentanyl Anesthesia: Severe hypotension has been reported during fentanyl anesthesia with concomitant use of a beta-blocker and a calcium channel blocker. Even though such interactions were not seen during clinical studies with CARDENE, an increased volume of circulating fluids might be required if such an interaction were to occur.
+
+Cyclosporine: Concomitant administration of nicardipine and cyclosporine results in elevated plasma cyclosporine levels. Plasma concentrations of cyclosporine should therefore be closely monitored, and its dosage reduced accordingly, in patients treated with nicardipine.
+
+When therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine or naproxen were added to human plasma (in vitro), the plasma protein binding of CARDENE was not altered.
+
+DOSAGE AND ADMINISTRATION
+
+The dose of CARDENE SR should be individually adjusted according to the blood pressure response beginning with 30 mg two times daily. The effective doses in clinical trials have ranged from 30 mg to 60 mg two times daily. The maximum blood pressure lowering effect at steady-state is sustained from 2 hours until 6 hours after dosing.
+
+When initiating therapy or upon increasing dose, blood pressure should be measured 2 to 4 hours after the first dose or dose increase, as well as at the end of a dosing interval.
+
+The total daily dose of immediate release nicardipine (CARDENE) may not be a useful guide to judging the effective dose of CARDENE SR. Patients currently receiving immediate release nicardipine may be titrated with CARDENE SR starting at their current total daily dose of immediate release nicardipine and then reexamined to assess the adequacy of blood pressure control.
+
+Concomitant Use With Other Antihypertensive Agents:
+
+    Diuretics: CARDENE may be safely coadministered with thiazide diuretics.
+
+    Beta-Blockers: CARDENE may be safely coadministered with beta-blockers (see Drug Interactions).
+
+

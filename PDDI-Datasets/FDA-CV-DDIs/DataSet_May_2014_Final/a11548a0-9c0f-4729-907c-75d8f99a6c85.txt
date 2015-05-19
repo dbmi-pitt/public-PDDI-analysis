@@ -1,0 +1,89 @@
+Drug Label for drug brand Zebeta, containing Bisoprolol Fumarate.
+
+
+CONTRAINDICATIONS
+
+
+ZEBETA is contraindicated in patients with cardiogenic shock, overt cardiac failure, second or third degree AV block, and marked sinus bradycardia.
+
+
+WARNINGS
+
+
+Cardiac Failure
+
+Sympathetic stimulation is a vital component supporting circulatory function in the setting of congestive heart failure, and beta-blockade may result in further depression of myocardial contractility and precipitate more severe failure. In general, beta-blocking agents should be avoided in patients with overt congestive failure. However, in some patients with compensated cardiac failure it may be necessary to utilize them. In such a situation, they must be used cautiously.
+
+In Patients Without a History of Cardiac Failure
+
+Continued depression of the myocardium with beta-blockers can, in some patients, precipitate cardiac failure. At the first signs or symptoms of heart failure, discontinuation of ZEBETA should be considered. In some cases, beta-blocker therapy can be continued while heart failure is treated with other drugs.
+
+Abrupt Cessation of Therapy
+
+Exacerbation of angina pectoris, and, in some instances, myocardial infarction or ventricular arrhythmia, have been observed in patients with coronary artery disease following abrupt cessation of therapy with beta-blockers. Such patients should, therefore, be cautioned against interruption or discontinuation of therapy without the physician s advice. Even in patients without overt coronary artery disease, it may be advisable to taper therapy with ZEBETA over approximately one week with the patient under careful observation. If withdrawal symptoms occur, ZEBETA therapy should be reinstituted, at least temporarily.
+
+Peripheral Vascular Disease
+
+Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease. Caution should be exercised in such individuals.
+
+Bronchospastic Disease
+
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of its relative beta1-selectivity, however, ZEBETA may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate other antihypertensive treatment. Since beta1-selectivity is not absolute, the lowest possible dose of ZEBETA should be used, with therapy starting at 2.5 mg. A beta2 agonist (bronchodilator) should be made available.
+
+Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes and Hypoglycemia
+
+Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia. Nonselective beta-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels. Because of its beta1-selectivity, this is less likely with ZEBETA. However, patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities and bisoprolol fumarate should be used with caution.
+
+Thyrotoxicosis
+
+Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia. Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate thyroid storm.
+
+
+PRECAUTIONS
+
+
+Impaired Renal or Hepatic Function
+
+Use caution in adjusting the dose of ZEBETA in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+
+Drug Interactions
+
+ZEBETA should not be combined with other beta-blocking agents. Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of ZEBETA may produce excessive reduction of sympathetic activity. In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that ZEBETA be discontinued for several days before the withdrawal of clonidine.
+ZEBETA should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine verapamil and benzothiazepine diltiazem classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+Concurrent use of rifampin increases the metabolic clearance of ZEBETA, resulting in a shortened elimination half-life of ZEBETA. However, initial dose modification is generally not necessary. Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics, and cimetidine. There was no effect of ZEBETA on prothrombin time in patients on stable doses of warfarin.
+Risk of Anaphylactic Reaction:. While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
+
+Information for Patients
+
+Patients, especially those with coronary artery disease, should be warned about discontinuing use of ZEBETA without a physician s supervision. Patients should also be advised to consult a physician if any difficulty in breathing occurs, or if they develop signs or symptoms of congestive heart failure or excessive bradycardia.
+Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned that beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia, and bisoprolol fumarate should be used with caution.
+Patients should know how they react to this medicine before they operate automobiles and machinery or engage in other tasks requiring alertness.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies were conducted with oral bisoprolol fumarate administered in the feed of mice (20 and 24 months) and rats (26 months). No evidence of carcinogenic potential was seen in mice dosed up to 250 mg/kg/day or rats dosed up to 125 mg/kg/day. On a body weight basis, these doses are 625 and 312 times, respectively, the maximum recommended human dose (MRHD) of 20 mg, (or 0.4 mg/kg/day based on a 50 kg individual), on a body surface area basis, these doses are 59 times (mice) and 64 times (rats) the MRHD. The mutagenic potential of bisoprolol fumarate was evaluated in the microbial mutagenicity (Ames) test, the point mutation and chromosome aberration assays in Chinese hamster V79 cells, the unscheduled DNA synthesis test, the micronucleus test in mice, and the cytogenetics assay in rats. There was no evidence of mutagenic potential in these in vitro and in vivo assays.
+Reproduction studies in rats did not show any impairment of fertility at doses up to 150 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
+
+Pregnancy Category C
+
+In rats, bisoprolol fumarate was not teratogenic at doses up to 150 mg/kg/day which is 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body weight gain) at 150 mg/kg/day. The fetotoxicity in rats occurred at 125 times the MRHD on a body weight basis and 26 times the MRHD on the basis of body surface area. The maternotoxicity occurred at 375 times the MRHD on a body weight basis and 77 times the MRHD on the basis of body surface area. In rabbits, bisoprolol fumarate was not teratogenic at doses up to 12.5 mg/kg/day, which is 31 and 12 times the MRHD based on body weight and body surface area, respectively, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day.
+There are no adequate and well-controlled studies in pregnant women. ZEBETA (bisoprolol fumarate) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nursing Mothers
+
+Small amounts of bisoprolol fumarate ( 2% of the dose) have been detected in the milk of lactating rats. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk caution should be exercised when bisoprolol fumarate is administered to nursing women.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+ZEBETA has been used in elderly patients with hypertension. Response rates and mean decreases in systolic and diastolic blood pressure were similar to the decreases in younger patients in the U.S. clinical studies. Although no dose response study was conducted in elderly patients, there was a tendency for older patients to be maintained on higher doses of bisoprolol fumarate.
+Observed reductions in heart rate were slightly greater in the elderly than in the young and tended to increase with increasing dose. In general, no disparity in adverse experience reports or dropouts for safety reasons was observed between older and younger patients. Dose adjustment based on age is not necessary.
+

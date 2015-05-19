@@ -1,0 +1,9 @@
+drug pair    ONCHighPriority    DDICorpus2013
+http://bio2rdf.org/drugbank:DB00701-http://bio2rdf.org/drugbank:DB01045    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00215-http://bio2rdf.org/drugbank:DB01175    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00604    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00701-http://bio2rdf.org/drugbank:DB00615    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00204    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00220-http://bio2rdf.org/drugbank:DB00615    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00220-http://bio2rdf.org/drugbank:DB01045    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00224-http://bio2rdf.org/drugbank:DB00615    [(None, None)]    [(None, None)]

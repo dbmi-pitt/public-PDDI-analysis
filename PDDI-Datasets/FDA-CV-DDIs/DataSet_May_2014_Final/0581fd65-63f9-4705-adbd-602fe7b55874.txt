@@ -1,0 +1,48 @@
+Drug Label for drug brand Indocin, containing indomethacin.
+
+
+CONTRAINDICATIONS
+
+
+INDOCIN I.V. is contraindicated in: neonates with proven or suspected infection that is untreated, neonates who are bleeding, especially those with active intracranial hemorrhage or gastrointestinal bleeding, neonates with thrombocytopenia, neonates with coagulation defects, neonates with or who are suspected of having necrotizing enterocolitis, neonates with significant impairment of renal function, neonates with congenital heart disease in whom patency of the ductus arteriosus is necessary for satisfactory pulmonary or systemic blood flow (e.g., pulmonary atresia, severe tetralogy of Fallot, severe coarctation of the aorta).
+
+
+WARNINGS
+
+
+Gastrointestinal Effects
+
+In the collaborative study, major gastrointestinal bleeding was no more common in those neonates receiving indomethacin than in those neonates on placebo. However, minor gastrointestinal bleeding (i.e., chemical detection of blood in the stool) was more commonly noted in those neonates treated with indomethacin. Severe gastrointestinal effects have been reported in adults with various arthritic disorders treated chronically with oral indomethacin. For further information, see package insert for Capsules INDOCIN (Indomethacin). 
+
+Central Nervous System Effects
+
+Prematurity per se, is associated with an increased incidence of spontaneous intraventricular hemorrhage. Because indomethacin may inhibit platelet aggregation, the potential for intraventricular bleeding may be increased. However, in the large multicenter study of INDOCIN I.V. (see CLINICAL PHARMACOLOGY), the incidence of intraventricular hemorrhage in neonates treated with INDOCIN I.V. was not significantly higher than in the control neonates.
+
+Renal Effects
+
+INDOCIN I.V. may cause significant reduction in urine output (50 percent or more) with concomitant elevations of blood urea nitrogen and creatinine, and reductions in glomerular filtration rate and creatinine clearance. These effects in most neonates are transient, disappearing with cessation of therapy with INDOCIN I.V. However, because adequate renal function can depend upon renal prostaglandin synthesis, INDOCIN I.V. may precipitate renal insufficiency, including acute renal failure, especially in neonates with other conditions that may adversely affect renal function (e.g., extracellular volume depletion from any cause, congestive heart failure, sepsis, concomitant use of any nephrotoxic drug, hepatic dysfunction). When significant suppression of urine volume occurs after a dose of INDOCIN I.V., no additional dose should be given until the urine output returns to normal levels.
+INDOCIN I.V. in pre-term infants may suppress water excretion to a greater extent than sodium excretion. When this occurs, a significant reduction in serum sodium values (i.e., hyponatremia) may result. Neonates should have serum electrolyte determinations done during therapy with INDOCIN I.V. Renal function and serum electrolytes should be monitored (see PRECAUTIONS, Drug Interactions and DOSAGE AND ADMINISTRATION).
+
+
+PRECAUTIONS
+
+
+General
+
+INDOCIN (Indomethacin) may mask the usual signs and symptoms of infection. Therefore, the physician must be continually on the alert for this and should use the drug with extra care in the presence of existing controlled infection.
+Severe hepatic reactions have been reported in adults treated chronically with oral indomethacin for arthritic disorders. For further information, see package insert for Capsules INDOCIN (Indomethacin). If clinical signs and symptoms consistent with liver disease develop in the neonate, or if systemic manifestations occur, INDOCIN I.V. should be discontinued.
+INDOCIN I.V. may inhibit platelet aggregation. In one small study, platelet aggregation was grossly abnormal after indomethacin therapy (given orally to premature infants to close the ductus arteriosus). Platelet aggregation returned to normal by the tenth day. Premature infants should be observed for signs of bleeding.
+The drug should be administered carefully to avoid extravascular injection or leakage as the solution may be irritating to tissue.
+
+Drug Interactions
+
+Since renal function may be reduced by INDOCIN I.V., consideration should be given to reduction in dosage of those medications that rely on adequate renal function for their elimination. Because the half-life of digitalis (given frequently to pre-term infants with patent ductus arteriosus and associated cardiac failure) may be prolonged when given concomitantly with indomethacin, the neonate should be observed closely, frequent ECGs and serum digitalis levels may be required to prevent or detect digitalis toxicity early. Furthermore, in one study of premature infants treated with INDOCIN I.V. and also receiving either gentamicin or amikacin, both peak and trough levels of these aminoglycosides were significantly elevated.
+Therapy with indomethacin may blunt the natriuretic effect of furosemide. This response has been attributed to inhibition of prostaglandin synthesis by non-steroidal anti-inflammatory drugs. In a study of 19 premature infants with patent ductus arteriosus treated with either INDOCIN I.V. alone or a combination of INDOCIN I.V. and furosemide, results showed that neonates receiving both INDOCIN I.V. and furosemide had significantly higher urinary output, higher levels of sodium and chloride excretion, and higher glomerular filtration rates than did those receiving INDOCIN I.V. alone. In this study, the data suggested that therapy with furosemide helped to maintain renal function in the premature infant when INDOCIN I.V. was added to the treatment of patent ductus arteriosus.
+Indomethacin usually does not influence the hypoprothrombinemia produced by anticoagulants. When indomethacin is added to anticoagulants, prothrombin time should be monitored closely. In post marketing experience, bleeding has been reported in patients on concomitant treatment with anticoagulants and INDOCIN I.V. Caution should be exercised when INDOCIN I.V. and anticoagulants are administered concomitantly.
+In some patients with compromised renal function, the co-administration of an NSAID and an ACE inhibitor or angiotensin II antagonist may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible.
+
+Neonatal Effects
+
+In rats and mice, oral indomethacin 4.0 mg/kg/day given during the last three days of gestation caused a decrease in maternal weight gain and some maternal and fetal deaths. An increased incidence of neuronal necrosis in the diencephalon in the live-born fetuses was observed. At 2.0 mg/kg/day, no increase in neuronal necrosis was observed as compared to the control groups. Administration of 0.5 or 4.0 mg/kg/day during the first three days of life did not cause an increase in neuronal necrosis at either dose level.
+Pregnant rats, given 2.0 mg/kg/day and 4.0 mg/kg/day during the last trimester of gestation, delivered offspring whose pulmonary blood vessels were both reduced in number and excessively muscularized. These findings are similar to those observed in the syndrome of persistent pulmonary hypertension of the neonate.
+

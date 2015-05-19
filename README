@@ -1,0 +1,256 @@
+This folder holds the data files, scripts, and results of an analysis
+of several publicly available potential drug-drug interaction (PDDI)
+knowledge bases. The general format of the project is as follows:
+
+analysis-results -- the data output from analyzing the overlap of the
+                    individual datasets
+bibliography  --  scientific literature or documents importnat for the analysis
+json-data  -- some of the PDDI data was stored in JSON
+log-files --  script logs ran to support the analysis
+PDDI Datasets -- the PDDI data pulled from the original sources
+pickle-data -- PDDI data from each source stored as a Python pickle
+scripts -- the code used to query or load the PDDI data int the
+           pickles. Also code used for the analysis
+Sql scripts -- the sql code used to query, load or map the PDDI data in Relational DB         
+terminology-mappings -- mappings of various PDDI data elements to DrugBank
+                     -- the database dump of the relational DB used for mappings is saved under here.
+                     -- As for the RDBMS, we used Sql server 2012. 
+Merged Dataset Location; 
+          --Less conservative dataset is saved under; https://code.google.com/p/swat-4-med-safety/source/browse/trunk/SW-DDI-catalog/drug-drug-interactions/analysis-results/CombinedDatasetNotConservative.csv.zip
+          --More conservative dataset is saved under https://code.google.com/p/swat-4-med-safety/source/browse/trunk/SW-DDI-catalog/drug-drug-interactions/analysis-results/CombinedDatasetConservative.csv.zip
+
+------------------------------
+VALIDATION STEPS
+------------------------------
+
+We validated both the DrugBank mappings and the conversion of PDDIs
+from the sources to the Python PDDI model by.....
+
+the log of the validation is stored in the file; /analysis-results/Validation-List.csv
+
+the manual validation was conducted by selecting the first, last and a few randomly selected records 
+from the middle of each overlap result files. Then, the URIs for each drug and the Interaction were used to 
+locate the resource in their source to verify the validity of the mapping.
+All of the DDIs in the validation file is manually confirmed to be accurate.
+
+
+
+------------------------------
+DRUGBANK PDDIs
+------------------------------
+
+
+Scanned for duplicates as follows:
+
+<example>
+
+common = {}
+
+for i in range(0,len(pddiL)):
+    k1 = "%s-%s" % (pddiL[i]["drug1"], pddiL[i]["drug2"])        
+    k2 = "%s-%s" % (pddiL[i]["drug2"], pddiL[i]["drug1"])
+    
+    if common.get(k1) == None and common.get(k2) == None:
+        common[k1] = ""
+    else:
+        print "dup: %s" % (k1 + ":" + k2)
+
+
+</example>
+
+------------------------------
+NDF-RT PDDIs
+------------------------------
+
+
+NDF-RT to drugbank mappings based on a query against the LinkedSPLs SQL database:
+
+SELECT DISTINCT f.PreferredSubstance, f.Drugbank_Bio2rdf, n.NUI
+FROM RXNORM_NDFRT_INGRED_Table n
+INNER JOIN FDAPreferredSubstanceToRxNORM a ON n.RxNorm = a.RxNorm
+INNER JOIN FDA_SUBSTANCE_TO_DRUGBANK_BIO2RDF f ON f.PreferredSubstance = a.PreferredSubstance
+ORDER BY f.PreferredSubstance, n.NUI
+
+The results of the SQL query dumped into the csv file located at ;
+	/terminology-mappings/Ndfrt-Drugbank-Mapping.csv
+
+Using the python script "load-NDFRT-Drugbank-Xref-fromCSV.py" the mappings in the csv file converted into 
+a pickle file to be used in the overlap analyses. 
+The Xref pickle file is stored here; ../pickle-data/ndfrt-ddis-xref.pickle
+
+
+------------------------------
+DIKB PDDIs
+------------------------------
+
+Scanned for duplicates as follows:
+
+  for i in range(0,len(allDIKBL)):
+        k1 = "%s-%s" % (allDIKBL[i]["drug1"], allDIKBL[i]["drug2"])        
+        k2 = "%s-%s" % (allDIKBL[i]["drug2"], allDIKBL[i]["drug1"])
+       
+        if not common.has_key(k1) and not common.has_key(k2):
+            common[k1] = ""
+        else:
+            print "dup:  %s %s %s" % (k1,k2,allDIKBL[i]["uri"])
+           # print allDIKBL[i]
+     
+------------------------------
+TWOSIDES PDDIs
+------------------------------
+
+TWOSIDES drugs were mapped to DrugBank as follows:
+
+1) The script query-pubchem-to-drugbank-mapping.py was used to query
+DrugBank (http://drugbank.bio2rdf.org/sparql) for pubchem ids. Data
+was output to pubchem-to-drugbank-mapping.pickle
+
+2) The script load-TwoSides-DDIs.py loaded the mapping file and the
+TSV file with TWOSIDES data. It then iterated through all of the PDDIs
+adding bio2rdf namespaces to the pubchem ids so that they could be
+matched with drugbank CUIs.
+
+------------------------------
+CREDIBLEMEDS.ORG PDDIS
+------------------------------
+
+The HTML source from
+<http://www.crediblemeds.org/healthcare-providers/drug-drug-interaction>
+was downloaded and the div containing PDDIs copied to a text file
+(crediblemeds-raw-PDDIs-09282013.txt). Rich Boyce manually copied the
+object and precipitant drugs to a spreadsheet. Statins were expanded
+
+by querying LinkedSPL for drug products tagged as NDF-RT class
+"HMG-COA REDUCTASE INHIBITOR [EPC]" and then manually copying out the
+active moiety strings. NSAIDs were expanded using the list provided by
+the FDA in
+<http://www.fda.gov/downloads/Drugs/DrugSafety/ucm089162.pdf>. All
+drugs were then mapped to drugbank using the reference drugbank
+mapping file for linkedSPLs
+<https://swat-4-med-safety.googlecode.com/svn/trunk/linkedSPLs/ChEBI-DrugBank-bio2rdf-mapping/fda-substance-preferred-name-to-drugbank-09292012.csv>
+and manual searches of
+<http://www.drugbank.ca/drugs/DB01015>. SULFAMETHOXAZOLE/TRIMETHOPRIM
+was mapped to the drugbank id for SULFAMETHOXAZOLE. THYROID USP was
+dropped because that is a preparation of other thyroid hormones and
+there is no specific drugbank id. 
+
+------------------------------
+KEGG PDDIS
+------------------------------
+
+The script query-DIKB-DDIs.py retrieves all DDIs from the
+KEGG Medicus API (http://www.kegg.jp/kegg/rest/keggapi2.html). The
+script reads all Kegg drugs from all-kegg-drugs-7212014.txt which
+pulled from the Kegg FTP site (7/21/2014). The API query is very
+simple (e.g., try http://rest.kegg.jp/ddi/D00564) and returns a
+tab-delimited text where each line is the Kegg drugs involved in the
+interaction, the severity (precaution "P" or contraindiation "C"), and
+mechanism (if available). The script parses this data then keeps only
+thos interactions for which both drugs can be mapped to DrugBank. The
+DrugBank mapping came from a query of Bio2RDF for all drugs with an
+xref containing the text "kegg" and is stored in
+drugbank-to-kegg-mapping.csv. The Query used to pull the results for the file drugbank-to-kegg-mapping.csv:
+
+PREFIX n2:	<http://bio2rdf.org/drugbank_resource:>
+PREFIX n3:	<http://bio2rdf.org/drugbank_vocabulary:>
+PREFIX n4:	<http://bio2rdf.org/drugbank:>
+PREFIX n5:	<http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsdh:	<http://www.w3.org/2001/XMLSchema#>
+
+SELECT *
+WHERE {
+  ?s n3:x-kegg  ?o.
+  ?s n5:label ?t
+}  
+
+
+This process yielded the following
+results:
+Total drugs queried: 10037
+No DDI results: 5504
+Total DDIs returned: 519193   (note to self: 'egrep "^dr:|INFO: Results: dr:" log.txt| wc -l' on log.txt)
+Total DDIs skipped due to no DrugBank mapping: 478653
+Original count of DDIs where both drugs could be mapped to DrugBank: 40540
+Duplicates dropped (assumes no directionality to the PDDI): 19893
+Final number of DDIs saved: 20647
+
+So, that means that 20647 Kegg PDDIs are available for comparison. These are all in the file deduped-kegg-ddis.pickle. 
+
+
+
+------------------------------------------------------------
+PDDIs USED IN THE OSCAR EMR 
+------------------------------------------------------------
+
+* Dataset and Source Location
+
+From the OSCAR documentation (https://sites.google.com/site/oscarusermanual/-oscar-emr/3-0-clinical-functions/3-7-1), we found the pointer that the Drug database for Oscar using is called Drugref2.
+
+
+Drugref2 has its own application and sub-project under google code here:
+https://code.google.com/p/drugref2/source/checkout
+
+The SQL Dump of the dataset is available under the Oscar Project with date "2012-09-18"
+http://sourceforge.net/p/oscarmcmaster/oscar/ci/master/tree/release/drugref.sql
+
+SQL dump also available here; 
+https://github.com/scoophealth/oscar/blob/master/release/drugref.sql
+ 
+
+We downloaded the original interactions from Drugref2 to here; 
+../original-drug-data/drugref2-DDIs-from-OSCAR.csv 
+
+
+The following descriptions about Drugref are referenced from http://wiki.gnumed.de/bin/view/Gnumed/DrugRef
+
+the Oscar implementation of drugref contains both Canadian DPD data and Crowther / Holbrook interaction data from the publication by these authors;
+"Crowther, N. R., Holbrook, A. M., Kenwright, R., & Kenwright, M. (1997). Drug interactions among commonly used medications. Chart simplifies data from critical literature review. Canadian Family Physician, 43, 1972."
+
+The original drugref involved a postgres database, python XML-RPC API, and php interface.
+
+Oscar McMaster EMR reworked drugref into (what they refer to) as drugref2:
+Oscar never did use the PHP interface (meant for maintaining a monolithic database)
+Oscar originally imported Canadian DPD data into the original drugref schema, but found this slow 
+subsequently let Canadian DPD data imports persist (as imported) in additional tables and added (a python?) DPD plugin to supply needed server-side data to the API (versioned in the oscar cvs hosted on sourceforge, but hosted for the most part on savannah)
+added tables to speed searching
+imported later-acquired Holbrook interactions data
+ported to mysql
+in 2009
+ made a java version of the API (as an alternative to the pythonic API)
+ implemented the database layer in JPA (Java Persistence API), which has made it easier to support both Postgresql and Mysql
+ http://code.google.com/p/drugref2/source/checkout
+ you can run the java drugref webapp on-top of an existing postgresql drugref database and it works
+ 
+
+* mapping from ATC to RxNorm to DrugBank
+
+Example query of ATC code to get RxNorm CUI using OMOP Standard Vocabulary 4.4: 
+
+---
+SELECT  C.concept_id    ingredient_concept_id,
+        C.concept_name  ingredient_concept_name,
+        C.concept_class ingredient_concept_class,
+        C.concept_code  ingredient_concept_code
+ FROM   concept          C,
+        concept          D,
+        concept_ancestor CA
+ WHERE  d.concept_code = 'H03AA03'
+   AND CA.ancestor_concept_id = d.concept_id
+   AND  C.concept_id           = CA.descendant_concept_id
+   AND  C.vocabulary_id        = 8
+   AND  C.concept_level        = 2;
+---
+
+
+* Mapping from RxNorm to DrugBank using LinkedSPLs RDB April 2014:
+
+---
+
+SELECT * FROM `FDAPreferredSubstanceToRxNORM` INNER JOIN 
+              `FDA_SUBSTANCE_TO_DRUGBANK_BIO2RDF` ON  
+              `FDAPreferredSubstanceToRxNORM`.PreferredSubstance = `FDA_SUBSTANCE_TO_DRUGBANK_BIO2RDF`.PreferredSubstance 
+WHERE 
+`FDAPreferredSubstanceToRxNORM`.RxNORM IN ('http://purl.bioontology.org/ontology/RXNORM/6703','http://purl.bioontology.org/ontology/RXNORM/6691','http://purl.bioontology.org/ontology/RXNORM/14584','http://purl.bioontology.org/ontology/RXNORM/7514','http://purl.bioontology.org/ontology/RXNORM/7518','http://purl.bioontology.org/ontology/RXNORM/22656','http://purl.bioontology.org/ontology/RXNORM/6373','http://purl.bioontology.org/ontol ogy/RXNORM/24591','http://purl.bioontology.org/ontology/RXNORM/6529','http://purl.bioontology.org/ontology/RXNORM/7519','http://purl.bioontology.org/ontology/RXNORM/1005921')
+
+

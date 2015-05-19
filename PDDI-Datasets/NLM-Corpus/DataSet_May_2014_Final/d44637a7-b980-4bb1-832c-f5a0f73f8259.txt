@@ -1,0 +1,140 @@
+Drug Label for drug brand ALDACTAZIDE, containing spironolactone and hydrochlorothiazide.
+
+
+WARNING
+
+
+Spironolactone, an ingredient of ALDACTAZIDE, has been shown to be a tumorigen in chronic toxicity studies in rats (see Precautions ). ALDACTAZIDE should be used only in those conditions described under Indications and Usage. Unnecessary use of this drug should be avoided.
+Fixed-dose combination drugs are not indicated for initial therapy of edema or hypertension. Edema or hypertension requires therapy titrated to the individual patient. If the fixed combination represents the dosage so determined, its use may be more convenient in patient management. The treatment of hypertension and edema is not static but must be reevaluated as conditions in each patient warrant.
+
+
+CONTRAINDICATIONS
+
+ALDACTAZIDE is contraindicated in patients with anuria, acute renal insufficiency, significant impairment of renal excretory function, hypercalcemia, hyperkalemia, Addison's disease or other conditions associated with hyperkalemia, and in patients who are allergic to thiazide diuretics or to other sulfonamide-derived drugs. ALDACTAZIDE may also be contraindicated in acute or severe hepatic failure.
+
+
+WARNINGS
+
+Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with ALDACTAZIDE therapy. Excessive potassium intake may cause hyperkalemia in patients receiving ALDACTAZIDE (see Precautions: General ).
+Concomitant administration of ALDACTAZIDE with the following drugs or potassium sources may lead to severe hyperkalemia:
+ <list>
+ <item>
+ <item>other potassium-sparing diuretics
+ <item>
+ <item>ACE inhibitors
+ <item>
+ <item>angiotensin II receptor antagonists
+ <item>
+ <item>aldosterone blockers
+ <item>
+ <item>non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
+ <item>
+ <item>heparin and low molecular weight heparin
+ <item>
+ <item>other drugs known to cause hyperkalemia
+ <item>
+ <item>potassium supplements
+ <item>
+ <item>diet rich in potassium
+ <item>
+ <item>salt substitutes containing potassium
+ <item>
+ </list>
+
+ALDACTAZIDE should not be administered concurrently with other potassium-sparing diuretics. Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia. Extreme caution should be exercised when ALDACTAZIDE is given concomitantly with these drugs (see Precautions: Drug interactions ).
+ALDACTAZIDE should be used with caution in patients with impaired hepatic function because minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+Lithium generally should not be given with diuretics (see Precautions: Drug interactions ).
+Thiazides should be used with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.
+Thiazides may add to or potentiate the action of other antihypertensive drugs.
+Sensitivity reactions to thiazides may occur in patients with or without a history of allergy or bronchial asthma.
+Sulfonamide derivatives, including thiazides, have been reported to exacerbate or activate systemic lupus erythematosus.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+
+PRECAUTIONS
+
+
+General
+
+All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis, and hypokalemia or hyperkalemia.
+Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Hyperkalemia may occur in patients with impaired renal function or excessive potassium intake and can cause cardiac irregularities, which may be fatal. Consequently, no potassium supplement should ordinarily be given with ALDACTAZIDE.
+If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia, and shock), an electrocardiogram (ECG) should be obtained. However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
+If hyperkalemia is present, ALDACTAZIDE should be discontinued immediately. With severe hyperkalemia, the clinical situation dictates the procedures to be employed. These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution, and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation. These are temporary measures to be repeated as required. Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered. Persistent hyperkalemia may require dialysis.
+Hypokalemia may develop as a result of profound diuresis, particularly when ALDACTAZIDE is used concomitantly with loop diuretics, glucocorticoids, or ACTH, when severe cirrhosis is present, or after prolonged therapy. Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmias and may exaggerate the effects of digitalis therapy. Potassium depletion may induce signs of digitalis intoxication at previously tolerated dosage levels. Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+ALDACTAZIDE therapy may cause a transient elevation of BUN. This appears to represent a concentration phenomenon rather than renal toxicity, since the BUN level returns to normal after use of ALDACTAZIDE is discontinued. Progressive elevation of BUN is suggestive of the presence of preexisting renal impairment.
+Reversible hyperchloremic metabolic acidosis, usually in association with hyperkalemia, has been reported to occur in some patients with decompensated hepatic cirrhosis, even in the presence of normal renal function.
+Dilutional hyponatremia, manifested by dryness of the mouth, thirst, lethargy, and drowsiness, and confirmed by a low serum sodium level, may be induced, especially when ALDACTAZIDE is administered in combination with other diuretics, and dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction rather than administration of sodium, except in rare instances when the hyponatremia is life-threatening. A true low-salt syndrome may rarely develop with ALDACTAZIDE therapy and may be manifested by increasing mental confusion similar to that observed with hepatic coma. This syndrome is differentiated from dilutional hyponatremia in that it does not occur with obvious fluid retention. Its treatment requires that diuretic therapy be discontinued and sodium administered.
+Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazides. Thiazides have been shown to increase the urinary excretion of magnesium, this may result in hypomagnesemia. Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
+In diabetic patients, dosage adjustments of insulin or oral hypoglycemic agents may be required. Hyperglycemia may occur with thiazide diuretics. Thus, latent diabetes mellitus may become manifest during thiazide therapy.
+The antihypertensive effects of ALDACTAZIDE may be enhanced in the post-sympathetectomy patient. If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
+Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function. Pathologic changes in the parathyroid gland with hypercalcemia and hypophosphatemia have been observed in patients on prolonged thiazide therapy.
+Gynecomastia may develop in association with the use of spironolactone, physicians should be alert to its possible onset. The development of gynecomastia appears to be related to both dosage level and duration of therapy and is normally reversible when ALDACTAZIDE is discontinued. In rare instances, some breast enlargement may persist when ALDACTAZIDE is discontinued.
+Somnolence and dizziness have been reported to occur in some patients. Caution is advised when driving or operating machinery until the response to initial treatment has been determined.
+
+Information for patients
+
+Patients who receive ALDACTAZIDE should be advised to avoid potassium supplements and foods containing high levels of potassium including salt substitutes.
+
+Laboratory tests
+
+Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be done at appropriate intervals, particularly in the elderly and those with significant renal or hepatic impairments.
+
+Drug interactions
+
+ACE inhibitors: Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
+Angiotensin II receptor antagonists, aldosterone blockers, heparin, low molecular weight heparin, and other drugs known to cause hyperkalemia: Concomitant administration may lead to severe hyperkalemia.
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+Antidiabetic drugs (e.g., oral agents, insulin): Dosage adjustment of the antidiabetic drug may be required.
+Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia, may occur.
+Pressor amines (e.g., norepinephrine): Both spironolactone and hydrochlorothiazide reduce the vascular responsiveness to norepinephrine. Therefore, caution should be exercised in the management of patients subjected to regional or general anesthesia while they are being treated with ALDACTAZIDE.
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant may result.
+Lithium: Lithium generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
+Nonsteroidal anti-inflammatory drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics. Combination of NSAIDs, e.g., indomethacin, with potassium-sparing diuretics has been associated with severe hyperkalemia. Therefore, when ALDACTAZIDE and NSAIDs are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Digoxin: Spironolactone has been shown to increase the half-life of digoxin. This may result in increased serum digoxin levels and subsequent digitalis toxicity. It may be necessary to reduce the maintenance and digitalization doses when spironolactone is administered, and the patient should be carefully monitored to avoid over- or underdigitalization.
+Cholestyramine: Hyperkalemic metabolic acidosis has been reported in patients given spironolactone concurrently with cholestyramine.
+
+Drug/Laboratory test interactions
+
+Thiazides should be discontinued before carrying out tests for parathyroid function (see Precautions: General ). Thiazides may also decrease serum PBI levels without evidence of alteration of thyroid function.
+Several reports of possible interference with digoxin radioimmunoassays by spironolactone or its metabolites have appeared in the literature. Neither the extent nor the potential clinical significance of its interference (which may be assay specific) has been fully established.
+
+Carcinogenesis, mutagenesis, impairment of fertility
+
+
+Spironolactone
+
+Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver. In an 18-month study using doses of about 50, 150, and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules). In a 24-month study in which the same strain of rat was administered doses of about 10, 30 and 100 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes. There was also a statistically significant, but not dose-related, increase in benign uterine endometrial stromal polyps in females.
+A dose-related (above 30 mg/kg/day) incidence of myelocytic leukemia was observed in rats fed daily doses of potassium canrenoate (a compound chemically similar to spironolactone and whose primary metabolite, canrenone, is also a major product of spironolactone in man) for a period of one year. In two year studies in the rat, oral administration of potassium canrenoate was associated with myelocytic leukemia and hepatic, thyroid, testicular, and mammary tumors.
+Neither spironolactone nor potassium canrenoate produced mutagenic effects in tests using bacteria or yeast. In the absence of metabolic activation, neither spironolactone nor potassium canrenoate has been shown to be mutagenic in mammalian tests in vitro. In the presence of metabolic activation, spironolactone has been reported to be negative in some mammalian mutagenicity tests in vitro and inconclusive (but slightly positive) for mutagenicity in other mammalian tests in vitro. In the presence of metabolic activation, potassium canrenoate has been reported to test positive for mutagenicity in some mammalian tests in vitro, inconclusive in others, and negative in still others.
+In a three-litter reproduction study in which female rats received dietary doses of 15 and 500 mg spironolactone/kg/day, there were no effects on mating and fertility, but there was a small increase in incidence of stillborn pups at 500 mg/kg/day. When injected into female rats (100 mg/kg/day for 7 days, i.p.), spironolactone was found to increase the length of the estrous cycle by prolonging diestrus during treatment and inducing constant diestrus during a two week posttreatment observation period. These effects were associated with retarded ovarian follicle development and a reduction in circulating estrogen levels, which would be expected to impair mating, fertility, and fecundity. Spironolactone (100 mg/kg/day), administered i.p. to female mice during a two week cohabitation period with untreated males, decreased the number of mated mice that conceived (effect shown to be caused by an inhibition of ovulation) and decreased the number of implanted embryos in those that became pregnant (effect shown to be caused by an inhibition of implantation), and at 200 mg/kg, also increased the latency period to mating.
+
+Hydrochlorothiazide
+
+Two year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day). The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
+Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of Salmonella typhimurium (Ames assay) and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 g/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
+Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
+
+Pregnancy
+
+
+Teratogenic effects. Pregnancy Category C
+
+Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus. There are, however, no adequate and well-controlled studies in pregnant women.
+Teratology studies with spironolactone have been carried out in mice and rabbits at doses of up to 20 mg/kg/day. On a body surface area basis, this dose in the mouse is substantially below the maximum recommended human dose and, in the rabbit, approximates the maximum recommended human dose. No teratogenic or other embryo-toxic effects were observed in mice, but the 20 mg/kg dose caused an increased rate of resorption and a lower number of live fetuses in rabbits. Because of its antiandrogenic activity and the requirement of testosterone for male morphogenesis, spironolactone may have the potential for adversely affecting sex differentiation of the male during embryogenesis. When administered to rats at 200 mg/kg/day between gestation days 13 and 21 (late embryogenesis and fetal development), feminization of male fetuses was observed. Offspring exposed during late pregnancy to 50 and 100 mg/kg/day doses of spironolactone exhibited changes in the reproductive tract including dose-dependent decreases in weights of the ventral prostate and seminal vesicle in males, ovaries and uteri that were enlarged in females, and other indications of endocrine dysfunction, that persisted into adulthood. There are no adequate and well-controlled studies with ALDACTAZIDE in pregnant women. Spironolactone has known endocrine effects in animals including progestational and antiandrogenic effects. The antiandrogenic effects can result in apparent estrogenic side effects in humans, such as gynecomastia. Therefore, the use of ALDACTAZIDE in pregnant women requires that the anticipated benefit be weighed against the possible hazards to the fetus.
+
+Non-teratogenic effects
+
+Spironolactone or its metabolites may, and hydrochlorothiazide does, cross the placental barrier and appear in cord blood. Therefore, the use of ALDACTAZIDE in pregnant women requires that the anticipated benefit be weighed against possible hazards to the fetus. The hazards include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+Nursing mothers
+
+Canrenone, a major (and active) metabolite of spironolactone, appears in human breast milk. Because spironolactone has been found to be tumorigenic in rats, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother. If use of the drug is deemed essential, an alternative method of infant feeding should be instituted.
+Thiazides are excreted in human milk in small amounts. Thiazides when given at high doses can cause intense diuresis which can in turn inhibit milk production. The use of ALDACTAZIDE during breast feeding is not recommended. If ALDACTAZIDE is used during breast feeding, doses should be kept as low as possible.
+
+Pediatric use
+
+Safety and effectiveness in pediatric patients have not been established.
+

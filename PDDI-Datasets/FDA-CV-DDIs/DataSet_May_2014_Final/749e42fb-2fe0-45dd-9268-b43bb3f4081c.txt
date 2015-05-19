@@ -1,0 +1,203 @@
+Drug Label for drug brand Tracleer, containing bosentan.
+
+
+WARNING: RISKS OF HEPATOTOXICITY and TERATOGENICITY
+
+
+Because of the risks of hepatotoxicity and birth defects, Tracleer is available only through a restricted program called the Tracleer Access Program (T.A.P.). T.A.P. is a component of the Tracleer Risk Evaluation and Mitigation Strategy (REMS). Under the Tracleer REMS, prescribers, patients, and pharmacies must enroll in the program. see Warnings and Precautions (5.2).
+Hepatotoxicity
+In clinical studies, Tracleer caused at least 3-fold upper limit of normal (ULN) elevation of liver aminotransferases (ALT and AST) in about 11% of patients, accompanied by elevated bilirubin in a small number of cases. Because these changes are a marker for potential serious hepatotoxicity, serum aminotransferase levels must be measured prior to initiation of treatment and then monthly see Dosage and Administration (2.2), Warnings and Precautions (5.1). In the postmarketing period, in the setting of close monitoring, rare cases of unexplained hepatic cirrhosis were reported after prolonged ( 12 months) therapy with Tracleer in patients with multiple comorbidities and drug therapies. There have also been reports of liver failure. The contribution of Tracleer in these cases could not be excluded.
+In at least one case, the initial presentation (after 20 months of treatment) included pronounced elevations in aminotransferases and bilirubin levels accompanied by non-specific symptoms, all of which resolved slowly over time after discontinuation of Tracleer. This case reinforces the importance of strict adherence to the monthly monitoring schedule for the duration of treatment and the treatment algorithm, which includes stopping Tracleer with a rise of aminotransferases accompanied by signs or symptoms of liver dysfunction see Dosage and Administration (2.2).
+Elevations in aminotransferases require close attention see Dosage and Administration (2.2). Tracleer should generally be avoided in patients with elevated aminotransferases ( 3 ULN) at baseline because monitoring for hepatotoxicity may be more difficult. If liver aminotransferase elevations are accompanied by clinical symptoms of hepatotoxicity (such as nausea, vomiting, fever, abdominal pain, jaundice, or unusual lethargy or fatigue) or increases in bilirubin 2 ULN, treatment with Tracleer should be stopped. There is no experience with the reintroduction of Tracleer in these circumstances.
+Teratogenicity
+Tracleer is likely to cause major birth defects if used by pregnant females based on animal data see Use in Specific Populations (8.1). Therefore, pregnancy must be excluded before the start of treatment with Tracleer. Throughout treatment and for one month after stopping Tracleer, females of childbearing potential must use two reliable methods of contraception unless the patient has a tubal sterilization or Copper T 380A IUD or LNg 20 IUS inserted, in which case no other contraception is needed. Hormonal contraceptives, including oral, injectable, transdermal, and implantable contraceptives should not be used as the sole means of contraception because these may not be effective in patients receiving Tracleer see Drug Interactions (7.2). Obtain monthly pregnancy tests.
+WARNING: RISKS OF HEPATOTOXICITY and TERATOGENICITY
+See full prescribing information for complete boxed warning.
+Tracleer is available only through a restricted distribution program called the Tracleer Access Program (T.A.P.) because of these risks (5.2):
+Elevations of liver aminotransferases (ALT, AST) and liver failure have been reported with Tracleer (5.1).
+ <list>
+ <item>
+ <item>Measure liver aminotransferases prior to initiation of treatment and then monthly (5.1).
+ <item>
+ <item>Discontinue Tracleer if aminotransferase elevations are accompanied by signs or symptoms of liver dysfunction or injury or increases in bilirubin 2 ULN (2.2, 5.1).
+ <item>
+ </list>
+
+Based on animal data, Tracleer is likely to cause major birth defects if used during pregnancy (4.1, 8.1).
+ <list>
+ <item>
+ <item>Must exclude pregnancy before and during treatment (4.1, 8.1).
+ <item>
+ <item>To prevent pregnancy, females of childbearing potential must use two reliable forms of contraception during treatment and for one month after stopping Tracleer (4.1, 8.1).
+ <item>
+ </list>
+
+
+
+4. CONTRAINDICATIONS
+
+ <list>
+ <item>
+ <item>Pregnancy (4.1)
+ <item>
+ <item>Use with Cyclosporine A (4.2)
+ <item>
+ <item>Use with Glyburide (4.3)
+ <item>
+ <item>Hypersensitivity (4.4)
+ <item>
+ </list>
+
+
+4.1 Pregnancy
+
+Use of Tracleer is contraindicated in females who are or may become pregnant. To prevent pregnancy, females of childbearing potential must use two reliable forms of contraception during treatment and for one month after stopping Tracleer. see Boxed Warning, Warnings and Precautions (5.2), Drug Interactions (7.2), Use in Specific Populations (8.1).
+
+4.2 Use with Cyclosporine A
+
+Coadministration of cyclosporine A and bosentan resulted in markedly increased plasma concentrations of bosentan. Therefore, concomitant use of Tracleer and cyclosporine A is contraindicated see Drug Interactions (7.3).
+
+4.3 Use with Glyburide
+
+An increased risk of liver enzyme elevations was observed in patients receiving glyburide concomitantly with bosentan. Therefore coadministration of glyburide and Tracleer is contraindicated see Drug Interactions (7.4).
+
+4.4 Hypersensitivity
+
+Tracleer is contraindicated in patients who are hypersensitive to bosentan or any component of the product. Observed reactions include rash and angioedema see Adverse Reactions (6.2), Description (11).
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Pre-existing hepatic impairment: Avoid use in moderate and severe impairment (5.3).
+ <item>
+ <item>Fluid retention: May require intervention (5.4).
+ <item>
+ <item>Pulmonary veno-occlusive disease ( PVOD) : If signs of pulmonary edema occur, consider the diagnosis of associated PVOD and consider discontinuing Tracleer (5.5)
+ <item>
+ <item>Decreased sperm counts (5.6)
+ <item>
+ <item>Decreases in hemoglobin and hematocrit: Monitor hemoglobin levels after 1 and 3 months of treatment, then every 3 months thereafter (5.7).
+ <item>
+ </list>
+
+
+5.1 Hepatotoxicity
+
+Elevations in ALT or AST by more than 3 ULN were observed in 11% of Tracleer-treated patients (n 658) compared to 2% of placebo-treated patients (n 280). Three-fold increases were seen in 12% of 95 pulmonary arterial hypertension (PAH) patients on 125 mg twice daily and 14% of 70 PAH patients on 250 mg twice daily. Eight-fold increases were seen in 2% of PAH patients on 125 mg twice daily and 7% of PAH patients on 250 mg twice daily. Bilirubin increases to 3 ULN were associated with aminotransferase increases in 2 of 658 (0.3%) of patients treated with Tracleer. The combination of hepatocellular injury (increases in aminotransferases of 3 ULN) and increases in total bilirubin ( 2 ULN) is a marker for potential serious hepatotoxicity.
+Elevations of AST or ALT associated with Tracleer are dose-dependent, occur both early and late in treatment, usually progress slowly, are typically asymptomatic, and usually have been reversible after treatment interruption or cessation. Aminotransferase elevations also may reverse spontaneously while continuing treatment with Tracleer.
+Liver aminotransferase levels must be measured prior to initiation of treatment and then monthly and therapy adjusted accordingly see Dosage and Administration (2.2). Discontinue Tracleer if liver aminotransferase elevations are accompanied by clinical symptoms of hepatotoxicity (such as nausea, vomiting, fever, abdominal pain, jaundice, or unusual lethargy or fatigue) or increases in bilirubin 2 ULN.
+
+5.2 Prescribing and Distribution Program for Tracleer
+
+Because of the risks of hepatotoxicity and birth defects, Tracleer is available only through a restricted program called the Tracleer Access Program (T.A.P.) As a component of the Tracleer REMS, prescribers, patients, and pharmacies must enroll in the program. see Boxed Warning and Contraindications (4.1).
+Required components of the Tracleer REMS are:
+ <list>
+ <item>
+ <item>Healthcare professionals who prescribe Tracleer must review the prescriber educational materials, enroll in T.A.P. and comply with its requirements.
+ <item>
+ <item>Healthcare professionals must (1) review serum aminotransferases (ALT/AST) and bilirubin, and agree to order and monitor these tests monthly, and (2) for females of childbearing potential, confirm that the patient is not pregnant, and agree to order and monitor pregnancy tests monthly.
+ <item>
+ <item>To receive Tracleer, all patients must understand the risks and benefits, complete a patient enrollment form, and be re-enrolled annually by their prescriber.
+ <item>
+ <item>Pharmacies that dispense Tracleer must enroll in the program and agree to comply with the T.A.P. requirements.
+ <item>
+ </list>
+
+Further information about Tracleer and T.A.P. is available at www.tracleerrems.com or 1-866-228-3546.
+
+5.3 Patients with Pre-existing Hepatic Impairment
+
+Tracleer is not recommended in patients with moderate or severe liver impairment. In addition, initiation of Tracleer should generally be avoided in patients with elevated aminotransferases ( 3 ULN) prior to drug initiation because monitoring hepatotoxicity in these patients may be more difficult see Boxed Warning, Dosage and Administration (2.5) Use in Specific Populations (8.6).
+
+5.4 Fluid Retention
+
+Peripheral edema is a known clinical consequence of PAH and worsening PAH and is also a known effect of Tracleer and other endothelin receptor antagonists. In PAH clinical trials with Tracleer, combined adverse events of fluid retention or edema were reported in 1.7 percent (placebo-corrected) of patients
+In addition, there have been numerous postmarketing reports of fluid retention in patients with pulmonary hypertension occurring within weeks after starting Tracleer. Patients required intervention with a diuretic, fluid management, or hospitalization for decompensating heart failure.
+If clinically significant fluid retention develops, with or without associated weight gain, further evaluation should be undertaken to determine the cause, such as Tracleer or underlying heart failure, and the possible need for treatment or discontinuation of Tracleer. see Adverse Reactions (6.1) and Clinical Studies (14.2).
+
+5.5 Pulmonary Veno-Occlusive Disease
+
+Should signs of pulmonary edema occur, consider the possibility of associated pulmonary veno-occlusive disease and consider whether Tracleer should be discontinued.
+
+5.6 Decreased Sperm Counts
+
+Decreased sperm counts have been observed in patients receiving Tracleer. Preclinical data also suggest that Tracleer, like other endothelin receptor antagonists, may have an adverse effect on spermatogenesis see Adverse Reactions (6.1), Nonclinical Toxicology (13.1).
+
+5.7 Decreases in Hemoglobin and Hematocrit
+
+Treatment with Tracleer can cause a dose-related decrease in hemoglobin and hematocrit. There have been postmarketing reports of decreases in hemoglobin concentration and hematocrit that have resulted in anemia requiring transfusion. It is recommended that hemoglobin concentrations be checked after 1 and 3 months, and every 3 months thereafter. If a marked decrease in hemoglobin concentration occurs, further evaluation should be undertaken to determine the cause and need for specific treatment see Adverse Reactions 6.1.
+
+
+7. DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Hormonal contraceptives: Tracleer use decreases contraceptive exposure and reduces effectiveness (7.2).
+ <item>
+ <item>Simvastatin and other CYP3A-metabolized statins: Combination use decreases statin exposure and may reduce efficacy (7.6).
+ <item>
+ <item>Rifampin: Alters bosentan exposure. Monitor hepatic function weekly for 4 weeks, followed by normal monitoring (7.7).
+ <item>
+ </list>
+
+
+7.1 Cytochrome P450 Summary
+
+Bosentan is metabolized by CYP2C9 and CYP3A. Inhibition of these enzymes may increase the plasma concentration of bosentan (see ketoconazole). Concomitant administration of both a CYP2C9 inhibitor (such as fluconazole or amiodarone) and a strong CYP3A inhibitor (e.g., ketoconazole, itraconazole) or a moderate CYP3A inhibitor (e.g., amprenavir, erythromycin, fluconazole, diltiazem) with Tracleer will likely lead to large increases in plasma concentrations of bosentan. Coadministration of such combinations of a CYP2C9 inhibitor plus a strong or moderate CYP3A inhibitor with Tracleer is not recommended.
+Bosentan is an inducer of CYP3A and CYP2C9. Consequently plasma concentrations of drugs metabolized by these two isozymes will be decreased when Tracleer is coadministered. Bosentan had no relevant inhibitory effect on any CYP isozyme in vitro (CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A). Consequently, Tracleer is not expected to increase the plasma concentrations of drugs metabolized by these enzymes.
+
+7.2 Hormonal Contraceptives
+
+Hormonal contraceptives, including oral, injectable, transdermal, and implantable forms, may not be reliable when Tracleer is coadministered. Females should practice additional methods of contraception and not rely on hormonal contraception alone when taking Tracleer see Boxed Warning, Contraindications (4.1).
+An interaction study demonstrated that coadministration of bosentan and a combination oral hormonal contraceptive produced average decreases of norethindrone and ethinyl estradiol levels of 14% and 31%, respectively. However, decreases in exposure were as much as 56% and 66%, respectively, in individual subjects.
+
+7.3 Cyclosporine A
+
+The concomitant administration of Tracleer and cyclosporine A is contraindicated see Contraindications (4.2).
+During the first day of concomitant administration, trough concentrations of bosentan were increased by about 30-fold. The mechanism of this interaction is most likely inhibition of transport protein-mediated uptake of bosentan into hepatocytes by cyclosporine. Steady-state bosentan plasma concentrations were 3- to 4-fold higher than in the absence of cyclosporine A. Coadministration of bosentan decreased the plasma concentrations of cyclosporine A (a CYP3A substrate) by approximately 50%.
+
+7.4 Glyburide
+
+An increased risk of elevated liver aminotransferases was observed in patients receiving concomitant therapy with glyburide. Therefore, the concomitant administration of Tracleer and glyburide is contraindicated, and alternative hypoglycemic agents should be considered see Contraindications (4.3).
+Coadministration of bosentan decreased the plasma concentrations of glyburide by approximately 40%. The plasma concentrations of bosentan were also decreased by approximately 30%. Tracleer is also expected to reduce plasma concentrations of other oral hypoglycemic agents that are predominantly metabolized by CYP2C9 or CYP3A. The possibility of worsened glucose control in patients using these agents should be considered.
+
+7.5 Lopinavir/Ritonavir or Other Ritonavir-containing HIV Regimens
+
+In vitro data indicate that bosentan is a substrate of the Organic Anion Transport Protein (OATP), CYP3A and CYP2C9. Ritonavir inhibits OATP and inhibits and induces CYP3A. However, the impact of ritonavir on the pharmacokinetics of bosentan may largely result from its effect on OATP.
+In normal volunteers, coadministration of Tracleer 125 mg twice daily and lopinavir/ritonavir 400/100 mg twice daily increased the trough concentrations of bosentan on Days 4 and 10 approximately 48-fold and 5-fold, respectively, compared with those measured after Tracleer administered alone. Therefore, adjust the dose of Tracleer when initiating lopinavir/ritonavir see Dosage and Administration (2.4.
+Coadministration of bosentan 125 mg twice daily had no substantial impact on the pharmacokinetics of lopinavir/ritonavir 400/100 mg twice daily.
+
+7.6 Simvastatin and Other Statins
+
+Coadministration of bosentan decreased the plasma concentrations of simvastatin (a CYP3A substrate), and its active -hydroxy acid metabolite, by approximately 50%. The plasma concentrations of bosentan were not affected. Tracleer is also expected to reduce plasma concentrations of other statins that are significantly metabolized by CYP3A, such as lovastatin and atorvastatin. The possibility of reduced statin efficacy should be considered. Patients using CYP3A-metabolized statins should have cholesterol levels monitored after Tracleer is initiated to see whether the statin dose needs adjustment.
+
+7.7 Rifampin
+
+Coadministration of bosentan and rifampin in normal volunteers resulted in a mean 6-fold increase in bosentan trough levels after the first concomitant dose (likely due to inhibition of OATP by rifampin), but about a 60% decrease in bosentan levels at steady-state. The effect of Tracleer on rifampin levels has not been assessed. When consideration of the potential benefits, and known and unknown risks leads to concomitant use, measure serum aminotransferases weekly for the first 4 weeks before reverting to normal monitoring.
+
+7.8 Tacrolimus
+
+Coadministration of tacrolimus and Tracleer has not been studied in humans. Coadministration of tacrolimus and bosentan resulted in markedly increased plasma concentrations of bosentan in animals. Caution should be exercised if tacrolimus and Tracleer are used together.
+
+7.9 Ketoconazole
+
+Coadministration of bosentan 125 mg twice daily and ketoconazole, a potent CYP3A inhibitor, increased the plasma concentrations of bosentan by approximately 2-fold in normal volunteers. No dose adjustment of Tracleer is necessary, but increased effects of Tracleer should be considered.
+
+7.10 Warfarin
+
+Coadministration of bosentan 500 mg twice daily for 6 days in normal volunteers decreased the plasma concentrations of both S-warfarin (a CYP2C9 substrate) and R-warfarin (a CYP3A substrate) by 29 and 38%, respectively. Clinical experience with concomitant administration of Tracleer and warfarin in patients with pulmonary arterial hypertension did not show clinically relevant changes in INR or warfarin dose (baseline vs. end of the clinical studies), and the need to change the warfarin dose during the trials due to changes in INR or due to adverse events was similar among Tracleer- and placebo-treated patients.
+
+7.11 Digoxin, Nimodipine, and Losartan
+
+Bosentan has no significant pharmacokinetic interactions with digoxin and nimodipine, and losartan has no significant effect on plasma levels of bosentan.
+
+7.12 Sildenafil
+
+In normal volunteers, coadministration of multiple doses of 125 mg twice daily bosentan and 80 mg three times daily sildenafil resulted in a reduction of sildenafil plasma concentrations by 63% and increased bosentan plasma concentrations by 50%. The changes in plasma concentrations were not considered clinically relevant and dose adjustments are not necessary. This recommendation holds true when sildenafil is used for the treatment of pulmonary arterial hypertension or erectile dysfunction.
+
+7.13 Iloprost
+
+In a small, randomized, double-blind, placebo-controlled study, 34 patients treated with bosentan 125 mg twice daily for at least 16 weeks tolerated the addition of inhaled iloprost (up to 5 mcg 6 to 9 times per day during waking hours). The mean daily inhaled dose was 27 mcg and the mean number of inhalations per day was 5.6.
+

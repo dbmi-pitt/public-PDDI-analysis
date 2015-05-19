@@ -1,0 +1,68 @@
+Drug Label for drug brand Xylocaine, containing LIDOCAINE HYDROCHLORIDE.
+
+
+CONTRAINDICATIONS
+
+
+Xylocaine is contraindicated in patients with a known history of hypersensitivity to local anesthetics of the amide type. Xylocaine should not be used in patients with Stokes-Adams syndrome, Wolff-Parkinson-White syndrome, or with severe degrees of sinoatrial, atrioventricular, or intraventricular block in the absence of an artificial pacemaker.
+
+
+WARNINGS
+
+IN ORDER TO MANAGE POSSIBLE ADVERSE REACTIONS, RESUSCITATIVE EQUIPMENT, OXYGEN AND OTHER RESUSCITATIVE DRUGS SHOULD BE IMMEDIATELY AVAILABLE WHEN XYLOCAINE (LIDOCAINE HCl INJECTION, USP) IS USED.
+Systemic toxicity may result in manifestations of central nervous system depression (sedation) or irritability (twitching), which may progress to frank convulsions accompanied by respiratory depression and/or arrest. Early recognition of premonitory signs, assurance of adequate oxygenation and, where necessary, establishment of artificial airway with ventilatory support are essential to management of this problem. Should convulsions persist despite ventilatory therapy with oxygen, small increments of anticonvulsant drugs may be used intravenously. Examples of such agents include benzodiazepines (eg, diazepam), ultrashort-acting barbiturates (eg, thiopental or thiamylal), or a short-acting barbiturate (eg, pentobarbital or secobarbital). If the patient is under anesthesia, a short-acting muscle relaxant (eg, succinylcholine) may be used. Longer-acting drugs should be used only when recurrent convulsions are evidenced.
+Should circulatory depression occur, vasopressors may be used.
+Constant electrocardiographic monitoring is essential to the proper administration of Xylocaine. Signs of excessive depression of cardiac electrical activity such as sinus node dysfunction, prolongation of the P-R interval and QRS complex or the appearance or aggravation of arrhythmias, should be followed by flow adjustment and, if necessary, prompt cessation of the intravenous infusion of this agent. Occasionally, acceleration of ventricular rate may occur when Xylocaine is administered to patients with atrial flutter or fibrillation.
+
+
+PRECAUTIONS
+
+
+General
+
+Caution should be employed in the use of Xylocaine in patients with severe liver or kidney disease because accumulation of the drug or metabolites may occur.
+Xylocaine should be used with caution in the treatment of patients with hypovolemia, severe congestive heart failure, shock, and all forms of heart block. In patients with sinus bradycardia or incomplete heart block, the administration of Xylocaine intravenously for the elimination of ventricular ectopic beats, without prior acceleration in heart rate (eg, by atropine, isoproterenol or electric pacing), may promote more frequent and serious ventricular arrhythmias or complete heart block (see CONTRAINDICATIONS ).
+Dosage should be reduced for pediatric patients and for debilitated and/or elderly patients, commensurate with their age and physical status.
+The safety of amide local anesthetic agents in patients with genetic predisposition to malignant hyperthermia has not been fully assessed, therefore, lidocaine should be used with caution in such patients.
+In hospital environments where drugs known to be triggering agents for malignant hyperthermia (fulminant hypermetabolism) are administered, it is suggested that a standard protocol for management should be available.
+It is not known whether lidocaine may trigger this reaction, however, large doses resulting in significant plasma concentrations, as may be achieved by intravenous infusion, pose potential risk to these individuals. Recognition of early unexplained signs of tachycardia, tachypnea, labile blood pressure and metabolic acidosis may precede temperature elevation. Successful outcome is dependent on early diagnosis, prompt discontinuance of the triggering agent and institution of treatment including oxygen therapy, supportive measures and dantrolene (for details see dantrolene package insert).
+
+Information for Patients.
+
+The patient should be advised of the possible occurrence of the experiences listed under ADVERSE REACTIONS.
+
+Laboratory Tests.
+
+None known.
+
+Drug Interactions.
+
+Xylocaine should be used with caution in patients with digitalis toxicity accompanied by atrioventricular block. Concomitant use of beta-blocking agents or cimetidine may reduce hepatic blood flow and thereby reduce lidocaine clearance.
+Lidocaine and tocainide are pharmacodynamically similar. The concomitant use of these two agents may cause an increased incidence of adverse reactions, including central nervous system adverse reactions such as seizure.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility.
+
+Long-term studies in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility of Xylocaine have not been conducted.
+
+Pregnancy: Teratogenic Effects.
+
+Pregnancy Category B.
+Reproduction studies have been performed in rats at doses up to 6.6 times the maximum human doses and have revealed no significant findings. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+Labor and Delivery.
+
+The effects of Xylocaine on the mother and the fetus, when used in the management of cardiac arrhythmias during labor and delivery, are not known. Lidocaine readily crosses the placental barrier.
+
+Nursing Mothers.
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when lidocaine is administered to a nursing woman.
+
+Pediatric Use.
+
+Controlled clinical studies have not been conducted in the pediatric population to establish safety and efficacy in this population (see DOSAGE AND ADMINISTRATION ).
+
+Geriatric
+
+Clinical studies of Xylocaine Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Patients with significant renal disease may be at risk of accumulating the active metabolite GX after prolonged infusion, which could contribute to the development of CNS toxicity. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see CLINICAL PHARMACOLOGY, Geriatrics ).
+

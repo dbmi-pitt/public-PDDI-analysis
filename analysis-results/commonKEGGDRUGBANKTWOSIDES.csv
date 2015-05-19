@@ -1,0 +1,35 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00582-http://bio2rdf.org/drugbank:DB01264    object:Voriconazole precipitant: Darunavir 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01050-http://bio2rdf.org/drugbank:DB00582    object:Ibuprofen precipitant: Voriconazole 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00196    object:Diazepam precipitant: Fluconazole 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00338-http://bio2rdf.org/drugbank:DB01254    object:Omeprazole precipitant: Dasatinib 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00335-http://bio2rdf.org/drugbank:DB00938    object:Atenolol precipitant: Salmeterol 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00745    object:Clozapine precipitant: Modafinil 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Clozapine 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00346-http://bio2rdf.org/drugbank:DB00820    object:Alfuzosin precipitant: Tadalafil 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00745-http://bio2rdf.org/drugbank:DB00897    object:Triazolam precipitant: Modafinil 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00843-http://bio2rdf.org/drugbank:DB00209    object:Donepezil precipitant: Trospium 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00186    object:Clozapine precipitant: Lorazepam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00619-http://bio2rdf.org/drugbank:DB00582    object:Voriconazole precipitant: Imatinib 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00203-http://bio2rdf.org/drugbank:DB01020    object:Isosorbide Mononitrate precipitant: Sildenafil 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01068-http://bio2rdf.org/drugbank:DB00582    object:Clonazepam precipitant: Voriconazole 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01198-http://bio2rdf.org/drugbank:DB01264    object:Zopiclone precipitant: Darunavir 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00683    object:Fluconazole precipitant: Midazolam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00313-http://bio2rdf.org/drugbank:DB00555    object:Valproic Acid precipitant: Lamotrigine 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00683    object:Clozapine precipitant: Midazolam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00313-http://bio2rdf.org/drugbank:DB00186    object:Valproic Acid precipitant: Lorazepam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00672-http://bio2rdf.org/drugbank:DB00264    object:Chlorpropamide precipitant: Metoprolol 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00897-http://bio2rdf.org/drugbank:DB00582    object:Triazolam precipitant: Voriconazole 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB01595    object:Clozapine precipitant: Nitrazepam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00338-http://bio2rdf.org/drugbank:DB01072    object:Omeprazole precipitant: Atazanavir 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00215-http://bio2rdf.org/drugbank:DB00953    object:Rizatriptan precipitant: Citalopram 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01068-http://bio2rdf.org/drugbank:DB00363    object:Clonazepam precipitant: Clozapine 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00843-http://bio2rdf.org/drugbank:DB01062    object:Oxybutynin precipitant: Donepezil 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00582    object:Diazepam precipitant: Voriconazole 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00897    object:Fluconazole precipitant: Triazolam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01050-http://bio2rdf.org/drugbank:DB00264    object:Ibuprofen precipitant: Metoprolol 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01062-http://bio2rdf.org/drugbank:DB00209    object:Oxybutynin precipitant: Trospium 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01001-http://bio2rdf.org/drugbank:DB00335    object:Atenolol precipitant: Salbutamol 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00213-http://bio2rdf.org/drugbank:DB01072    object:Atazanavir precipitant: Pantoprazole 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00727-http://bio2rdf.org/drugbank:DB00203    object:Nitroglycerin precipitant: Sildenafil 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00231    object:Clozapine precipitant: Temazepam 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 

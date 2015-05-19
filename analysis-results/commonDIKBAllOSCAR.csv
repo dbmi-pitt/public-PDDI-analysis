@@ -1,0 +1,8 @@
+drug pair    OSCAR    DIKBAll
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB00897    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/713', u'cimetidine is predicted to reduce the clearance of triazolam by inhibition of CYP3A4')]
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB00277    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIObservations27', u'cimetidine increases the AUC of theophylline ')]
+http://bio2rdf.org/drugbank:DB00199-http://bio2rdf.org/drugbank:DB00227    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/390', u'erythromycin is predicted to reduce the clearance of lovastatin by inhibition of CYP3A4')]
+http://bio2rdf.org/drugbank:DB00472-http://bio2rdf.org/drugbank:DB00404    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIObservations20', u'fluoxetine increases the AUC of alprazolam ')]
+http://bio2rdf.org/drugbank:DB00472-http://bio2rdf.org/drugbank:DB01151    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIObservations42', u'fluoxetine increases the AUC of desipramine ')]
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB00404    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/711', u'cimetidine is predicted to reduce the clearance of alprazolam by inhibition of CYP3A5')]
+http://bio2rdf.org/drugbank:DB00343-http://bio2rdf.org/drugbank:DB00897    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIObservations1', u'diltiazem increases the AUC of triazolam ')]

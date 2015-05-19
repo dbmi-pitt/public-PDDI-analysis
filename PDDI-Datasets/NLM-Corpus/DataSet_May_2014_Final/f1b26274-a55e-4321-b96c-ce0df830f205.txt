@@ -1,0 +1,53 @@
+Drug Label for drug brand Lidocaine, containing LIDOCAINE HYDROCHLORIDE.
+
+
+CONTRAINDICATIONS
+
+
+Lidocaine Hydrochloride Injection, USP is contraindicated in patients with a known history of hypersensitivity to local anesthetics of the amide type. Lidocaine Hydrochloride Injection, USP should not be used in patients with STOKES-ADAMS syndrome, Wolff-Parkinson-White syndrome, or with severe degrees of sinoatrial, atrioventricular or intraventricular block.
+
+
+WARNINGS
+
+Constant monitoring of the electrocardiogram and blood pressure is essential in the proper administration of Lidocaine Hydrochloride Injection, USP intravenously. If hypotension or excessive depression of cardiac conductivity (such as prolongation of the PR interval and QRS complex and the appearance of aggravation of arrhythmias) is seen, administration of Lidocaine Hydrochloride Injection, USP should be discontinued.
+Emergency resuscitative equipment and drugs must be immediately available to manage possible adverse reactions involving the cardiovascular, respiratory, or central nervous system.
+Occasional acceleration of ventricular rate may occur when Lidocaine Hydrochloride Injection, USP is administered to patients with atrial fibrillation.
+Toxicity may be manifest as central nervous system depression (sedation) or irritability (twitching), which may progress to frank convulsions accompanied by respiratory depression and/or arrest. Early recognition of premonitory signs, assurance of adequate oxygenation and (where necessary) establishment of artificial airway with ventilatory support are essential to management of the problem. Should convulsions persist despite ventilatory support, small doses of anticonvulsant drugs may be used intravenously. Examples of such drugs include benzodiazepines (e.g., diazepam, lorazepam), or an ultrashort acting barbiturate (e.g., thiopental or thiamylal). If the patient is under anesthesia, a short-acting muscle relaxant (succinylcholine) may be used. Longer acting drugs should be used only when recurrent convulsions are evidenced.
+
+
+PRECAUTIONS
+
+The safe use of Lidocaine Hydrochloride Injection, USP requires careful ECG observation in an environment equipped and by persons trained for resuscitation.
+
+General
+
+Caution should be employed in the repeated use of Lidocaine Hydrochloride Injection, USP in patients with severe liver or renal disease because accumulation may occur and lead to toxic phenomena since Lidocaine Hydrochloride Injection, USP is metabolized mainly in the liver and excreted by the kidneys. This drug should also be used with caution in patients with hypovolemia and shock and all forms of heart block (see CONTRAINDICATIONS and WARNINGS ).
+In patients with sinus bradycardia or incomplete heart block, the administration of Lidocaine Hydrochloride Injection, USP intravenously or the elimination of ventricular ectopic beats without prior acceleration in heart rate may promote more frequent and serious ventricular arrhythmias or complete heart block. (See CONTRAINDICATIONS.)
+Many potent anesthetic drugs, neuromuscular blocking agents and possibly amide local anesthetics may serve as triggering agents for the fulminant hypermetabolic process termed malignant hyperthermia. Key to successful outcome of fulminant hypermetabolism is early recognition of premonitory signs, i.e., unexplained or unexpected tachycardia and increased metabolic rate as evidenced by respiratory and/or metabolic acidosis. Treatment includes administration of oxygen and discontinuation of lidocaine hydrochloride administration and where necessary administration of dantrolene sodium. For additional information on management, see prescribing information for dantrolene sodium.
+
+Drug Interaction.
+
+The effect of Lidocaine Hydrochloride Injection, USP for the management of cardiac arrhythmias is potentiated with the simultaneous or prior administration of propranolol.
+Lidocaine Hydrochloride Injection, USP should be used with caution in patients with digitalis toxicity accompanied by atrioventricular block. (See CONTRAINDICATIONS.)
+Drug interaction was studied with several beta-blockers (propranolol, metoprolol, nadolol, and pindolol). Pretreatment with propranolol, metoprolol and nadolol increased the serum concentration of lidocaine. Pretreatment with pindolol did not affect the serum concentration of lidocaine.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility.
+
+Studies of Lidocaine Hydrochloride Injection, USP in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
+
+Pregnancy Category B.
+
+Reproductive studies have been performed in the rat at doses up to 5 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to Lidocaine Hydrochloride Injection, USP. There are, however, no adequate and well controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used in pregnancy only if clearly needed.
+
+Labor and Delivery.
+
+The effects of Lidocaine Hydrochloride Injection, USP solution on the mother and the fetus, when used in the management of cardiac arrhythmias during labor and delivery, are not known. Lidocaine Hydrochloride Injection, USP readily crosses the placental barrier.
+
+Nursing Mothers.
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Lidocaine Hydrochloride Injection, USP is administered to a nursing woman.
+
+Pediatric Use.
+
+Safety and effectiveness in children have not been established by controlled clinical studies. (See DOSAGE AND ADMINISTRATION.)
+

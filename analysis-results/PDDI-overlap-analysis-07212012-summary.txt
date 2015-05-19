@@ -1,0 +1,42 @@
+DIKB TO DRUGBANK  
+
+Number of PDDIs: 
+	DrugBank: 10891
+	DIKB predicted + observed: 571 
+	DIKB predicted: 534 
+	DIKB observed: 77 
+
+Overlap DrugBank to DIKB predicted + observed: 107 (0.010 of DrugBank, 0.187 DIKB) 
+
+Overlap DrugBank to DIKB observed: 20 (0.002 of DrugBank, 0.260 DIKB) 
+
+Overlap DrugBank to DIKB predicted: 103 (0.009 of DrugBank, 0.193 DIKB) 
+
+
+DRUGBANK TO TWOSIDES  
+
+Number of PDDIs: 
+	DrugBank: 10891
+	twosides: 18053 
+
+Overlap DrugBank to twosides: 301 (0.028 of DrugBank, 0.017 twosides) 
+
+
+DIKB TO PHARMGKB  
+
+Number of PDDIs: 
+	Pharmgkb: 18053
+	DIKB predicted + observed: 571 
+	DIKB predicted: 534 
+	DIKB observed: 77 
+
+Overlap Pharmgkb to DIKB predicted + observed: 47 (0.003 of Pharmgkb, 0.082 DIKB) 
+
+Overlap Pharmgkb to DIKB observed: 7 (0.000 of Pharmgkb, 0.091 DIKB) 
+
+Overlap Pharmgkb to DIKB predicted: 43 (0.002 of Pharmgkb, 0.081 DIKB) 
+
+------------------------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,132 @@
+Drug Label for drug brand CORZIDE, containing nadolol and bendroflumethiazide.
+
+
+CONTRAINDICATIONS
+
+
+Nadolol
+
+
+Nadolol is contraindicated in bronchial asthma, sinus bradycardia and greater than first degree conduction block, cardiogenic shock, and overt cardiac failure (see WARNINGS ).
+
+Bendroflumethiazide
+
+Bendroflumethiazide is contraindicated in anuria. It is also contraindicated in patients who have previously demonstrated hypersensitivity to bendroflumethiazide or other sulfonamide-derived drugs.
+
+
+WARNINGS
+
+Cardiac Failure Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure. Although beta-blockers should be avoided in overt congestive heart failure, if necessary, they can be used with caution in patients with a history of failure who are well compensated, usually with digitalis and diuretics. Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
+IN PATIENTS WITHOUT A HISTORY OF HEART FAILURE, continued use of beta-blockers can, in some cases, lead to cardiac failure. Therefore, at the first sign or symptom of heart failure, the patient should be digitalized and/or treated with diuretics, and the response observed closely, or nadolol should be discontinued (gradually, if possible).
+
+
+
+Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy, exacerbation of angina and, in some cases, myocardial infarction have occurred after abrupt discontinuation of such therapy. When discontinuing chronically administered nadolol, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of one to two weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, nadolol administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue nadolol therapy abruptly even in patients treated only for hypertension.
+Nonallergic Bronchospasm (e.g., chronic bronchitis, emphysema) PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS. Nadolol should be administered with caution since it may block bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors.
+Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Diabetes and Hypoglycemia Beta-adrenergic blockade may prevent the appearance of premonitory signs and symptoms (e.g., tachycardia and blood pressure changes) of acute hypoglycemia. This is especially important with labile diabetics. Beta-blockade also reduces the release of insulin in response to hyperglycemia, therefore, it may be necessary to adjust the dose of antidiabetic drugs.
+Thyrotoxicosis Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blockade which might precipitate a thyroid storm.
+Thiazides should be used with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.
+Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+Sensitivity reactions may occur in patients with or without a history of allergy or bronchial asthma.
+The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
+Lithium generally should not be given with diuretics, diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such concomitant therapy.
+
+
+PRECAUTIONS
+
+
+General
+
+
+Nadolol
+
+Nadolol should be used with caution in patients with impaired renal function (see DOSAGE AND ADMINISTRATION ).
+
+Bendroflumethiazide
+
+Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
+All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance, namely: hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance may include: dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances, such as nausea and vomiting.
+Hypokalemia may develop, especially with brisk diuresis or when severe cirrhosis is present.
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia can sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability). Concurrent administration of a potassium-sparing diuretic or potassium supplements may be indicated in these patients.
+Any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease). Dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
+Latent diabetes mellitus may become manifest during thiazide administration.
+The antihypertensive effect of thiazide diuretics may be enhanced in the postsympathectomy patient.
+If progressive renal impairment becomes evident, as indicated by a rising nonprotein nitrogen or blood urea nitrogen (BUN), a careful reappraisal of therapy is necessary with consideration given to withholding or discontinuing diuretic therapy.
+Thiazides may decrease serum PBI levels without signs of thyroid disturbance.
+Calcium excretion is decreased by thiazides. Pathological changes in the parathyroid gland with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy. The common complications of hyperparathyroidism such as renal lithiasis, bone resorption, and peptic ulceration have not been seen. Thiazides should be discontinued before carrying out tests for parathyroid function.
+Thiazides have been shown to increase the urinary excretion of magnesium, this may result in hypomagnesemia.
+
+Information for Patients
+
+Patients, especially those with evidence of coronary artery insufficiency, should be warned against interruption or discontinuation of therapy without the physician's advice. Although cardiac failure rarely occurs in properly selected patients, patients being treated with beta-adrenergic blocking agents should be advised to consult the physician at the first sign or symptom of impending failure.
+The patient should also be advised of a proper course in the event of an inadvertently missed dose.
+The patient should be informed of symptoms that would suggest potential adverse effects and told to report them promptly.
+
+Laboratory Tests
+
+Serum electrolyte levels should be regularly monitored (see WARNINGS, Bendroflumethiazide, also PRECAUTIONS, General, Bendroflumethiazide ).
+
+Drug Interactions
+
+ <paragraph>
+ <main>When administered concurrently the following drugs may interact with beta-adrenergic receptor blocking agents:
+ <item>Anesthetics, general exaggeration of the hypotension induced by general anesthetics (see WARNINGS, Nadolol, Major Surgery ).
+ <item>Antidiabetic drugs (oral agents and insulin) hypoglycemia or hyperglycemia, adjust dosage of antidiabetic drug accordingly (see WARNINGS, Nadolol, Diabetes and Hypoglycemia ).
+ <item>Catecholamine-depleting drugs (e.g., reserpine) additive effect, monitor closely for evidence of hypotension and/or excessive bradycardia (e.g., vertigo, syncope, postural hypotension).
+ <item>Digitalis glycosides Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+ <item>Response to Treatment for Anaphylactic Reaction While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+ </paragraph>
+ <paragraph>
+ <main>When administered concurrently the following drugs may interact with thiazide diuretics:
+ <item>Alcohol, barbiturates, or narcotics potentiation of orthostatic hypotension may occur.
+ <item>Amphotericin B, corticosteroids, or corticotropin (ACTH) may intensify electrolyte imbalance, particularly hypokalemia. Monitor potassium levels, use potassium replacements if necessary.
+ <item>Anticoagulants (oral) dosage adjustments of anticoagulant medication may be necessary since bendroflumethiazide may decrease their effects.
+ <item>Antigout medications dosage adjustments of antigout medication may be necessary since bendroflumethiazide may raise the level of blood uric acid.
+ <item>Other antihypertensive medications (e.g., ganglionic or peripheral adrenergic blocking agents) dosage adjustments may be necessary since bendroflumethiazide may potentiate their effects.
+ <item>Antidiabetic drugs (oral agents and insulin) since thiazides may elevate blood glucose levels, dosage adjustments of antidiabetic agents may be necessary.
+ <item>Calcium salts increased serum calcium levels due to decreased excretion may occur. If calcium must be prescribed monitor serum calcium levels and adjust calcium dosage accordingly.
+ <item>Cardiac glycosides enhanced possibility of digitalis toxicity associated with hypokalemia. Monitor potassium levels, use potassium replacement if necessary.
+ <item>Cholestyramine resin and colestipol HCl may delay or decrease absorption of bendroflumethiazide. Sulfonamide diuretics should be taken at least one hour before or four to six hours after these medications.
+ <item>Diazoxide enhanced hyperglycemic, hyperuricemic, and antihypertensive effects. Be cognizant of possible interaction, monitor blood glucose and serum uric acid levels.
+ <item>Lithium salts may enhance lithium toxicity due to reduced renal clearance. Avoid concurrent use, if lithium must be prescribed monitor serum lithium levels and adjust lithium dosage accordingly. (See WARNINGS.)
+ <item>MAO inhibitors dosage adjustments of one or both agents may be necessary since hypotensive effects are enhanced.
+ <item>Nondepolarizing muscle relaxants, preanesthetics and anesthetics used in surgery (e.g., tubocurarine chloride and gallamine triethiodide) effects of these agents may be potentiated, dosage adjustments may be required. Monitor and correct any fluid and electrolyte imbalances prior to surgery if feasible.
+ <item>Nonsteroidal anti-inflammatory agents in some patients, the administration of a nonsteroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing or thiazide diuretics. Therefore, when bendroflumethiazide and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+ <item>Methenamine possible decreased effectiveness due to alkalinization of the urine.
+ <item>Pressor amines (e.g., norepinephrine) decreased arterial responsiveness, but not sufficient to preclude effectiveness of the pressor agent for therapeutic use. Use caution in patients taking both medications who undergo surgery. Administer preanesthetic and anesthetic agents in reduced dosage, and if possible, discontinue bendroflumethiazide one week prior to surgery.
+ <item>Probenecid or sulfinpyrazone increased dosage of these agents may be necessary since bendroflumethiazide may have hyperuricemic effects.
+ </paragraph>
+
+Drug/Laboratory Test Interactions
+
+Bendroflumethiazide may produce false-negative results with the phentolamine and tyramine tests, may interfere with the phenolsulfonphthalein test due to decreased excretion, and it may cause diagnostic interference of serum electrolyte levels, blood and urine glucose levels, and a decrease in serum PBI levels without signs of thyroid disturbance.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In chronic oral toxicologic studies (one to two years) in mice, rats, and dogs, nadolol did not produce any significant toxic effects. In two-year oral carcinogenicity studies in rats and mice, nadolol did not produce any neoplastic, preneoplastic, or nonneoplastic pathologic lesions. In fertility and general reproductive performance studies in rats, nadolol caused no adverse effect.
+Studies have not been performed to evaluate carcinogenic potential, mutagenesis, or whether this drug adversely affects fertility in males or females.
+
+Pregnancy Teratogenic Effects
+
+Category C. In animal reproduction studies with nadolol, evidence of embryo-and fetotoxicity was found in rabbits, but not in rats or hamsters, at doses 5 to 10 times greater (on a mg/kg basis) than the maximum indicated human dose. No teratogenic potential was observed in any of these species.
+There are no adequate and well-controlled studies in pregnant women. Nadolol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Neonates whose mothers are receiving nadolol at parturition have exhibited bradycardia, hypoglycemia, and associated symptoms.
+Category C. Animal reproduction studies have not been conducted with bendroflumethiazide. It is also not known whether this drug can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Bendroflumethiazide should be given to a pregnant woman only if clearly needed.
+
+Pregnancy Nonteratogenic Effects
+
+Thiazides cross the placental barrier and appear in cord blood. The use of thiazides in pregnant women requires that the anticipated benefit be weighed against possible hazards to the fetus. These hazards include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions which have occurred in the adult.
+
+Nursing Mothers
+
+Both nadolol and bendroflumethiazide are excreted in human milk. Because of the potential for serious adverse reactions in nursing infants from both drugs, a decision should be made whether to discontinue nursing or to discontinue therapy taking into account the importance of CORZIDE (Nadolol and Bendroflumethiazide Tablets) to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of Corzide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. This drug is known to be substantially excreted by the kidney, and the risk of toxic reaction to this drug may be greater in patients with impaired function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+

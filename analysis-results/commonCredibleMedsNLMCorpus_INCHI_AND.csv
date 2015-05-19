@@ -1,0 +1,4 @@
+drug pair    NLMCorpus    CredibleMeds
+http://bio2rdf.org/drugbank:DB00199-http://bio2rdf.org/drugbank:DB00390    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00641    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01211-http://bio2rdf.org/drugbank:DB00390    [(None, None)]    [(None, None)]

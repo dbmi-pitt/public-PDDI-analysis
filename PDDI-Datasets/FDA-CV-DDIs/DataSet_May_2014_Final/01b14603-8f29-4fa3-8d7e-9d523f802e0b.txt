@@ -1,0 +1,63 @@
+PLAVIX (clopidogrel bisulfate) tablet, film coated 
+
+4 CONTRAINDICATIONS
+
+4.1 Active Bleeding
+
+Plavix is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage.
+
+4.2 Hypersensitivity
+
+Plavix is contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [see Adverse Reactions (6.2)].
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Diminished Antiplatelet Activity Due to Impaired CYP2C19 Function
+
+Clopidogrel is a prodrug. Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning] and by concomitant medications that interfere with CYP2C19.
+
+Proton Pump Inhibitors
+
+Avoid concomitant use of Plavix with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of Plavix [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
+
+5.2 General Risk of Bleeding
+
+Thienopyridines, including Plavix, increase the risk of bleeding. If a patient is to undergo surgery and an antiplatelet effect is not desired, discontinue Plavix five days prior to surgery. In patients who stopped therapy more than five days prior to CABG the rates of major bleeding were similar (event rate 4.4% Plavix + aspirin; 5.3% placebo + aspirin). In patients who remained on therapy within five days of CABG, the major bleeding rate was 9.6% for Plavix + aspirin, and 6.3% for placebo + aspirin.
+
+Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7–10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure. Because the half-life of clopidogrel's active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
+
+5.3 Discontinuation of Plavix
+
+Avoid lapses in therapy, and if Plavix must be temporarily discontinued, restart as soon as possible. Premature discontinuation of Plavix may increase the risk of cardiovascular events.
+
+5.4 Patients with Recent Transient Ischemic Attack (TIA) or Stroke
+
+In patients with recent TIA or stroke who are at high risk for recurrent ischemic events, the combination of aspirin and Plavix has not been shown to be more effective than Plavix alone, but the combination has been shown to increase major bleeding.
+
+5.5 Thrombotic Thrombocytopenic Purpura (TTP)
+
+TTP, sometimes fatal, has been reported following use of Plavix, sometimes after a short exposure (<2 weeks). TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange). It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
+
+7 DRUG INTERACTIONS
+
+7.1 CYP2C19 Inhibitors
+
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19. Concomitant use of certain drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.1) and Dosage and Administration (2.4)].
+
+Proton Pump Inhibitors (PPI)
+
+Avoid concomitant use of Plavix with omeprazole or esomeprazole. In clinical studies, omeprazole was shown to reduce the antiplatelet activity of Plavix when given concomitantly or 12 hours apart. A higher dose regimen of clopidogrel concomitantly administered with omeprazole increases antiplatelet response; an appropriate dose regimen has not been established. A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with Plavix. Consider using another acid-reducing agent with minimal or no CYP2C19 inhibitory effect on the formation of clopidogrel active metabolite. Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of Plavix than did omeprazole or esomeprazole [see Dosage and Administration (2.4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+7.2 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+
+Coadministration of Plavix and NSAIDs increases the risk of gastrointestinal bleeding.
+
+7.3 Warfarin (CYP2C9 Substrates)
+
+Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of Plavix with warfarin increases the risk of bleeding because of independent effects on hemostasis.
+
+However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
+
+
+
+

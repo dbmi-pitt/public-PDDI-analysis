@@ -1,0 +1,5 @@
+drug pair    NLMCorpus    DIKBAll
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00227    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/413', u'amiodarone is predicted to reduce the clearance of lovastatin by inhibition of CYP3A4')]
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00641    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/414', u'amiodarone is predicted to reduce the clearance of simvastatin by inhibition of CYP3A4')]
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB00661    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/350', u'verapamil is predicted to reduce the clearance of simvastatin by inhibition of CYP3A4')]
+http://bio2rdf.org/drugbank:DB00656-http://bio2rdf.org/drugbank:DB01118    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/319', u'amiodarone is predicted to reduce the clearance of trazodone by inhibition of CYP3A4')]

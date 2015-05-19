@@ -1,0 +1,137 @@
+Drug Label for drug brand Twynsta, containing telmisartan/amlodipine.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue TWYNSTA as soon as possible see Warnings and Precautions (5.1).
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus see Warnings and Precautions (5.1).
+ <item>
+ </list>
+
+WARNING: FETAL TOXICITY
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue TWYNSTA as soon as possible (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.1)
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+TWYNSTA tablets are contraindicated in patients with known hypersensitivity (e.g., anaphylaxis or angioedema) to telmisartan, amlodipine, or any other component of this product see Adverse Reactions (6.2).
+Do not co-administer aliskiren with TWYNSTA in patients with diabetes see Drug Interactions (7.2).
+ <list>
+ <item>
+ <item>Known hypersensitivity (e.g., anaphylaxis or angioedema) to telmisartan, amlodipine or any other component of this product (4)
+ <item>
+ <item>Do not co-administer aliskiren with TWYNSTA in patients with diabetes (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Avoid fetal or neonatal exposure (5.1)
+ <item>
+ <item>Hypotension: Correct any volume or salt depletion before initiating therapy. Observe for signs and symptoms of hypotension. Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis (5.2)
+ <item>
+ <item>Titrate slowly in patients with hepatic (5.4) or severe renal impairment (5.5)
+ <item>
+ <item>Heart failure: Monitor for worsening (5.8)
+ <item>
+ <item>Avoid concomitant use with an ACE inhibitor (5.6)
+ <item>
+ <item>Myocardial infarction: Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of TWYNSTA, particularly in patients with severe obstructive coronary artery disease (5.7)
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Telmisartan Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue TWYNSTA as soon as possible see Use in Specific Populations (8.1).
+
+5.2 Hypotension
+
+Telmisartan. In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with TWYNSTA tablets. Either correct this condition prior to administration of TWYNSTA tablets, or start treatment under close medical supervision with a reduced dose.
+If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+Amlodipine
+Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. Because of the gradual onset of action, acute hypotension is unlikely.
+
+5.3 Hyperkalemia
+
+Telmisartan. Hyperkalemia may occur in patients on ARBs, particularly in patients with advanced renal impairment, heart failure, on renal replacement therapy, or on potassium supplements, potassium-sparing diuretics, potassium-containing salt substitutes or other drugs that increase potassium levels. Consider periodic determinations of serum electrolytes to detect possible electrolyte imbalances, particularly in patients at risk.
+
+5.4 Patients with Impaired Hepatic Function
+
+Telmisartan. As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance. Initiate telmisartan at low doses and titrate slowly in these patients see Dosage and Administration (2.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3).
+Amlodipine. Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function. Since patients with hepatic impairment have decreased clearance of amlodipine, start amlodipine or add amlodipine at 2.5 mg in patients with hepatic impairment. The lowest dose of TWYNSTA is 40/5 mg, therefore, initial therapy with TWYNSTA tablets is not recommended in hepatically impaired patients see Use in Specific Populations (8.6).
+
+5.5 Renal Function Impairment
+
+Telmisartan. As a consequence of inhibiting the renin-angiotensin-aldosterone system, anticipate changes in renal function in susceptible individuals. In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure or renal dysfunction), treatment with angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death. Similar results may be anticipated in patients treated with telmisartan see Clinical Pharmacology (12.3).
+In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed. There has been no long term use of telmisartan in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.
+
+5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System
+
+Telmisartan. As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported. Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should include close monitoring of renal function.
+The ONTARGET trial enrolled 25,620 patients 55 years old with atherosclerotic disease or diabetes with end-organ damage, randomized them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months. Patients receiving the combination of telmisartan and ramipril did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone. Concomitant use of telmisartan and ramipril is not recommended.
+
+5.7 Risk of Myocardial Infarction or Increased Angina
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of TWYNSTA, particularly in patients with severe obstructive coronary artery disease.
+
+5.8 Heart Failure
+
+Amlodipine. Closely monitor patients with heart failure.
+Amlodipine (5 to 10 mg per day) has been studied in a placebo-controlled trial of 1153 patients with NYHA Class III or IV heart failure on stable doses of ACE inhibitor, digoxin, and diuretics. Follow-up was at least 6 months, with a mean of about 14 months. There was no overall adverse effect on survival or cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure). Amlodipine has been compared to placebo in four 8 to 12 week studies of patients with NYHA class II/III heart failure, involving a total of 697 patients. In these studies, there was no evidence of worsening of heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or LVEF. In the PRAISE-2 study, 1654 patients with NYHA class III (80%) or IV (20%) heart failure without evidence of underlying ischemic disease, on stable doses of ACE inhibitor (99%), digitalis (99%), and diuretics (99%) were randomized 1:1 to receive placebo or amlodipine and followed for a mean of 33 months. While there was no statistically significant difference between amlodipine and placebo in the primary endpoint of all cause mortality (95% confidence limits from 8% reduction to 29% increase on amlodipine), there were more reports of pulmonary edema in the patients on amlodipine.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>NSAIDS: Increased risk of renal impairment and loss of antihypertensive effect (7)
+ <item>
+ <item>If simvastatin is co-administered with amlodipine, do not exceed doses greater than 20 mg daily of simvastatin (7)
+ <item>
+ <item>Do not co-administer aliskiren with TWYNSTA in patients with diabetes (7.2)
+ <item>
+ </list>
+
+
+7.1 Drug Interactions with TWYNSTA Tablets
+
+The pharmacokinetics of amlodipine and telmisartan are not altered when the drugs are co-administered.
+No drug interaction studies have been conducted with TWYNSTA tablets and other drugs, although studies have been conducted with the individual amlodipine and telmisartan components of TWYNSTA tablets, as described below:
+
+7.2 Drug Interactions with Telmisartan
+
+Aliskiren: Do not co-administer aliskiren with TWYNSTA in patients with diabetes. Avoid use of aliskiren with TWYNSTA in patients with renal impairment (GFR 60 mL/min).
+Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed. Therefore, monitor digoxin levels when initiating, adjusting, and discontinuing telmisartan for the purpose of keeping the digoxin level within the therapeutic range.
+Lithium: Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists including telmisartan. Therefore, monitor serum lithium levels during concomitant use.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including telmisartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving telmisartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including telmisartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Ramipril and Ramiprilat: Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3- and 2.1-fold, respectively, and Cmax and AUC of ramiprilat 2.4- and 1.5-fold, respectively. In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively. When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan. Co-administration of telmisartan and ramipril is not recommended.
+Other Drugs: Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glyburide, simvastatin, hydrochlorothiazide, warfarin, or ibuprofen. Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19. Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes, it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
+
+7.3 Drug Interactions with Amlodipine
+
+In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta-blockers, angiotensin-converting enzyme inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+The following have no clinically relevant effects on the pharmacokinetics of amlodipine: cimetidine, grapefruit juice, magnesium and aluminum hydroxide antacid, sildenafil.
+Amlodipine has no clinically relevant effects on the pharmacokinetics or pharmacodynamics of the following: atorvastatin, digoxin, warfarin.
+CYP3A4 Inhibitors. Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure. Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure. However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
+CYP3A4 Inducers. No information is available on the quantitative effects of CYP3A4 inducers (e.g., carbamazepine, phenobarbital, phenytoin, fosphenytoin, primidone, rifampicin, St. John's Wort) on amlodipine. Patients should be monitored for adequate clinical effect when amlodipine is co-administered with CYP3A4 inducers.
+

@@ -1,0 +1,146 @@
+Drug Label for drug brand Tekturna HCT, containing aliskiren hemifumarate and hydrochlorothiazide.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Tekturna HCT as soon as possible. (5.1)
+ <item>
+ <item>D rugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+See full prescribing information for complete boxed warning
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Tekturna HCT as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+Do not use aliskiren with ARBs or ACEIs in patients with diabetes see Warnings and Precautions (5.2), Clinical Studies (14.4).
+Because of the hydrochlorothiazide component, Tekturna HCT is contraindicated in patients with anuria or hypersensitivity to sulfonamide-derived drugs see Warnings and Precautions (5.6) and Adverse Reactions (6.1). Hypersensitivity reactions may range from urticaria to anaphylaxis see Adverse Reactions (6.1).
+Do not use with angiotensin receptor blockers (ARBs) or ACE inhibitors (ACEIs) in patients with diabetes (4)
+Anuria (4)
+Hypersensitivity to sulfonamide-derived drugs (4)
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Avoid concomitant use with ARBs or ACEIs in patients with renal impairment (GFR 60 mL/min) (5.2).
+ <item>
+ <item>Anaphylactic Reactions and Head and Neck Angioedema: Discontinue Tekturna HCT and monitor until signs and symptoms resolve. (5.3).
+ <item>
+ <item>Hypotension: Correct volume depletion prior to initiation. (5.4).
+ <item>
+ <item>Impaired renal function: Monitor serum creatinine periodically. (5.5).
+ <item>
+ <item>Hypersensitivity Reactions: May occur from HCTZ component (5.6).
+ <item>
+ <item>Hyperkalemia: Monitor potassium levels periodically. (5.9).
+ <item>
+ <item>Hydrochlorothiazide has been associated with acute angle-closure glaucoma (5.11)
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Tekturna HCT as soon as possible see Use in Specific Populations (8.1).
+Thiazides cross the placenta, and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possible other adverse reactions that have occurred in Tekturna HCT.
+
+5.2 Renal Impairment/Hyperkalemia/Hypotension when Tekturna HCT is given in combination with ARBs or ACEIs
+
+Tekturna HCT is contraindicated in patients with diabetes who are receiving ARBs or ACEIs because of the increased risk of renal impairment, hyperkalemia, and hypotension see Contraindications (4) and Clinical Studies (14.4).
+Avoid use of Tekturna HCT with ARBs or ACEIs in patients with moderate renal impairment (GFR 60 ml/min).
+
+5.3 Anaphylactic Reactions and Head and Neck Angioedema
+
+Aliskiren
+Hypersensitivity reactions such as anaphylactic reactions and angioedema of the face, extremities, lips, tongue, glottis and/or larynx have been reported in patients treated with Tekturna and has necessitated hospitalization and intubation. This may occur at any time during treatment and has occurred in patients with and without a history of angioedema with ACE inhibitors or angiotensin receptor antagonists. Anaphylactic reactions have been reported from post-marketing experience with unknown frequency. If angioedema involves the throat, tongue, glottis or larynx, or if the patient has a history of upper respiratory surgery, airway obstruction may occur and be fatal. Patients who experience these effects, even without respiratory distress, require prolonged observation and appropriate monitoring measures since treatment with antihistamines and corticosteroids may not be sufficient to prevent respiratory involvement. Prompt administration of subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 ml) and measures to ensure a patent airway may be necessary.
+Discontinue Tekturna HCT immediately in patients who develop anaphylactic reactions or angioedema, and do not readminister.
+
+5.4 Hypotension
+
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur. Correct these conditions prior to administration of Tekturna HCT, or the treatment should start under close medical supervision.
+A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.5 Impaired Renal Function
+
+Monitor renal function periodically in patients treated with Tekturna HCT. Changes in renal function, including acute renal failure, can be caused by drugs that affect the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, severe heart failure, post-myocardial infarction or volume depletion) or patients receiving ARB, ACEI or non-steroidal anti-inflammatory (NSAID) therapy may be at particular risk of developing acute renal failure on Tekturna HCT see Contraindications (4), Warnings and Precautions (5.2), Clinical Studies (14.4). Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Tekturna HCT.
+
+5.6 Hypersensitivity Reactions
+
+Hydrochlorothiazide
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+5.7 Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+5.8 Lithium Interaction
+
+Lithium generally should not be given with thiazides see Drug Interactions (7).
+
+5.9 Serum Electrolyte Abnormalities
+
+Tekturna HCT
+In the short-term controlled trials of various doses of Tekturna HCT, in patients with hypertension not concomitantly treated with an ARB or ACEI, the incidence of hypertensive patients who developed hypokalemia (serum potassium 3.5 mEq/L) was 2.2%, the incidence of hyperkalemia (serum potassium 5.5 mEq/L) was 0.8%. No patients discontinued due to increase or decrease of serum potassium.
+Monitor serum potassium periodically in patients receiving aliskiren. Drugs that affect the renin-angiotensin system can cause hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes, combination use with ARBs or ACEI see Contraindications (4), Warnings and Precautions (5.2), and Clinical Studies (14.4), NSAIDs, or potassium supplements or potassium sparing diuretics.
+Hydrochlorothiazide can cause hypokalemia and hyponatremia. Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
+If hypokalemia is accompanied by clinical signs (e.g., muscular weakness, paresis, or ECG alterations), Tekturna HCT should be discontinued. Correction of hypokalemia and any coexisting hypomagnesemia is recommended prior to the initiation of thiazides.
+
+5.10 Cyclosporine or Itraconazole
+
+When aliskiren was given with cyclosporine or itraconazole, the blood concentrations of aliskiren were significantly increased. Avoid concomitant use of aliskiren with cyclosporine or itraconazole see Drug Interactions (7).
+
+5.11 Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+5.12 Metabolic Disturbances
+
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium. Monitor calcium levels in patients with hypercalcemia receiving Tekturna HCT.
+
+
+7 DRUG INTERACTIONS
+
+No drug interaction studies have been conducted with Tekturna HCT and other drugs, although studies with the individual aliskiren and hydrochlorothiazide components are described below.
+Cyclosporin e : Avoid co-administration of cyclosporine with aliskiren.
+Itraconazole: Avoid co-administration of itraconazole with aliskiren See Clinical Pharmacology (12.3).
+Non-Steroidal Anti-Inflammatory Agents (NSAIDs) including selective Cyclooxygenase-2 inhibitors (COX-2 inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors with agents that affect the renin-angiotensin system, including aliskiren, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving aliskiren and NSAID therapy.
+The antihypertensive effect of aliskiren may be attenuated by NSAIDs.
+When administered concurrently, the following drugs may interact with thiazide diuretics.
+Antidiabetic drugs (oral agents and insulin ) : Dosage adjustment of the antidiabetic drug may be required.
+Lithium : Diuretic agents increase the risk of lithium toxicity. Refer to the package insert for lithium before use of such preparation with Tekturna HCT. Monitoring of serum lithium concentrations is recommended during concurrent use.
+Nonsteroidal anti-inflammatory d rugs : When Tekturna HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimize the interaction see Clinical Pharmacology (12.3).
+ <list>
+ <item>
+ <item>Cyclosporine: Avoid concomitant use (7, 12.3).
+ <item>
+ <item>Itraconazole: Avoid concomitant use (7, 12.3)
+ <item>
+ <item>NSAIDs use may lead to increased risk of renal impairment and loss of antihypertensive effect (7).
+ <item>
+ <item>Antidiabetic Drugs: Dosage adjustment of antidiabetic may be required (7).
+ <item>
+ <item>Cholestyramine and Colestipol: Reduced absorption of thiazides (7).
+ <item>
+ <item>Lithium: Increased risk of lithium toxicity when used with diuretics. Monitor serum lithium concentrations during concurrent use. (7)
+ <item>
+ </list>
+
+

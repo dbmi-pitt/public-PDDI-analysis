@@ -1,0 +1,31 @@
+INOMAX (nitric oxide) gas 
+
+INOmax (nitric oxide gas) is a drug administered by inhalation. Nitric oxide, the active substance in INOmax, is a pulmonary vasodilator.
+
+4 CONTRAINDICATIONS
+
+INOmax is contraindicated in the treatment of neonates known to be dependent on right-to-left shunting of blood.
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Rebound
+
+Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure.
+
+5.2 Methemoglobinemia
+
+Methemoglobinemia increases with the dose of nitric oxide. In clinical trials, maximum methemoglobin levels usually were reached approximately 8 hours after initiation of inhalation, although methemoglobin levels have peaked as late as 40 hours following initiation of INOmax therapy. In one study, 13 of 37 (35%) of neonates treated with INOmax 80 ppm had methemoglobin levels exceeding 7%. Following discontinuation or reduction of nitric oxide, the methemoglobin levels returned to baseline over a period of hours.
+
+5.3 Elevated NO2 Levels
+
+In one study, NO2 levels were <0.5 ppm when neonates were treated with placebo, 5 ppm, and 20 ppm nitric oxide over the first 48 hours. The 80 ppm group had a mean peak NO2 level of 2.6 ppm.
+
+5.4 Heart Failure
+
+Patients who had pre-existing left ventricular dysfunction treated with inhaled nitric oxide, even for short durations, experienced serious adverse events (e.g., pulmonary edema).
+
+7 DRUG INTERACTIONS
+
+No formal drug-interaction studies have been performed, and a clinically significant interaction with other medications used in the treatment of hypoxic respiratory failure cannot be excluded based on the available data. INOmax has been administered with tolazoline, dopamine, dobutamine, steroids, surfactant, and high-frequency ventilation. Although there are no study data to evaluate the possibility, nitric oxide donor compounds, including sodium nitroprusside and nitroglycerin, may have an additive effect with INOmax on the risk of developing methemoglobinemia. An association between prilocaine and an increased risk of methemoglobinemia, particularly in infants, has specifically been described in a literature case report. This risk is present whether the drugs are administered as oral, parenteral, or topical formulations.
+
+

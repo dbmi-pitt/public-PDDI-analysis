@@ -1,0 +1,51 @@
+
+DESCRIPTION SECTION
+
+<paragraph>
+<main>Acetohydroxamic acid (AHA) is a stable, synthetic compound derived from hydroxylamine and ethyl acetate. Its molecular structure is similar to urea:
+<item>AHA is weakly acidic, highly soluble in water, and chelates metals - notably iron. The molecular weight is 75.068. AHA has a pKa of 9.32 and a melting point of 89-91 C. AHA is a urease inhibitor. Available as 250 mg tablets.
+</paragraph>
+Acetohydroxamic acid struct
+
+INDICATIONS  -  USAGE SECTION
+
+Acetohydroxamic acid is indicated as adjunctive therapy in patients with chronic urea-splitting urinary infection. AHA is intended to decrease urinary ammonia and alkalinity, but it should not be used in lieu of curative surgical treatment (for patients with stones) or antimicrobial treatment. Long-term treatment with AHA may be warranted to maintain urease inhibition as long as urea-splitting infection is present. Experience with AHA does not go beyond 7 years. A patient package insert should be distributed to each patient who receives AHA.
+
+CONTRAINDICATIONS SECTION
+
+<paragraph>
+<main>Acetohydroxamic acid should not be used in:
+<item>
+<item>patients whose physical state and disease are amenable to definitive surgery and appropriate antimicrobial agents
+<item>
+<item>patients whose urine is infected by non-urease producing organisms
+<item>
+<item>patients whose urinary infections can be controlled by culture-specific oral antimicrobial agents
+<item>
+<item>patients whose renal function is poor (i.e., serum creatinine more than 2.5 mg/dl and/or creatinine clearance less than 20 ml/min)
+<item>
+<item>female patients who do not evidence a satisfactory method of contraception
+<item>
+<item>patients who are pregnant
+<item>
+<item>Acetohydroxamic acid may cause fetal harm when administered to a pregnant woman. AHA was teratogenic (retarded and/or clubbed rear leg at 750 mg/kg and above and exencephaly and encephalocele at 1,500 mg/kg) when given intraperitoneally to rats. AHA is contraindicated in women who are or may become pregnant. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to the fetus.
+</paragraph>
+
+PRECAUTIONS SECTION
+
+Hematologic Effects: Bone marrow depression (leukopenia, anemia, and thrombocytopenia) has occurred in experimental animals receiving large doses of AHA, but has not been seen in man to date. AHA is a known inhibitor of DNA synthesis and also chelates metals - notably iron. Its bone marrow suppressant effect is probably related to its ability to inhibit DNA synthesis, but anemia could also be related to depletion of iron stores. To date, the only clinical effect noted has been hemolysis, with a decrease in the circulating red blood cells, hemoglobin and hematocrit. Abnormalities in platelet or white blood cell count have not been noted. However, clinical monitoring of the platelet and white cell count is recommended.
+Monitoring Liver Function: Abnormalities of liver function have not been reported to date. However, a chloro-benzene derivative of acetohydroxamic acid caused significant liver dysfunction in an unrelated study. Therefore, close monitoring of liver function is recommended. (See Carcinogenesis for discussion of possible hepatic carcinogenesis.)
+Use In Patients With Renal Impairment: Since AHA is eliminated primarily by the kidneys, patients with significantly impaired renal function should be closely monitored, and a reduction of daily dose may be needed to avoid excessive drug accumulation. (See Dosage and Administration.)
+
+DRUG INTERACTIONS SECTION
+
+AHA has been used concomitantly with insulin, oral and parenteral antibiotics, and progestational agents. No clinically significant interactions have been noted, but until wider clinical experience is obtained, AHA should be used with caution in patients receiving other therapeutic agents.
+AHA taken in association with alcoholic beverages has resulted in a rash. (See Adverse Reactions.)
+AHA chelates heavy metals-notably iron. The absorption of iron and AHA from the intestinal lumen may be reduced when both drugs are taken concomitantly. When iron administration is indicated, intramuscular iron is probably the product of choice.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+AHA should be administered orally, one tablet 3-4 times a day in a total daily dose of 10-15 mg/kg/day. The recommended starting dose is 12 mg/kg/day, administered at 6-8 hour intervals at a time when the stomach is empty. The maximum daily dose should be no more than 1.5 grams, regardless of body weight.
+The dosage should be reduced in patients with reduced renal function. Patients whose serum creatinine is greater than 1.8 mg/dl should take no more than 1.0 gm/day, such patients should be dosed at q-12-h intervals. Further reductions in dosage to prevent the accumulation of toxic concentrations in the blood may also be desirable. Insufficient data exists to accurately characterize the optimum dose and/or dose interval in patients with moderate degrees of renal insufficiency.
+Patients with advanced renal insufficiency (i.e., serum creatinine more than 2.5 mg/dl) should not be treated with AHA. The risk of accumulation of toxic blood levels of AHA seems to be greater than the chances for a beneficial effect in such patients.
+In children an initial dose of 10 mg/kg/day is recommended. Close monitoring of the patient s clinical condition and hematologic status is recommended. Titration of the dose to higher or lower levels may be required to obtain an optimum therapeutic effect and/or to reduce the risk of side effects.

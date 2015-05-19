@@ -1,0 +1,69 @@
+DIOVAN (valsartan) tablet 
+
+4     CONTRAINDICATIONS
+
+Do not use in patients with known hypersensitivity to any component.
+
+Do not coadminister aliskiren with Diovan in patients with diabetes [See Drug Interactions (7)].
+
+5     WARNINGS AND PRECAUTIONS
+
+5.1     Fetal Toxicity
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Diovan as soon as possible. [see Use in Specific Populations (8.1)].
+
+5.2     Hypotension
+
+Excessive hypotension was rarely seen (0.1%) in patients with uncomplicated hypertension treated with Diovan alone. In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur. This condition should be corrected prior to administration of Diovan, or the treatment should start under close medical supervision.
+
+Caution should be observed when initiating therapy in patients with heart failure or post-myocardial infarction patients. Patients with heart failure or post-myocardial infarction patients given Diovan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed. In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients. In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
+
+If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.3     Impaired Renal Function
+
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g. patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan. Monitor renal function periodically in these patients. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan [See Drug Interactions (7)].
+
+5.4     Hyperkalemia
+
+Some patients with heart failure have developed increases in potassium. These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of Diovan may be required. [see Adverse Reactions (6.1)]
+
+7     DRUG INTERACTIONS
+
+No clinically significant pharmacokinetic interactions were observed when Diovan (valsartan) was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin. The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+
+Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+
+CYP 450 Interactions: In vitro  metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and coadministered drugs are unlikely because of the low extent of metabolism [see Clinical Pharmacology (12.3)].
+
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2. Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
+
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g. spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine. If co-medication is considered necessary, monitoring of serum potassium is advisable.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on Diovan and other agents that affect the RAS.
+
+Do not coadminister aliskiren with Diovan in patients with diabetes. Avoid use of aliskiren with Diovan in patients with renal impairment (GFR <60 mL/min).
+
+7.1     Clinical Laboratory Test Findings
+
+In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Diovan.
+
+Creatinine:  Minor elevations in creatinine occurred in 0.8% of patients taking Diovan and 0.6% given placebo in controlled clinical trials of hypertensive patients. In heart failure trials, greater than 50% increases in creatinine were observed in 3.9% of Diovan-treated patients compared to 0.9% of placebo-treated patients. In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
+
+Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in 0.4% and 0.8%, respectively, of Diovan patients, compared with 0.1% and 0.1% in placebo-treated patients. One valsartan patient discontinued treatment for microcytic anemia.
+
+Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan-treated patients. Three patients (< 0.1%) treated with valsartan discontinued treatment for elevated liver chemistries.
+
+Neutropenia: Neutropenia was observed in 1.9% of patients treated with Diovan and 0.8% of patients treated with placebo.
+
+Serum Potassium: In hypertensive patients, greater than 20% increases in serum potassium were observed in 4.4% of Diovan-treated patients compared to 2.9% of placebo-treated patients. In heart failure patients, greater than 20% increases in serum potassium were observed in 10.0% of Diovan-treated patients compared to 5.1% of placebo-treated patients.
+
+Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of Diovan-treated patients compared to 6.3% of placebo-treated patients.
+
+

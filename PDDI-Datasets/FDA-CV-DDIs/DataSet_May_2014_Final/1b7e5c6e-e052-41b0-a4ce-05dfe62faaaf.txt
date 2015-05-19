@@ -1,0 +1,122 @@
+Drug Label for drug brand Digoxin, containing Digoxin.
+
+
+4 CONTRAINDICATIONS
+
+
+Allergy to digoxin is rare. Digoxin is contraindicated in patients with a known hypersensitivity to digoxin or other forms of digitalis. Digitalis glycosides, such as digoxin, are contraindicated in ventricular fibrillation.
+ <list>
+ <item>
+ <item>Known hypersensitivity to digoxin or other forms of digitalis. (4)
+ <item>
+ <item>Ventricular fibrillation. (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Accessory AV Pathway: Increased risk of rapid ventricular response leading to ventricular fibrillation. (5.1)
+ <item>
+ <item>Sinus node disease and AV block: Digoxin use can exacerbate the condition and may cause advanced or complete heart block. (5.2)
+ <item>
+ <item>Misidentification of digoxin toxicity: Signs and symptoms of digoxin toxicity may be mistaken for worsening symptoms of congestive heart failure. (5.3)
+ <item>
+ <item>Preserved left ventricular systolic function: Patients with heart failure with preserved left ventricular ejection fraction may be more susceptible to digoxin toxicity. (5.4)
+ <item>
+ <item>Impaired renal function: Renal impairment results in increased digoxin exposure and requires dosage adjustments. (5.5)
+ <item>
+ <item>Electrolyte disorders: Toxicity is increased by hypokalemia, hypomagnesemia, and hypercalcemia. (5.6)
+ <item>
+ <item>Hypermetabolic states: In patients with atrial arrhythmias associated with hypermetabolic states, control of resting ventricular rate is particularly resistant to digoxin treatment. (5.8)
+ <item>
+ <item>The use of digoxin may result in potentially detrimental increases in coronary vascular resistance. (5.9)
+ <item>
+ <item>Avoid digoxin in patients with myocarditis. (5.10)
+ <item>
+ </list>
+
+
+5.1 Use in Patients with Accessory AV Pathway (Wolff-Parkinson-White Syndrome)
+
+Patients with Wolff-Parkinson-White syndrome who develop atrial fibrillation are at high risk of ventricular fibrillation. Treatment of these patients with digoxin leads to greater slowing of conduction in the atrioventricular node than in accessory pathways, and the risks of rapid ventricular response leading to ventricular fibrillation are thereby increased.
+
+5.2 Use in Patients with Sinus Node Disease and AV Block
+
+Because digoxin slows sinoatrial and AV conduction, the drug commonly prolongs the PR interval. Digoxin may cause severe sinus bradycardia or sinoatrial block particularly in patients with pre-existing sinus node disease and may cause advanced or complete heart block in patients with pre-existing incomplete AV block. In such patients consideration should be given to the insertion of a pacemaker before treatment with digoxin.
+
+5.3 Misidentification of Digoxin Toxicity
+
+Some signs and symptoms (anorexia, nausea, vomiting, and certain arrhythmias) can equally result from digoxin toxicity as from congestive heart failure. Misidentification of their etiology might lead the clinician to continue or increase digoxin dosing, when dosing should actually be suspended. When the etiology of these signs and symptoms is not obvious, measurement of serum digoxin levels may be helpful.
+
+5.4 Use in Patients with Preserved Left Ventricular Systolic Function
+
+Patients with certain disorders involving heart failure associated with preserved left ventricular ejection fraction may not benefit from digoxin treatment and may be particularly susceptible to adverse reactions when they are treated with digoxin.
+In patients with hypertrophic cardiomyopathy (formerly called idiopathic hypertrophic subaortic stenosis), the positive inotropic effect of digoxin leads to an increased subvalvular outflow gradient and therefore, may compromise cardiac output. Digoxin is rarely beneficial in patients with this condition.
+Chronic constrictive pericarditis is not generally associated with any inotropic defect, so heart failure of this etiology is unlikely to respond to treatment with digoxin. By slowing the resting heart rate, digoxin may actually decrease cardiac output in these patients.
+Digoxin as an inotropic agent is of limited value in patients with restrictive cardiomyopathies, although it has been used for ventricular rate control in the subgroup of patients with atrial fibrillation. In addition, patients with amyloid heart disease may be more susceptible to toxicity from digoxin at therapeutic levels because of an increased binding of digoxin to extracellular amyloid fibrils.
+
+5.5 Use in Patients with Impaired Renal Function
+
+Digoxin is primarily excreted by the kidneys, therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin see Dosage and Administration (2.4). Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function. If appropriate care is not taken to reduce the dose of digoxin, such patients are at high risk for toxicity, and toxic effects will last longer in such patients than in patients with normal renal function.
+
+5.6 Use in Patients with Electrolyte Disorders
+
+In patients with hypokalemia or hypomagnesemia, toxicity may occur at concentrations within therapeutic range because potassium or magnesium depletion sensitizes the myocardium to digoxin. Therefore, it is desirable to maintain normal serum potassium and magnesium concentrations in patients being treated with digoxin. Serum potassium levels should be carefully monitored when digoxin is given to patients at high risk of hypokalemia (e.g., those receiving diuretics, corticosteroids, or other drugs that commonly lead to potassium loss, those with gastrointestinal losses through diarrhea, vomiting, or nasogastric suction, or those with potassium-losing endocrinopathies or nephropathies). Digoxin toxicity is also more likely in the presence of hypomagnesemia. Hypomagnesemia is common in most of the same conditions in which hypokalemia appears. Most notably, it is commonly seen in alcoholics and in patients with diabetes mellitus or hypercalcemia.
+Because digoxin s therapeutic and toxic effects are all largely mediated by intracellular calcium distribution, they are affected by abnormalities in serum calcium levels. Hypercalcemia increases the risk of digoxin toxicity, while digoxin may be therapeutically ineffective in the presence of hypocalcemia.
+
+5.7 Use During Electrical Cardioversion
+
+Reduction of digoxin dosage may be desirable prior to electrical cardioversion to avoid induction of ventricular arrhythmias, but the physician must consider the consequences of a rapid increase in ventricular response to atrial fibrillation if digoxin is withheld 1 to 2 days prior to cardioversion. If there is a suspicion that digitalis toxicity exists, elective cardioversion should be delayed. If it is not prudent to delay cardioversion, the energy level selected should be minimal at first and carefully increased in an attempt to avoid precipitating ventricular arrhythmias.
+
+5.8 Use in Thyroid Disorders and Hypermetabolic States
+
+Hypothyrodism may reduce the requirements for digoxin. Heart failure and atrial arrhythmias resulting from hypermetabolic or hyperdynamic states (e.g., hyperthyroidism, hypoxia, or arteriovenous shunt) are best treated by addressing the underlying condition.
+Atrial arrhythmias associated with hypermetabolic states (e.g., hyperthyroidism) are particularly resistant to digoxin treatment. Large doses of digoxin are not recommended as the only treatment of these arrhythmias and care must be taken to avoid toxicity if large doses of digoxin are required. In hypothyroidism, the digoxin requirements are reduced. Digoxin responses are normal in patients with compensated thyroid disease.
+
+5.9 Use in Patients with Acute Myocardial Infarction
+
+In patients with acute myocardial infarction, particularly if they have ongoing ischemia, the use of inotropic drugs, such as digoxin, may result in undesirable increases in myocardial oxygen demand and ischemia. Moreover, the use of digoxin may result in potentially detrimental increases in coronary vascular resistance mediated through alpha adrenergic receptor stimulation.
+
+5.10 Use in Patients with Myocarditis
+
+Digoxin can precipitate vasoconstriction and may promote production of pro-inflammatory cytokines. Therefore, avoid digoxin in patients with myocarditis.
+
+5.11 ECG Changes During Exercise
+
+The use of therapeutic doses of digoxin may cause prolongation of the PR interval and depression of the ST segment on the electrocardiogram. Digoxin may produce false positive ST-T changes on the electrocardiogram during exercise testing that may be indistinguishable from those of ischemia. These electrophysiologic effects reflect an expected effect of the drug and are not indicative of toxicity. Digoxin does not significantly decrease heart rate during exercise.
+
+5.12 Laboratory Tests
+
+Patients receiving digoxin should have their serum electrolytes and renal function (serum creatinine concentrations) assessed periodically, the frequency of assessments will depend on the clinical setting.
+Assays of serum digoxin levels are described elsewhere see Drug Interactions (7.4), as is their use in patient monitoring see Dosage and Administration (2.2).
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>PGP Inducers/Inhibitors: Drugs that induce or inhibit PGP have the potential to alter digoxin pharmacokinetics. (7.1)
+ <item>
+ <item>There are numerous drug interactions associated with digoxin. The potential for drug-drug interactions must be considered prior to and during drug therapy. See full prescribing information for a complete listing of pharmacokinetic (7.2) (12.3) and pharmacodynamic interactions (7.3).
+ <item>
+ </list>
+
+
+7.1 P-Glycoprotein (PGP) Inducers/Inhibitors
+
+Digoxin is a substrate for P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary-intestinal secretion. Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics.
+
+7.2 Pharmacokinetic Drug Interactions on Serum Digoxin Levels in Adults
+
+NA Not available/reported
+
+7.4 Drug-Laboratory Test Interaction
+
+Endogenous substances of unknown composition (digoxin-like immunoreactive substances, DLIS) can interfere with standard radioimmunoassays for digoxin. The interference most often causes results to be falsely positive or falsely elevated, but sometimes it causes results to be falsely reduced. Some assays are more subject to these failings than others. Several LC/MS/MS methods are available that may provide less susceptibility to DLIS interference. DLIS are present in up to half of all neonates and in varying percentages of pregnant women, patients with hypertrophic cardiomyopathy, patients with renal or hepatic dysfunction, and other patients who are volume-expanded for any reason. The measured levels of DLIS (as digoxin equivalents) are usually low (0.2 to 0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic.
+In some assays, spironolactone, canrenone and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL. Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha or Dashen, can cause similar interference.
+Spironolactone and DLIS are much more extensively protein-bound than digoxin. As a result, assays of free digoxin levels in protein-free ultrafiltrate (which tend to be about 25% less than total levels, consistent with the usual extent of protein binding) are less affected by spironolactone or DLIS. It should be noted that ultrafiltration does not solve all interference problems with alternative medicines. The use of an LC/MS/MS method may be the better option according to the good results it provides, especially in term of specificity and limit of quantization.
+

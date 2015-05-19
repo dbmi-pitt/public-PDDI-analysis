@@ -1,0 +1,351 @@
+Drug Label for drug brand Zaroxolyn, containing metolazone.
+Zaroxolyn Tablets. (metolazone tablets, USP)
+
+
+
+Rx Only
+
+DO NOT INTERCHANGE:. DO NOT INTERCHANGE ZAROXOLYN TABLETS AND OTHER FORMULATIONS OF METOLAZONE THAT SHARE ITS SLOW AND INCOMPLETE BIOAVAILABILITY AND ARE NOT THERAPEUTICALLY EQUIVALENT AT THE SAME DOSES TO MYKROX TABLETS, A MORE RAPIDLY AVAILABLE AND COMPLETELY BIOAVAILABLE METOLAZONE PRODUCT. FORMULATIONS BIOEQUIVALENT TO ZAROXOLYN AND FORMULATIONS BIOEQUIVALENT TO MYKROX SHOULD NOT BE INTERCHANGED FOR ONE ANOTHER.
+
+DESCRIPTION
+
+ZAROXOLYN Tablets (metolazone tablets, USP) for oral administration contain 2 or 5 mg of metolazone, USP, a diuretic/saluretic/antihypertensive drug of the quinazoline class.
+
+Metolazone has the molecular formula C16H16ClN3S, the chemical name 7-chloro-1, 2, 3, 4-tetrahydro-2-methyl-3-(2-methylphenyl)-4-oxo-6-quinazolinesulfonamide, and a molecular weight of 365.83. The structural formula is:
+
+
+
+Metolazone is only sparingly soluble in water, but more soluble in plasma, blood, alkali, and organic solvents.
+
+Inactive Ingredients: Magnesium stearate, microcrystalline cellulose and dye: 2 mg-D - C Red No. 33, 5 mg-FD - C Blue No. 2.
+
+Chemical Structure
+
+CLINICAL PHARMACOLOGY
+
+ZAROXOLYN (metolazone) is a quinazoline diuretic, with properties generally similar to the thiazide diuretics. The actions of ZAROXOLYN result from interference with the renal tubular mechanism of electrolyte reabsorption. ZAROXOLYN acts primarily to inhibit sodium reabsorption at the cortical diluting site and to a lesser extent in the proximal convoluted tubule. Sodium and chloride ions are excreted in approximately equivalent amounts. The increased delivery of sodium to the distal tubular exchange site results in increased potassium excretion. ZAROXOLYN does not inhibit carbonic anhydrase. A proximal action of metolazone has been shown in humans by increased excretion of phosphate and magnesium ions and by a markedly increased fractional excretion of sodium in patients with severely compromised glomerular filtration. This action has been demonstrated in animals by micropuncture studies.
+
+When ZAROXOLYN Tablets are given, diuresis and saluresis usually begin within one hour and may persist for 24 hours or more. For most patients, the duration of effect can be varied by adjusting the daily dose. High doses may prolong the effect. A single daily dose is recommended. When a desired therapeutic effect has been obtained, it may be possible to reduce dosage to a lower maintenance level.
+
+The diuretic potency of ZAROXOLYN at maximum therapeutic dosage is approximately equal to thiazide diuretics. However, unlike thiazides, ZAROXOLYN may produce diuresis in patients with glomerular filtration rates below 20 mL/min.
+
+ZAROXOLYN and furosemide administered concurrently have produced marked diuresis in some patients where edema or ascites was refractory to treatment with maximum recommended doses of these or other diuretics administered alone. The mechanism of this interaction is unknown (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
+Maximum blood levels of metolazone are found approximately eight hours after dosing. A small fraction of metolazone is metabolized. Most of the drug is excreted in the unconverted form in the urine.
+
+INDICATIONS AND USAGE
+
+<paragraph>
+<main>ZAROXOLYN is indicated for the treatment of salt and water retention including:
+<item>
+<item>edema accompanying congestive heart failure,
+<item>
+<item>edema accompanying renal diseases, including the nephrotic syndrome and states of diminished renal function.
+<item>
+<item>ZAROXOLYN is also indicated for the treatment of hypertension, alone or in combination with other antihypertensive drugs of a different class. MYKROX Tablets, a more rapidly available form of metolazone, are intended for the treatment of new patients with mild to moderate hypertension. A dose titration is necessary if MYKROX Tablets are to be substituted for ZAROXOLYN in the treatment of hypertension. See package circular for MYKROX Tablets (UCB).
+</paragraph>
+
+Usage In Pregnancy
+
+The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard. Diuretics do not prevent development of toxemia of pregnancy, and there is no evidence that they are useful in the treatment of developed toxemia.
+
+Edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequences of pregnancy. ZAROXOLYN is indicated in pregnancy when edema is due to pathologic causes, just as it is in the absence of pregnancy (see PRECAUTIONS). Dependent edema in pregnancy resulting from restriction of venous return by the expanded uterus is properly treated through elevation of the lower extremities and use of support hose, use of diuretics to lower intravascular volume in this case is illogical and unnecessary. There is hypervolemia during normal pregnancy which is harmful to neither the fetus nor the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema, in the majority of pregnant women. If this edema produces discomfort, increased recumbency will often provide relief. In rare instances, this edema may cause extreme discomfort which is not relieved by rest. In these cases, a short course of diuretics may be appropriate.
+
+CONTRAINDICATIONS
+
+Anuria, hepatic coma or precoma, known allergy or hypersensitivity to metolazone.
+
+WARNINGS
+
+Rapid Onset Hyponatremia And/Or Hypokalemia
+
+Rarely, the rapid onset of severe hyponatremia and/or hypokalemia has been reported following initial doses of thiazide and non-thiazide diuretics. When symptoms consistent with severe electrolyte imbalance appear rapidly, drug should be discontinued and supportive measures should be initiated immediately. Parenteral electrolytes may be required. Appropriateness of therapy with this class of drugs should be carefully reevaluated.
+
+Hypokalemia
+
+Hypokalemia may occur with consequent weakness, cramps, and cardiac dysrhythmias. Serum potassium should be determined at regular and appropriate intervals, and dose reduction, potassium supplementation or addition of a potassium-sparing diuretic instituted whenever indicated. Hypokalemia is a particular hazard in patients who are digitalized or who have or have had a ventricular arrhythmia, dangerous or fatal arrhythmias may be precipitated. Hypokalemia is dose related.
+
+Concomitant Therapy
+
+Lithium
+
+In general, diuretics should not be given concomitantly with lithium because they reduce its renal clearance and add a high risk of lithium toxicity. Read prescribing information for lithium preparations before use of such concomitant therapy.
+
+Furosemide
+
+Unusually large or prolonged losses of fluids and electrolytes may result when ZAROXOLYN is administered concomitantly to patients receiving furosemide (see PRECAUTIONS, Drug Interactions).
+
+Other Antihypertensive Drugs
+
+When ZAROXOLYN is used with other antihypertensive drugs, particular care must be taken to avoid excessive reduction of blood pressure, especially during initial therapy.
+
+Cross-Allergy
+
+Cross-allergy may occur when ZAROXOLYN is given to patients known to be allergic to sulfonamide-derived drugs, thiazides, or quinethazone.
+
+Sensitivity Reactions
+
+Sensitivity reactions (e.g., angioedema, bronchospasm) may occur with or without a history of allergy or bronchial asthma and may occur with the first dose of ZAROXOLYN.
+
+PRECAUTIONS
+
+DO NOT INTERCHANGE. DO NOT INTERCHANGE ZAROXOLYN TABLETS AND OTHER FORMULATIONS OF METOLAZONE THAT SHARE ITS SLOW AND INCOMPLETE BIOAVAILABILITY AND ARE NOT THERAPEUTICALLY EQUIVALENT AT THE SAME DOSES TO MYKROX TABLETS, A MORE RAPIDLY AVAILABLE AND COMPLETELY BIOAVAILABLE METOLAZONE PRODUCT. FORMULATIONS BIOEQUIVALENT TO ZAROXOLYN AND FORMULATIONS BIOEQUIVALENT TO MYKROX SHOULD NOT BE INTERCHANGED FOR ONE ANOTHER.
+
+General
+
+Fluid And Electrolytes
+
+All patients receiving therapy with ZAROXOLYN Tablets should have serum electrolyte measurements done at appropriate intervals and be observed for clinical signs of fluid and/or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia. In patients with severe edema accompanying cardiac failure or renal disease, a low-salt syndrome may be produced, especially with hot weather and a low-salt diet. Serum and urine electrolyte determinations are particularly important when the patient has protracted vomiting, severe diarrhea, or is receiving parenteral fluids. Warning signs of imbalance are: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscle fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Hyponatremia may occur at any time during long term therapy and, on rare occasions, may be life threatening.
+
+The risk of hypokalemia is increased when larger doses are used, when diuresis is rapid, when severe liver disease is present, when corticosteroids are given concomitantly, when oral intake is inadequate or when excess potassium is being lost extrarenally, such as with vomiting or diarrhea.
+
+Thiazide-like diuretics have been shown to increase the urinary excretion of magnesium, this may result in hypomagnesemia.
+
+Glucose Tolerance
+
+Metolazone may raise blood glucose concentrations possibly causing hyperglycemia and glycosuria in patients with diabetes or latent diabetes.
+
+Hyperuricemia
+
+ZAROXOLYN regularly causes an increase in serum uric acid and can occasionally precipitate gouty attacks even in patients without a prior history of them.
+
+Azotemia
+
+Azotemia, presumably prerenal azotemia, may be precipitated during the administration of ZAROXOLYN. If azotemia and oliguria worsen during treatment of patients with severe renal disease, ZAROXOLYN should be discontinued.
+
+Renal Impairment
+
+Use caution when administering ZAROXOLYN Tablets to patients with severely impaired renal function. As most of the drug is excreted by the renal route, accumulation may occur.
+
+Orthostatic Hypotension
+
+Orthostatic hypotension may occur, this may be potentiated by alcohol, barbiturates, narcotics, or concurrent therapy with other antihypertensive drugs.
+
+Hypercalcemia
+
+Hypercalcemia may infrequently occur with metolazone, especially in patients taking high doses of vitamin D or with high bone turnover states, and may signify hidden hyperparathyroidism. Metolazone should be discontinued before tests for parathyroid function are performed.
+
+Systemic Lupus Erythematosus
+
+Thiazide diuretics have exacerbated or activated systemic lupus erythematosus and this possibility should be considered with ZAROXOLYN Tablets.
+
+Information For Patients
+
+Patients should be informed of possible adverse effects, advised to take the medication as directed, and promptly report any possible adverse reactions to the treating physician.
+
+Drug Interactions
+
+Diuretics
+
+Furosemide and probably other loop diuretics given concomitantly with metolazone can cause unusually large or prolonged losses of fluid and electrolytes (see WARNINGS).
+
+Other Antihypertensives
+
+When ZAROXOLYN Tablets are used with other antihypertensive drugs, care must be taken, especially during initial therapy. Dosage adjustments of other antihypertensives may be necessary.
+
+Alcohol, Barbiturates, And Narcotics
+
+The hypotensive effects of these drugs may be potentiated by the volume contraction that may be associated with metolazone therapy.
+
+Digitalis Glycosides
+
+Diuretic-induced hypokalemia can increase the sensitivity of the myocardium to digitalis. Serious arrhythmias can result.
+
+Corticosteroids Or ACTH
+
+May increase the risk of hypokalemia and increase salt and water retention.
+
+Lithium
+
+Serum lithium levels may increase (see WARNINGS).
+
+Curariform Drugs
+
+Diuretic-induced hypokalemia may enhance neuromuscular blocking effects of curariform drugs (such as tubocurarine) the most serious effect would be respiratory depression which could proceed to apnea. Accordingly, it may be advisable to discontinue ZAROXOLYN three days before elective surgery.
+
+Salicylates And Other Non-Steroidal Anti-Inflammatory Drugs
+
+May decrease the antihypertensive effects of ZAROXOLYN Tablets.
+
+Sympathomimetics
+
+Metolazone may decrease arterial responsiveness to norepinephrine, but this diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use.
+
+Insulin And Oral Antidiabetic Agents
+
+See Glucose Tolerance under PRECAUTIONS, General.
+
+Methenamine
+
+Efficacy may be decreased due to urinary alkalizing effect of metolazone.
+
+Anticoagulants
+
+Metolazone, as well as other thiazide-like diuretics, may affect the hypoprothrombinemic response to anticoagulants, dosage adjustments may be necessary.
+
+Drug/Laboratory Test Interactions
+
+None reported.
+
+Carcinogenesis, Mutagenesis, Impairment Of Fertility
+
+Mice and rats administered metolazone 5 days/week for up to 18 and 24 months, respectively, at daily doses of 2, 10, and 50 mg/kg, exhibited no evidence of a tumorigenic effect of the drug. The small number of animals examined histologically and poor survival in the mice limit the conclusions that can be reached from these studies.
+
+Metolazone was not mutagenic in vitro in the Ames Test using Salmonella typhimurium strains TA-97, TA-98, TA-100, TA-102, and TA-1535.
+
+Reproductive performance has been evaluated in mice and rats. There is no evidence that metolazone possesses the potential for altering reproductive capacity in mice. In a rat study, in which males were treated orally with metolazone at doses of 2, 10, and 50 mg/kg for 127 days prior to mating with untreated females, an increased number of resorption sites was observed in dams mated with males from the 50 mg/kg group. In addition, the birth weight of offspring was decreased and the pregnancy rate was reduced in dams mated with males from the 10 and 50 mg/kg groups.
+
+Pregnancy
+
+Teratogenic Effects
+
+Pregnancy Category B
+
+Reproduction studies performed in mice, rabbits, and rats treated during the appropriate period of gestation at doses up to 50 mg/kg/day have revealed no evidence of harm to the fetus due to metolazone. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, ZAROXOLYN Tablets (metolazone tablets, USP) should be used during pregnancy only if clearly needed. Metolazone crosses the placental barrier and appears in cord blood.
+
+Non-Teratogenic Effects
+
+The use of ZAROXOLYN Tablets in pregnant women requires that the anticipated benefit be weighed against possible hazards to the fetus. These hazards include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions which have occurred in the adult. It is not known what effect the use of the drug during pregnancy has on the later growth, development, and functional maturation of the child. No such effects have been reported with metolazone.
+
+Labor And Delivery
+
+Based on clinical studies in which women received metolazone in late pregnancy until the time of delivery, there is no evidence that the drug has any adverse effects on the normal course of labor or delivery.
+
+Nursing Mothers
+
+Metolazone appears in breast milk. Because of the potential for serious adverse reactions in nursing infants from metolazone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established in controlled clinical trials. There is limited experience with the use of ZAROXOLYN in pediatric patients with congestive heart failure, hypertension, bronchopulmonary dysplasia, nephrotic syndrome and nephrogenic diabetes insipidus. Doses used generally ranged from 0.05 to 0.1 mg/kg administered once daily and usually resulted in a 1 to 2.8 kg weight loss and 150 to 300 cc increase in urine output. Not all patients responded and some gained weight. Those patients who did respond did so in the first few days of treatment. Prolonged use (beyond a few days) was generally associated with no further beneficial effect or a return to baseline status and is not recommended.
+
+There is limited experience with the combination of ZAROXOLYN and furosemide in pediatric patients with furosemide-resistant edema. Some benefited while others did not or had an exaggerated response with hypovolemia, tachycardia, and orthostatic hypotension requiring fluid replacement. Severe hypokalemia was reported and there was a tendency for diuresis to persist for up to 24 hours after ZAROXOLYN was discontinued. Hyperbilirubinemia has been reported in 1 neonate. Close clinical and laboratory monitoring of all children treated with diuretics is indicated. See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS.
+
+Geriatric Use
+
+Clinical studies of ZAROXOLYN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+ADVERSE REACTIONS
+
+ZAROXOLYN is usually well tolerated, and most reported adverse reactions have been mild and transient. Many ZAROXOLYN related adverse reactions represent extensions of its expected pharmacologic activity and can be attributed to either its antihypertensive action or its renal/metabolic actions. The following adverse reactions have been reported. Several are single or comparably rare occurrences. Adverse reactions are listed in decreasing order of severity within body systems.
+
+Cardiovascular
+
+Chest pain/discomfort, orthostatic hypotension, excessive volume depletion, hemoconcentration, venous thrombosis, palpitations.
+
+Central And Peripheral Nervous System
+
+Syncope, neuropathy, vertigo, paresthesias, psychotic depression, impotence, dizziness/lightheadedness, drowsiness, fatigue, weakness, restlessness (sometimes resulting in insomnia), headache.
+
+Dermatologic/Hypersensitivity
+
+Toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome, necrotizing angiitis (cutaneous vasculitis), skin necrosis, purpura, petechiae, dermatitis (photosensitivity), urticaria, pruritus, skin rashes.
+
+Gastrointestinal
+
+Hepatitis, intrahepatic cholestatic jaundice, pancreatitis, vomiting, nausea, epigastric distress, diarrhea, constipation, anorexia, abdominal bloating, abdominal pain.
+
+Hematologic
+
+Aplastic/hypoplastic anemia, agranulocytosis, leukopenia, thrombocytopenia.
+
+Metabolic
+
+Hypokalemia, hyponatremia, hyperuricemia, hypochloremia, hypochloremic alkalosis, hyperglycemia, glycosuria, increase in serum urea nitrogen (BUN) or creatinine, hypophosphatemia, hypomagnesemia, hypercalcemia.
+
+Musculoskeletal
+
+Joint pain, acute gouty attacks, muscle cramps or spasm.
+
+Other
+
+Transient blurred vision, chills, dry mouth.
+
+In addition, adverse reactions reported with similar antihypertensive-diuretics, but which have not been reported to date for ZAROXOLYN include: bitter taste, sialadenitis, xanthopsia, respiratory distress (including pneumonitis), and anaphylactic reactions. These reactions should be considered as possible occurrences with clinical usage of ZAROXOLYN.
+
+Whenever adverse reactions are moderate or severe, ZAROXOLYN dosage should be reduced or therapy withdrawn.
+
+OVERDOSAGE
+
+Intentional overdosage has been reported rarely with metolazone and similar diuretic drugs.
+
+Signs And Symptoms
+
+Orthostatic hypotension, dizziness, drowsiness, syncope, electrolyte abnormalities, hemoconcentration and hemodynamic changes due to plasma volume depletion may occur. In some instances depressed respiration may be observed. At high doses, lethargy of varying degree may progress to coma within a few hours. The mechanism of CNS depression with thiazide overdosage is unknown. Also, GI irritation and hypermotility may occur. Temporary elevation of BUN has been reported, especially in patients with impairment of renal function. Serum electrolyte changes and cardiovascular and renal function should be closely monitored.
+
+Treatment
+
+There is no specific antidote available but immediate evacuation of stomach contents is advised. Dialysis is not likely to be effective. Care should be taken when evacuating the gastric contents to prevent aspiration, especially in the stuporous or comatose patient. Supportive measures should be initiated as required to maintain hydration, electrolyte balance, respiration, and cardiovascular and renal function.
+
+DOSAGE AND ADMINISTRATION
+
+Effective dosage of ZAROXOLYN should be individualized according to indication and patient response. A single daily dose is recommended. Therapy with ZAROXOLYN should be titrated to gain an initial therapeutic response and to determine the minimal dose possible to maintain the desired therapeutic response.
+
+Usual Single Daily Dosage Schedules
+
+Suitable initial dosages will usually fall in the ranges given.
+
+Edema of cardiac failure: ZAROXOLYN 5 to 20 mg once daily.
+
+Edema of renal disease: ZAROXOLYN 5 to 20 mg once daily.
+
+Mild to moderate essential hypertension: ZAROXOLYN 2 to 5 mg once daily.
+
+New patients MYKROX Tablets (metolazone tablets, USP) (see MYKROX package circular). If considered desirable to switch patients currently on ZAROXOLYN to MYKROX, the dose should be determined by titration starting at one tablet (1/2 mg) once daily and increasing to two tablets (1 mg) once daily if needed.
+
+Treatment Of Edematous States
+
+The time interval required for the initial dosage to produce an effect may vary. Diuresis and saluresis usually begin within one hour and persist for 24 hours or longer. When a desired therapeutic effect has been obtained, it may be advisable to reduce the dose if possible. The daily dose depends on the severity of the patient's condition, sodium intake, and responsiveness. A decision to change the daily dose should be based on the results of thorough clinical and laboratory evaluations. If antihypertensive drugs or diuretics are given concurrently with ZAROXOLYN, more careful dosage adjustment may be necessary. For patients who tend to experience paroxysmal nocturnal dyspnea, it may be advisable to employ a larger dose to ensure prolongation of diuresis and saluresis for a full 24-hour period.
+
+Treatment Of Hypertension
+
+The time interval required for the initial dosage regimen to show effect may vary from three or four days to three to six weeks in the treatment of elevated blood pressure. Doses should be adjusted at appropriate intervals to achieve maximum therapeutic effect.
+
+HOW SUPPLIED
+
+<paragraph>
+<main>ZAROXOLYN Tablets (metolazone tablets, USP) are shallow biconvex, round tablets, and are available in two strengths:
+<item>2 mg, pink, debossed "ZAROXOLYN" on one side, and "2 " on reverse side.. NDC 53014-975-71 Bottle of 100's
+<item>5 mg, blue, debossed "ZAROXOLYN" on one side, and "5" on reverse side.. NDC 53014-850-71 Bottle of 100's
+</paragraph>
+
+Storage
+
+Store at 25 C (77 F), excursions permitted to 15 to 30 C (59 to 86 F) See USP Controlled Room Temperature.
+
+Protect from light. Keep out of the reach of children.
+
+For Medical Information
+
+Contact: Medical Affairs Department. Phone: (866) 822-0068. Fax: (770) 970-8859
+
+UCB, Inc.. Smyrna, GA 30080
+
+ZAROXOLYN is a registered trademark of UCB Manufacturing, Inc., Rochester, NY 14623. 2012, UCB, Inc., Smyrna, GA 30080. All rights reserved.
+
+Rev. 2E 02/2012
+
+PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
+
+NDC 53014-850-71
+
+Zaroxolyn Tablets. (metolazone tablets, USP). 5 mg
+
+Rx Only. 100 Tablets
+
+ucb
+
+Manufactured by: UCB Manufacturing, Inc.. Rochester, NY 14623 for: UCB, Inc. Smyrna, GA 30080
+
+PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
+
+PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
+
+NDC 53014-975-71
+
+Zaroxolyn Tablets. (metolazone tablets, USP). 2 mg
+
+PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
+

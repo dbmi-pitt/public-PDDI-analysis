@@ -1,0 +1,169 @@
+TENORMIN (atenolol) tablet 
+
+TENORMIN® (atenolol), a synthetic, beta1-selective (cardioselective) adrenoreceptor blocking agent
+
+CONTRAINDICATIONS
+
+TENORMIN is contraindicated in sinus bradycardia, heart block greater than first degree, cardiogenic shock, and overt cardiac failure. (See WARNINGS.)
+
+TENORMIN is contraindicated in those patients with a history of hypersensitivity to the atenolol or any of the drug product’s components.
+
+WARNINGS
+
+Cardiac Failure
+
+Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
+
+In patients with acute myocardial infarction, cardiac failure which is not promptly and effectively controlled by 80 mg of intravenous furosemide or equivalent therapy is a contraindication to beta-blocker treatment.
+
+In Patients Without a History of Cardiac Failure
+
+Continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure. At the first sign or symptom of impending cardiac failure, patients should be treated appropriately according to currently recommended guidelines, and the response observed closely. If cardiac failure continues despite adequate treatment, TENORMIN should be withdrawn. (See DOSAGE AND ADMNISTRATION)
+
+ Cessation of Therapy with TENORMIN
+
+Patients with coronary artery disease, who are being treated with TENORMIN, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta blockers, when discontinuation of TENORMIN is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that TENORMIN be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue TENORMIN therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.)
+
+Concomitant Use of Calcium Channel Blockers
+
+Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem. Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible. (See PRECAUTIONS.)
+
+Bronchospastic Diseases
+
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS. Because of its relative beta1 selectivity, however, TENORMIN may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment. Since beta1 selectivity is not absolute, the lowest possible dose of TENORMIN should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available. If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
+
+Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes and Hypoglycemia
+
+TENORMIN should be used with caution in diabetic patients if a beta-blocking agent is required. Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected. At recommended doses TENORMIN does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta blockers, does not delay recovery of blood glucose to normal levels.
+
+Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs (eg, tachycardia) of hyperthyroidism. Abrupt withdrawal of beta blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom TENORMIN therapy is to be withdrawn should be monitored closely. (See DOSAGE AND ADMINISTRATION.)
+
+Untreated Pheochromocytoma
+
+TENORMIN should not be given to patients with untreated pheochromocytoma.
+
+Pregnancy and Fetal Injury
+
+Atenolol can cause fetal harm when administered to a pregnant woman. Atenolol crosses the placental barrier and appears in cord blood. Administration of atenolol, starting in the second trimester of pregnancy, has been associated with the birth of infants that are small for gestational age. No studies have been performed on the use of atenolol in the first trimester and the possibility of fetal injury cannot be excluded. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+Neonates born to mothers who are receiving TENORMIN at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia. Caution should be exercised when TENORMIN is administered during pregnancy or to a woman who is breast-feeding. (See PRECAUTIONS, Nursing Mothers.)
+
+Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose1. Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose1.
+
+PRECAUTIONS
+
+General
+
+Patients already on a beta blocker must be evaluated carefully before TENORMIN is administered. Initial and subsequent TENORMIN dosages can be adjusted downward depending on clinical observations including pulse and blood pressure. TENORMIN may aggravate peripheral arterial circulatory disorders.
+
+Impaired Renal Function
+
+The drug should be used with caution in patients with impaired renal function. (See DOSAGE AND ADMINISTRATION.)
+
+Drug Interactions
+
+Catecholamine-depleting drugs (eg, reserpine) may have an additive effect when given with beta-blocking agents. Patients treated with TENORMIN plus a catecholamine depletor should therefore be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension.
+
+Calcium channel blockers may also have an additive effect when given with TENORMIN (See WARNINGS).
+
+Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects. Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
+
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
+
+Beta blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine. If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine. If replacing clonidine by beta-blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
+
+Concomitant use of prostaglandin synthase inhibiting drugs, eg, indomethacin, may decrease the hypotensive effects of beta blockers.
+
+Information on concurrent usage of atenolol and aspirin is limited. Data from several studies, ie, TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta blockers in the acute myocardial infarction setting.
+
+While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
+
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose11) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males. No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S typhimurium).
+
+Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose1) was unaffected by atenolol administration.
+
+Animal Toxicology
+
+Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner's glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose11, respectively).
+
+Usage in Pregnancy
+
+Pregnancy Category D
+
+See WARNINGS - Pregnancy and Fetal Injury.
+
+Nursing Mothers
+
+Atenolol is excreted in human breast milk at a ratio of 1.5 to 6.8 when compared to the concentration in plasma. Caution should be exercised when TENORMIN is administered to a nursing woman. Clinically significant bradycardia has been reported in breast-fed infants. Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
+
+Neonates born to mothers who are receiving TENORMIN at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia. Caution should be exercised when TENORMIN is administered during pregnancy or to a woman who is breast-feeding (See WARNINGS, Pregnancy and Fetal Injury).
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Hypertension and Angina Pectoris Due to Coronary Atherosclerosis:
+
+Clinical studies of TENORMIN did not include sufficient number of patients aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Acute Myocardial Infarction:
+
+Of the 8,037 patients with suspected acute myocardial infarction randomized to TENORMIN in the ISIS-1 trial (See CLINICAL PHARMACOLOGY), 33% (2,644) were 65 years of age and older. It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure < 120 mmHg seemed less likely to benefit (See INDICATIONS AND USAGE).
+
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
+
+DOSAGE AND ADMINISTRATION
+
+Hypertension
+
+The initial dose of TENORMIN is 50 mg given as one tablet a day either alone or added to diuretic therapy. The full effect of this dose will usually be seen within one to two weeks. If an optimal response is not achieved, the dosage should be increased to TENORMIN 100 mg given as one tablet a day. Increasing the dosage beyond 100 mg a day is unlikely to produce any further benefit.
+
+TENORMIN may be used alone or concomitantly with other antihypertensive agents including thiazide-type diuretics, hydralazine, prazosin, and alpha-methyldopa.
+
+Angina Pectoris
+
+The initial dose of TENORMIN is 50 mg given as one tablet a day. If an optimal response is not achieved within one week, the dosage should be increased to TENORMIN 100 mg given as one tablet a day. Some patients may require a dosage of 200 mg once a day for optimal effect.
+
+Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect. The maximum early effect on exercise tolerance occurs with doses of 50 to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
+
+Acute Myocardial Infarction
+
+In patients with definite or suspected acute myocardial infarction, treatment with TENORMIN I.V. Injection should be initiated as soon as possible after the patient's arrival in the hospital and after eligibility is established. Such treatment should be initiated in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized. Treatment should begin with the intravenous administration of 5 mg TENORMIN over 5 minutes followed by another 5 mg intravenous injection 10 minutes later. TENORMIN I.V. Injection should be administered under carefully controlled conditions including monitoring of blood pressure, heart rate, and electrocardiogram. Dilutions of TENORMIN I.V. Injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Sodium Chloride and Dextrose Injection may be used. These admixtures are stable for 48 hours if they are not used immediately.
+
+In patients who tolerate the full intravenous dose (10 mg), TENORMIN Tablets 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later. Thereafter, TENORMIN can be given orally either 100 mg once daily or 50 mg twice a day for a further 6-9 days or until discharge from the hospital. If bradycardia or hypotension requiring treatment or any other untoward effects occur, TENORMIN should be discontinued. (See full prescribing information prior to initiating therapy with TENORMIN Tablets.)
+
+Data from other beta blocker trials suggest that if there is any question concerning the use of IV beta blocker or clinical estimate that there is a contraindication, the IV beta blocker may be eliminated and patients fulfilling the safety criteria may be given TENORMIN Tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
+
+Although the demonstration of efficacy of TENORMIN is based entirely on data from the first seven postinfarction days, data from other beta blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
+
+TENORMIN is an additional treatment to standard coronary care unit therapy.
+
+Elderly Patients or Patients with Renal Impairment
+
+TENORMIN is excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function. Atenolol excretion would be expected to decrease with advancing age.
+
+No significant accumulation of TENORMIN occurs until creatinine clearance falls below 35 mL/min/1.73m2. Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 and 105 mL/min. Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
+
+Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of TENORMIN: 25 mg given as one tablet a day. If this 25 mg dose is used, assessment of efficacy must be made carefully. This should include measurement of blood pressure just prior to the next dose ("trough" blood pressure) to ensure that the treatment effect is present for a full 24 hours.
+
+Although a similar dosage reduction may be considered for elderly and/or renally-impaired patients being treated for indications other than hypertension, data are not available for these patient populations.
+
+Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; this should be done under hospital supervision as marked falls in blood pressure can occur.
+
+Cessation of Therapy in Patients with Angina Pectoris
+
+If withdrawal of TENORMIN therapy is planned, it should be achieved gradually and patients should be carefully observed and advised to limit physical activity to a minimum.
+
+

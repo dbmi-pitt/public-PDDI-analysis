@@ -1,0 +1,12 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB01149-http://bio2rdf.org/drugbank:DB00656    object:trazodone precipitant: nefazodone 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00897-http://bio2rdf.org/drugbank:DB00582    object:triazolam precipitant: voriconazole 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00285-http://bio2rdf.org/drugbank:DB00476    object:duloxetine precipitant: venlafaxine 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00246    object:ziprasidone precipitant: fluconazole 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01149-http://bio2rdf.org/drugbank:DB00285    object:venlafaxine precipitant: nefazodone 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00683    object:midazolam precipitant: fluconazole 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00425-http://bio2rdf.org/drugbank:DB01072    object:zolpidem precipitant: atazanavir 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00404-http://bio2rdf.org/drugbank:DB00582    object:alprazolam precipitant: voriconazole 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00897    object:triazolam precipitant: fluconazole 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00734-http://bio2rdf.org/drugbank:DB00582    object:risperidone precipitant: voriconazole 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB01149-http://bio2rdf.org/drugbank:DB00897    object:triazolam precipitant: nefazodone 	DIKB Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 

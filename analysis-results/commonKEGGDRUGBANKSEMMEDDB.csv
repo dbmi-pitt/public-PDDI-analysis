@@ -1,0 +1,24 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00313-http://bio2rdf.org/drugbank:DB00564    object:Carbamazepine precipitant: Valproic Acid 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00252-http://bio2rdf.org/drugbank:DB00501    object:Cimetidine precipitant: Phenytoin 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00993-http://bio2rdf.org/drugbank:DB00437    object:Allopurinol precipitant: Azathioprine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00717-http://bio2rdf.org/drugbank:DB01174    object:Norethindrone precipitant: Phenobarbital 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00655-http://bio2rdf.org/drugbank:DB01174    object:Estrone precipitant: Phenobarbital 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00564-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Carbamazepine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Clozapine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00945-http://bio2rdf.org/drugbank:DB01234    object:Acetylsalicylic acid precipitant: Dexamethasone 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00252-http://bio2rdf.org/drugbank:DB00860    object:Prednisolone precipitant: Phenytoin 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB01151-http://bio2rdf.org/drugbank:DB00668    object:Epinephrine precipitant: Desipramine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB01115    object:Cimetidine precipitant: Nifedipine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00328-http://bio2rdf.org/drugbank:DB01032    object:Indomethacin precipitant: Probenecid 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00368-http://bio2rdf.org/drugbank:DB01242    object:Norepinephrine precipitant: Clomipramine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00252-http://bio2rdf.org/drugbank:DB00822    object:Disulfiram precipitant: Phenytoin 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00252    object:Diazepam precipitant: Phenytoin 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00563-http://bio2rdf.org/drugbank:DB01032    object:Methotrexate precipitant: Probenecid 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00783-http://bio2rdf.org/drugbank:DB01174    object:Estradiol precipitant: Phenobarbital 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00887-http://bio2rdf.org/drugbank:DB00328    object:Indomethacin precipitant: Bumetanide 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00501-http://bio2rdf.org/drugbank:DB00475    object:Chlordiazepoxide precipitant: Cimetidine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB01331-http://bio2rdf.org/drugbank:DB01032    object:Probenecid precipitant: Cefoxitin 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00475-http://bio2rdf.org/drugbank:DB00363    object:Chlordiazepoxide precipitant: Clozapine 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB01326-http://bio2rdf.org/drugbank:DB01032    object:Probenecid precipitant: Cefamandole 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00959-http://bio2rdf.org/drugbank:DB00252    object:Methylprednisolone precipitant: Phenytoin 	Kegg Evidence: None 	Drugbank Evidence: None 	SemMedDB Evidence: None 

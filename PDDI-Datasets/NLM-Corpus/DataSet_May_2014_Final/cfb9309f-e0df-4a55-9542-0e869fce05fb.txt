@@ -1,0 +1,102 @@
+Drug Label for drug brand Micardis, containing telmisartan.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue MICARDIS as soon as possible see Warnings and Precautions (5.1).
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus see Warnings and Precautions (5.1).
+ <item>
+ </list>
+
+WARNING: FETAL TOXICITY
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue MICARDIS as soon as possible (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.1)
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+MICARDIS is contraindicated in patients with known hypersensitivity (e.g., anaphylaxis or angioedema) to telmisartan or any other component of this product see Adverse Reactions (6.2).
+Do not co-administer aliskiren with MICARDIS in patients with diabetes see Drug Interactions (7).
+ <list>
+ <item>
+ <item>Known hypersensitivity (e.g., anaphylaxis or angioedema) to telmisartan or any other component of this product (4)
+ <item>
+ <item>Do not co-administer aliskiren with MICARDIS in patients with diabetes (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Avoid fetal or neonatal exposure (5.1)
+ <item>
+ <item>Hypotension: Correct any volume or salt depletion before initiating therapy. Observe for signs and symptoms of hypotension (5.2)
+ <item>
+ <item>Monitor carefully in patients with impaired hepatic (5.4) or renal function (5.5)
+ <item>
+ <item>Avoid concomitant use of an ACE inhibitor and angiotensin receptor blocker (5.6)
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue MICARDIS as soon as possible see Use in Specific Populations (8.1).
+
+5.2 Hypotension
+
+In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of therapy with MICARDIS. Either correct this condition prior to administration of MICARDIS, or start treatment under close medical supervision with a reduced dose.
+If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.3 Hyperkalemia
+
+Hyperkalemia may occur in patients on ARBs, particularly in patients with advanced renal impairment, heart failure, on renal replacement therapy, or on potassium supplements, potassium-sparing diuretics, potassium-containing salt substitutes or other drugs that increase potassium levels. Consider periodic determinations of serum electrolytes to detect possible electrolyte imbalances, particularly in patients at risk.
+
+5.4 Impaired Hepatic Function
+
+As the majority of telmisartan is eliminated by biliary excretion, patients with biliary obstructive disorders or hepatic insufficiency can be expected to have reduced clearance. Initiate telmisartan at low doses and titrate slowly in these patients see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3).
+
+5.5 Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, anticipate changes in renal function in susceptible individuals. In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure or renal dysfunction), treatment with angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death. Similar results have been reported with MICARDIS see Clinical Pharmacology (12.3).
+In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed. There has been no long term use of MICARDIS in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.
+
+5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported. Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE-inhibitor to an angiotensin II receptor antagonist) should include close monitoring of renal function.
+The ONTARGET trial enrolled 25,620 patients 55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months. Patients receiving the combination of MICARDIS and ramipril did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone. Concomitant use of MICARDIS and ramipril is not recommended.
+
+
+7 DRUG INTERACTIONS
+
+Aliskiren: Do not co-administer aliskiren with MICARDIS in patients with diabetes. Avoid use of aliskiren with MICARDIS in patients with renal impairment (GFR 60 mL/min).
+Digoxin : When MICARDIS was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed. Therefore, monitor digoxin levels when initiating, adjusting, and discontinuing telmisartan for the purpose of keeping the digoxin level within the therapeutic range.
+Lithium : Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists including MICARDIS. Therefore, monitor serum lithium levels during concomitant use.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including telmisartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving telmisartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including telmisartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Ramipril and Ramiprilat : Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3- and 2.1-fold, respectively, and Cmax and AUC of ramiprilat 2.4- and 1.5-fold, respectively. In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively. When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan. Concomitant use of MICARDIS and ramipril is not recommended.
+Other Drugs : Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glyburide, simvastatin, hydrochlorothiazide, warfarin, or ibuprofen. Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19. Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes, it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
+ <list>
+ <item>
+ <item>NSAIDS: Increased risk of renal impairment and loss of anti-hypertensive effect (7)
+ <item>
+ <item>Do not co-administer aliskiren with MICARDIS in patients with diabetes (7)
+ <item>
+ </list>
+
+

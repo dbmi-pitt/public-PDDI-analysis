@@ -1,0 +1,67 @@
+Overlap Analysis
+
+Number of PDDIs: 
+    DIKB predicted + observed: 575
+    DrugBank: 10891      
+    KEGG: 20647
+    TwoSides: 18053
+    NDFRT: 5265
+Overlap of all datasets: 1  
+ 
+
+
+Overlap Analysis
+
+Number of PDDIs: 
+    DIKB predicted + observed: 575
+    DrugBank: 10891      
+    KEGG: 20647
+    Twosides: 18053
+Overlap of all datasets: 6  
+ 
+
+
+Overlap Analysis
+
+Number of PDDIs: 
+    NDFRT: 5265
+    DrugBank: 10891      
+    KEGG: 20647
+    Twosides: 18053
+Overlap of all datasets: 34  
+ 
+
+
+Overlap Analysis
+
+Number of PDDIs: 
+    NDFRT: 5265
+    DrugBank: 10891      
+    DIKB: 575
+    Twosides: 18053
+Overlap of all datasets: 2  
+ 
+
+
+Overlap Analysis
+
+Number of PDDIs: 
+    NDFRT: 5265
+    DrugBank: 10891      
+    DIKB: 575
+    Kegg: 20647
+Overlap of all datasets: 12  
+ 
+
+
+Overlap Analysis
+
+Number of PDDIs: 
+    NDFRT: 5265
+    Twosides: 18053      
+    DIKB: 575
+    Kegg: 20647
+Overlap of all datasets: 3  
+ 
+
+

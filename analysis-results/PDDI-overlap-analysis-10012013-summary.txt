@@ -1,0 +1,186 @@
+NDFRT TO DIKB
+
+Number of PDDIs: 
+    NDFRT: 5265
+    DIKB predicted + observed: 575 
+    DIKB predicted: 534 
+    DIKB observed: 84 
+
+Overlap NDFRT to DIKB predicted + observed: 108 (0.021 of NDFRT, 0.188 DIKB) 
+ 
+
+
+NDFRT TO Drugbank
+
+Number of PDDIs: 
+    NDFRT: 5265
+    Drugbank: 10891  
+
+Overlap NDFRT to Drugbank: 1466 (0.278 of NDFRT, 0.135 Drugbank) 
+ 
+
+NDFRT TO Twosides
+
+Number of PDDIs: 
+    NDFRT: 5265
+    Twosides: 18053  
+
+Overlap NDFRT to Twosides: 297 (0.056 of NDFRT, 0.016 Twosides) 
+ 
+
+NDFRT TO Kegg
+
+Number of PDDIs: 
+    NDFRT: 5265
+    Kegg: 20647  
+
+Overlap NDFRT to Kegg: 697 (0.132 of NDFRT, 0.034 Kegg) 
+ 
+
+NDFRT TO CredibleMeds
+
+Number of PDDIs: 
+    NDFRT: 5265
+    CredibleMeds: 82  
+
+Overlap NDFRT to CredibleMeds: 48 (0.009 of NDFRT, 0.585 CredibleMeds) 
+ 
+
+DIKB TO DRUGBANK  
+
+Number of PDDIs: 
+    DrugBank: 10891
+    DIKB predicted + observed: 575 
+    DIKB predicted: 534 
+    DIKB observed: 84 
+
+Overlap DrugBank to DIKB predicted + observed: 178 (0.016 of DrugBank, 0.310 DIKB) 
+
+Overlap DrugBank to DIKB observed: 38 (0.003 of DrugBank, 0.452 DIKB) 
+
+Overlap DrugBank to DIKB predicted: 165 (0.015 of DrugBank, 0.309 DIKB) 
+
+
+DIKB TO Twosides  
+
+Number of PDDIs: 
+    Twosides: 18053
+    DIKB predicted + observed: 575 
+    DIKB predicted: 534 
+    DIKB observed: 84 
+
+Overlap Twosides to DIKB predicted + observed: 107 (0.006 of Twosides, 0.186 DIKB) 
+
+Overlap Twosides to DIKB observed: 15 (0.001 of Twosides, 0.179 DIKB) 
+
+Overlap Twosides to DIKB predicted: 101 (0.006 of Twosides, 0.189 DIKB) 
+
+------------------------------------------------------------------------------------------
+
+
+
+DIKB TO KEGG  
+
+Number of PDDIs: 
+    KEGG: 20647
+    DIKB predicted + observed: 575 
+    DIKB predicted: 534 
+    DIKB observed: 84 
+
+Overlap KEGG to DIKB predicted + observed: 122 (0.006 of KEGG, 0.212 DIKB) 
+
+Overlap KEGG to DIKB observed: 18 (0.001 of KEGG, 0.214 DIKB) 
+
+Overlap KEGG to DIKB predicted: 113 (0.005 of KEGG, 0.212 DIKB) 
+
+------------------------------------------------------------------------------------------
+
+
+
+DIKB TO CredibleMeds  
+
+Number of PDDIs: 
+    CredibleMeds: 82
+    DIKB predicted + observed: 575 
+    DIKB predicted: 534 
+    DIKB observed: 84 
+
+Overlap CredibleMeds to DIKB predicted + observed: 15 (0.183 of CredibleMeds, 0.026 DIKB) 
+
+Overlap CredibleMeds to DIKB observed: 2 (0.024 of CredibleMeds, 0.024 DIKB) 
+
+CredibleMeds to DIKB predicted: 15 (0.183 of CredibleMeds, 0.028 DIKB) 
+
+------------------------------------------------------------------------------------------
+
+
+
+DRUGBANK TO TWOSIDES  
+
+Number of PDDIs: 
+    DrugBank: 10891
+    twosides: 18053 
+
+Overlap DrugBank to twosides: 550 (0.051 of DrugBank, 0.030 twosides) 
+
+
+Drugbank TO KEGG  
+
+Number of PDDIs: 
+    KEGG: 20647
+    Drugbank: 10891  
+
+Overlap KEGG to Drugbank: 1657 (0.080 of KEGG, 0.152 Drugbank) 
+ 
+------------------------------------------------------------------------------------------
+
+
+
+Drugbank TO CredibleMeds  
+
+Number of PDDIs: 
+    CredibleMeds: 82
+    Drugbank: 10891  
+
+Overlap CredibleMeds to Drugbank: 56 (0.683 of CredibleMeds, 0.005 Drugbank) 
+ 
+------------------------------------------------------------------------------------------
+
+
+
+Twosides TO KEGG  
+
+Number of PDDIs: 
+    KEGG: 20647
+    Twosides: 18053  
+
+Overlap KEGG to Twosides: 1453 (0.070 of KEGG, 0.080 Twosides) 
+ 
+------------------------------------------------------------------------------------------
+
+
+
+Twosides TO CredibleMeds  
+
+Number of PDDIs: 
+    CredibleMeds: 82
+    Twosides: 18053  
+
+Overlap CredibleMeds to Twosides: 0 (0.000 of CredibleMeds, 0.000 Twosides) 
+ 
+------------------------------------------------------------------------------------------
+
+
+
+KEGG TO CredibleMeds  
+
+Number of PDDIs: 
+    CredibleMeds: 82
+    KEGG: 20647  
+
+Overlap CredibleMeds to KEGG: 20 (0.244 of CredibleMeds, 0.001 KEGG) 
+ 
+------------------------------------------------------------------------------------------
+
+
+

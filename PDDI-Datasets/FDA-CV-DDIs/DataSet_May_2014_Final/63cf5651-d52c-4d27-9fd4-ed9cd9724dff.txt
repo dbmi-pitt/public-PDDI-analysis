@@ -1,0 +1,101 @@
+
+BOXED WARNING SECTION
+
+
+<list>
+<item>
+<item>When pregnancy is detected, discontinue ACCUPRIL as soon as possible.
+<item>
+<item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See Warnings: Fetal Toxicity
+<item>
+</list>
+
+DESCRIPTION SECTION
+
+ACCUPRIL (quinapril hydrochloride) is the hydrochloride salt of quinapril, the ethyl ester of a non-sulfhydryl, angiotensin-converting enzyme (ACE) inhibitor, quinaprilat.
+Quinapril hydrochloride is chemically described as 3S- 2 R(R), 3R -2- 2- 1-(ethoxycarbonyl)-3-phenylpropyl amino -1-oxopropyl -1,2,3,4-tetrahydro-3-isoquinolinecarboxylic acid, monohydrochloride. Its empirical formula is C25H30N2O5 HCl and its structural formula is:
+Quinapril hydrochloride is a white to off-white amorphous powder that is freely soluble in aqueous solvents.
+ACCUPRIL tablets contain 5 mg, 10 mg, 20 mg, or 40 mg of quinapril for oral administration. Each tablet also contains candelilla wax, crospovidone, gelatin, lactose, magnesium carbonate, magnesium stearate, synthetic red iron oxide, and titanium dioxide.
+Chemical Structure
+
+INDICATIONS  -  USAGE SECTION
+
+ACCUPRIL is indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs. There are no controlled trials demonstrating risk reduction with ACCUPRIL.
+Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program's Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
+Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
+Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
+Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy.
+ACCUPRIL may be used alone or in combination with thiazide diuretics.
+ACCUPRIL is indicated in the management of heart failure as adjunctive therapy when added to conventional therapy including diuretics and/or digitalis.
+In using ACCUPRIL, consideration should be given to the fact that another angiotensin-converting enzyme inhibitor, captopril, has caused agranulocytosis, particularly in patients with renal impairment or collagen vascular disease. Available data are insufficient to show that ACCUPRIL does not have a similar risk (see WARNINGS).
+Black patients receiving ACE inhibitor monotherapy have been reported to have a higher incidence of angioedema compared to non-blacks. It should also be noted that in controlled clinical trials ACE inhibitors have an effect on blood pressure that is less in black patients than in non-blacks.
+
+CONTRAINDICATIONS SECTION
+
+ACCUPRIL is contraindicated in patients who are hypersensitive to this product and in patients with a history of angioedema related to previous treatment with an ACE inhibitor.
+Do not co-administer aliskiren with ACCUPRIL in patients with diabetes.
+
+PRECAUTIONS SECTION
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including ACCUPRIL, may be associated with oliguria and/or progressive azotemia and rarely acute renal failure and/or death.
+In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine have been observed in some patients following ACE inhibitor therapy. These increases were almost always reversible upon discontinuation of the ACE inhibitor and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+Some patients with hypertension or heart failure with no apparent preexisting renal vascular disease have developed increases in blood urea and serum creatinine, usually minor and transient, especially when ACCUPRIL has been given concomitantly with a diuretic. This is more likely to occur in patients with preexisting renal impairment. Dosage reduction and/or discontinuation of any diuretic and/or ACCUPRIL may be required.
+Evaluation of patients with hypertension or heart failure should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
+In clinical trials, hyperkalemia (serum potassium 5.8 mmol/L) occurred in approximately 2% of patients receiving ACCUPRIL. In most cases, elevated serum potassium levels were isolated values which resolved despite continued therapy. Less than 0.1% of patients discontinued therapy due to hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with ACCUPRIL (see PRECAUTIONS, Drug Interactions).
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent non-productive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, ACCUPRIL will block angiotensin II formation secondary to compensatory renin release. If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion.
+Female patients of childbearing age should be told about the consequences of exposure to ACCUPRIL during pregnancy. Discuss treatment options with women planning to become pregnant. Patients should be asked to report pregnancies to their physicians as soon as possible.
+Angioedema, including laryngeal edema can occur with treatment with ACE inhibitors, especially following the first dose. Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician (see WARNINGS).
+Patients should be cautioned that lightheadedness can occur, especially during the first few days of ACCUPRIL therapy, and that it should be reported to a physician. If actual syncope occurs, patients should be told to not take the drug until they have consulted with their physician (see WARNINGS).
+All patients should be cautioned that inadequate fluid intake or excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure because of reduction in fluid volume, with the same consequences of lightheadedness and possible syncope.
+Patients planning to undergo any surgery and/or anesthesia should be told to inform their physician that they are taking an ACE inhibitor.
+Patients should be told not to use potassium supplements or salt substitutes containing potassium without consulting their physician (see PRECAUTIONS).
+Patients should be told to report promptly any indication of infection (eg, sore throat, fever) which could be a sign of neutropenia.
+NOTE: As with many other drugs, certain advice to patients being treated with ACCUPRIL is warranted. This information is intended to aid in the safe and effective use of this medication. It is not a disclosure of all possible adverse or intended effects.
+As with other ACE inhibitors, patients on diuretics, especially those on recently instituted diuretic therapy, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with ACCUPRIL. The possibility of hypotensive effects with ACCUPRIL may be minimized by either discontinuing the diuretic or cautiously increasing salt intake prior to initiation of treatment with ACCUPRIL. If it is not possible to discontinue the diuretic, the starting dose of quinapril should be reduced (see DOSAGE AND ADMINISTRATION).
+Quinapril can attenuate potassium loss caused by thiazide diuretics and increase serum potassium when used alone. If concomitant therapy of ACCUPRIL with potassium-sparing diuretics (eg, spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes is indicated, they should be used with caution along with appropriate monitoring of serum potassium (see PRECAUTIONS).
+Simultaneous administration of tetracycline with ACCUPRIL reduced the absorption of tetracycline by approximately 28% to 37%, possibly due to the high magnesium content in ACCUPRIL tablets. This interaction should be considered if coprescribing ACCUPRIL and tetracycline or other drugs that interact with magnesium.
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy. These drugs should be coadministered with caution and frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, it may increase the risk of lithium toxicity.
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting, and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including quinapril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving quinapril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including quinapril may be attenuated by NSAIDs.
+<paragraph>
+<main>Drug interaction studies of ACCUPRIL with other agents showed:
+<item>
+<item>Multiple dose therapy with propranolol or cimetidine has no effect on the pharmacokinetics of single doses of ACCUPRIL.
+<item>
+<item>The anticoagulant effect of a single dose of warfarin (measured by prothrombin time) was not significantly changed by quinapril coadministration twice-daily.
+<item>
+<item>ACCUPRIL treatment did not affect the pharmacokinetics of digoxin.
+<item>
+<item>No pharmacokinetic interaction was observed when single doses of ACCUPRIL and hydrochlorothiazide were administered concomitantly.
+<item>
+<item>Co-administration of multiple 10 mg doses of atorvastatin with 80 mg of ACCUPRIL resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.
+<item>
+</paragraph>
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on ACCUPRIL and other agents that affect the RAS.
+Do not co-administer aliskiren with ACCUPRIL in patients with diabetes. Avoid use of aliskiren with ACCUPRIL in patients with renal impairment (GFR 60 ml/min).
+Quinapril hydrochloride was not carcinogenic in mice or rats when given in doses up to 75 or 100 mg/kg/day (50 to 60 times the maximum human daily dose, respectively, on an mg/kg basis and 3.8 to 10 times the maximum human daily dose when based on an mg/m2 basis) for 104 weeks. Female rats given the highest dose level had an increased incidence of mesenteric lymph node hemangiomas and skin/subcutaneous lipomas. Neither quinapril nor quinaprilat were mutagenic in the Ames bacterial assay with or without metabolic activation. Quinapril was also negative in the following genetic toxicology studies: in vitro mammalian cell point mutation, sister chromatid exchange in cultured mammalian cells, micronucleus test with mice, in vitro chromosome aberration with V79 cultured lung cells, and in an in vivo cytogenetic study with rat bone marrow. There were no adverse effects on fertility or reproduction in rats at doses up to 100 mg/kg/day (60 and 10 times the maximum daily human dose when based on mg/kg and mg/m2, respectively).
+Because ACCUPRIL is secreted in human milk, caution should be exercised when this drug is administered to a nursing woman.
+Neonates with a history of in utero exposure to ACCUPRIL
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function. Removal of ACCUPRIL, which crosses the placenta, from the neonatal circulation is not significantly accelerated by these means.
+The safety and effectiveness of ACCUPRIL in pediatric patients have not been established.
+Clinical studies of ACCUPRIL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Elderly patients exhibited increased area under the plasma concentration time curve and peak levels for quinaprilat compared to values observed in younger patients, this appeared to relate to decreased renal function rather than to age itself.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+The recommended initial dosage of ACCUPRIL in patients not on diuretics is 10 or 20 mg once daily. Dosage should be adjusted according to blood pressure response measured at peak (2 6 hours after dosing) and trough (predosing). Generally, dosage adjustments should be made at intervals of at least 2 weeks. Most patients have required dosages of 20, 40, or 80 mg/day, given as a single dose or in two equally divided doses. In some patients treated once daily, the antihypertensive effect may diminish toward the end of the dosing interval. In such patients an increase in dosage or twice daily administration may be warranted. In general, doses of 40 80 mg and divided doses give a somewhat greater effect at the end of the dosing interval.
+If blood pressure is not adequately controlled with ACCUPRIL monotherapy, a diuretic may be added. In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally can occur following the initial dose of ACCUPRIL. To reduce the likelihood of hypotension, the diuretic should, if possible, be discontinued 2 to 3 days prior to beginning therapy with ACCUPRIL (see WARNINGS). Then, if blood pressure is not controlled with ACCUPRIL alone, diuretic therapy should be resumed.
+If the diuretic cannot be discontinued, an initial dose of 5 mg ACCUPRIL should be used with careful medical supervision for several hours and until blood pressure has stabilized.
+The dosage should subsequently be titrated (as described above) to the optimal response (see WARNINGS, PRECAUTIONS, and Drug Interactions).
+<paragraph>
+<main>Kinetic data indicate that the apparent elimination half-life of quinaprilat increases as creatinine clearance decreases. Recommended starting doses, based on clinical and pharmacokinetic data from patients with renal impairment, are as follows:
+<item>Patients should subsequently have their dosage titrated (as described above) to the optimal response.
+</paragraph>
+The recommended initial dosage of ACCUPRIL in elderly patients is 10 mg given once daily followed by titration (as described above) to the optimal response.
+ACCUPRIL is indicated as adjunctive therapy when added to conventional therapy including diuretics and/or digitalis. The recommended starting dose is 5 mg twice daily. This dose may improve symptoms of heart failure, but increases in exercise duration have generally required higher doses. Therefore, if the initial dosage of ACCUPRIL is well tolerated, patients should then be titrated at weekly intervals until an effective dose, usually 20 to 40 mg daily given in two equally divided doses, is reached or undesirable hypotension, orthostatis, or azotemia (see WARNINGS) prohibit reaching this dose.
+Following the initial dose of ACCUPRIL, the patient should be observed under medical supervision for at least two hours for the presence of hypotension or orthostatis and, if present, until blood pressure stabilizes. The appearance of hypotension, orthostatis, or azotemia early in dose titration should not preclude further careful dose titration. Consideration should be given to reducing the dose of concomitant diuretics.
+Pharmacokinetic data indicate that quinapril elimination is dependent on level of renal function. In patients with heart failure and renal impairment, the recommended initial dose of ACCUPRIL is 5 mg in patients with a creatinine clearance above 30 mL/min and 2.5 mg in patients with a creatinine clearance of 10 to 30 mL/min. There is insufficient data for dosage recommendation in patients with a creatinine clearance less than 10 mL/min (see DOSAGE AND ADMINISTRATION, Heart Failure, WARNINGS, and PRECAUTIONS, Drug Interactions).
+If the initial dose is well tolerated, ACCUPRIL may be administered the following day as a twice daily regimen. In the absence of excessive hypotension or significant deterioration of renal function, the dose may be increased at weekly intervals based on clinical and hemodynamic response.

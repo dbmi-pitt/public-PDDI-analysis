@@ -1,0 +1,43 @@
+Drug Label for drug brand Asclera, containing POLIDOCANOL.
+
+
+4 CONTRAINDICATIONS
+
+
+Asclera is contraindicated for patients with known allergy (anaphylaxis) to polidocanol and patients with acute thromboembolic diseases.
+Known allergies to polidocanol. (4)
+Patients with acute thromboembolic diseases. (4)
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Be prepared to treat anaphylaxis. (5.1)
+ <item>
+ <item>Do not inject intra-arterially. (5.2)
+ <item>
+ <item>Do not inject intra-perivascularily. (5.3)
+ <item>
+ </list>
+
+
+5.1 Anaphylaxis
+
+Severe allergic reactions have been reported following polidocanol use, including anaphylactic reactions, some of them fatal. Severe reactions are more frequent with use of larger volumes ( 3 mL). The dose of polidocanol should therefore be minimized. Be prepared to treat anaphylaxis appropriately.
+Severe adverse local effects, including tissue necrosis, may occur following extravasation, therefore, care should be taken in intravenous needle placement and the smallest effective volume at each injection site should be used.
+After the injection session is completed, apply compression with a stocking or bandage, and have the patient walk for 15-20 minutes. Keep the patient under supervision during this period to treat any anaphylactic or allergic reaction (see Dosage and Administration 2 ).
+
+5.2 Accidental Intra-arterial Injection
+
+Intra-arterial injection can cause severe necrosis, ischemia or gangrene. If this occurs consult a vascular surgeon immediately.
+
+5.3 Inadvertent Perivascular Injection
+
+Inadvertent perivascular injection of Asclera can cause pain. If pain is severe, a local anesthetic (without adrenaline) may be injected.
+
+
+7 DRUG INTERACTIONS
+
+No drug-drug interactions have been studied with Asclera.
+

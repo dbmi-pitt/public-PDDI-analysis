@@ -1,0 +1,54 @@
+Drug Label for drug brand Corlopam, containing FENOLDOPAM MESYLATE.
+
+
+CONTRAINDICATIONS
+
+
+None known.
+
+
+WARNINGS
+
+Contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
+
+
+PRECAUTIONS
+
+Intraocular Pressure: In a clinical study of 12 patients with open-angle glaucoma or ocular hypertension (mean baseline intraocular pressure was 29.2 mm Hg with a range of 22 to 33 mm Hg), infusion of fenoldopam at escalating doses ranging from 0.05 to 0.5 mcg/kg/min over a 3.5 hour period caused a dose-dependent increase in intraocular pressure (IOP). At the peak effect, the intraocular pressure was raised by a mean of 6.5 mm Hg (range -2 to +8.5 mm Hg, corrected for placebo effect). Upon discontinuation of the fenoldopam infusion, the IOP returned to baseline values within 2 hours. Fenoldopam administration to patients with glaucoma or intraocular hypertension should be undertaken with caution.
+Tachycardia: Fenoldopam causes a dose-related tachycardia (Table 2 and Table 3), particularly with infusion rates above 0.1 mcg/kg/min. Tachycardia in adults diminishes over time but remains substantial at higher doses. Tachycardia in pediatric patients at doses 0.8 mcg/kg/min persists at least for 4 hours.
+Hypotension: Fenoldopam may occasionally produce symptomatic hypotension and close monitoring of blood pressure during administration is essential. (See Adverse Reactions.) It is particularly important to avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage. In pediatric patients, fenoldopam was only administered to patients with an indwelling intraarterial line.
+Hypokalemia: Decreases in serum potassium occasionally to values below 3 mEq/L were observed after less than 6 hours of fenoldopam infusion. It is not clear if the hypokalemia reflects a pressure natriuresis with enhanced potassium-sodium exchange or a direct drug effect. During clinical trials, electrolytes were monitored at intervals of 6 hours. Hypokalemia was treated with either oral or intravenous potassium supplementation. Patient management should include appropriate attention to serum electrolytes.
+Intracranial Pressure: The effect of fenoldopam in the presence of increased intracranial pressure has not been studied.
+
+Drug Interactions with Beta-Blockers:
+
+Concomitant use of fenoldopam with beta-blockers should be avoided. If the drugs are used together, caution should be exercised because unexpected hypotension could result from beta-blocker inhibition of the sympathetic reflex response to fenoldopam.
+
+Drug Interactions, General:
+
+Although there have been no formal interaction studies, intravenous fenoldopam has been administered safely with drugs such as digitalis and sublingual nitroglycerin. There is limited experience with concomitant antihypertensive agents such as alpha-blockers, calcium channel-blockers, ACE inhibitors, and diuretics (both thiazide-like and loop).
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+In a 24-month study, mice treated orally with fenoldopam at 12.5, 25, or 50 mg/kg/day, reduced to 25 mg/kg/day on day 209 of study, showed no increase above controls in the incidence of neoplasms. Female mice in the highest dose group had an increased incidence and degree of severity of a fibro-osseous lesion of the sternum compared with control or low-dose animals. Compared to controls, female mice in the middle- and upper-dose groups had a higher incidence and degree of severity of chronic nephritis. These pathologic lesions were not seen in male mice treated with fenoldopam.
+In a 24-month study, rats treated orally with fenoldopam at 5, 10 or 20 mg/kg/day, with the mid- and high-dose groups increased to 15 or 25 mg/kg/day, respectively, on day 372 of the study, showed no increase above controls in the incidence or type of neoplasms. Compared with the controls, rats in the mid- and high-dose groups had a higher incidence of hyperplasia of collecting duct epithelium at the tip of the renal papilla.
+Fenoldopam did not induce bacterial gene mutation in the Ames test or mammalian gene mutation in the Chinese hamster ovary (CHO) cell assay. In the in vitro chromosomal aberration assay with CHO cells, fenoldopam was associated with statistically significant and dose-dependent increases in chromosomal aberrations, and in the proportion of aberrant metaphases. However, no chromosomal damage was seen in the in vivo mice micronucleus or bone marrow assays.
+Oral fertility and general reproduction performance studies in male and female rats at 12.5, 37.5 or 75 mg/kg/day revealed no impairment of fertility or reproduction performance due to fenoldopam.
+
+Pregnancy:
+
+Pregnancy Category B. Oral reproduction studies have been performed in rats and rabbits at doses of 12.5 to 200 mg/kg/day and 6.25 to 25 mg/kg/day, respectively. Studies have revealed maternal toxicity at the highest doses tested but no evidence of impaired fertility or harm to the fetus due to fenoldopam. However, there are no adequate and well-controlled studies in pregnant women. Since animal reproduction studies are not always predictive of human response, fenoldopam should be used in pregnancy only if clearly needed.
+
+Nursing Mothers:
+
+Fenoldopam is excreted in milk in rats. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when fenoldopam is administered to a nursing woman.
+
+Pediatric Use:
+
+Anti-hypertensive effects of fenoldopam have been studied in pediatric patients age 1 month (at least 2 kg or full term) to 12 years old requiring blood pressure reduction (see Pharmacodynamics and Clinical Studies, Pediatric Patients).
+Clinical studies of fenoldopam did not include subjects ages 12 to 16 years of age to determine if they respond differently from younger subjects or adults. The pharmacokinetics of fenoldopam are independent of age when corrected for body weight. Dose selection for patients 12 to 16 years of age should consider the patient s clinical condition and concomitant drug therapy.
+
+Geriatric Use:
+
+Clinical studies of fenoldopam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+

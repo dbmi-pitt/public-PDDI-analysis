@@ -1,0 +1,83 @@
+object	object_drugbank	precipitant	precipitant_drugbank	Effect	Mechanism
+AMIODARONE	DB01118	LEVOFLOXACIN	DB01137	Increased risk of TdP and/or QTc prolongation on ECG	Concomitant blockade of cardiac potassium channels
+AMIODARONE	DB01118	GEMIFLOXACIN	DB01155	Increased risk of TdP and/or QTc prolongation on ECG	Concomitant blockade of cardiac potassium channels
+AMIODARONE	DB01118	MOXIFLOXACIN	DB00218	Increased risk of TdP and/or QTc prolongation on ECG	Concomitant blockade of cardiac potassium channels
+AMIODARONE	DB01118	OFLOXACIN	DB01165	Increased risk of TdP and/or QTc prolongation on ECG	Concomitant blockade of cardiac potassium channels
+CARBAMAZEPINE	DB00564	CLARITHROMYCIN	DB01211	Increased carbamazepine concentrations and risk of carbamazepine toxicity	Inhibition of carbamazepine metabolism by CYP3A4
+CARBAMAZEPINE	DB00564	ERYTHROMYCIN	DB00199	Increased carbamazepine concentrations and risk of carbamazepine toxicity	Inhibition of carbamazepine metabolism by CYP3A4
+CARBAMAZEPINE	DB00564	TELITHROMYCIN	DB00976	Increased carbamazepine concentrations and risk of carbamazepine toxicity	Inhibition of carbamazepine metabolism by CYP3A4
+CLOPIDOGREL	DB00758	OMEPRAZOLE	DB00338	Decreased concentrations of clopidogrel active metabolite and decreased antiplatelet effects	Inhibition of clopidogrel (prodrug) metabolism to active metabolite by CYP2C19
+DIGOXIN	DB00390	CLARITHROMYCIN	DB01211	Increased digoxin concentrations and risk of digoxin toxicity	Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin
+DIGOXIN	DB00390	ERYTHROMYCIN	DB00199	Increased digoxin concentrations and risk of digoxin toxicity	Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin
+DIGOXIN	DB00390	ITRACONAZOLE	DB01167	Increased digoxin concentrations and risk of digoxin toxicity	Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin
+DIGOXIN	DB00390	KETOCONAZOLE	DB01026	Increased digoxin concentrations and risk of digoxin toxicity	Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin
+DIGOXIN	DB00390	POSACONAZOLE	DB01263	Increased digoxin concentrations and risk of digoxin toxicity	Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin
+SIMVASTATIN	DB00641	AMIODARONE	DB01118	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of metabolism of simvastatin/ lovastatin by CYP3A4
+ATORVASTATIN	DB01076	ITRACONAZOLE	DB01167	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ATORVASTATIN	DB01076	KETOCONAZOLE	DB01026	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ATORVASTATIN	DB01076	POSACONAZOLE	DB01263	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ATORVASTATIN	DB01076	VORICONAZOLE	DB00582	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ATORVASTATIN	DB01076	FLUCONAZOLE	DB00196	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+FLUVASTATIN	DB01095	ITRACONAZOLE	DB01167	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+FLUVASTATIN	DB01095	KETOCONAZOLE	DB01026	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+FLUVASTATIN	DB01095	POSACONAZOLE	DB01263	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+FLUVASTATIN	DB01095	VORICONAZOLE	DB00582	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+FLUVASTATIN	DB01095	FLUCONAZOLE	DB00196	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+LOVASTATIN	DB00227	ITRACONAZOLE	DB01167	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+LOVASTATIN	DB00227	KETOCONAZOLE	DB01026	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+LOVASTATIN	DB00227	POSACONAZOLE	DB01263	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+LOVASTATIN	DB00227	VORICONAZOLE	DB00582	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+LOVASTATIN	DB00227	FLUCONAZOLE	DB00196	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+PRAVASTATIN	DB00175	ITRACONAZOLE	DB01167	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+PRAVASTATIN	DB00175	KETOCONAZOLE	DB01026	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+PRAVASTATIN	DB00175	POSACONAZOLE	DB01263	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+PRAVASTATIN	DB00175	VORICONAZOLE	DB00582	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+PRAVASTATIN	DB00175	FLUCONAZOLE	DB00196	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ROSUVASTATIN	DB01098	ITRACONAZOLE	DB01167	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ROSUVASTATIN	DB01098	KETOCONAZOLE	DB01026	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ROSUVASTATIN	DB01098	POSACONAZOLE	DB01263	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ROSUVASTATIN	DB01098	VORICONAZOLE	DB00582	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+ROSUVASTATIN	DB01098	FLUCONAZOLE	DB00196	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+SIMVASTATIN	DB00641	ITRACONAZOLE	DB01167	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+SIMVASTATIN	DB00641	KETOCONAZOLE	DB01026	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+SIMVASTATIN	DB00641	POSACONAZOLE	DB01263	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+SIMVASTATIN	DB00641	VORICONAZOLE	DB00582	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+SIMVASTATIN	DB00641	FLUCONAZOLE	DB00196	Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis	Inhibition of simvastatin/ lovastatin metabolism by CYP3A4
+TAMOXIFEN	DB00675	BUPROPION	DB01156	Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction	Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6
+TAMOXIFEN	DB00675	DULOXETINE	DB00476	Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction	Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6
+TAMOXIFEN	DB00675	FLUOXETINE	DB00472	Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction	Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6
+TAMOXIFEN	DB00675	PAROXETINE	DB00715	Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction	Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6
+WARFARIN	DB00682	AMIODARONE	DB01118	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9
+WARFARIN	DB00682	FLUCONAZOLE	DB00196	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9
+WARFARIN	DB00682	MICONAZOLE	DB01110	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9
+WARFARIN	DB00682	VORICONAZOLE	DB00582	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9
+WARFARIN	DB00682	CARBAMAZEPINE	DB00564	Decreased warfarin concentrations and warfarin effects	Induction of warfarin metabolism
+WARFARIN	DB00682	GEMFIBROZIL	DB01241	Increased warfarin effect and bleeding risk	Not established
+WARFARIN	DB00682	FENOFIBRATE	DB01039	Increased warfarin effect and bleeding risk	Not established
+WARFARIN	DB00682	CELECOXIB	DB00482	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	DICLOFENAC	DB00586	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	DIFLUNISAL	DB00861	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	ETODOLAC	DB00749	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	FENOPROFEN	DB00573	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	FLURBIPROFEN	DB00712	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	IBUPROFEN	DB01050	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	INDOMETHACIN	DB00328	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	KETOPROFEN	DB01009	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	KETOROLAC	DB00465	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	MEFENAMIC ACID	DB00784	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	MELOXICAM	DB00814	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	NABUMETONE	DB00461	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	NAPROXEN	DB00788	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	OXAPROZIN	DB00991	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	PIROXICAM	DB00554	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	SULINDAC	DB00605	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	TOLMETIN	DB00500	Additive risk of bleeding	Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin
+WARFARIN	DB00682	FLUVASTATIN	DB01095	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9 is proposed
+WARFARIN	DB00682	LOVASTATIN	DB00227	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9 is proposed
+WARFARIN	DB00682	ROSUVASTATIN	DB01098	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9 is proposed
+WARFARIN	DB00682	SIMVASTATIN	DB00641	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9 is proposed
+WARFARIN	DB00682	SULFAMETHOXAZOLE	DB01015	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9
+WARFARIN	DB00682	METRONIDAZOLE	DB00916	Increased warfarin concentrations and bleeding risk	Inhibition of warfarin metabolism by CYP2C9
+WARFARIN	DB00682	LEVOTHYROXINE	DB00451	Increased bleeding risk	An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed
+WARFARIN	DB00682	LIOTHYRONINE	DB00279	Increased bleeding risk	An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed
+WARFARIN	DB00682	LIOTRIX	DB01583	Increased bleeding risk	An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed

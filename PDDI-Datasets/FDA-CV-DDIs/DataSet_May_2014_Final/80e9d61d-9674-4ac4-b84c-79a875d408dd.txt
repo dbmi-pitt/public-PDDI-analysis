@@ -1,0 +1,233 @@
+Drug Label for drug brand ACCURETIC, containing QUINAPRIL HYDROCHLORIDE and HYDROCHLOROTHIAZIDE.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue ACCURETIC as soon as possible.
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See Warnings: Fetal Toxicity
+ <item>
+ </list>
+
+
+
+CONTRAINDICATIONS
+
+ACCURETIC is contraindicated in patients who are hypersensitive to quinapril or hydrochlorothiazide and in patients with a history of angioedema related to previous treatment with an ACE inhibitor.
+Because of the hydrochlorothiazide components, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
+Do not co-administer aliskiren with ACCURETIC in patients with diabetes.
+
+
+WARNINGS
+
+
+Anaphylactoid and Possibly Related Reactions
+
+Presumably because angiotensin converting inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including quinapril) may be subject to a variety of adverse reactions, some of them serious.
+
+Head and Neck Angioedema
+
+Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with ACE inhibitors and has been seen in 0.1% of patients receiving quinapril. In two similarly sized US postmarketing quinapril trials that, combined, enrolled over 3,000 black patients and over 19,000 non-blacks, angioedema was reported in 0.30% and 0.55% of blacks (in Study 1 and 2, respectively) and 0.39% and 0.17% of non-blacks. Angioedema associated with laryngeal edema can be fatal. If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, treatment with ACCURETIC should be discontinued immediately, the patient treated in accordance with accepted medical care, and carefully observed until the swelling disappears. In instances where swelling is confined to the face and lips, the condition generally resolves without treatment, antihistamines may be useful in relieving symptoms. Where there is involvement of the tongue, glottis, or larynx likely to cause airway obstruction, emergency therapy including, but not limited to, subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 mL) should be promptly administered (see PRECAUTIONS and ADVERSE REACTIONS ).
+
+Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting), in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+Patients With a History of Angioedema
+
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also CONTRAINDICATIONS ).
+
+Anaphylactoid Reactions During Desensitization
+
+Two patients undergoing desensitizing treatment with Hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent challenge.
+
+Anaphylactoid Reactions During Membrane Exposure
+
+Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+Hepatic Failure
+
+Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and (sometimes) death. The mechanism of this syndrome is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
+
+Hypotension
+
+ACCURETIC can cause symptomatic hypotension, probably not more frequently than either monotherapy. It was reported in 1.2% of 1,571 patients receiving ACCURETIC during clinical trials. Like other ACE inhibitors, quinapril has been only rarely associated with hypotension in uncomplicated hypertensive patients.
+Symptomatic hypotension sometimes associated with oliguria and/or progressive azotemia, and rarely acute renal failure and/or death, include patients with the following conditions or characteristics: heart failure, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis or severe volume and/or salt depletion of any etiology. Volume and/or salt depletion should be corrected before initiating therapy with ACCURETIC.
+ACCURETIC should be used cautiously in patients receiving concomitant therapy with other antihypertensives. The thiazide component of ACCURETIC may potentiate the action of other antihypertensive drugs, especially ganglionic or peripheral adrenergic-blocking drugs. The antihypertensive effects of the thiazide component may also be enhanced in the postsympathectomy patients.
+In patients at risk of excessive hypotension, therapy with ACCURETIC should be started under close medical supervision. Such patients should be followed closely for the first 2 weeks of treatment and whenever the dosage of quinapril or diuretic is increased. Similar considerations may apply to patients with ischemic heart or cerebrovascular disease in whom an excessive fall in blood pressure could result in myocardial infarction or cerebrovascular accident.
+If excessive hypotension occurs, the patient should be placed in a supine position and, if necessary, treated with intravenous infusion of normal saline. ACCURETIC treatment usually can be continued following restoration of blood pressure and volume. If symptomatic hypotension develops, a dose reduction or discontinuation of ACCURETIC may be necessary.
+
+Impaired Renal Function
+
+ACCURETIC should be used with caution in patients with severe renal disease. Thiazides may precipitate azotemia in such patients, and the effects of repeated dosing may be cumulative.
+When the renin-angiotensin-aldosterone system is inhibited by quinapril, changes in renal function may be anticipated in susceptible individuals. In patients with severe congestive heart failure, whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin-converting enzyme inhibitors (including quinapril) may be associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
+In clinical studies in hypertensive patients with unilateral renal artery stenosis, treatment with ACE inhibitors was associated with increases in blood urea nitrogen and serum creatinine, these increases were reversible upon discontinuation of ACE inhibitor, concomitant diuretic, or both. When such patients are treated with ACCURETIC, renal function should be monitored during the first few weeks of therapy.
+Some quinapril-treated hypertensive patients with no apparent preexisting renal vascular diseases have developed increases in blood urea nitrogen and serum creatinine, usually minor and transient, especially when quinapril has been given concomitantly with a diuretic. This is more likely to occur in patients with pre-existing renal impairment. Dosage reduction of ACCURETIC may be required. Evaluation of the hypertensive patients should also include assessment of the renal function (see DOSAGE AND ADMINISTRATION ).
+
+Neutropenia/Agranulocytosis
+
+Another ACE inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression rarely in patients with uncomplicated hypertension, but more frequently in patients with renal impairment, especially if they also have a collagen vascular disease, such as systemic lupus erythematosus or scleroderma. Agranulocytosis did occur during quinapril treatment in one patient with a history of neutropenia during previous captopril therapy. Available data from clinical trials of quinapril are insufficient to show that, in patients without prior reactions to other ACE inhibitors, quinapril does not cause agranulocytosis at similar rates. As with other ACE inhibitors, periodic monitoring of white blood cell counts in patients with collagen vascular disease and/or renal disease should be considered.
+
+Fetal Toxicity
+
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue ACCURETIC as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examinations to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue ACCURETIC, unless it is considered life-saving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to ACCURETIC for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
+Intrauterine exposure to thiazide diuretics is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that occurred in adults.
+No teratogenic effects of quinapril were seen in studies of pregnant rats and rabbits. On a mg/kg basis, the doses used were up to 180 times (in rats) and one time (in rabbits) the maximum recommended human dose. No teratogenic effects of ACCURETIC were seen in studies of pregnant rats and rabbits. On a mg/kg (quinapril/hydrochlorothiazide) basis, the doses used were up to 188/94 times (in rats) and 0.6/0.3 times (in rabbits) the maximum recommended human dose.
+
+Impaired Hepatic Function
+
+ACCURETIC should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma. Also, since the metabolism of quinapril to quinaprilat is normally dependent upon hepatic esterases, patients with impaired liver function could develop markedly elevated plasma levels of quinapril. No normal pharmacokinetic studies have been carried out in hypertensive patients with impaired liver function.
+
+Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+
+PRECAUTIONS
+
+
+General
+
+
+Derangements of Serum Electrolytes
+
+In clinical trials, hyperkalemia (serum potassium 5.8 mmol/L) occurred in approximately 2% of patients receiving quinapril. In most cases, elevated serum potassium levels were isolated values which resolved despite continued therapy. Less than 0.1% of patients discontinued therapy due to hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes.
+Treatment with thiazide diuretics has been associated with hypokalemia, hyponatremia, and hypochloremic alkalosis. These disturbances have sometimes been manifest as one or more of dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, nausea, and vomiting. Hypokalemia can also sensitize or exaggerate the response of the heart to the toxic effects of digitalis. The risk of hypokalemia is greatest in patients with cirrhosis of the liver, in patients experiencing a brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes, and in patients receiving concomitant therapy with corticosteroids or ACTH.
+The opposite effects of quinapril and hydrochlorothiazide on serum potassium will approximately balance each other in many patients, so that no net effect upon serum potassium will be seen. In other patients, one or the other effect may be dominant. Initial and periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
+Chloride deficits secondary to thiazide therapy are generally mild and require specific treatment only under extraordinary circumstances (e.g., in liver disease or renal disease). Dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction rather than administration of salt, except in rare instances when the hyponatremia is life threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+Calcium excretion is decreased by thiazides. In a few patients on prolonged thiazide therapy, pathological changes in the parathyroid gland have been observed, with hypercalcemia and hypophosphatemia. More serious complications of hyperparathyroidism (renal lithiasis, bone resorption, and peptic ulceration) have not been seen.
+Thiazides increase the urinary excretion of magnesium, and hypomagnesemia may result.
+
+Other Metabolic Disturbances
+
+Thiazide diuretics tend to reduce glucose tolerance and to raise serum levels of cholesterol, triglycerides, and uric acid. These effects are usually minor, but frank gout or overt diabetes may be precipitated in susceptible patients.
+
+Cough
+
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
+
+Surgery/Anesthesia
+
+In patients undergoing surgery or during anesthesia with agents that produce hypotension, quinapril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release. Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.
+
+Information for Patients
+
+
+Angioedema
+
+Angioedema, including laryngeal edema, can occur with treatment with ACE inhibitors, especially following the first dose. Patients receiving ACCURETIC should be told to report immediately any signs or symptoms suggesting angioedema (swelling of face, eyes, lips, or tongue, or difficulty in breathing) and to take no more drug until after consulting with the prescribing physician.
+
+Pregnancy
+
+Female patients of childbearing age should be told about the consequences of exposure to ACCURETIC during pregnancy. Discuss treatment options with women planning to become pregnant. Patients should be asked to report pregnancies to their physicians as soon as possible.
+
+Symptomatic Hypotension
+
+A patient receiving ACCURETIC should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician. The patient should be told that if syncope occurs, ACCURETIC should be discontinued until the physician has been consulted.
+All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure because of reduction in fluid volume, with the same consequences of lightheadedness and possible syncope.
+Patients planning to undergo major surgery and/ or general or spinal anesthesia should be told to inform their physicians that they are taking an ACE inhibitor.
+
+Hyperkalemia
+
+A patient receiving ACCURETIC should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+
+Neutropenia
+
+Patients should be told to promptly report any indication of infection (e.g., sore throat, fever) which could be a sign of neutropenia.
+NOTE: As with many other drugs, certain advice to patients being treated with quinapril is warranted. This information is intended to aid in the safe and effective use of this medication. It is not a disclosure of all possible adverse or intended effects.
+
+Laboratory Tests
+
+The hydrochlorothiazide component of ACCURETIC may decrease serum PBI levels without signs of thyroid disturbance.
+Therapy with ACCURETIC should be interrupted for a few days before carrying out tests of parathyroid function.
+
+Drug Interactions
+
+
+Potassium Supplements and Potassium-Sparing Diuretics
+
+As noted above ("Derangements of Serum Electrolytes"), the net effect of ACCURETIC may be to elevate a patient's serum potassium, to reduce it, or to leave it unchanged. Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) or potassium supplements can increase the risk of hyperkalemia. If concomitant use of such agents is indicated, they should be given with caution, and the patient's serum potassium should be monitored frequently.
+
+Lithium
+
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium. Because renal clearance of lithium is reduced by thiazides, the risk of lithium toxicity is presumably raised further when, as in therapy with ACCURETIC, a thiazide diuretic is coadministered with the ACE inhibitor. ACCURETIC and lithium should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.
+
+Tetracycline and Other Drugs That Interact with Magnesium
+
+Simultaneous administration of tetracycline with quinapril reduced the absorption of tetracycline by approximately 28% to 37%, possibly due to the high magnesium content in quinapril tablets. This interaction should be considered if coprescribing quinapril and tetracycline or other drugs that interact with magnesium.
+
+Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting, and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
+
+Other Agents
+
+ <paragraph>
+ <main>Drug interaction studies of quinapril and other agents showed:
+ <item>
+ <item>Multiple dose therapy with propranolol or cimetidine has no effect on the pharmacokinetics of single doses of quinapril.
+ <item>
+ <item>The anticoagulant effect of a single dose of warfarin (measured by prothrombin time) was not significantly changed by quinapril coadministration twice daily.
+ <item>
+ <item>Quinapril treatment did not affect the pharmacokinetics of digoxin.
+ <item>
+ <item>No pharmacokinetic interaction was observed when single doses of quinapril and hydrochlorothiazide were administered concomitantly.
+ <item>
+ <item>When administered concurrently, the following drugs may interact with thiazide diuretics.
+ <item>
+ <item>Alcohol, Barbiturates, or Narcotics potentiation of orthostatic hypotension may occur.
+ <item>
+ <item>Antidiabetic Drugs (oral hypoglycemic agents and insulin) dosage adjustments of the antidiabetic drug may be required.
+ <item>
+ <item>Cholestyramine and Colestipol Resin absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+ <item>
+ <item>Corticosteroids, ACTH intensified electrolyte depletion, particularly hypokalemia.
+ <item>
+ <item>Pressor Amines (e.g., norepinephrine) possible decreased response to pressor amines, but not sufficient to preclude their therapeutic use.
+ <item>
+ <item>Skeletal Muscle Relaxants, Nondepolarizing (e.g., tubocurarine) possible increased responsiveness to the muscle relaxant.
+ <item>
+ <item>Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) in patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including quinapril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving quinapril and NSAID therapy... The antihypertensive effect of ACE inhibitors, including quinapril may be attenuated by NSAIDs.
+ <item>
+ </paragraph>
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on ACCURETIC and other agents that affect the RAS.
+Do not co-administer aliskiren with ACCURETIC in patients with diabetes. Avoid use of aliskiren with ACCURETIC in patients with renal impairment (GFR 60 ml/min).
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity, mutagenicity, and fertility studies have not been conducted in animals with ACCURETIC.
+Quinapril hydrochloride was not carcinogenic in mice or rats when given in doses up to 75 or 100 mg/kg/day (50 or 60 times the maximum human daily dose, respectively, on a mg/kg basis and 3.8 or 10 times the maximum human daily dose on a mg/m2 basis) for 104 weeks. Female rats given the highest dose level had an increased incidence of mesenteric lymph node hemangiomas and skin/subcutaneous lipomas. Neither quinapril nor quinaprilat were mutagenic in the Ames bacterial assay with or without metabolic activation. Quinapril was also negative in the following genetic toxicology studies: in vitro mammalian cell point mutation, sister chromatid exchange in cultured mammalian cells, micronucleus test with mice, in vitro chromosome aberration with V79 cultured lung cells, and in an in vivo cytogenetic study with rat bone marrow. There were no adverse effects on fertility or reproduction in rats at doses up to 100 mg/kg/day (60 and 10 times the maximum daily human dose when based on mg/kg and mg/m2, respectively).
+Under the auspices of the National Toxicology Program, rats and mice received hydrochlorothiazide in their feed for 2 years, at doses up to 600 mg/kg/day in mice and up to 100 mg/kg/day in rats. These studies uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was "equivocal" evidence of hepatocarcinogenicity in male mice. Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of Salmonella typhimurium (the Ames test), in the Chinese hamster ovary (CHO) test for chromosomal aberrations, or in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained in the in vitro CHO sister chromatid exchange (clastogenicity) test and in the mouse lymphoma cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 g/mL. Positive test results were also obtained in the Aspergillus nidulans nondisjunction assay, using an unspecified concentration of hydrochlorothiazide.
+Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diets, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation.
+
+Nursing Mothers
+
+Because quinapril and hydrochlorothiazide are secreted in human milk, caution should be exercised when ACCURETIC is administered to a nursing woman.
+Because of the potential for serious adverse reactions in nursing infants from hydrochlorothiazide and the unknown effects of quinapril in infants, a decision should be made whether to discontinue nursing or to discontinue ACCURETIC, taking into account the importance of the drug to the mother.
+
+Geriatric Use
+
+Clinical studies of quinapril HCl/hydrochlorothiazide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Pediatric Use
+
+
+Neonates with a history of in utero exposure to ACCURETIC
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function. Removal of quinapril, which crosses the placenta, from the neonatal circulation is not significantly accelerated by these means.
+Safety and effectiveness of ACCURETIC in children have not been established.
+

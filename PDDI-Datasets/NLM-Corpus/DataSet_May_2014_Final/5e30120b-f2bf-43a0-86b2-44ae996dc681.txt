@@ -1,0 +1,80 @@
+Drug Label for drug brand Renagel, containing Renagel.
+
+
+4 CONTRAINDICATIONS
+
+
+Renagel is contraindicated in patients with bowel obstruction.
+ <list>
+ <item>
+ <item>In patients with bowel obstruction. (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Serious cases of dysphagia, bowel obstruction, and perforation have been associated with sevelamer use, some requiring hospitalization and surgery. (5.1)
+ <item>
+ </list>
+
+
+5.1 Gastrointestinal Adverse Events
+
+Cases of dysphagia and esophageal tablet retention have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention. Consider using sevelamer suspension in patients with a history of swallowing disorders... Cases of bowel obstruction and perforation have also been reported with sevelamer use... Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders including severe constipation, or major GI tract surgery were not included in the Renagel clinical studies.
+
+5.2 Monitor Serum Chemistries
+
+Bicarbonate and chloride levels should be monitored.
+
+5.3 Monitor for Reduced Vitamins D, E, K (clotting factors) and Folic Acid Levels
+
+In preclinical studies in rats and dogs, sevelamer hydrochloride reduced vitamins D, E, and K (coagulation parameters) and folic acid levels at doses of 6-10 times the recommended human dose. In short-term clinical trials, there was no evidence of reduction in serum levels of vitamins. However, in a one-year clinical trial, 25-hydroxyvitamin D (normal range 10 to 55 ng/mL) fell from 39 22 ng/mL to 34 22 ng/mL (p 0.01) with sevelamer hydrochloride treatment. Most (approximately 75%) patients in sevelamer hydrochloride clinical trials received vitamin supplements, which is typical of patients on dialysis.
+
+
+7 DRUG INTERACTIONS
+
+Renagel has been studied in human drug-drug interaction studies with ciprofloxacin, digoxin, warfarin, enalapril, metoprolol and iron.
+ <list>
+ <item>
+ <item>Decreases the bioavailability of ciprofloxacin by approximately 50%. (7.1)
+ <item>
+ <item>In normal volunteer studies, sevelamer hydrochloride did not alter the pharmacokinetics of a single dose of digoxin, warfarin, enalapril, metoprolol, and iron. (7)
+ <item>
+ <item>When administering an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, the drug should be administered at least one hour before or three hours after Renagel, or the physician should consider monitoring blood levels of the drug. (7.7)
+ <item>
+ </list>
+
+
+7.1 Ciprofloxacin
+
+In a study of 15 healthy subjects, a co-administered single dose of 7 Renagel capsules (approximately 2.8 g) decreased the bioavailability of ciprofloxacin by approximately 50%.
+
+7.2 Digoxin
+
+In 19 healthy subjects receiving 6 Renagel capsules three times a day with meals for 2 days, Renagel did not alter the pharmacokinetics of a single dose of digoxin.
+
+7.3 Warfarin
+
+In 14 healthy subjects receiving 6 Renagel capsules three times a day with meals for 2 days, Renagel did not alter the pharmacokinetics of a single dose of warfarin.
+
+7.4 Enalapril
+
+In 28 healthy subjects a single dose of 6 Renagel capsules did not alter the pharmacokinetics of a single dose of enalapril.
+
+7.5 Metoprolol
+
+In 31 healthy subjects a single dose of 6 Renagel capsules did not alter the pharmacokinetics of a single dose of metoprolol.
+
+7.6 Iron
+
+In 23 healthy subjects, a single dose of 7 Renagel capsules did not alter the absorption of a single oral dose of iron as 200 mg exsiccated ferrous sulfate tablet.
+
+7.7 Other Concomitant Drug Therapy
+
+There are no empirical data on avoiding drug interactions between Renagel and most concomitant drugs. During postmarketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine. Closer monitoring of TSH levels is therefore recommended in patients receiving both medications.
+When administering an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, the drug should be administered at least one hour before or three hours after Renagel, or the physician should consider monitoring blood levels of the drug. Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from the clinical trials. Special precautions should be taken when prescribing Renagel to patients also taking these medications.
+

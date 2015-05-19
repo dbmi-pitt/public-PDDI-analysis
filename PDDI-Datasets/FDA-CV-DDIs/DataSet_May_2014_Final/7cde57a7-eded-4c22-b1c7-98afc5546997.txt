@@ -1,0 +1,58 @@
+TEVETEN (eprosartan mesylate) tablet 
+
+TEVETEN (eprosartan mesylate) is a non-biphenyl non-tetrazole angiotensin II receptor (AT1) antagonist. 
+
+CONTRAINDICATIONS
+
+TEVETEN is contraindicated in patients who are hypersensitive to this product or any of its components.
+
+Do not co-administer aliskiren with TEVETEN in patients with diabetes (see PRECAUTIONS, Drug Interactions).
+
+WARNINGS
+
+Fetal Toxicity
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue TEVETEN as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examination to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue TEVETEN, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to TEVETEN for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
+
+Eprosartan mesylate has been shown to produce maternal and fetal toxicities (maternal and fetal mortality, low maternal body weight and food consumption, resorptions, abortions and litter loss) in pregnant rabbits given oral doses as low as 10 mg eprosartan/kg/day. No maternal or fetal adverse effects were observed at 3 mg/kg/day; this oral dose yielded a systemic exposure (AUC) to unbound eprosartan 0.8 times that achieved in humans given 400 mg b.i.d. No adverse effects on in utero or postnatal development and maturation of offspring were observed when eprosartan mesylate was administered to pregnant rats at oral doses up to 1000 mg eprosartan/kg/day (the 1000 mg eprosartan/kg/day dose in non-pregnant rats yielded systemic exposure to unbound eprosartan approximately 0.6 times the exposure achieved in humans given 400 mg b.i.d.).
+
+Hypotension in Volume- and/or Salt-Depleted Patients
+
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with diuretics), symptomatic hypotension may occur. These conditions should be corrected prior to administration of TEVETEN, or the treatment should start under close medical supervision. If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+PRECAUTIONS
+
+Risk of Renal Impairment
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function have been reported in susceptible individuals treated with angiotensin II antagonists; in some patients, these changes in renal function were reversible upon discontinuation of therapy. In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin II receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death. TEVETEN® would be expected to behave similarly.
+
+In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or BUN have been reported. Similar effects have been reported with angiotensin II antagonists; in some patients, these effects were reversible upon discontinuation of therapy.
+
+Information for Patients
+
+Pregnancy
+
+Female patients of childbearing age should be told about the consequences of exposure to TEVETEN during pregnancy. Discuss treatment options with women planning to become pregnant. Patients should be asked to report pregnancies to their physicians as soon as possible.
+
+Drug Interactions
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on TEVETEN and other agents that affect the RAS.
+
+Do not co-administer aliskiren with TEVETEN in patients with diabetes. Avoid use of aliskiren with TEVETEN in patients with renal impairment (GFR <60 ml/min).
+
+Eprosartan has been shown to have no effect on the pharmacokinetics of digoxin and the pharmacodynamics of warfarin and glyburide. Thus, no dosing adjustments are necessary during concomitant use with these agents. Because eprosartan is not metabolized by the cytochrome P450 system, inhibitors of CYP450 enzyme would not be expected to affect its metabolism, and ketoconazole and fluconazole, potent inhibitors of CYP3A and 2C9, respectively, have been shown to have no effect on eprosartan pharmacokinetics. Ranitidine also has no effect on eprosartan pharmacokinetics.
+
+Eprosartan (up to 400 mg b.i.d. or 800 mg q.d.) doses have been safely used concomitantly with a thiazide diuretic (hydrochlorothiazide). Eprosartan doses of up to 300 mg b.i.d. have been safely used concomitantly with sustained-release calcium channel blockers (sustained-release nifedipine) with no clinically significant adverse interactions.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including eprosartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving eprosartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including eprosartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+

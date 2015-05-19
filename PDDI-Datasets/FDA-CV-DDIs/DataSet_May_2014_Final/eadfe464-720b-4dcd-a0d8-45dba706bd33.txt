@@ -1,0 +1,91 @@
+LASIX (furosemide) is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion. Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient's needs. (See DOSAGE AND ADMINISTRATION.)
+
+DESCRIPTION
+
+LASIX is a diuretic which is an anthranilic acid derivative. LASIX tablets for oral administration contain furosemide as the active ingredient and the following inactive ingredients: lactose monohydrate NF, magnesium stearate NF, starch NF, talc USP, and colloidal silicon dioxide NF. Chemically, it is 4-chloro-N-furfuryl-5-sulfamoylanthranilic acid. LASIX is available as white tablets for oral administration in dosage strengths of 20, 40 and 80 mg. Furosemide is a white to off-white odorless crystalline powder. It is practically insoluble in water, sparingly soluble in alcohol, freely soluble in dilute alkali solutions and insoluble in dilute acids.
+CONTRAINDICATIONS
+
+LASIX is contraindicated in patients with anuria and in patients with a history of hypersensitivity to furosemide.
+
+WARNINGS
+
+In patients with hepatic cirrhosis and ascites, LASIX therapy is best initiated in the hospital. In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved. Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore, strict observation is necessary during the period of diuresis. Supplemental potassium chloride and, if required, an aldosterone antagonist are helpful in preventing hypokalemia and metabolic alkalosis.
+
+If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, LASIX should be discontinued.
+
+Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported. Reports usually indicate that LASIX ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs. If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg LASIX per minute has been used). (See PRECAUTIONS: Drug Interactions)
+
+PRECAUTIONS
+
+General
+
+Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients. As with any effective diuretic, electrolyte depletion may occur during LASIX therapy, especially in patients receiving higher doses and a restricted salt intake. Hypokalemia may develop with LASIX, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives. Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
+
+All patients receiving LASIX therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting. Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
+
+In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine. Thus, these patients require careful monitoring, especially during the initial stages of treatment.
+
+In patients at high risk for radiocontrast nephropathy LASIX can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+
+In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of LASIX may be weakened and its ototoxicity potentiated.
+
+Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
+
+Patients allergic to sulfonamides may also be allergic to LASIX. The possibility exists of exacerbation or activation of systemic lupus erythematosus.
+
+As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions.
+
+Information for Patients
+
+Patients receiving LASIX should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses. The postural hypotension that sometimes occurs can usually be managed by getting up slowly. Potassium supplements and/or dietary measures may be needed to control or avoid hypokalemia.
+
+Patients with diabetes mellitus should be told that furosemide may increase blood glucose levels and thereby affect urine glucose tests. The skin of some patients may be more sensitive to the effects of sunlight while taking furosemide.
+
+Hypertensive patients should avoid medications that may increase blood pressure, including over-the-counter products for appetite suppression and cold symptoms.
+
+Laboratory Tests
+
+Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of LASIX therapy and periodically thereafter. Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids. Abnormalities should be corrected or the drug temporarily withdrawn. Other medications may also influence serum electrolytes.
+
+Reversible elevations of BUN may occur and are associated with dehydration, which should be avoided, particularly in patients with renal insufficiency.
+
+Urine and blood glucose should be checked periodically in diabetics receiving LASIX, even in those suspected of latent diabetes.
+
+LASIX may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium. Accordingly, serum levels of these electrolytes should be determined periodically.
+
+In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed. (See PRECAUTIONS: Pediatric Use)
+
+Drug Interactions
+
+LASIX may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function. Except in life-threatening situations, avoid this combination.
+
+LASIX should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity. Patients receiving high doses of salicylates concomitantly with LASIX, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
+
+There is a risk of ototoxic effects if cisplatin and LASIX are given concomitantly. In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if LASIX is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
+
+LASIX has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
+
+Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
+
+LASIX combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure. An interruption or reduction in the dosage of LASIX, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
+
+Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
+
+LASIX may decrease arterial responsiveness to norepinephrine. However, norepinephrine may still be used effectively.
+
+Simultaneous administration of sucralfate and LASIX tablets may reduce the natriuretic and antihypertensive effects of LASIX. Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved. The intake of LASIX and sucralfate should be separated by at least two hours.
+
+In isolated cases, intravenous administration of LASIX within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure and tachycardia. Use of LASIX concomitantly with chloral hydrate is, therefore, not recommended.
+
+Phenytoin interferes directly with renal action of LASIX. There is evidence that treatment with phenytoin leads to decrease intestinal absorption of LASIX, and consequently to lower peak serum furosemide concentrations.
+
+Methotrexate and other drugs that, like LASIX, undergo significant renal tubular secretion may reduce the effect of LASIX. Conversely, LASIX may decrease renal elimination of other drugs that undergo tubular secretion. High-dose treatment of both LASIX and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of LASIX.
+
+LASIX can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
+
+Concomitant use of cyclosporine and LASIX is associated with increased risk of gouty arthritis secondary to LASIX-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+
+One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency. There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
+
+Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of LASIX (furosemide) in some patients by inhibiting prostaglandin synthesis. Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation. Patients receiving both indomethacin and LASIX should be observed closely to determine if the desired diuretic and/or antihypertensive effect of LASIX is achieved.
+

@@ -1,0 +1,5 @@
+There are two different data representations of the Drug Interaction
+Knowledge Base in this folder. The N3 dataset is the RDF version
+created using D2R dump-rdf with a custome mapping file. The SQL
+dataset is the orignal relational tables that D2R mapped to RDF. This
+dump occurred on November 4th 2013. 

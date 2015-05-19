@@ -1,0 +1,203 @@
+Drug Label for drug brand Tribenzor, containing olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Tribenzor as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+WARNING: FETAL TOXICITY See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Tribenzor as soon as possible (5.1).
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.1).
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+Because of the hydrochlorothiazide component, Tribenzor is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
+Do not co-administer aliskiren with Tribenzor in patients with diabetes See Drug Interactions (7.2).
+ <list>
+ <item>
+ <item>Anuria, Hypersensitivity to sulfonamide-derived drugs (4).
+ <item>
+ <item>Do not co-administer aliskiren with Tribenzor in patients with diabetes (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Avoid fetal or neonatal exposure (5.1)
+ <item>
+ <item>Hypotension in volume- or salt-depleted patients with treatment initiation may occur. Correct volume-depletion prior to administration. (5.2)
+ <item>
+ <item>Increased angina or myocardial infarction with calcium channel blockers may occur upon dosage initiation or increase (5.3).
+ <item>
+ <item>Avoid in patients with severely impaired renal function (creatinine clearance 30 mL/min) (2, 5.4).
+ <item>
+ <item>Withhold or discontinue Tribenzor if progressive renal impairment becomes evident (5.4).
+ <item>
+ <item>Thiazides should be used with caution in patients with mildly to moderately impaired hepatic function or progressive liver disease. Avoid in patients with severely impaired hepatic function (5.5).
+ <item>
+ <item>Observe for signs of fluid or electrolyte imbalance (5.6).
+ <item>
+ <item>Thiazide diuretics may cause an exacerbation or activation of systemic lupus erythematosus (5.8).
+ <item>
+ <item>Thiazides have been associated with acute angle-closure glaucoma (5.9).
+ <item>
+ <item>Sprue-like enteropathy has been reported. Consider discontinuation of Tribenzor in cases where no other etiology is found (5.10).
+ <item>
+ </list>
+
+
+5.1 Fetal toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Tribenzor as soon as possible see Use in Specific Populations (8.1).
+
+5.2 Hypotension in Volume- or Salt-Depleted Patients
+
+Olmesartan medoxomil. Symptomatic hypotension may be anticipated after initiation of treatment with olmesartan medoxomil. Patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics) may be particularly vulnerable. Initiate treatment with Tribenzor under close medical supervision. If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.3 Increased Angina and/or Myocardial Infarction
+
+Amlodipine. Patients, particularly those with severe obstructive coronary artery disease, may develop increased frequency, duration, or severity of angina or acute myocardial infarction upon starting calcium channel blocker therapy or at the time of dosage increase. The mechanism of this effect has not been elucidated.
+
+5.4 Impaired Renal Function
+
+Tribenzor. Tribenzor has not been studied in patients with impaired renal function. Avoid use in patients with severe renal impairment (creatinine clearance 30 ml/min) see Dosage and Administration (2).
+An adverse event of impaired renal function was reported in 2.1% of subjects receiving Tribenzor compared to 0.2% to 1.3% of subjects receiving dual combination therapy.
+If progressive renal impairment becomes evident consider withholding or discontinuing either diuretic or angiotensin receptor blocker therapies.
+Olmesartan medoxomil. Changes in renal function occur in some individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system. In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death. Similar effects may occur in patients treated with Tribenzor due to the olmesartan medoxomil component see Drug Interactions (7.2) and Clinical Pharmacology (12.3).
+In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported. There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar effects would be expected with Tribenzor because of the olmesartan medoxomil component.
+Hydrochlorothiazide. Thiazides may precipitate azotemia in patients with renal disease. Cumulative effects of the drug may develop in patients with impaired renal function.
+
+5.5 Hepatic Impairment
+
+Amlodipine. Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function see Dosage and Administration (2).
+Hydrochlorothiazide. Minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+
+5.6 Electrolyte and Metabolic Imbalances
+
+Hydrochlorothiazide. Perform periodic determinations of serum electrolytes to detect possible electrolyte imbalance. Observe patients receiving thiazide therapy for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are important when the patient is vomiting excessively or receiving parental fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+Hypokalemia may develop, especially during brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
+Metabolic acidosis may occur. Although a chloride deficit in a particular patient is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+Dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
+In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required. Hyperglycemia may occur with thiazide diuretics. Thus, latent diabetes mellitus may become manifest during thiazide therapy.
+The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
+Thiazides have been shown to increase the urinary excretion of magnesium, this may result in hypomagnesemia.
+Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hyperparathyroidism. Tribenzor should be discontinued before carrying out tests for parathyroid function.
+
+5.7 Hypersensitivity Reaction
+
+Hydrochlorothiazide. Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+5.8 Systemic Lupus Erythematosus
+
+Hydrochlorothiazide. Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+5.9 Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+5.10 Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation. Intestinal biopsies of patients often demonstrated villous atrophy. If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies. Consider discontinuation of Tribenzor in cases where no other etiology is identified.
+
+5.11 Vasodilation
+
+Amlodipine. Although vasodilation attributable to amlodipine is generally gradual in onset, acute hypotension has rarely been reported after oral administration. Patients with severe aortic stenosis may be at particular risk.
+
+5.12 Heart Failure
+
+Tribenzor. Tribenzor has not been studied in patients with heart failure.
+Amlodipine. Amlodipine (5-10 mg per day) has been studied in a placebo-controlled trial of 1153 patients with New York Heart Association (NYHA) Class III or IV heart failure on stable doses of ACE inhibitor, digoxin, and diuretics. Follow-up was at least 6 months, with a mean of about 14 months. There was no overall adverse effect on survival or cardiac morbidity (as defined by life threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure). Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA Class II/III heart failure, involving a total of 697 patients. In these studies, there was no evidence of worsening of heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or left ventricular ejection fraction.
+
+5.13 Lithium Interaction
+
+Hydrochlorothiazide. Lithium generally should not be given with thiazides see Drug Interactions (7.4).
+
+5.14 Laboratory Tests
+
+Olmesartan medoxomil. In post-marketing experience, increased blood creatinine levels and hyperkalemia have been reported.
+Amlodipine. In post-marketing experience, hepatic enzyme elevations have been reported see Adverse Reactions (6.2).
+Hydrochlorothiazide. Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
+
+
+7 DRUG INTERACTIONS
+
+ <paragraph>
+ <main>Olmesartan medoxomil (7.2):
+ <item>
+ <item>Nonsteroidal anti-inflammatory drugs (NSAIDS): May lead to increased risk of renal impairment and loss of antihypertensive effect.
+ <item>
+ <item>Dual inhibition of the renin-angiotension system: Increased risk of renal impairment, hypotension, and hyperkalemia.
+ <item>
+ <item>Colesevelam hydrochloride: Consider administering olmesartan at least 4 hours before colesevelam hydrochloride dose.
+ <item>
+ <item>Amlodipine (7.3):
+ <item>
+ <item>If simvastatin is co-administered with amlodipine, do not exceed doses greater than 20 mg daily of simvastatin.
+ <item>
+ <item>Hydrochlorothiazide (7.4):
+ <item>
+ <item>Alcohol, barbiturates, narcotics: Potentiation of orthostatic hypotension.
+ <item>
+ <item>Antidiabetic drugs: Dosage adjustment of antidiabetic may be required.
+ <item>
+ <item>Cholestyramine and colestipol: Reduced absorption of thiazides.
+ <item>
+ <item>Corticosteroids, ACTH: Electrolyte depletion, hypokalemia.
+ <item>
+ <item>Lithium: Reduced renal clearance and high risk of lithium toxicity when used with diuretics. Should not be given with diuretics.
+ <item>
+ <item>NSAIDs: Can reduce the diuretic, natriuretic, and antihypertensive effects of diuretics.
+ <item>
+ </paragraph>
+
+7.1 Drug Interactions with Tribenzor
+
+The pharmacokinetics of olmesartan medoxomil, amlodipine, and hydrochlorothiazide are not altered when the drugs are co-administered.
+No drug interaction studies have been conducted with other drugs and Tribenzor, although studies have been conducted with the olmesartan medoxomil, amlodipine, and hydrochlorothiazide components of Tribenzor, as described below.
+
+7.2 Drug Interactions with Olmesartan Medoxomil
+
+No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids Al(OH)3/Mg(OH)2.
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes, thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors). In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Dual Blockade of the Renin-Angiotensin System (RAS)
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on Tribenzor and other agents that affect the RAS.
+Do not co-administer aliskiren with Tribenzor in patients with diabetes See Contraindications (4). Avoid use of aliskiren with Tribenzor in patients with renal impairment (GFR 60 ml/min).
+Use with Colesevelam Hydrochloride
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan. Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect. Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose see Clinical Pharmacology (12.3).
+
+
+7.3 Drug Interactions with Amlodipine
+
+In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+Effect of Other Agents on Amlodipine. Cimetidine: Co-administration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.. Grapefruit juice: Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.. Maalox (antacid): Co-administration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.. Sildenafil: A single 100 mg dose of sildenafil in patients with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine. When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+Effect of Amlodipine on Other Agents. Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.. Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.. Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.. Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.. Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta blockers, ACE inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
+
+7.4 Drug Interactions with Hydrochlorothiazide
+
+When administered concurrently the following drugs may interact with thiazide diuretics: Alcohol, Barbiturates, or Narcotics:Potentiation of orthostatic hypotension may occur.. Antidiabetic Drugs (oral agents and insulin):Dosage adjustment of the antidiabetic drug may be required.. Other Antihypertensive Drugs:Additive effect or potentiation.. Cholestyramine and Colestipol Resins:Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single dose of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.. Corticosteroids, ACTH:Intensified electrolyte depletion, particularly hypokalemia.. Pressor Amines (e.g., Norepinephrine):Possible decreased response to pressor amines but not sufficient to preclude their use.. Skeletal Muscle Relaxants, Non-depolarizing (e.g., Tubocurarine):Possible increased responsiveness to the muscle relaxant.. Lithium:Should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with hydrochlorothiazide.. Non-steroidal Anti-inflammatory Drugs:In some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.
+

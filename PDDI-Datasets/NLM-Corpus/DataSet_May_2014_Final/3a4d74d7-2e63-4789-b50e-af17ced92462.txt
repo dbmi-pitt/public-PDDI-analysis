@@ -1,0 +1,60 @@
+Drug Label for drug brand Reserpine, containing Reserpine.
+
+
+CONTRAINDICATIONS
+
+
+Known hypersensitivity, mental depression or history of mental depression (especially with suicidal tendencies), active peptic ulcer, ulcerative colitis, and patients receiving electroconvulsive therapy.
+
+
+WARNINGS
+
+Extreme caution should be exercised in treating patients with a history of mental depression. Reserpine may cause mental depression. Recognition of depression may be difficult because this condition may often be disguised by somatic complaints (Masked Depression). The drug should be discontinued at first signs of depression such as despondency, early morning insomnia, loss of appetite, impotence, or self-deprecation. Drug-induced depression may persist for several months after drug withdrawal and may be severe enough to result in suicide.
+
+
+PRECAUTIONS
+
+
+General
+
+Since reserpine increases gastrointestinal motility and secretion, it should be used cautiously in patients with a history of peptic ulcer, ulcerative colitis, or gallstones (biliary colic may be precipitated).
+Caution should be exercised when treating hypertensive patients with renal insufficiency, since they adjust poorly to lowered blood pressure levels.
+Preoperative withdrawal of reserpine does not assure that circulatory instability will not occur. It is important that the anesthesiologist be aware of the patient s drug intake and consider this in the overall management, since hypotension has occurred in patients receiving rauwolfia preparations. Anticholinergic and/or adrenergic drugs (e.g., metaraminol, norepinephrine) have been employed to treat adverse vagocirculatory effects.
+
+Information for Patients
+
+Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed.
+
+Drug Interactions
+
+MAO inhibitors should be avoided or used with extreme caution.
+Concurrent use of tricyclic antidepressants may decrease the antihypertensive effect of reserpine.
+Concurrent use of reserpine and direct-or-indirect acting sympathomimetics should be closely monitored. The action of direct-acting amines (epinephrine, isoproterenol, phenylephrine, metaraminol) may be prolonged when given to patients taking reserpine. The action of indirect-acting amines (ephedrine, tyramine, amphetamines) is inhibited.
+Reserpine should be used cautiously with digitalis and quinidine, since cardiac arrhythmias have occurred with rauwolfia preparations.
+Concomitant use of reserpine with other antihypertensive agents necessitates careful titration of dosage with each agent.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+Animal Tumorigenicity
+
+Rodent studies have shown that reserpine is an animal tumorigen, causing an increased incidence of mammary fibroadenomas in female mice, malignant tumors of the seminal vesicles in male mice, and malignant adrenal medullary tumors in male rats. These findings arose in 2-year studies in which the drug was administered in the feed at concentrations of 5 to 10 ppm about 100 to 300 times the usual human dose. The breast neoplasms are thought to be related to reserpine s prolactin-elevating effect. Several other prolactin-elevating drugs have also been associated with an increased incidence of mammary neoplasia in rodents.
+The extent to which these findings indicate a risk to humans is uncertain. Tissue culture experiments show that about one third of human breast tumors are prolactin-dependent in vitro, a factor of considerable importance if the use of the drug is contemplated in a patient with previously detected breast cancer. The possibility of an increased risk of breast cancer in reserpine users has been studied extensively, however, no firm conclusion has emerged. Although a few epidemiologic studies have suggested a slightly increased risk (less than twofold in all studies except one) in women who have used reserpine, other studies of generally similar design have not confirmed this. Epidemiologic studies conducted using other drugs (neuroleptic agents) that, like reserpine, increase prolactin levels and therefore would be considered rodent mammary carcinogens have not shown an association between chronic administration of the drug and human mammary tumorigenesis. While long-term clinical observation has not suggested such as association, the available evidence is considered too limited to be conclusive at this time. An association of reserpine intake with pheochromocytoma or tumors of the seminal vesicles has not been explored.
+
+Pregnancy Category C
+
+Reserpine administered parenterally has been shown to be teratogenic in rats at doses up to 2 mg/kg and to have an embryocidal effect in guinea pigs given dosages of 0.5 mg daily.
+There are no adequate and well-controlled studies of reserpine in pregnant women. Reserpine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nonteratogenic Effects
+
+Reserpine crosses the placental barrier, and increased respiratory tract secretions, nasal congestion, cyanosis, and anorexia may occur in neonates of reserpine-treated mothers.
+
+Nursing Mothers
+
+Reserpine is excreted in maternal breast milk, and increased respiratory tract secretions, nasal congestion, cyanosis, and anorexia may occur in breast-fed infants. Because of the potential for adverse reactions in nursing infants and the potential for tumorigenicity shown for reserpine in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in children have not been established by means of controlled clinical trials, although there is experience with the use of reserpine in children (see DOSAGE AND ADMINISTRATION.) Because of adverse effects such as emotional depression and lability, sedation, and stuffy nose, reserpine is not usually recommended as a step-2 drug in the treatment of hypertension in children.
+

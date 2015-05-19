@@ -1,0 +1,7 @@
+drug pair    ONCHighPriority    NLMCorpus
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB00661    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00908    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00908-http://bio2rdf.org/drugbank:DB00502    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00908-http://bio2rdf.org/drugbank:DB00280    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB01118    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00227-http://bio2rdf.org/drugbank:DB01118    [(None, None)]    [(None, None)]

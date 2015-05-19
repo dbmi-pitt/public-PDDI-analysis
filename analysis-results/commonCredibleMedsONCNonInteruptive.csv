@@ -1,0 +1,5 @@
+drug pair    ONCNonInteruptive    CredibleMeds
+http://bio2rdf.org/drugbank:DB00682-http://bio2rdf.org/drugbank:DB01095    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00682-http://bio2rdf.org/drugbank:DB00227    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00682-http://bio2rdf.org/drugbank:DB01098    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00682-http://bio2rdf.org/drugbank:DB00641    [(None, None)]    [(None, None)]

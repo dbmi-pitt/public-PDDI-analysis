@@ -1,0 +1,204 @@
+Drug Label for drug brand VERELAN PM, containing verapamil hydrochloride.
+
+
+4 CONTRAINDICATIONS
+
+ <paragraph>
+ <main>Verapamil is contraindicated in:
+ <item>
+ <item>Severe left ventricular dysfunction see Warnings and Precautions (5.1).
+ <item>
+ <item>Hypotension (less than 90 mm Hg systolic pressure) or cardiogenic shock.
+ <item>
+ <item>Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker).
+ <item>
+ <item>Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker).
+ <item>
+ <item>Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g., Wolff-Parkinson-White, Lown-Ganong-Levine syndromes) see Warnings and Precautions (5.4).
+ <item>
+ </paragraph>
+ <list>
+ <item>
+ <item>Severe left ventricular dysfunction (4)
+ <item>
+ <item>Hypotension ( 90 mmHg systolic pressure) or cardiogenic shock (4)
+ <item>
+ <item>Sick sinus syndrome (except in patients with pacemaker) (4)
+ <item>
+ <item>2nd- or 3rd-degree AV block (except in patients with pacemaker) (4)
+ <item>
+ <item>Atrial flutter or atrial fibrillation and an accessory bypass tract (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Congestive heart failure or pulmonary edema may develop (5.1)
+ <item>
+ <item>Hypotension/dizziness may occur (5.2)
+ <item>
+ <item>Elevated transaminases have occurred, monitor liver function (5.3)
+ <item>
+ <item>Ventricular fibrillation has occurred in patients with atrial flutter or atrial fibrillation and an accessory bypass tract (5.4)
+ <item>
+ <item>Reduce dose or discontinue therapy if marked first-degree AV block or progression to second- or third-degree AV block occurs (5.5)
+ <item>
+ <item>Sinus bradycardia, pulmonary edema, severe hypotension, second-degree AV block, sinus arrest and death occurred in patients with hypertrophic cardiomyopathy (5.6)
+ <item>
+ </list>
+
+
+5.1 Heart Failure
+
+Verapamil has a negative inotropic effect which, in most patients, is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance. In previous clinical experience with 4,954 patients primarily with immediate-release verapamil, 87 (1.8%) developed congestive heart failure or pulmonary edema. Avoid verapamil in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30% or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker see Drug Interactions (7.4). Control patients with milder ventricular dysfunction, if possible, with optimum doses of digitalis and/or diuretics before verapamil treatment is started see Drug Interactions (7.5).
+
+5.2 Hypotension
+
+Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels which may result in dizziness or symptomatic hypotension. In hypertensive patients, decreases in blood pressure below normal are unusual. The incidence of hypotension observed in 4,954 patients enrolled in clinical trials of other verapamil formulations was 2.5% see Adverse Reactions (6.1). In clinical studies of Verelan PM, 1.7% of the patients developed significant hypotension. Tilt table testing (60 degrees) was not able to induce orthostatic hypotension.
+
+5.3 Elevated Liver Enzymes
+
+Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported. Such elevations have sometimes been transient and may disappear even in the face of continued verapamil treatment.
+Several cases of hepatocellular injury related to verapamil have been proven by rechallenge, half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain) in addition to elevations of SGOT, SGPT and alkaline phosphatase. Periodic monitoring of liver function in patients receiving verapamil is therefore prudent.
+
+5.4 Accessory Bypass Tract (Wolff-Parkinson-White or Lown-Ganong Levine)
+
+Some patients with paroxysmal and/or chronic atrial flutter or atrial fibrillation and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis). Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated see Contraindications (4). Treatment is usually DC-cardioversion. Cardioversion has been used safely and effectively after oral verapamil.
+
+5.5 Atrioventricular Block
+
+The effect of verapamil on AV conduction and the SA node may lead to asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms. PR interval prolongation is correlated with verapamil plasma concentrations, especially during the early titration phase of therapy. Higher degrees of AV block, however, were infrequently (0.8%) observed in previous verapamil clinical trials see Adverse Reactions (6.1).
+Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil and institution of appropriate therapy depending upon the clinical situation.
+
+5.6 Patients with Hypertrophic Cardiomyopathy
+
+In 120 patients with hypertrophic cardiomyopathy, idiopathic hypertrophic subaortic stenosis (IHSS) (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen. Three patients died in pulmonary edema, all had severe left ventricular outflow obstruction and a history of left ventricular dysfunction. Eight other patients had pulmonary edema and/or severe hypotension, abnormally high (over 20 mm Hg) pulmonary capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients. Concomitant administration of quinidine see Drug Interactions (7.10) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema). Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2% see Adverse Reactions (6). It must be appreciated that this group of patients had a serious disease with a high mortality rate. Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>CYP3A4 inhibitors increase verapamil levels (7.1)
+ <item>
+ <item>CYP3A4 inducers decrease verapamil levels (7.1)
+ <item>
+ <item>If simvastatin is co-administered with verapamil, do not exceed doses greater than 10 mg daily of simvastatin (7.2)
+ <item>
+ <item>If lovastatin is co-administered with verapamil, do not exceed doses greater than 40 mg daily of lovastatin (7.2)
+ <item>
+ <item>Grapefruit juice may significantly increase verapamil levels (7.3)
+ <item>
+ <item>Beta blockers: reports of excess bradycardia and AV block, including complete heart block, monitor closely (7.4)
+ <item>
+ <item>Digoxin levels can increase by 50 to 75%, reduce digoxin dose (7.5)
+ <item>
+ <item>Alcohol elimination inhibited resulting in elevated ethanol levels (7.6)
+ <item>
+ </list>
+
+
+7.1 CYP3A4 Inhibitors and Inducers
+
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, and CYP2C. Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil. Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics. Inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
+
+7.2 HMG-CoA Reductase Inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone. Limit the dose of simvastatin in patients on verapamil to 10 mg daily. Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+
+7.3 Grapefruit Juice
+
+Grapefruit juice may significantly increase concentrations of verapamil. Grapefruit juice given to nine healthy volunteers increased S- and R- verapamil AUC0-12 by 36% and 28%, respectively. Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively with grapefruit juice compared to control. Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively. Grapefruit juice did not affect half-life, nor was there a significant change in AUC0-12 ratio R/S compared to control. Grapefruit juice did not cause a significant difference in the pharmacokinetics of norverapamil. This increase in verapamil plasma concentration is not expected to have any clinical consequences.
+
+7.4 Beta Blockers
+
+Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility. The combination of extended-release verapamil and beta-adrenergic blocking agents has not been studied. However, there have been reports of excess bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension. For hypertensive patients, the risk of combined therapy may outweigh the potential benefits. The combination should be used only with caution and close monitoring. Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil.
+A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil. A variable effect has been seen when verapamil and atenolol were given together.
+
+7.5 Digitalis
+
+Consider reducing digoxin dose when verapamil and digoxin are to be given together. Monitor digoxin level periodically during therapy. Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity. In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified. Verapamil may reduce total body clearance and extra-renal clearance of digoxin by 27% and 29%, respectively. If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
+In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
+
+7.6 Alcohol
+
+Verapamil has been found to significantly inhibit ethanol elimination resulting in elevated blood ethanol concentrations that may prolong the intoxicating effects of alcohol.
+
+7.7 Clonidine
+
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil. Monitor heart rate in patients receiving concomitant verapamil and clonidine.
+
+7.8 Telithromycin
+
+Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
+
+7.9 Antineoplastic Agents
+
+Verapamil can increase doxorubicin levels. The absorption of verapamil can be reduced by the cyclophosphamide, oncovin, procarbazine, prednisone (COPP) and the vindesine, adriamycin, cisplatin (VAC) cytotoxic drug regimens. Concomitant administration of R verapamil can decrease the clearance of paclitaxel.
+
+7.10 Quinidine
+
+In a small number of patients with hypertrophic cardiomyopathy, concomitant use of verapamil and quinidine resulted in significant hypotension. Until further data are obtained, avoid combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy.
+The electrophysiological effects of quinidine and verapamil on AV conduction were studied in 8 patients. Verapamil significantly counteracted the effects of quinidine on AV conduction. There has been a report of increased quinidine levels during verapamil therapy.
+
+7.11 Aspirin
+
+In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
+
+7.12 Antihypertensive agents
+
+Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta blockers) will usually have an additive effect on lowering blood pressure. Monitor patients receiving these combinations appropriately. Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in reduction in blood pressure that is excessive in some patients. Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
+
+7.13 Disopyramide
+
+Until data on possible interactions between verapamil and disopyramide are obtained, do not administer disopyramide within 48 hours before or 24 hours after verapamil administration.
+
+7.14 Flecainide
+
+A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization. Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.
+
+7.15 Carbamazepine
+
+Verapamil therapy may increase carbamazepine concentrations during combined therapy. This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.
+
+7.16 Cyclosporine
+
+Verapamil therapy may increase serum levels of cyclosporine.
+
+7.17 Lithium
+
+Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy with either no change or an increase in serum lithium levels. However, the addition of verapamil has also resulted in the lowering of serum lithium levels in patients receiving chronic stable oral lithium. Patients receiving both drugs must be monitored carefully.
+
+7.18 Inhalation Anesthetics
+
+Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions. When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, titrate slowly to avoid excessive cardiovascular depression.
+
+7.19 Neuromuscular Blocking Agents
+
+Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing). It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
+
+7.20 Phenobarbital
+
+Phenobarbital therapy may increase verapamil clearance.
+
+7.21 Rifampin
+
+Therapy with rifampin may markedly reduce oral verapamil bioavailability.
+
+7.22 Theophylline
+
+Verapamil may inhibit the clearance and increase the plasma levels of theophylline.
+
+7.23 Cimetidine
+
+The interaction between cimetidine and chronically administered verapamil has not been studied. Variable results on clearance have been obtained in acute studies of healthy volunteers, clearance of verapamil was either reduced or unchanged.
+
+7.24 Nitrates
+
+Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions. The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
+

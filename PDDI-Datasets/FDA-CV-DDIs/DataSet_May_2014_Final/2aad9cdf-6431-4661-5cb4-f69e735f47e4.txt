@@ -1,0 +1,74 @@
+Drug Label for drug brand PLENDIL, containing Felodipine.
+
+
+CONTRAINDICATIONS
+
+
+PLENDIL is contraindicated in patients who are hypersensitive to this product.
+
+
+PRECAUTIONS
+
+
+General
+
+Hypotension Felodipine, like other calcium antagonists, may occasionally precipitate significant hypotension and, rarely, syncope. It may lead to reflex tachycardia which in susceptible individuals may precipitate angina pectoris. (See ADVERSE REACTIONS.)
+Heart Failure Although acute hemodynamic studies in a small number of patients with NYHA Class II or III heart failure treated with felodipine have not demonstrated negative inotropic effects, safety in patients with heart failure has not been established. Caution, therefore, should be exercised when using PLENDIL in patients with heart failure or compromised ventricular function, particularly in combination with a beta blocker.
+Patients with Impaired Liver Function Patients with impaired liver function may have elevated plasma concentrations of felodipine and may respond to lower doses of PLENDIL, therefore, a starting dose of 2.5 mg once a day is recommended. These patients should have their blood pressure monitored closely during dosage adjustment of PLENDIL. (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.)
+Peripheral Edema Peripheral edema, generally mild and not associated with generalized fluid retention, was the most common adverse event in the clinical trials. The incidence of peripheral edema was both dose and age dependent. Frequency of peripheral edema ranged from about 10% in patients under 50 years of age taking 5 mg daily to about 30% in those over 60 years of age taking 20 mg daily. This adverse effect generally occurs within 2 3 weeks of the initiation of treatment.
+
+Information for Patients
+
+Patients should be instructed to take PLENDIL whole and not to crush or chew the tablets. They should be told that mild gingival hyperplasia (gum swelling) has been reported. Good dental hygiene decreases its incidence and severity.
+NOTE: As with many other drugs, certain advice to patients being treated with PLENDIL is warranted. This information is intended to aid in the safe and effective use of this medication. It is not a disclosure of all possible adverse or intended effects.
+
+Drug Interactions
+
+ <paragraph>
+ <main>CYP3A4 Inhibitors Felodipine is metabolized by CYP3A4. Co-administration of CYP3A4 inhibitors (eg, ketoconazole, itraconazole, erythromycin, grapefruit juice, cimetidine) with felodipine may lead to several-fold increases in the plasma levels of felodipine, either due to an increase in bioavailability or due to a decrease in metabolism. These increases in concentration may lead to increased effects, (lower blood pressure and increased heart rate). These effects have been observed with co-administration of itraconazole (a potent CYP3A4 inhibitor). Caution should be used when CYP3A4 inhibitors are co-administered with felodipine. A conservative approach to dosing felodipine should be taken. The following specific interactions have been reported:
+ <item>Itraconazole Co-administration of another extended release formulation of felodipine with itraconazole resulted in approximately 8-fold increase in the AUC, more than 6-fold increase in the Cmax, and 2-fold prolongation in the half-life of felodipine.
+ <item>Erythromycin Co-administration of felodipine (PLENDIL) with erythromycin resulted in approximately 2.5-fold increase in the AUC and Cmax, and about 2-fold prolongation in the half-life of felodipine.
+ <item>Grapefruit juice Co-administration of felodipine with grapefruit juice resulted in more than 2-fold increase in the AUC and Cmax, but no prolongation in the half-life of felodipine.
+ <item>Cimetidine Co-administration of felodipine with cimetidine (a non-specific CYP-450 inhibitor) resulted in an increase of approximately 50% in the AUC and the Cmax, of felodipine.
+ <item>Beta-Blocking Agents A pharmacokinetic study of felodipine in conjunction with metoprolol demonstrated no significant effects on the pharmacokinetics of felodipine. The AUC and Cmax of metoprolol, however, were increased approximately 31 and 38%, respectively. In controlled clinical trials, however, beta blockers including metoprolol were concurrently administered with felodipine and were well tolerated.
+ <item>Digoxin When given concomitantly with PLENDIL the pharmacokinetics of digoxin in patients with heart failure were not significantly altered.
+ <item>Anticonvulsants In a pharmacokinetic study, maximum plasma concentrations of felodipine were considerably lower in epileptic patients on long-term anticonvulsant therapy (eg, phenytoin, carbamazepine, or phenobarbital) than in healthy volunteers. In such patients, the mean area under the felodipine plasma concentration-time curve was also reduced to approximately 6% of that observed in healthy volunteers. Since a clinically significant interaction may be anticipated, alternative antihypertensive therapy should be considered in these patients.
+ <item>Tacrolimus Felodipine may increase the blood concentration of tacrolimus. When given concomitantly with felodipine, the tacrolimus blood concentration should be followed and the tacrolimus dose may need to be adjusted.
+ <item>Other Concomitant Therapy In healthy subjects there were no clinically significant interactions when felodipine was given concomitantly with indomethacin or spironolactone.
+ <item>Interaction with Food See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism.
+ </paragraph>
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a 2-year carcinogenicity study in rats fed felodipine at doses of 7.7, 23.1 or 69.3 mg/kg/day (up to 61 times Based on patient weight of 50 kg the maximum recommended human dose on a mg/m2 basis), a dose-related increase in the incidence of benign interstitial cell tumors of the testes (Leydig cell tumors) was observed in treated male rats. These tumors were not observed in a similar study in mice at doses up to 138.6 mg/kg/day (61 times1 the maximum recommended human dose on a mg/m2 basis). Felodipine, at the doses employed in the 2-year rat study, has been shown to lower testicular testosterone and to produce a corresponding increase in serum luteinizing hormone in rats. The Leydig cell tumor development is possibly secondary to these hormonal effects which have not been observed in man.
+In this same rat study a dose-related increase in the incidence of focal squamous cell hyperplasia compared to control was observed in the esophageal groove of male and female rats in all dose groups. No other drug-related esophageal or gastric pathology was observed in the rats or with chronic administration in mice and dogs. The latter species, like man, has no anatomical structure comparable to the esophageal groove.
+Felodipine was not carcinogenic when fed to mice at doses up to 138.6 mg/kg/day (61 times1 the maximum recommended human dose on a mg/m2 basis) for periods of up to 80 weeks in males and 99 weeks in females.
+Felodipine did not display any mutagenic activity in vitro in the Ames microbial mutagenicity test or in the mouse lymphoma forward mutation assay. No clastogenic potential was seen in vivo in the mouse micronucleus test at oral doses up to 2500 mg/kg (1100 times1 the maximum recommended human dose on a mg/m2 basis) or in vitro in a human lymphocyte chromosome aberration assay.
+A fertility study in which male and female rats were administered doses of 3.8, 9.6 or 26.9 mg/kg/day (up to 24 times1 the maximum recommended human dose on a mg/m2 basis) showed no significant effect of felodipine on reproductive performance.
+
+Pregnancy:
+
+
+Pregnancy Category C.
+
+Teratogenic Effects Studies in pregnant rabbits administered doses of 0.46, 1.2, 2.3, and 4.6 mg/kg/day (from 0.8 to 8 times1 the maximum recommended human dose on a mg/m2 basis) showed digital anomalies consisting of reduction in size and degree of ossification of the terminal phalanges in the fetuses. The frequency and severity of the changes appeared dose related and were noted even at the lowest dose. These changes have been shown to occur with other members of the dihydropyridine class and are possibly a result of compromised uterine blood flow. Similar fetal anomalies were not observed in rats given felodipine.
+In a teratology study in cynomolgus monkeys, no reduction in the size of the terminal phalanges was observed, but an abnormal position of the distal phalanges was noted in about 40% of the fetuses.
+
+Nonteratogenic Effects A prolongation of parturition with difficult labor and an increased frequency of fetal and early postnatal deaths were observed in rats administered doses of 9.6 mg/kg/day (8 times1 the maximum human dose on a mg/m2 basis) and above.
+
+Significant enlargement of the mammary glands, in excess of the normal enlargement for pregnant rabbits, was found with doses greater than or equal to 1.2 mg/kg/day (2.1 times the maximum human dose on a mg/m2 basis). This effect occurred only in pregnant rabbits and regressed during lactation.
+Similar changes in the mammary glands were not observed in rats or monkeys.
+There are no adequate and well-controlled studies in pregnant women. If felodipine is used during pregnancy, or if the patient becomes pregnant while taking this drug, she should be apprised of the potential hazard to the fetus, possible digital anomalies of the infant, and the potential effects of felodipine on labor and delivery and on the mammary glands of pregnant females.
+
+Nursing Mothers
+
+It is not known whether this drug is secreted in human milk and because of the potential for serious adverse reactions from felodipine in the infant, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use:
+
+Clinical studies of felodipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Pharmacokinetics, however, indicate that the availability of felodipine is increased in older patients (see CLINICAL PHARMACOLOGY, Geriatric Use). In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+

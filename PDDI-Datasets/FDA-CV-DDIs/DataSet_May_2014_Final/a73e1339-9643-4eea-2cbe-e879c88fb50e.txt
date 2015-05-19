@@ -1,0 +1,87 @@
+Drug Label for drug brand ATACAND, containing Candesartan cilexetil.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue ATACAND as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+WARNING: FETAL TOXICITY
+See Full Prescribing Information for complete boxed warning.
+
+
+4 CONTRAINDICATIONS
+
+ATACAND is contraindicated in patients who are hypersensitive to candesartan.
+Do not co-administer aliskiren with ATACAND in patients with diabetes see DRUG INTERACTIONS (7).
+Known hypersensitivity to product components (4).
+Do not co-administer aliskiren with ATACAND in patients with diabetes. (4).
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Observe for signs and symptoms of hypotension (5.3).
+ <item>
+ <item>Monitor renal function (5.4) and potassium levels (5.5).
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure and death. When pregnancy is detected, discontinue ATACAND as soon as possible see USE IN SPECIFIC POPULATIONS (8.1).
+Oral doses 10 mg of candesartan cilexetil/kg/day administered to pregnant rats during late gestation and continued through lactation were associated with reduced survival and an increased incidence of hydronephrosis in the offspring. The 10-mg/kg/day dose in rats is approximately 2.8 times the maximum recommended daily human dose (MRHD) of 32 mg on a mg/m2 basis (comparison assumes human body weight of 50 kg). Candesartan cilexetil given to pregnant rabbits at an oral dose of 3 mg/kg/day (approximately 1.7 times the MRHD on a mg/m2 basis) caused maternal toxicity (decreased body weight and death) but, in surviving dams, had no adverse effects on fetal survival, fetal weight, or external, visceral, or skeletal development. No maternal toxicity or adverse effects on fetal development were observed when oral doses up to 1000 mg of candesartan cilexetil/kg/day (approximately 138 times the MRHD on a mg/m2 basis) were administered to pregnant mice.
+
+5.2 Morbidity in Infants
+
+Children 1 year of age must not receive ATACAND for hypertension. Drugs that act directly on the renin-angiotensin system (RAS) can have effects on the development of immature kidneys.
+
+5.3 Hypotension
+
+ATACAND can cause symptomatic hypotension. Symptomatic hypotension is most likely to occur in patients who have been volume and/or salt depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Patients with symptomatic hypotension may require temporarily reducing the dose of ATACAND, diuretic or both, and volume repletion. Volume and/or salt depletion should be corrected before initiating therapy with ATACAND.
+In the CHARM program (heart failure patients), hypotension was reported in 18.8% of patients on ATACAND versus 9.8% of patients on placebo. The incidence of hypotension leading to drug discontinuation in ATACAND-treated patients was 4.1% compared with 2.0% in placebo-treated patients. In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, hypotension was reported in 22.6% of patients treated with ATACAND versus 13.8% treated with placebo see DRUG INTERACTIONS (7).
+Monitoring of blood pressure is recommended during dose escalation and periodically thereafter.
+Major Surgery/Anesthesia
+Hypotension may occur during major surgery and anesthesia in patients treated with angiotensin II receptor antagonists, including ATACAND, due to blockade of the renin-angiotensin system. Very rarely, hypotension may be severe such that it may warrant the use of intravenous fluids and/or vasopressors.
+
+5.4 Impaired Renal Function
+
+Monitor renal function periodically in patients treated with ATACAND. Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system. Patients whose renal function may depend, in part, on the activity of the renin-angiotensin system (e.g., patient with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing oliguria, progressive azotemia or acute renal failure when treated with ATACAND. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on ATACAND.
+In the CHARM program (heart failure patients), the incidence of abnormal renal function (e.g., creatinine increase) was 12.5% in patients treated with ATACAND versus 6.3% in patients treated with placebo. The incidence of abnormal renal function (e.g., creatinine increase) leading to drug discontinuation in ATACAND-treated patients was 6.3% compared with 2.9% in placebo-treated patients. In the CHARM-Added program, where candesartan or placebo was given in addition to ACE inhibitors, the incidence of abnormal renal function (e.g., creatinine increase) was 15% in patients treated with ATACAND versus 9% in patients treated with placebo see DRUG INTERACTIONS (7).
+
+5.5 Hyperkalemia
+
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia. Monitor serum potassium periodically.
+In the CHARM program (heart failure patients), the incidence of hyperkalemia was 6.3% in patients treated with ATACAND versus 2.1% in patients treated with placebo. The incidence of hyperkalemia leading to drug discontinuation in ATACAND-treated patients was 2.4% compared with 0.6% in placebo-treated patients. In the CHARM-Added program where candesartan or placebo was given in addition to ACE inhibitors, the incidence of hyperkalemia was 9.5% in patients treated with ATACAND versus 3.5% in patients treated with placebo see DRUG INTERACTIONS (7).
+
+
+7 DRUG INTERACTIONS
+
+Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors). In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving candesartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Lithium
+Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists. An increase in serum lithium concentration has been reported during concomitant administration of lithium with ATACAND. Monitor serum lithium levels.
+Dual Blockade of the Renin-Angiotensin System (RAS)
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on ATACAND and other agents that affect the RAS.
+Do not co-administer aliskiren with ATACAND in patients with diabetes. Avoid use of aliskiren with ATACAND in patients with renal impairment (GFR 60 ml/min) see CONTRAINDICATIONS (4).
+ <list>
+ <item>
+ <item>Lithium: Reversible increases in serum lithium concentrations and toxicity (7).
+ <item>
+ <item>NSAIDS use may lead to increased risk of renal impairment and loss of antihypertensive effect (7).
+ <item>
+ <item>Dual inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia (7)
+ <item>
+ </list>
+
+

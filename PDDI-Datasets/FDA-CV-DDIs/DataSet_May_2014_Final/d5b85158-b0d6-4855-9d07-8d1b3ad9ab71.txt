@@ -1,0 +1,158 @@
+EXTRANEAL (icodextrin, sodium chloride, sodium lactate, calcium chloride, magnesium chloride) injection, solution
+
+CONTRAINDICATIONS
+
+Extraneal (icodextrin) is contraindicated in patients with a known allergy to cornstarch or icodextrin, in patients with maltose or isomaltose intolerance, in patients with glycogen storage disease, and in patients with pre-existing severe lactic acidosis.
+
+WARNINGS
+
+Dangerous Drug-Device Interaction
+
+(See BOXED WARNING)
+
+Only use glucose-specific monitors and test strips to measure blood glucose levels in patients using Extraneal (icodextrin) Peritoneal Dialysis Solution. Blood glucose monitoring devices using glucose dehydrogenase pyrroloquinolinequinone (GDH-PQQ) or glucose-dye-oxidoreductase (GDO)-based methods must not be used. In addition, some blood glucose monitoring systems using glucose dehydrogenase flavin-adenine dinucleotide (GDH-FAD)-based methods must not be used. Use of GDH-PQQ, GDO, and GDH-FAD-based glucose monitors and test strips has resulted in falsely elevated glucose readings (due to the presence of maltose, see PRECAUTIONS/Drug/Laboratory Test Interactions). Falsely elevated glucose readings have led patients or health care providers to withhold treatment of hypoglycemia or to administer insulin inappropriately. Both of these situations have resulted in unrecognized hypoglycemia, which has led to loss of consciousness, coma, permanent neurological damage, and death. Plasma levels of Extraneal (icodextrin) and its metabolites return to baseline within approximately 14 days following cessation of Extraneal (icodextrin) administration. Therefore falsely elevated glucose levels may be measured up to two weeks following cessation of Extraneal (icodextrin) therapy when GDH-PQQ, GDO, and GDH-FAD-based blood glucose monitors and test strips are used.
+
+Because GDH-PQQ, GDO, and GDH-FAD-based blood glucose monitors may be used in hospital settings, it is important that the health care providers of peritoneal dialysis patients using Extraneal (icodextrin) carefully review the product information of the blood glucose testing system, including that of test strips, to determine if the system is appropriate for use with Extraneal (icodextrin).
+
+To avoid improper insulin administration, educate patients to alert health care providers of this interaction whenever they are admitted to the hospital.
+
+The manufacturer(s) of the monitor and test strips should be contacted to determine if icodextrin or maltose causes interference or falsely elevated glucose readings. For a list of toll free numbers for glucose monitor and test strip manufacturers, please contact the Baxter Renal Clinical Help Line 1-888-RENAL-HELP or visit www.glucosesafety.com.
+
+Extraneal is intended for intraperitoneal administration only. Not for intravenous injection.
+
+Encapsulating peritoneal sclerosis (EPS) is a known, rare complication of peritoneal dialysis therapy. EPS has been reported in patients using peritoneal dialysis solutions including Extraneal (icodextrin). Infrequent but fatal outcomes have been reported.
+
+If peritonitis occurs, the choice and dosage of antibiotics should be based upon the results of identification and sensitivity studies of the isolated organism(s) when possible. Prior to the identification of the involved organism(s), broad-spectrum antibiotics may be indicated.
+
+Rarely, serious hypersensitivity reactions to Extraneal have been reported such as toxic epidermal necrolysis, angioedema, serum sickness, erythema multiforme and leukocytoclastic vasculitis. If a serious reaction is suspected, discontinue Extraneal and institute appropriate treatment as clinically indicated.
+
+Patients with severe lactic acidosis should not be treated with lactate-based peritoneal dialysis solutions (See CONTRAINDICATIONS). It is recommended that patients with conditions known to increase the risk of lactic acidosis [e.g., acute renal failure, inborn errors of metabolism, treatment with drugs such as metformin and nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)] must be monitored for occurrence of lactic acidosis before the start of treatment and during treatment with lactate-based peritoneal dialysis solutions.
+
+When prescribing the solution to be used for an individual patient, consideration should be given to the potential interaction between the dialysis treatment and therapy directed at other existing illnesses. Serum potassium levels should be monitored carefully in patients treated with cardiac glycosides. For example, rapid potassium removal may create arrhythmias in cardiac patients using digitalis or similar drugs; digitalis toxicity may be masked by hyperkalemia, hypermagnesemia, or hypocalcemia. Correction of electrolytes by dialysis may precipitate signs and symptoms of digitalis excess. Conversely, toxicity may occur at suboptimal dosages of digitalis if potassium is low or calcium high.
+
+
+PRECAUTIONS
+
+General
+
+Peritoneal Dialysis-Related
+
+The following conditions may predispose to adverse reactions to peritoneal dialysis procedures: abdominal conditions, including uncorrectable mechanical defects that prevent effective PD or increase the risk of infection, disruption of the peritoneal membrane and diaphragm by surgery, congenital anomalies or trauma prior to complete healing, abdominal tumors, abdominal wall infections, hernias, fecal fistula, colostomies or ileostomies, frequent episodes of diverticulitis, inflammatory or ischemic bowel disease, large polycystic kidneys, or other conditions that compromise the integrity of the abdominal wall, abdominal surface, or intra-abdominal cavity, such as documented loss of peritoneal function or extensive adhesions that compromise peritoneal function. Conditions that preclude normal nutrition, impaired respiratory function, recent aortic graft placement, and potassium deficiency may also predispose to complications of peritoneal dialysis.
+
+Aseptic technique should be employed throughout the peritoneal dialysis procedure to reduce the possibility of infection.
+
+Following use, the drained fluid should be inspected for the presence of fibrin or cloudiness, which may indicate the presence of peritonitis.
+
+Overinfusion of peritoneal dialysis solution volume into the peritoneal cavity may be characterized by abdominal distention, feeling of fullness and/or shortness of breath. Treatment of overinfusion is to drain the peritoneal dialysis solution from the peritoneal cavity.
+
+Need for Trained Physician
+
+Treatment should be initiated and monitored under the supervision of a physician knowledgeable in the management of patients with renal failure.
+
+A patient’s volume status should be carefully monitored to avoid hyper- or hypovolemia and potentially severe consequences including congestive heart failure, volume depletion and hypovolemic shock. An accurate fluid balance record must be kept and the patient’s body weight monitored.
+
+Significant losses of protein, amino acids, water-soluble vitamins and other medicines may occur during peritoneal dialysis. The patient’s nutritional status should be monitored and replacement therapy should be provided as necessary.
+
+In patients with hypercalcemia, particularly in those on low-calcium peritoneal dialysis solutions, consideration should be given to the fact that Extraneal is not provided in a low-calcium electrolyte solution.
+
+Solutions that are cloudy, contain particulate matter, or show evidence of leakage should not be used.
+
+Insulin-dependent diabetes mellitus
+
+Patients with insulin-dependent diabetes may require modification of insulin dosage following initiation of treatment with Extraneal. Appropriate monitoring of blood glucose should be performed and insulin dosage adjusted if needed (See WARNINGS; PRECAUTIONS, Drug/Laboratory Test Interactions).
+
+Drug Interactions
+
+General
+
+No clinical drug interaction studies were performed. No evaluation of Extraneal’s effects on the cytochrome P450 system was conducted. As with other dialysis solutions, blood concentrations of dialyzable drugs may be reduced by dialysis. Dosage adjustment of concomitant medications may be necessary. In patients using cardiac glycosides (digoxin and others), plasma levels of calcium, potassium and magnesium must be carefully monitored.
+
+Insulin
+
+A clinical study in 6 insulin-dependent diabetic patients demonstrated no effect of Extraneal on insulin absorption from the peritoneal cavity or on insulin’s ability to control blood glucose when insulin was administered intraperitoneally with Extraneal. However, appropriate monitoring (See PRECAUTIONS, Drug/Laboratory Test Interactions) of blood glucose should be performed when initiating Extraneal in diabetic patients and insulin dosage should be adjusted if needed (See PRECAUTIONS).
+
+Heparin
+
+No human drug interaction studies with heparin were conducted. In vitro studies demonstrated no evidence of incompatibility of heparin with Extraneal.
+
+Antibiotics
+
+No human drug interaction studies with antibiotics were conducted. In vitro studies evaluating the minimum inhibitory concentration (MIC) of vancomycin, cefazolin, ampicillin, ampicillin/flucoxacillin, ceftazidime, gentamicin, and amphotericin demonstrated no evidence of incompatibility of these antibiotics with Extraneal. (See DOSAGE AND ADMINISTRATION)
+
+Drug/Laboratory Test Interactions
+
+Blood Glucose
+
+Blood glucose measurement must be done with a glucose-specific method to prevent maltose interference with test results. Falsely elevated glucose levels have been observed with blood glucose monitoring devices and test strips that use glucose dehydrogenase pyrroloquinolinequinone (GDH-PQQ), glucose-dye-oxidoreductase (GDO), and some glucose dehydrogenase flavin-adenine nucleotide (GDH-FAD)-based methods. GDH-PQQ, glucose-dye-oxidoreductase, and some GDH-FAD-based methods must not be used to measure glucose levels in patients administered Extraneal (See WARNINGS).
+
+Serum Amylase
+
+An apparent decrease in serum amylase activity has been observed in patients administered Extraneal. Preliminary investigations indicate that icodextrin and its metabolites interfere with enzymatic-based amylase assays, resulting in inaccurately low values. This should be taken into account when evaluating serum amylase levels for diagnosis or monitoring of pancreatitis in patients using Extraneal.
+
+DOSAGE AND ADMINISTRATION
+
+Extraneal is intended for intraperitoneal administration only. It should be administered only as a single daily exchange for the long dwell in continuous ambulatory peritoneal dialysis or automated peritoneal dialysis. The recommended dwell time is 8- to 16- hours.
+
+Not for intravenous injection.
+
+Patients should be carefully monitored to avoid under- or over-hydration. An accurate fluid balance record must be kept and the patient’s body weight monitored to avoid potentially severe consequences including congestive heart failure, volume depletion, and hypovolemic shock.
+
+Aseptic technique should be used throughout the peritoneal dialysis procedure.
+
+To reduce possible discomfort during administration, solutions may be warmed prior to use (See DOSAGE AND ADMINISTRATION, Directions for Use).
+
+Extraneal should be administered over a period of 10-20 minutes at a rate that is comfortable for the patient.
+
+Do not use Extraneal if it is cloudy or discolored, if it contains particulate matter, or if the container is leaky.
+
+Following use, the drained fluid should be inspected for the presence of fibrin or cloudiness, which may indicate the presence of peritonitis.
+
+For single use only. Discard unused portion.
+
+Addition of Potassium
+
+Potassium is omitted from Extraneal solutions because dialysis may be performed to correct hyperkalemia. In situations where there is a normal serum potassium level or hypokalemia, the addition of potassium chloride (up to a concentration of 4 mEq/L) may be indicated to prevent severe hypokalemia. The decision to add potassium chloride should be made by the physician after careful evaluation of serum potassium.
+
+Addition of Insulin
+
+Addition of insulin to Extraneal was evaluated in 6 insulin-dependent diabetic patients undergoing CAPD for end stage renal disease. No interference of Extraneal with insulin absorption from the peritoneal cavity or with insulin’s ability to control blood glucose was observed (See PRECAUTIONS, Drug/Laboratory Test Interactions). Appropriate monitoring of blood glucose should be performed when initiating Extraneal in diabetic patients and insulin dosage adjusted if needed (See PRECAUTIONS).
+
+Addition of Heparin
+
+No human drug interaction studies with heparin were conducted. In vitro studies demonstrated no evidence of incompatibility of heparin with Extraneal.
+
+Addition of Antibiotics
+
+No formal clinical drug interaction studies have been performed. In vitro compatibility studies with Extraneal (icodextrin) and the following antibiotics have demonstrated no effects with regard to minimum inhibitory concentration (MIC): vancomycin, cefazolin, ampicillin, ampicillin/flucoxacillin, ceftazidime, gentamicin, and amphotericin. However, aminoglycosides should not be mixed with penicillins due to chemical incompatibility.
+
+Patients undergoing peritoneal dialysis should be under careful supervision of a physician experienced in the treatment of end-stage renal disease with peritoneal dialysis. It is recommended that patients being placed on peritoneal dialysis should be appropriately trained in a program that is under supervision of a physician.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

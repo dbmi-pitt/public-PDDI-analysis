@@ -1,0 +1,4 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00897-http://bio2rdf.org/drugbank:DB00582    object:triazolam precipitant: voriconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00897    object:triazolam precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00683    object:midazolam precipitant: fluconazole 	DIKB Evidence: None 	Kegg Evidence: None 	Drugbank Evidence: None 	Twosides Evidence: None 

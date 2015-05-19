@@ -1,0 +1,61 @@
+LEVATOL (penbutolol sulfate) tablet 
+
+Penbutolol antagonizes the heart rate effects of exercise and infused isoproterenol.
+
+CONTRAINDICATIONS
+
+Levatol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity to this product (see WARNINGS).
+
+WARNINGS
+
+Cardiac Failure: Sympathetic stimulation may be essential for supporting circulatory function in patients with heart failure, and its inhibition by ß-adrenergic receptor blockade may precipitate more severe failure. Although ß-blockers should be avoided in overt congestive heart failure, levatol® can, if necessary, be used with caution in patients with a history of cardiac failure who are well compensated, on treatment with vasodilators, digitalis and/or diuretics. Both digitalis and penbutolol slow AV conduction. Beta-adrenergic receptor antagonists do not inhibit the inotropic action of digitalis on heart muscle. If cardiac failure persists, treatment with levatol® should be discontinued.
+
+Patients Without History of Cardiac Failure: Continued depression of the myocardium with ß-blocking agents over a period of time can, in some cases, lead to cardiac failure. At the first evidence of heart failure, patients receiving levatol® should be given appropriate treatment, and the response should be closely observed. If cardiac failure continues despite adequate intervention with appropriate drugs, levatol® should be withdrawn (gradually, if possible).
+
+Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal: Hypersensitivity to catecholamines has been observed in patients who were withdrawn from therapy with ß-blocking agents; exacerbation of angina and, in some cases, myocardial infarction have occurred after abrupt discontinuation of such therapy. When discontinuing levatol®, particularly in patients with ischemic heart disease, the dosage should be reduced gradually over a period of 1 to 2 weeks and the patient should be monitored carefully. If angina becomes more pronounced or acute coronary insufficiency develops, administration of levatol® should be reinstated promptly, at least on a temporary basis, and appropriate measures should be taken for the management of unstable angina. Patients should be warned against interruption or discontinuation of therapy without the physician’s advice. Because coronary artery disease is common and may not be recognized, it may not be prudent to discontinue levatol® abruptly, even in patients who are being treated only for hypertension.
+
+Nonallergic Bronchospasm (eg, chronic bronchitis,emphysema): levatol® is contraindicated in bronchial asthma. In general, patients with bronchospastic diseases should not receive ß-blockers. levatol® should be administered with caution because it may block bronchodilation produced by endogenous catecholamine stimulation of ß-2 receptors.
+
+Major Surgery: Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes Mellitus and Hypoglycemia: Beta-adrenergic receptor blockade may prevent the appearance of signs and symptoms of acute hypoglycemia, such as tachycardia and blood pressure changes. This is especially important in patients with labile diabetes. Beta-blockade also reduces the release of insulin in response to hyperglycemia; therefore, it may be necessary to adjust the dose of hypoglycemic drugs. Beta-adrenergic blockade may also impair the homeostatic response to hypoglycemia; in that event, the spontaneous recovery from hypoglycemia may be delayed during treatment with ß-adrenergic receptor antagonists.
+
+Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs (eg, tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of ß-adrenergic receptor blockers that might precipitate a thyroid storm.
+
+PRECAUTIONS
+
+Information for Patients:
+
+Patients, especially those with evidence of coronary artery insufficiency, should be warned against interruption or discontinuation of levatol® without the physician’s advice. Although cardiac failure rarely occurs in properly selected patients, those being treated with ß-adrenergic receptor antagonists should be advised of the symptoms of heart failure and to report such symptoms immediately, should they develop.
+
+Drug Interactions:
+
+levatol® has been used in combination with hydrochlorothiazide in at least 100 patients without unexpected adverse reactions.
+
+In one study, the combination of penbutolol and alcohol increased the number of errors in the eye-hand psychomotor function test.
+
+Penbutolol increases the volume of distribution of lidocaine in normal subjects. This could result in a requirement for higher loading doses of lidocaine.
+
+Cimetidine has no effect on the clearance of penbutolol. The major metabolite of penbutolol is a glucuronide, and it has been shown that cimetidine does not inhibit glucuronidation.
+
+Synergistic hypotensive effects, bradycardia, and arrhythmias have been reported in some patients receiving beta-adrenergic blocking agents when an oral calcium antagonist was added to the treatment regimen.
+
+Generally, levatol® should not be used in patients receiving catecholamine-depleting drugs.
+
+Digoxin:
+
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+Anesthesia:
+
+Care should be taken when using anesthetic agents that depress the myocardium, such as ether, cyclopropane, and trichloroethylene, and it is prudent to use the lowest possible dose of levatol®. levatol®, like other ß-blockers, is a competitive inhibitor of ß-receptor agonists, and its effect on the heart can be reversed by cautious administration of such agents (eg, dobutamine or isoproterenol — see OVERDOSAGE). Manifestations of excessive vagal tone (eg, profound bradycardia, hypotension) may be corrected with atropine 1 to 3 mg IV in divided doses.
+
+Risk of Anaphylactic Reaction:
+
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+DOSAGE AND ADMINISTRATION
+
+The usual starting and maintenance dose of levatol®, used alone or in combination with other antihypertensive agents, such as thiazide-type diuretics, is 20 mg given once daily.
+
+Doses of 40 mg and 80 mg have been well-tolerated but have not been shown to give a greater antihypertensive effect. The full effect of a 20- or 40-mg dose is seen by the end of 2 weeks. A dose of 10 mg also lowers blood pressure, but the full effect is not seen for 4 to 6 weeks

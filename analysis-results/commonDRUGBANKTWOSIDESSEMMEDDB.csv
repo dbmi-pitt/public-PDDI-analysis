@@ -1,0 +1,5 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00575-http://bio2rdf.org/drugbank:DB00458    object:Imipramine precipitant: Clonidine 	Drugbank Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00321-http://bio2rdf.org/drugbank:DB00656    object:Amitriptyline precipitant: Trazodone 	Drugbank Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00321-http://bio2rdf.org/drugbank:DB00575    object:Clonidine precipitant: Amitriptyline 	Drugbank Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00502    object:Clozapine precipitant: Haloperidol 	Drugbank Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 

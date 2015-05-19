@@ -1,0 +1,95 @@
+Drug Label for drug brand Letairis, containing AMBRISENTAN.
+
+BOXED WARNING SECTION
+
+
+Do not administer LETAIRIS to a pregnant woman because it may cause fetal harm. LETAIRIS is very likely to produce serious birth defects if used by pregnant women, as this effect has been seen consistently when it is administered to animals see Contraindications (4.1).
+Pregnancy must therefore be excluded before the initiation of treatment with LETAIRIS and prevented during treatment and for one month after stopping treatment by the use of two acceptable methods of contraception unless the patient has had a tubal sterilization or chooses to use a Copper T 380A IUD or LNg 20 IUS, in which case no additional contraception is needed. Obtain monthly pregnancy tests see Warnings and Precautions (5.1).
+Because of the risk of birth defects, LETAIRIS is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the LETAIRIS Education and Access Program (LEAP). As a component of the LETAIRIS REMS, prescribers, patients, and pharmacies must enroll in the program see Warnings and Precautions (5.1).
+WARNING: CONTRAINDICATED IN PREGNANCY
+See full prescribing information for complete boxed warning.
+<list>
+<item>
+<item>Do not administer LETAIRIS to a pregnant woman because it may cause fetal harm (4.1).
+<item>
+<item>Exclude pregnancy before the start of treatment (2.2).
+<item>
+<item>Prevent pregnancy during treatment and for one month after stopping treatment by the use of two acceptable methods of contraception unless the patient has had a tubal sterilization or chooses to use a Copper T 380A IUD or LNg 20 IUS, in which case no additional contraception is needed (5.1).
+<item>
+<item>LETAIRIS is available only through a restricted program called the LETAIRIS Education and Access Program (LEAP). Prescribers, patients, and pharmacies must enroll in the program (5.1)
+<item>
+</list>
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+Healthcare professionals who prescribe LETAIRIS must enroll in the restricted program called LEAP and must comply with the required monitoring to ensure safe use of LETAIRIS see Warnings and Precautions (5.1).
+<list>
+<item>
+<item>Initiate treatment at 5 mg once daily with or without food, and consider increasing the dose to 10 mg once daily if 5 mg is tolerated (2.1).
+<item>
+<item>Tablets should not be split, crushed, or chewed (2.1).
+<item>
+</list>
+Initiate treatment at 5 mg once daily, and consider increasing the dose to 10 mg once daily if 5 mg is tolerated.
+Tablets may be administered with or without food. Tablets should not be split, crushed, or chewed. Doses higher than 10 mg once daily have not been studied in patients with pulmonary arterial hypertension (PAH).
+Initiate treatment with LETAIRIS in women of childbearing potential only after a negative pregnancy test see Contraindications (4.1) and Warnings and Precautions (5.1).
+
+CONTRAINDICATIONS SECTION
+
+Pregnancy (4.1)
+Idiopathic Pulmonary Fibrosis (4.2)
+LETAIRIS may cause fetal harm when administered to a pregnant woman. Ambrisentan was teratogenic at oral doses of 15 mg/kg/day in rats and 7 mg/kg/day in rabbits, it was not studied at lower doses. In both species, there were abnormalities of the lower jaw and hard and soft palate, malformation of the heart and great vessels, and failure of formation of the thymus and thyroid. Teratogenicity is a class effect of endothelin receptor antagonists. There are no data on the use of LETAIRIS in pregnant women.
+LETAIRIS is contraindicated in women who are or may become pregnant. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus. Pregnancy must be excluded before the initiation of treatment with LETAIRIS and prevented during treatment and for one month after stopping treatment see Dosage and Administration (2.2), Warnings and Precautions (5.1).
+LETAIRIS is contraindicated in patients with Idiopathic Pulmonary Fibrosis (IPF) including IPF patients with pulmonary hypertension (WHO Group 3) see Clinical Studies (14.3).
+
+WARNINGS AND PRECAUTIONS SECTION
+
+<list>
+<item>
+<item>Fluid retention may require intervention (5.2).
+<item>
+<item>If patients develop acute pulmonary edema during initiation of therapy with LETAIRIS, consider underlying pulmonary veno-occlusive disease and discontinue treatment if necessary (5.3).
+<item>
+<item>Decreases in sperm count have been observed in patients taking endothelin receptor antagonists (5.4).
+<item>
+<item>Decreases in hemoglobin have been observed within the first few weeks, measure hemoglobin at initiation, at 1 month, and periodically thereafter (5.5).
+<item>
+</list>
+Because of the risk of birth defects, LETAIRIS is available only through a restricted program called the LETAIRIS Education and Access Program (LEAP).
+Required components of LEAP:
+<list>
+<item>
+<item>Healthcare professionals who prescribe LETAIRIS must complete the LEAP Prescriber Enrollment and Agreement Form, enroll in the program, and comply with the REMS requirements.
+<item>
+<item>To receive LETAIRIS, all patients must complete a patient enrollment form and be re-enrolled annually by their prescriber. For women of childbearing potential, (1) a pregnancy test must be ordered and reviewed by the prescriber prior to initiation of LETAIRIS treatment and monthly during treatment, (2) she must agree to be contacted prior to each shipment to confirm that a pregnancy test was completed, (3) she must agree to be counseled on the requirements of the REMS program and the risks of LETAIRIS, and (4) she must agree to be contacted by Gilead if she becomes pregnant while on LETAIRIS or within 30 days of treatment discontinuation.
+<item>
+<item>Pharmacies that dispense LETAIRIS must enroll in the program and agree to comply with the REMS requirements.
+<item>
+</list>
+Further information is available at www.letairisrems.com or 1-866-664-LEAP (5327).
+Peripheral edema is a known class effect of endothelin receptor antagonists, and is also a clinical consequence of PAH and worsening PAH. In the placebo-controlled studies, there was an increased incidence of peripheral edema in patients treated with doses of 5 or 10 mg LETAIRIS compared to placebo see Adverse Reactions (6.1). Most edema was mild to moderate in severity, and it occurred with greater frequency and severity in elderly patients.
+In addition, there have been post-marketing reports of fluid retention in patients with pulmonary hypertension, occurring within weeks after starting LETAIRIS. Patients required intervention with a diuretic, fluid management, or, in some cases, hospitalization for decompensating heart failure.
+If clinically significant fluid retention develops, with or without associated weight gain, further evaluation should be undertaken to determine the cause, such as LETAIRIS or underlying heart failure, and the possible need for specific treatment or discontinuation of LETAIRIS therapy.
+If patients develop acute pulmonary edema during initiation of therapy with vasodilating agents such as LETAIRIS, the possibility of pulmonary veno-occlusive disease should be considered, and if confirmed LETAIRIS should be discontinued.
+In a 6-month study of another endothelin receptor antagonist, bosentan, 25 male patients with WHO functional class III and IV PAH and normal baseline sperm count were evaluated for effects on testicular function. There was a decline in sperm count of at least 50% in 25% of the patients after 3 or 6 months of treatment with bosentan. One patient developed marked oligospermia at 3 months and the sperm count remained low with 2 follow-up measurements over the subsequent 6 weeks. Bosentan was discontinued and after 2 months the sperm count had returned to baseline levels. In 22 patients who completed 6 months of treatment, sperm count remained within the normal range and no changes in sperm morphology, sperm motility, or hormone levels were observed. Based on these findings and preclinical data see Nonclinical Toxicology (13.1) from endothelin receptor antagonists, it cannot be excluded that endothelin receptor antagonists such as LETAIRIS have an adverse effect on spermatogenesis.
+Decreases in hemoglobin concentration and hematocrit have followed administration of other endothelin receptor antagonists and were observed in clinical studies with LETAIRIS. These decreases were observed within the first few weeks of treatment with LETAIRIS, and stabilized thereafter. The mean decrease in hemoglobin from baseline to end of treatment for those patients receiving LETAIRIS in the 12-week placebo-controlled studies was 0.8 g/dL.
+Marked decreases in hemoglobin ( 15% decrease from baseline resulting in a value below the lower limit of normal) were observed in 7% of all patients receiving LETAIRIS (and 10% of patients receiving 10 mg) compared to 4% of patients receiving placebo. The cause of the decrease in hemoglobin is unknown, but it does not appear to result from hemorrhage or hemolysis.
+In the long-term open-label extension of the two pivotal clinical studies, mean decreases from baseline (ranging from 0.9 to 1.2 g/dL) in hemoglobin concentrations persisted for up to 4 years of treatment.
+There have been postmarketing reports of decreases in hemoglobin concentration and hematocrit that have resulted in anemia requiring transfusion.
+Measure hemoglobin prior to initiation of LETAIRIS, at one month, and periodically thereafter. Initiation of LETAIRIS therapy is not recommended for patients with clinically significant anemia. If a clinically significant decrease in hemoglobin is observed and other causes have been excluded, consider discontinuing LETAIRIS.
+
+DRUG INTERACTIONS SECTION
+
+Multiple dose co-administration of ambrisentan and cyclosporine resulted in an approximately 2-fold increase in ambrisentan exposure in healthy volunteers, therefore, limit the dose of ambrisentan to 5 mg once daily when co-administered with cyclosporine see Clinical Pharmacology (12.3).
+Multiple dose co-administration of ambrisentan and cyclosporine resulted in an about 2-fold increase in ambrisentan exposure in healthy volunteers. When co-administered with cyclosporine, limit the dose to 5 mg once daily (7).
+
+DESCRIPTION SECTION
+
+<paragraph>
+<main>LETAIRIS is the brand name for ambrisentan, an endothelin receptor antagonist that is selective for the endothelin type-A (ETA) receptor. The chemical name of ambrisentan is (+)-(2S )-2- (4,6-dimethylpyrimidin-2-yl)oxy -3-methoxy-3,3-diphenylpropanoic acid. It has a molecular formula of C22H22N2O4 and a molecular weight of 378.42. It contains a single chiral center determined to be the (S ) configuration and has the following structural formula:
+<item>Figure 1 Ambrisentan Structural Formula
+<item>
+<item>Ambrisentan is a white to off-white, crystalline solid. It is a carboxylic acid with a pKa of 4.0. Ambrisentan is practically insoluble in water and in aqueous solutions at low pH. Solubility increases in aqueous solutions at higher pH. In the solid state ambrisentan is very stable, is not hygroscopic, and is not light sensitive.
+<item>LETAIRIS is available as 5 mg and 10 mg film-coated tablets for once daily oral administration. The tablets include the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate and microcrystalline cellulose. The tablets are film-coated with a coating material containing FD - C Red #40 aluminum lake, lecithin, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide. Each square, pale pink LETAIRIS tablet contains 5 mg of ambrisentan. Each oval, deep pink LETAIRIS tablet contains 10 mg of ambrisentan. LETAIRIS tablets are unscored.
+</paragraph>
+Chemical Structure

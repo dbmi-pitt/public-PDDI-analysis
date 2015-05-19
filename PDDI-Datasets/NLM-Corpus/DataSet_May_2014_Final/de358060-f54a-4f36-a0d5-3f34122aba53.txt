@@ -1,0 +1,108 @@
+Drug Label for drug brand Teveten HCT, containing Eprosartan Mesylate and Hydrochlorothiazide.
+
+
+WARNING: FETAL TOXICITY
+
+
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue TEVETEN HCT as soon as possible.
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See WARNINGS: Fetal Toxicity
+ <item>
+ </list>
+
+
+
+CONTRAINDICATIONS
+
+TEVETEN HCT is contraindicated in patients who are hypersensitive to this product or any of its components. Because of the hydrochlorothiazide component, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
+Do not co-administer aliskiren with TEVETEN HCT in patients with diabetes (see PRECAUTIONS, Drug Interactions ).
+
+
+WARNINGS
+
+
+Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue TEVETEN HCT as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examination to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue TEVETEN HCT, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to TEVETEN HCT for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use ).
+Eprosartan mesylate, alone or in combination with hydrochlorothiazide, has been shown to produce maternal and fetal toxicities (maternal and fetal mortality, low maternal body weight and food consumption, resorptions, abortions and litter loss) in pregnant rabbits given oral doses as low as 10 mg eprosartan/kg/day and 3 mg hydrochlorothiazide/kg/day. No maternal or fetal adverse effects were observed in rabbits at 3 mg eprosartan/kg/day alone or in combination with 1 mg/kg/day of hydrochlorothiazide, this oral dose yielded a systemic exposure (AUC) to unbound eprosartan approximately equal to the human systemic exposure achieved with the dose of eprosartan mesylate contained in the maximum recommended human dose of TEVETEN HCT (600 mg eprosartan/day). No adverse effects on in utero or postnatal development and maturation of offspring were observed when eprosartan mesylate was administered to pregnant rats at oral doses up to 1000 mg eprosartan/kg/day (the 1000 mg eprosartan/kg/day dose in non-pregnant rats yielded systemic exposure to unbound eprosartan approximately 0.8 times the exposure achieved in humans given 600 mg/day). Thiazides cross the placental barrier and appear in cord blood. There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+
+Hypotension in Volume- and/or Salt-Depleted Patients
+
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with diuretics), symptomatic hypotension may occur. These conditions should be corrected prior to administration of TEVETEN HCT, or the treatment should start under close medical supervision. If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+Hydrochlorothiazide
+
+
+
+
+Impaired Hepatic Function: Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+Hypersensitivity Reactions: Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+Systemic Lupus Erythematosus: Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus. Lithium Interaction: Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium ).
+
+
+PRECAUTIONS
+
+
+General
+
+Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy. Thiazides have been shown to increase the urinary excretion of magnesium, this may result in hypomagnesemia. Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function. In diabetic patients, dosage adjustment of insulin or oral hypoglycemic agents may be required. Hyperglycemia may occur with thiazide diuretics. Thus, latent diabetes mellitus may become manifest during thiazide therapy. The antihypertensive effects of hydrochlorothiazide may be enhanced in postsympathectomy patients.
+
+Electrolyte Imbalance
+
+Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals. All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy. Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability). Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis. Dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction, rather than administration of salt except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+
+Risk of Renal Impairment
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function have been reported in susceptible individuals treated with angiotensin II antagonists, in some patients, these changes in renal function were reversible upon discontinuation of therapy. In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin-converting enzyme inhibitors and angiotensin II receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death. TEVETEN HCT would be expected to behave similarly. In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or BUN have been reported. Similar effects have been reported with angiotensin II antagonists, in some patients, these effects were reversible upon discontinuation of therapy. Thiazides should be used with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function. If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
+
+Information for Patients
+
+Pregnancy
+Female patients of childbearing age should be told about the consequences of exposure to TEVETEN HCT during pregnancy. Discuss treatment options with women planning to become pregnant. Patients should be asked to report pregnancies to their physicians as soon as possible.
+Symptomatic Hypotension: A patient receiving TEVETEN HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician. The patient should be told that if syncope occurs, TEVETEN HCT should be discontinued until the physician has been consulted. All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
+Potassium Supplements: A patient receiving TEVETEN HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician (see PRECAUTIONS, Drug Interactions, Eprosartan Mesylate ).
+
+Drug Interactions
+
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on TEVETEN HCT and other agents that affect the RAS.
+Do not co-administer aliskiren with TEVETEN HCT in patients with diabetes. Avoid use of aliskiren with TEVETEN HCT in patients with renal impairment (GFR 60 ml/min).
+Eprosartan Mesylate: Eprosartan has been shown to have no effect on the pharmacokinetics of digoxin and the pharmacodynamics of warfarin and glyburide. Thus, no dosing adjustments are necessary during concomitant use with these agents. Because eprosartan is not metabolized by the cytochrome P450 system, inhibitors of CYP450 enzyme would not be expected to affect its metabolism, and ketoconazole and fluconazole, potent inhibitors of CYP3A and 2C9, respectively, have been shown to have no effect on eprosartan pharmacokinetics. Ranitidine also has no effect on eprosartan pharmacokinetics. Eprosartan (up to 400 mg b.i.d. or 800 mg q.d.) doses have been safely used concomitantly with a thiazide diuretic (hydrochlorothiazide). Eprosartan doses of up to 300 mg b.i.d. have been safely used concomitantly with sustained-release calcium channel blockers (sustained-release nifedipine) with no clinically significant adverse interactions. As with other drugs that block angiotensin II or its effects, concomitant use of potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements or salt substitutes containing potassium may lead to increases in serum potassium (see PRECAUTIONS, Information for Patients, Potassium Supplements ).
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including eprosartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving eprosartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including eprosartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+Hydrochlorothiazide: When administered concurrently the following drugs may interact with thiazide diuretics: Alcohol, barbiturates, or narcotics potentiation of orthostatic hypotension may occur. Antidiabetic drug (oral agents and insulin) dosage adjustment of the antidiabetic drug may be required. Other antihypertensive drugs additive effect or potentiation. Cholestyramine and colestipol resins Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively. Corticosteroids, ACTH intensified electrolyte depletion, particularly hypokalemia. Pressor amines (e.g., norepinephrine) possible decreased response to pressor amines but not sufficient to preclude their use. Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) possible increased responsiveness to the muscle relaxant. Lithium should not generally be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with TEVETEN HCT. Nonsteroidal Anti-Inflammatory Drugs in some patients, the administration of a nonsteroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when TEVETEN HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No carcinogenicity studies have been conducted with eprosartan mesylate in combination with hydrochlorothiazide. Eprosartan mesylate was not carcinogenic in dietary restricted rats or ad libitum fed mice dosed at 600 mg and 2000 mg eprosartan/kg/day, respectively, for up to 2 years. In male and female rats, the systemic exposure (AUC) to unbound eprosartan at the dose evaluated was only approximately 25% of the exposure achieved in humans given TEVETEN HCT. In mice, the systemic exposure (AUC) to unbound eprosartan was approximately 35 times the exposure achieved in humans given TEVETEN HCT. Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day). The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice. Eprosartan mesylate was not mutagenic in vitro in mammalian cells (mouse lymphoma assay). Eprosartan mesylate alone or in combination with hydrochlorothiazide was not mutagenic in vitro in bacteria (Ames test) and did not cause structural chromosomal damage in vivo (mouse micronucleus assay). In human peripheral lymphocytes in vitro, eprosartan mesylate in combination with hydrochlorothiazide was positive for clastogenicity with and without metabolic activation. In the same assay, eprosartan mesylate alone was associated with polyploidy but there was only equivocal evidence of structural chromosomal damage. Hydrochlorothiazide was not genotoxic in vitro in the Ames test and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive test results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and Mouse Lymphoma Cell (mutagenicity) assays and in the Aspergillus nidulans non-disjunction assay. No fertility studies have been conducted with eprosartan mesylate in combination with hydrochlorothiazide. Eprosartan mesylate had no adverse effects on the reproductive performance of male or female rats at oral doses up to 1000 mg eprosartan/kg/day. Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to conception and throughout gestation.
+
+Nursing Mothers
+
+Eprosartan is excreted in animal milk, it is not known whether eprosartan is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from eprosartan, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother. Thiazides appear in human milk. Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+ <paragraph>
+ <main>Neonates with a history of in utero exposure to TEVETEN HCT:
+ <item>If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+ <item>Safety and effectiveness in pediatric patients have not been established.
+ </paragraph>
+
+Geriatric Use
+
+In the controlled clinical trials where patients received eprosartan/hydrochlorothiazide combination therapy, 15% to 33% of the patients were 65 years of age or greater. There was no difference in the effect of TEVETEN HCT 600/12.5 mg treatment according to age. However, following single oral dose administration of eprosartan to healthy elderly men, (aged 68 to 78 years), AUC, Cmax, and Tmax eprosartan values increased, on average, by approximately twofold, compared to healthy young men (aged 20 to 38 years) who received the same dose. (See Pharmacokinetics, Special Populations).
+

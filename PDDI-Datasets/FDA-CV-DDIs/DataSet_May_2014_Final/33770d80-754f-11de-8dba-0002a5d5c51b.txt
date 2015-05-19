@@ -1,0 +1,102 @@
+BENICAR (olmesartan medoxomil) tablet, film coated 
+
+Benicar is indicated for the treatment of hypertension, to lower blood pressure.
+
+4 CONTRAINDICATIONS
+
+Do not co-administer aliskiren with Benicar in patients with diabetes [see Drug Interactions (7 )]. 
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Benicar as soon as possible [see Use in specific Populations (8.1)].
+
+5.2 Morbidity in Infants
+
+Children <1 year of age must not receive Benicar for hypertension. Drugs that act directly on the renin-angiotensin aldosterone system (RAAS) can have effects on the development of immature kidneys [see Use in Specific Populations (8.4)].
+
+5.3 Hypotension in Volume- or Salt-Depleted Patients
+
+In patients with an activated renin-angiotensin aldosterone system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may be anticipated after initiation of treatment with Benicar. Initiate treatment under close medical supervision. If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline [see Dosage and Administration (2.1)]. A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.4 Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with Benicar. In patients whose renal function may depend upon the activity of the renin angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death. Similar results may be anticipated in patients treated with Benicar [see Dosage and Administration (2.1), Drug Interactions (7), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported. There has been no long-term use of Benicar in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
+
+5.5 Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation. Intestinal biopsies of patients often demonstrated villous atrophy. If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies. Consider discontinuation of Benicar in cases where no other etiology is identified.
+
+6 ADVERSE REACTIONS
+
+6.1 Clinical Trials Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+Adult Hypertension
+Benicar has been evaluated for safety in more than 3825 patients/subjects, including more than 3275 patients treated for hypertension in controlled trials. This experience included about 900 patients treated for at least 6 months and more than 525 for at least 1 year. Treatment with Benicar was well tolerated, with an incidence of adverse reactions similar to placebo. Events generally were mild, transient and had no relationship to the dose of Benicar.
+
+The overall frequency of adverse reactions was not dose-related. Analysis of gender, age and race groups demonstrated no differences between Benicar and placebo-treated patients. The rate of withdrawals due to adverse reactions in all trials of hypertensive patients was 2.4% (i.e., 79/3278) of patients treated with Benicar and 2.7% (i.e., 32/1179) of control patients. In placebo-controlled trials, the only adverse reaction that occurred in more than 1% of patients treated with Benicar and at a higher incidence versus placebo was dizziness (3% vs. 1%).
+
+The following adverse reactions occurred in placebo-controlled clinical trials at an incidence of more than 1% of patients treated with Benicar, but also occurred at about the same or greater incidence in patients receiving placebo: back pain, bronchitis, creatine phosphokinase increased, diarrhea, headache, hematuria, hyperglycemia, hypertriglyceridemia, influenza-like symptoms, pharyngitis, rhinitis and sinusitis.
+
+The incidence of cough was similar in placebo (0.7%) and Benicar (0.9%) patients.
+
+Other potentially important adverse reactions that have been reported with an incidence of greater than 0.5%, whether or not attributed to treatment, in the more than 3100 hypertensive patients treated with Benicar monotherapy in controlled or open-label trials are listed below.
+Body as a Whole: chest pain, peripheral edema
+Central and Peripheral Nervous System: vertigo
+Gastrointestinal: abdominal pain, dyspepsia, gastroenteritis, nausea
+Heart Rate and Rhythm Disorders: tachycardia
+Metabolic and Nutritional Disorders: hypercholesterolemia, hyperlipemia, hyperuricemia
+Musculoskeletal: arthralgia, arthritis, myalgia
+Skin and Appendages: rash
+
+Facial edema was reported in five patients receiving Benicar. Angioedema has been reported with angiotensin II antagonists.
+
+Laboratory Test Findings: In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Benicar.
+Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g/dL and 0.3 volume percent, respectively) were observed.
+
+Liver Function Tests: Elevations of liver enzymes and/or serum bilirubin were observed infrequently. Five patients (0.1%) assigned to Benicar and one patient (0.2%) assigned to placebo in clinical trials were withdrawn because of abnormal liver chemistries (transaminases or total bilirubin). Of the five Benicar patients, three had elevated transaminases, which were attributed to alcohol use, and one had a single elevated bilirubin value, which normalized while treatment continued.
+
+Pediatric Hypertension
+No relevant differences were identified between the adverse experience profile for pediatric patients aged 1 to16 years and that previously reported for adult patients.
+
+6.2 Post-Marketing Experience
+
+The following adverse reactions have been reported in post-marketing experience. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Body as a Whole: Asthenia, angioedema, anaphylactic reactions
+Gastrointestinal: Vomiting, sprue-like enteropathy [see Warnings and Precautions (5.5)]
+Metabolic and Nutritional Disorders: Hyperkalemia
+Musculoskeletal: Rhabdomyolysis
+Urogenital System: Acute renal failure, increased blood creatinine levels
+Skin and Appendages: Alopecia, pruritus, urticaria
+
+7 DRUG INTERACTIONS
+
+No significant drug interactions were reported in studies in which Benicar was co-administered with digoxin or warfarin in healthy volunteers.
+
+The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
+
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on Benicar and other agents that affect the RAS.
+
+Do not co-administer aliskiren with Benicar in patients with diabetes [see Contraindications (4)]. Avoid use of aliskiren with Benicar in patients with renal impairment (GFR <60 ml/min).
+
+Colesevelam hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan. Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect. Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
+
