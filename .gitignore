@@ -1,0 +1,12 @@
+analysis-results/CombinedDatasetConservative.csv.zip
+analysis-results/CombinedDatasetNotConservative.csv.zip
+PDDI-Datasets/Kegg/kegg-drug-file-09282013.txt
+PDDI-Datasets/Kegg/KEGG-Drugs
+PDDI-Datasets/Kegg/Kegg-drugs-7212014.txt
+PDDI-Datasets/DrugBank/drugbank.xml.zip
+PDDI-Datasets/Twosides/twosides-ddis.pickle
+PDDI-Datasets/SemMedDB/umls-cui-to-rxnorm-rxcui-march2014.txt
+PDDI-Datasets/Ndf-rt/UNIIs\ 10Sept2013\ Names.txt
+pickle-data/twosides-ddis.pickle
+pickle-data/kegg-ddis.pickle
+terminology-mappings/PDDI_Databases_Data_BackUp.zip
