@@ -413,26 +413,64 @@ def runBioinformaticsSourceOverlap():
     analyzeThreeDataSetOverlap("DRUGBANK",DRUGBANK_L,"TWOSIDES",TWOSIDES_L,"SEMMEDDB",SEMMEDDB_L) 
    
 
-def runWorldVistaOverlap():
-      
-    NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_OR)  
+def runWorldVistaOverlap_OR_1():      
+    NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_OR)      
+    DRUGBANK_L = loadPickle(DRUGBANK_PDDI_FILE)
+
     WORLDVISTA_L = loadPickle(WORLDVISTA_PDDI_FILE_INCHI_OR) 
-      
-    #NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_AND)  
-    #WORLDVISTA_L = loadPickle(WORLDVISTA_PDDI_FILE_INCHI_AND)      
-    DRUGBANK_L = loadPickle(DRUGBANK_PDDI_FILE)   
             
     #Sources Analysis  
     analyzeThreeDataSetOverlap("NDFRT",NDFRT_L,"WORLDVISTA",WORLDVISTA_L,"DRUGBANK",DRUGBANK_L) 
     analyzeTwoDataSetOverlap("NDFRT",NDFRT_L,"WORLDVISTA",WORLDVISTA_L) 
-    analyzeTwoDataSetOverlap("WORLDVISTA",WORLDVISTA_L,"DRUGBANK",DRUGBANK_L) 
+    analyzeTwoDataSetOverlap("WORLDVISTA",WORLDVISTA_L,"DRUGBANK",DRUGBANK_L)
+
+def runWorldVistaOverlap_AND_1():   
+    NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_AND)  
+    DRUGBANK_L = loadPickle(DRUGBANK_PDDI_FILE)   
+
+    WORLDVISTA_L = loadPickle(WORLDVISTA_PDDI_FILE_INCHI_AND)
+        
+    #Sources Analysis  
+    analyzeThreeDataSetOverlap("NDFRT",NDFRT_L,"WORLDVISTA",WORLDVISTA_L,"DRUGBANK",DRUGBANK_L) 
+    analyzeTwoDataSetOverlap("NDFRT",NDFRT_L,"WORLDVISTA",WORLDVISTA_L) 
+    analyzeTwoDataSetOverlap("WORLDVISTA",WORLDVISTA_L,"DRUGBANK",DRUGBANK_L)
+
+def runWorldVistaOverlap_OR_2():
+    ONCHIGHPRIORITY_L = loadPickle(ONCHIGHPRIORITY_PDDI_FILE)  
+    ONCNONINTERUPTIVE_L = loadPickle(ONCNONINTERUPTIVE_PDDI_FILE)
+    CREDIBLEMEDS_L = loadPickle(CREDIBLEMEDS_PDDI_FILE)
+    
+    WORLDVISTA_L = loadPickle(WORLDVISTA_PDDI_FILE_INCHI_OR)
+                
+    #Sources Analysis
+    analyzeThreeDataSetOverlap("ONCHIGHPRIORITY",ONCHIGHPRIORITY_L, "CREDIBLEMEDS", CREDIBLEMEDS_L, "WORLDVISTA", WORLDVISTA_L)
+    analyzeTwoDataSetOverlap("ONCHIGHPRIORITY",ONCHIGHPRIORITY_L, "WORLDVISTA", WORLDVISTA_L)
+    analyzeTwoDataSetOverlap("CREDIBLEMEDS", CREDIBLEMEDS_L, "WORLDVISTA", WORLDVISTA_L)
+    analyzeTwoDataSetOverlap("ONCNONINTERUPTIVE", ONCNONINTERUPTIVE_L, "WORLDVISTA", WORLDVISTA_L)
+
+def runWorldVistaOverlap_AND_2():
+    ONCHIGHPRIORITY_L = loadPickle(ONCHIGHPRIORITY_PDDI_FILE)  
+    ONCNONINTERUPTIVE_L = loadPickle(ONCNONINTERUPTIVE_PDDI_FILE)
+    CREDIBLEMEDS_L = loadPickle(CREDIBLEMEDS_PDDI_FILE)
+    
+    WORLDVISTA_L = loadPickle(WORLDVISTA_PDDI_FILE_INCHI_AND)
+                
+    #Sources Analysis
+    analyzeThreeDataSetOverlap("ONCHIGHPRIORITY",ONCHIGHPRIORITY_L, "CREDIBLEMEDS", CREDIBLEMEDS_L, "WORLDVISTA", WORLDVISTA_L)
+    analyzeTwoDataSetOverlap("ONCHIGHPRIORITY",ONCHIGHPRIORITY_L, "WORLDVISTA", WORLDVISTA_L)
+    analyzeTwoDataSetOverlap("CREDIBLEMEDS", CREDIBLEMEDS_L, "WORLDVISTA", WORLDVISTA_L)
+    analyzeTwoDataSetOverlap("ONCNONINTERUPTIVE", ONCNONINTERUPTIVE_L, "WORLDVISTA", WORLDVISTA_L) 
     
 if __name__ == "__main__": 
     
      #runClinicalSourceOverlap()
      #runNLPSourceOverlap()
      #runBioinformaticsSourceOverlap()
-     runWorldVistaOverlap()
+     runWorldVistaOverlap_OR_1()
+     runWorldVistaOverlap_OR_2()
+     
+     #runWorldVistaOverlap_AND_1()
+     #runWorldVistaOverlap_AND_2()
      
       
 
