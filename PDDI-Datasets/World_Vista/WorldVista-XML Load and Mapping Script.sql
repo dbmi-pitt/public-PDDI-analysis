@@ -5,14 +5,14 @@
 
 	--LOADs WorldVista Table data from an XML FILE
 	--drop table [PDDI_Databases].[dbo].WorldVistaRawXml
-	 SELECT XmlContent
-	 INTO [PDDI_Databases].[dbo].WorldVistaRawXml
-	 FROM (SELECT *    
-		  FROM OPENROWSET (BULK 'E:\Research\BioInformatics\Datasets\WorldVista\all_eng_tables2015-v3\all_eng_tables2015.xml', SINGLE_CLOB) 
-	 AS XmlContent) AS R(XmlContent)
+	-- SELECT XmlContent
+	-- INTO [PDDI_Databases].[dbo].WorldVistaRawXml
+	-- FROM (SELECT *    
+	--	  FROM OPENROWSET (BULK 'E:\Research\BioInformatics\Datasets\WorldVista\all_eng_tables2015-v3\all_eng_tables2015.xml', SINGLE_CLOB) 
+	-- AS XmlContent) AS R(XmlContent)
 	  
 	--This is the Bulk imported XML in the DB table
-	SELECT [XmlContent]  FROM [PDDI_Databases].[dbo].[WorldVistaRawXml] 
+	-- SELECT [XmlContent]  FROM [PDDI_Databases].[dbo].[WorldVistaRawXml] 
 			
 	-- XML Format Sample 
 	--<?xml version="1.0" encoding="utf-8" ?>
@@ -44,8 +44,8 @@
 	SELECT @xml2 = [XmlContent] FROM [PDDI_Databases].[dbo].WorldVistaRawXml 
 	--Insert DDIs into the Table
 	SELECT DISTINCT
-		    dsource.scol.value('(CLINICAL_SOURCE/text())[1]', 'varchar(50)') Clinical_Source
-		  ,dsource.scol.value('(SOURCE_FILE/text())[1]', 'varchar(50)') Source_File  	
+		   dsource.scol.value('(CLINICAL_SOURCE/text())[1]', 'varchar(50)') Clinical_Source
+		  ,dsource.scol.value('(SOURCE_FILE/text())[1]', 'varchar(2000)') Source_File  	
 		  ,drug1.d1col.value('(DRUG/@name)[1]', 'varchar(100)') Drug1_Name 
 		  ,drug1.d1col.value('(DRUG/@rxcui)[1]', 'varchar(50)')  Drug1_Rxcui   
 		  ,drug1.d1col.value('(DRUG/ATC/@code)[1]', 'varchar(50)')  Drug1_ATC1 	
@@ -77,14 +77,14 @@ GO
 
 
 -- LOADs WorldVista DDI groups data from XML
-  SELECT GroupsXmlContent
-	 INTO [PDDI_Databases].[dbo].WorldVistaGroupsRawXml
-	 FROM (SELECT *    
-		  FROM OPENROWSET (BULK 'E:\Dropbox\World_Vista\full-dataset-xml\all_eng_groups2015.xml', SINGLE_CLOB) 
-	     AS GroupsXmlContent) AS R(GroupsXmlContent)
+  -- SELECT GroupsXmlContent
+  --	 INTO [PDDI_Databases].[dbo].WorldVistaGroupsRawXml
+--	 FROM (SELECT *    
+--		  FROM OPENROWSET (BULK 'E:\Dropbox\World_Vista\full-dataset-xml\all_eng_groups2015.xml', SINGLE_CLOB) 
+--	     AS GroupsXmlContent) AS R(GroupsXmlContent)
 	  
   --This is the Bulk imported XML in the DB table
-  SELECT [GroupsXmlContent]  FROM [PDDI_Databases].[dbo].[WorldVistaGroupsRawXml] 
+--  SELECT [GroupsXmlContent]  FROM [PDDI_Databases].[dbo].[WorldVistaGroupsRawXml] 
 
 ---- Example data
 --- <CLASSES>
@@ -126,6 +126,7 @@ GO
 	FROM @xml2.nodes('/CLASSES/CLASS') doc(col) CROSS APPLY
 	     col.nodes('DRUG') AS drug(dcol) 
 
+GO
 -- (2133 row(s) affected)
 
 /********************************************************/
@@ -220,6 +221,7 @@ FROM (
   AND wv_groups2.Drug_Rxcui IS NOT NULL
 ) AS tmp
 
+GO
 -- (115741 row(s) affected) 
 
 
@@ -273,7 +275,8 @@ FROM (
 					   ) br2 ON br2.brand= b.d2_name
 	WHERE  (r1.DrugBank_CUI IS NOT NULL OR f1.drugbank_id IS NOT NULL OR sy1.drugbankid IS NOT NULL OR br1.drugbankid IS NOT NULL)
 			 AND (r2.DrugBank_CUI IS NOT NULL OR f2.drugbank_id IS NOT NULL OR sy2.drugbankid IS NOT NULL OR br2.drugbankid IS NOT NULL)  
-	--(51870 row(s) affected)
+GO	
+--(51870 row(s) affected)
 
 	-- We have to replace newlines with HTML break tags because of examples like the following
 	-- SELECT REPLACE(DDI_Description, char(10),'<BR>') FROM WorldVista_RxNormCodedDDIs WHERE d1_rxcui = '3098' AND d2_rxcui = '25287' 
@@ -285,7 +288,7 @@ FROM (
 			+'$'+ ISNULL([Drug_2_Name],'')   
 			+'$'+ ISNULL([Drug2_DrugbankID],'')    
 			+'$'+ ISNULL(DDI_Severity,'') 
-			+'$'+ ISNULL(Source_File,'')
+			+'$'+ REPLACE(ISNULL(Source_File,''), CHAR(10), '')
 			+'$'+ REPLACE(ISNULL(DDI_Description,''), CHAR(10), '<BR>')
 			+'$'+ REPLACE(ISNULL(DDI_Comment,''), CHAR(10), '<BR>') 
 			+'$' 		
@@ -350,7 +353,7 @@ FROM (
 			+'$'+ ISNULL([Drug_2_Name],'')   
 			+'$'+ ISNULL([Drug2_DrugbankID],'')    
 			+'$'+ ISNULL(DDI_Severity,'') 
-			+'$'+ ISNULL(Source_File,'')
+			+'$'+ REPLACE(ISNULL(Source_File,''), CHAR(10), '')
 			+'$'+ REPLACE(ISNULL(DDI_Description,''), CHAR(10), '<BR>')
 			+'$'+ REPLACE(ISNULL(DDI_Comment,''), CHAR(10), '<BR>')
 			+'$' 		
