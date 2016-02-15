@@ -1,7 +1,7 @@
 
 	--Script to Parse XML file containing All WorldVista files
 	--Added 2/4/2016 By Serkan modified by Rich Boyce
-	--Last Modified 2/11/2016
+	--Last Modified 2/15/2016
 
 	--LOADs WorldVista Table data from an XML FILE
 	--drop table [PDDI_Databases].[dbo].WorldVistaRawXml
@@ -46,21 +46,21 @@
 	SELECT DISTINCT
 		    dsource.scol.value('(CLINICAL_SOURCE/text())[1]', 'varchar(50)') Clinical_Source
 		  ,dsource.scol.value('(SOURCE_FILE/text())[1]', 'varchar(50)') Source_File  	
-		  ,drug1.d1col.value('(DRUG/@name)[1]', 'varchar(50)') Drug1_Name 
+		  ,drug1.d1col.value('(DRUG/@name)[1]', 'varchar(100)') Drug1_Name 
 		  ,drug1.d1col.value('(DRUG/@rxcui)[1]', 'varchar(50)')  Drug1_Rxcui   
-		  ,drug1.d1col.value('(CLASS/@name)[1]', 'varchar(50)')  Drug1_Class_Name
-		  ,drug1.d1col.value('(CLASS/@code)[1]', 'varchar(50)')  Drug1_Class_Code 
 		  ,drug1.d1col.value('(DRUG/ATC/@code)[1]', 'varchar(50)')  Drug1_ATC1 	
 		  ,drug1.d1col.value('(DRUG/ATC/@code)[2]', 'varchar(50)')  Drug1_ATC2 	
 		  ,drug1.d1col.value('(DRUG/ATC/@code)[3]', 'varchar(50)')  Drug1_ATC3 	
 		  ,drug1.d1col.value('(DRUG/ATC/@code)[4]', 'varchar(50)')  Drug1_ATC4	
-		  ,drug2.d2col.value('(DRUG/@name)[1]', 'varchar(50)')  Drug2_Name
+		  ,drug1.d1col.value('(CLASS/@name)[1]', 'varchar(200)')  Drug1_Class_Name
+		  ,drug1.d1col.value('(CLASS/@code)[1]', 'varchar(50)')  Drug1_Class_Code
+		  ,drug2.d2col.value('(DRUG/@name)[1]', 'varchar(100)')  Drug2_Name
 		  ,drug2.d2col.value('(DRUG/@rxcui)[1]', 'varchar(50)') Drug2_Rxcui	
 		  ,drug2.d2col.value('(DRUG/ATC/@code)[1]', 'varchar(50)') Drug2_ATC1 
 		  ,drug2.d2col.value('(DRUG/ATC/@code)[2]', 'varchar(50)') Drug2_ATC2 
 		  ,drug2.d2col.value('(DRUG/ATC/@code)[3]', 'varchar(50)') Drug2_ATC3 
 		  ,drug2.d2col.value('(DRUG/ATC/@code)[4]', 'varchar(50)') Drug2_ATC4 	  
-		  ,drug2.d2col.value('(CLASS/@name)[1]', 'varchar(50)') Drug2_Class_Name
+		  ,drug2.d2col.value('(CLASS/@name)[1]', 'varchar(200)') Drug2_Class_Name
 		  ,drug2.d2col.value('(CLASS/@code)[1]', 'varchar(50)') Drug2_Class_Code 
 		  ,doc.col.value('(DESCRIPTION/text())[1]', 'varchar(2000)') DDI_Description
 		  ,doc.col.value('(SEVERITY/text())[1]', 'varchar(2000)') DDI_Severity
@@ -73,10 +73,10 @@
 	    
 
 GO   
- 	
+-- (2846 row(s) affected)
+
 
 -- LOADs WorldVista DDI groups data from XML
-
   SELECT GroupsXmlContent
 	 INTO [PDDI_Databases].[dbo].WorldVistaGroupsRawXml
 	 FROM (SELECT *    
@@ -110,10 +110,10 @@ GO
 	SELECT @xml2 = [GroupsXmlContent]  FROM [PDDI_Databases].[dbo].[WorldVistaGroupsRawXml] 
 	--Insert data into a Table
 	SELECT DISTINCT
-		   doc.col.value('(SOURCE/CLINICAL_SOURCE/text())[1]', 'varchar(50)') Clinical_Source
-		  ,doc.col.value('(SOURCE/SOURCE_FILE/text())[1]', 'varchar(50)') Source_File  
+		   doc.col.value('(SOURCE/CLINICAL_SOURCE/text())[1]', 'varchar(1000)') Clinical_Source
+		  ,doc.col.value('(SOURCE/SOURCE_FILE/text())[1]', 'varchar(2000)') Source_File  
 		  	
-		  ,drug.dcol.value('(@name)[1]', 'varchar(50)') Drug_Name 
+		  ,drug.dcol.value('(@name)[1]', 'varchar(100)') Drug_Name 
 		  ,drug.dcol.value('(@rxnorm)[1]', 'varchar(50)')  Drug_Rxcui   
 		  ,drug.dcol.value('(ATC/@code)[1]', 'varchar(50)')  Drug1_ATC1 	
 		  ,drug.dcol.value('(ATC/@code)[2]', 'varchar(50)')  Drug1_ATC2 	
@@ -125,6 +125,8 @@ GO
 	INTO [PDDI_Databases].[dbo].WorldVista_DrugGroups
 	FROM @xml2.nodes('/CLASSES/CLASS') doc(col) CROSS APPLY
 	     col.nodes('DRUG') AS drug(dcol) 
+
+-- (2133 row(s) affected)
 
 /********************************************************/
 -- Create a table the is the union of:
@@ -218,6 +220,9 @@ FROM (
   AND wv_groups2.Drug_Rxcui IS NOT NULL
 ) AS tmp
 
+-- (115741 row(s) affected) 
+
+
 /********************************************************/
 --Get Mapping Results
 /*******************************************************/ 
@@ -270,6 +275,8 @@ FROM (
 			 AND (r2.DrugBank_CUI IS NOT NULL OR f2.drugbank_id IS NOT NULL OR sy2.drugbankid IS NOT NULL OR br2.drugbankid IS NOT NULL)  
 	--(51870 row(s) affected)
 
+	-- We have to replace newlines with HTML break tags because of examples like the following
+	-- SELECT REPLACE(DDI_Description, char(10),'<BR>') FROM WorldVista_RxNormCodedDDIs WHERE d1_rxcui = '3098' AND d2_rxcui = '25287' 
 	
 	--Get PDDIs Mapped to Drugbank - 44785 PDDIs
 	SELECT DISTINCT		 
@@ -279,8 +286,8 @@ FROM (
 			+'$'+ ISNULL([Drug2_DrugbankID],'')    
 			+'$'+ ISNULL(DDI_Severity,'') 
 			+'$'+ ISNULL(Source_File,'')
-			+'$'+ ISNULL(DDI_Description,'')
-			+'$'+ ISNULL(DDI_Comment,'') 
+			+'$'+ REPLACE(ISNULL(DDI_Description,''), CHAR(10), '<BR>')
+			+'$'+ REPLACE(ISNULL(DDI_Comment,''), CHAR(10), '<BR>') 
 			+'$' 		
 	FROM #PDDIs_OR b 
 	WHERE [Drug1_DrugbankID] IS NOT NULL AND [Drug2_DrugbankID]IS NOT NULL
@@ -344,8 +351,8 @@ FROM (
 			+'$'+ ISNULL([Drug2_DrugbankID],'')    
 			+'$'+ ISNULL(DDI_Severity,'') 
 			+'$'+ ISNULL(Source_File,'')
-			+'$'+ ISNULL(DDI_Description,'')
-			+'$'+ ISNULL(DDI_Comment,'') 
+			+'$'+ REPLACE(ISNULL(DDI_Description,''), CHAR(10), '<BR>')
+			+'$'+ REPLACE(ISNULL(DDI_Comment,''), CHAR(10), '<BR>')
 			+'$' 		
 	FROM #PDDIs_AND b 
 	WHERE [Drug1_DrugbankID] IS NOT NULL AND [Drug2_DrugbankID]IS NOT NULL
