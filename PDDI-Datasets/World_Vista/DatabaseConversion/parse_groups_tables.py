@@ -1,11 +1,11 @@
-import os
+import os, codecs
 import sys
 import xml.etree.ElementTree as ET
 
 ENG_GROUPS2015_XML_V3_ID_CODES = "eng_groups2015_xml_v3.tsv"
-groups_outfile = open(ENG_GROUPS2015_XML_V3_ID_CODES, 'w')
+groups_outfile = codecs.open(ENG_GROUPS2015_XML_V3_ID_CODES, 'w', 'utf-8')
 
-groups_outfile.write("Drug Name\tRxNorm\tSource File\tClinical Source\tClass Name\tClass Code\n")
+groups_outfile.write(u"Drug Name\tRxNorm\tSource File\tClinical Source\tClass Name\tClass Code\n")
 atc_dict = {}
 
 for file in os.listdir("./eng_groups2015-xml-v3"):  
@@ -17,8 +17,8 @@ for file in os.listdir("./eng_groups2015-xml-v3"):
 
       # CLASS
       if(root.tag == 'CLASS'):
-        class_name = root.get('name')
-        class_code = root.get('code')
+        class_name = root.get('name').strip()
+        class_code = root.get('code').strip()
 
       for i in root.getchildren():
 
@@ -37,12 +37,12 @@ for file in os.listdir("./eng_groups2015-xml-v3"):
           if rxnorm is None:
             rxnorm = ''
 
-          groups_outfile.write("%s\t%s\t%s\t%s\t%s\t%s\n" % ((drug_name.upper()).rstrip('\n'), rxnorm.rstrip('\n'), source_file.rstrip('\n'), clinical_source.rstrip('\n'), class_name.rstrip('\n'), class_code.rstrip('\n')) )
+          groups_outfile.write(u"%s\t%s\t%s\t%s\t%s\t%s\n" % ((drug_name.upper()).rstrip('\n'), rxnorm.rstrip('\n'), source_file.rstrip('\n'), clinical_source.rstrip('\n'), class_name.rstrip('\n'), class_code.rstrip('\n')) )
 
           for j in i.getchildren():
             if(j.tag == 'ATC'):
-              atc_code = j.get('code')
-              atc_dict[atc_code.rstrip('\n') + "\t" + drug_name.upper()] = ""
+              atc_code = j.get('code').strip()
+              atc_dict[atc_code.strip().rstrip('\n') + "\t" + drug_name.upper()] = ""
     
 	
 groups_outfile.close()
@@ -52,9 +52,9 @@ groups_outfile.close()
 
 
 ENG_TABLES2015_XML_V5 = "eng_tables2015-xml-v5.tsv"
-tables_outfile = open(ENG_TABLES2015_XML_V5, 'w')
+tables_outfile = codecs.open(ENG_TABLES2015_XML_V5, 'w', 'utf-8')
 
-tables_outfile.write("Drug Interaction ID\tDrug 1 Name\tDrug 1 RxCUI\tDrug 1 Class Name\tDrug 1 Code\tDrug 2 Name\tDrug 2 RxCUI\tDrug 2 Class Name\tDrug 2 Code\tClinical Source\tSource File\tDescription\tSeverity\tComment\n")
+tables_outfile.write(u"Drug Interaction ID\tDrug 1 Name\tDrug 1 RxCUI\tDrug 1 Class Name\tDrug 1 Code\tDrug 2 Name\tDrug 2 RxCUI\tDrug 2 Class Name\tDrug 2 Code\tClinical Source\tSource File\tDescription\tSeverity\tComment\n")
 
 drug_interaction_id = 0
 drug_codes = {}
@@ -94,9 +94,9 @@ for file in os.listdir("./eng_tables2015-xml-v5"):
             if(j.tag == 'SOURCE'):
               for k in j.getchildren():
                 if(k.tag == 'CLINICAL_SOURCE'):
-                  clinical_source = k.text
+                  clinical_source = k.text.strip()
                 if(k.tag == 'SOURCE_FILE'):
-                  source_file = k.text
+                  source_file = k.text.strip()
 
             # DRUG1
             if(j.tag == 'DRUG1'):
@@ -107,11 +107,11 @@ for file in os.listdir("./eng_tables2015-xml-v5"):
 
                   for l in k.getchildren():
                     if(l.tag == 'ATC'):
-                      atc_dict[l.get('code').rstrip('\n') + "\t" + drug_1_name.upper().rstrip('\n')] = ""
+                      atc_dict[l.get('code').strip().rstrip('\n') + "\t" + drug_1_name.upper().strip().rstrip('\n')] = ""
 
                 if(k.tag == 'CLASS'):
-                  drug_1_class_name = k.get('name')
-                  drug_1_code = k.get('code')
+                  drug_1_class_name = k.get('name').strip()
+                  drug_1_code = k.get('code').strip()
 
             # DRUG2
             if(j.tag == 'DRUG2'):
@@ -122,7 +122,7 @@ for file in os.listdir("./eng_tables2015-xml-v5"):
 
                   for l in k.getchildren():
                     if(l.tag == 'ATC'):
-                      atc_dict[l.get('code').rstrip('\n') + "\t" + drug_2_name.upper().rstrip('\n')] = ""
+                      atc_dict[l.get('code').strip().rstrip('\n') + "\t" + drug_2_name.upper().strip().rstrip('\n')] = ""
 
                 if(k.tag == 'CLASS'):
                   drug_2_class_name = k.get('name')
@@ -167,17 +167,17 @@ for file in os.listdir("./eng_tables2015-xml-v5"):
           if drug_2_code is None:
             drug_2_code = ''
 
-          tables_outfile.write("%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % ( (str(drug_interaction_id)).rstrip('\n'), (drug_1_name.upper()).rstrip('\n'), drug_1_rxcui.rstrip('\n'), drug_1_class_name.rstrip('\n'), drug_1_code.rstrip('\n'), (drug_2_name.upper()).rstrip('\n'), drug_2_rxcui.rstrip('\n'), drug_2_class_name.rstrip('\n'), drug_2_code.rstrip('\n'), clinical_source.rstrip('\n'), source_file.rstrip('\n'), description.rstrip('\n').replace('\n', ''), severity.rstrip('\n'), comment.rstrip('\n')))
+          tables_outfile.write(u"%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % ( (str(drug_interaction_id)).strip().rstrip('\n'), (drug_1_name.upper()).strip().rstrip('\n'), drug_1_rxcui.strip().rstrip('\n'), drug_1_class_name.strip().rstrip('\n'), drug_1_code.strip().rstrip('\n'), (drug_2_name.upper()).strip().rstrip('\n'), drug_2_rxcui.strip().rstrip('\n'), drug_2_class_name.strip().rstrip('\n'), drug_2_code.strip().rstrip('\n'), clinical_source.strip().rstrip('\n'), source_file.strip().rstrip('\n'), description.strip().rstrip('\n').replace('\n', ''), severity.strip().rstrip('\n'), comment.strip().rstrip('\n')))
           drug_interaction_id += 1
 
 tables_outfile.close()
 
 ENG_GROUPS2015_XML_V3_ATC_CODES = "eng_groups_tables_2015_xml_v3_v5_atc_codes.tsv"
-atc_codes_outfile = open(ENG_GROUPS2015_XML_V3_ATC_CODES, 'w')
-atc_codes_outfile.write("ATC Code\tDrug Name\n")
+atc_codes_outfile = codecs.open(ENG_GROUPS2015_XML_V3_ATC_CODES, 'w', 'utf-8')
+atc_codes_outfile.write(u"ATC Code\tDrug Name\n")
 
 for key, value in atc_dict.items():
-  atc_codes_outfile.write("%s\n" % ( key.rstrip(' \t\n\r') ) )
+  atc_codes_outfile.write(u"%s\n" % ( key.strip().rstrip(' \t\n\r') ) )
 
 atc_codes_outfile.close()
 
