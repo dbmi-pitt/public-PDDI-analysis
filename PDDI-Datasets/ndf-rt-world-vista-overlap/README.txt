@@ -28,3 +28,19 @@ ndf-rt-schema.sql - Creates a new NDF-RT-Interaction table according to the cont
 overlap-sandbox.sql - A sandbox of SQL queries on the NDF-RT-interaction table created above that investigates the properties and characteristics of this new table in comparison to WorldVista's drug_interaction table toward building to an overlap analysis of these two data sets.
 
 overlap_query.sql - gives the simplified view of the finalized query (which is included in overlap-sandbox.sql) for finding the overlapping PDDI's between the NDF-RT and WorldVista PDDI data sets.
+
+---
+
+RESULT:
+
+269527 in NDF-RT
+2846 in WorldVista
+265435 cumulatively with duplicates
+261303 with no duplicates
+OVERLAP = 581
+
+        WorldVista
+NDF-RT  581
+        (0.2156% in NDF-RT, 20.41% in WorldVista)
+
+
