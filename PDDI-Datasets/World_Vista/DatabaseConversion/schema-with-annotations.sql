@@ -53,9 +53,10 @@ CREATE TABLE Drug_Interaction_With_Annotations (
     Description VARCHAR(2000),
     Severity VARCHAR(500),
     `Comment` VARCHAR(3000),
-    Clinical_Consequence_Annotations VARCHAR(3000),
-    Management_Option_Annotations VARCHAR(3000),
-    Suspected_Typo_Annotations VARCHAR(3000),
+    Clinical_Consequence VARCHAR(3000),
+    Clinical_Consequence_Code VARCHAR(50),
+    Management_Option VARCHAR(3000),
+    Suspected_Typo VARCHAR(3000),
     Annotator_Notes VARCHAR(3000),
     PRIMARY KEY (Drug_Interaction_ID)
 )  ENGINE=INNODB DEFAULT CHARSET=UTF8;
@@ -83,59 +84,74 @@ CREATE TABLE tmp (
     Description VARCHAR(2000),
     Severity VARCHAR(500),
     `Comment` VARCHAR(3000),
-    Clinical_Consequence_Annotations VARCHAR(3000),
-    Management_Option_Annotations VARCHAR(3000),
-    Suspected_Typo_Annotations VARCHAR(3000),
+    Clinical_Consequence VARCHAR(3000),
+    Clinical_Consequence_Code VARCHAR(50),
+    Management_Option VARCHAR(3000),
+    Suspected_Typo VARCHAR(3000),
     Annotator_Notes VARCHAR(3000),
     PRIMARY KEY (Drug_Interaction_ID)
 )  ENGINE=INNODB DEFAULT CHARSET=UTF8;
 
-LOAD DATA LOCAL INFILE './drug_id_and_description_consequences_1.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Clinical_Consequence_Annotations);
+LOAD DATA LOCAL INFILE './drug_id_and_description_consequences_1.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Clinical_Consequence);
 
 INSERT INTO Drug_Interaction_With_Annotations
 SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Clinical_Consequence_Annotations = VALUES(Clinical_Consequence_Annotations);
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Clinical_Consequence = VALUES(Clinical_Consequence);
 
-LOAD DATA LOCAL INFILE './drug_id_and_description_mgmt_1.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Management_Option_Annotations);
+TRUNCATE TABLE tmp;
 
-INSERT INTO Drug_Interaction_With_Annotations
-SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Management_Option_Annotations = VALUES(Management_Option_Annotations);
-
-LOAD DATA LOCAL INFILE './drug_id_and_description_typos_1.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Suspected_Typo_Annotations);
+LOAD DATA LOCAL INFILE './drug_id_and_description_mgmt_1.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Management_Option);
 
 INSERT INTO Drug_Interaction_With_Annotations
 SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Suspected_Typo_Annotations = VALUES(Suspected_Typo_Annotations);
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Management_Option = VALUES(Management_Option);
 
-LOAD DATA LOCAL INFILE './drug_id_and_description_anotes_1.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Annotator_Notes);
+TRUNCATE TABLE tmp;
+
+LOAD DATA LOCAL INFILE './drug_id_and_description_typos_1.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Suspected_Typo);
+
+INSERT INTO Drug_Interaction_With_Annotations
+SELECT * FROM tmp
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Suspected_Typo = VALUES(Suspected_Typo);
+
+TRUNCATE TABLE tmp;
+
+LOAD DATA LOCAL INFILE './drug_id_and_description_anotes_1.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Annotator_Notes);
+
+INSERT INTO Drug_Interaction_With_Annotations
+SELECT * FROM tmp
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Annotator_Notes = VALUES(Annotator_Notes);
+
+TRUNCATE TABLE tmp;
+
+LOAD DATA LOCAL INFILE './drug_id_and_description_consequences_2.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Clinical_Consequence);
+
+INSERT INTO Drug_Interaction_With_Annotations
+SELECT * FROM tmp
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Clinical_Consequence = VALUES(Clinical_Consequence);
+
+TRUNCATE TABLE tmp;
+
+LOAD DATA LOCAL INFILE './drug_id_and_description_mgmt_2.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Management_Option);
+
+INSERT INTO Drug_Interaction_With_Annotations
+SELECT * FROM tmp
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Management_Option = VALUES(Management_Option);
+
+TRUNCATE TABLE tmp;
+
+LOAD DATA LOCAL INFILE './drug_id_and_description_typos_2.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Suspected_Typo);
+
+INSERT INTO Drug_Interaction_With_Annotations
+SELECT * FROM tmp
+ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Suspected_Typo = VALUES(Suspected_Typo);
+
+LOAD DATA LOCAL INFILE './drug_id_and_description_anotes_2.tsv'  INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Annotator_Notes);
 
 INSERT INTO Drug_Interaction_With_Annotations
 SELECT * FROM tmp
 ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Annotator_Notes = VALUES(Annotator_Notes);
 
-LOAD DATA LOCAL INFILE './drug_id_and_description_consequences_2.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Clinical_Consequence_Annotations);
-
-INSERT INTO Drug_Interaction_With_Annotations
-SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Clinical_Consequence_Annotations = VALUES(Clinical_Consequence_Annotations);
-
-LOAD DATA LOCAL INFILE './drug_id_and_description_mgmt_2.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Management_Option_Annotations);
-
-INSERT INTO Drug_Interaction_With_Annotations
-SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Management_Option_Annotations = VALUES(Management_Option_Annotations);
-
-LOAD DATA LOCAL INFILE './drug_id_and_description_typos_2.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Suspected_Typo_Annotations);
-
-INSERT INTO Drug_Interaction_With_Annotations
-SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Suspected_Typo_Annotations = VALUES(Suspected_Typo_Annotations);
-
-LOAD DATA LOCAL INFILE './drug_id_and_description_anotes_2.tsv' REPLACE INTO TABLE tmp FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n' IGNORE 1 LINES (Drug_Interaction_ID, Annotator_Notes);
-
-INSERT INTO Drug_Interaction_With_Annotations
-SELECT * FROM tmp
-ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Annotator_Notes = VALUES(Annotator_Notes);
+TRUNCATE TABLE tmp;
 
 DROP TABLE IF EXISTS tmp CASCADE;
