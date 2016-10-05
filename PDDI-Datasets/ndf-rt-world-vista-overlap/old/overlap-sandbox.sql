@@ -11,7 +11,10 @@ SELECT * FROM drug_interaction WHERE drug_1_rxcui = 3008 AND drug_2_rxcui = 1059
 SELECT * FROM drug_interaction WHERE drug_1_rxcui = 1005921 AND drug_2_rxcui = 4103;
 # RxCui's 3008 and 10594 are one example that should overlap
 
-SELECT w.drug_1_rxcui AS world_vista_drug_1, w.drug_2_rxcui AS world_vista_drug_2, n.drug_1_rxcui AS ndf_rt_drug_1, n.drug_2_rxcui AS ndf_rt_drug_2
+SELECT w.drug_1_rxcui AS world_vista_drug_1,
+       w.drug_2_rxcui AS world_vista_drug_2,
+       n.drug_1_rxcui AS ndf_rt_drug_1,
+       n.drug_2_rxcui AS ndf_rt_drug_2
 FROM drug_interaction w
 INNER JOIN ndf_rt_interaction n
 ON (w.drug_1_rxcui = n.drug_1_rxcui AND w.drug_2_rxcui = n.drug_2_rxcui);
@@ -19,6 +22,31 @@ ON (w.drug_1_rxcui = n.drug_1_rxcui AND w.drug_2_rxcui = n.drug_2_rxcui);
 AND n.drug_1_rxcui = 3008
 AND w.drug_2_rxcui = 10594
 AND n.drug_2_rxcui = 10594;*/
+
+SELECT w.Drug_1_RxCUI AS world_vista_drug_1,
+       w.Drug_2_RxCUI AS world_vista_drug_2,
+       n.drug_1_rxcui AS ndf_rt_drug_1,
+       n.drug_2_rxcui AS ndf_rt_drug_2
+FROM drug_interaction w
+INNER JOIN NDF_RT_INTERACTION n
+ON (w.Drug_1_RxCUI = n.drug_1_rxcui AND w.dDrug_2_RxCUI = n.drug_2_rxcui);
+-- 581 in this overlap (no class overlap)
+-- 269527 interactions in NDF-RT
+-- 137821 interactions in World Vista when all permutations of class code drugs are accounted for
+
+SELECT g.Drug_Name AS Drug_1_Name,
+       g.RxNorm AS Drug_1_RxNorm,
+       g.Class_Code AS Class_Code_1,
+       h.Drug_Name AS Drug_2_Name,
+       h.RxNorm AS Drug_2_RxNorm,
+       h.Class_Code AS Class_Code_2,
+       i.*
+FROM drug_interaction i
+LEFT JOIN drug_group g
+ON (i.Drug_1_Code = TRIM(TRAILING '\r' FROM g.Class_Code))
+LEFT JOIN drug_group h
+ON (i.Drug_2_Code = TRIM(TRAILING '\r' FROM h.Class_Code))
+ORDER BY i.Drug_Interaction_ID asc;
 
 ###############################################################################################################
 
