@@ -74,3 +74,28 @@ FROM(
 	WHERE n.drug_1_rxcui is not null AND n.drug_2_rxcui is not null) u
 GROUP BY u.drug_1_rxcui, u.drug_2_rxcui
 HAVING COUNT(*) > 1;
+
+###############################################################################################################
+
+# Original query, but would not fetch
+
+SELECT *
+FROM drug_class_interaction w
+INNER JOIN NDF_RT_INTERACTION n
+ON ((w.Drug_1_RxCUI = n.drug_1_rxcui AND w.Drug_2_RxCUI = n.drug_2_rxcui)
+	OR (w.Drug_1_RxNorm = n.drug_1_rxcui AND w.Drug_2_RxCUI = n.drug_2_rxcui)
+	OR (w.Drug_1_RxCUI = n.drug_1_rxcui AND w.Drug_2_RxNorm = n.drug_2_rxcui)
+    OR (w.Drug_1_RxNorm = n.drug_1_rxcui AND w.Drug_2_RxNorm = n.drug_2_rxcui));
+    
+###############################################################################################################
+
+# 269527 in NDF-RT
+# 137821 Drug Interactions in WorldVista when permutations of drugs in drug classes are accounted for
+# 407348 cumulatively with duplicates
+# 358210 with no duplicates
+
+SELECT drug_1_rxcui AS rxcui_1, drug_1_rxcui AS rxnorm_1, drug_2_rxcui AS rxcui_2, drug_2_rxcui AS rxnorm_2
+	FROM ndf_rt_interaction
+	UNION ALL
+	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
+	FROM drug_class_interaction;
