@@ -34,13 +34,13 @@ overlap_query.sql - gives the simplified view of the finalized query (which is i
 RESULT:
 
 269527 in NDF-RT
-2846 in WorldVista
-265435 cumulatively with duplicates
-261303 with no duplicates
-OVERLAP = 581
+137821 Drug Interactions in WorldVista when permutations of drugs in drug classes are accounted for
+407348 cumulatively with duplicates
+358210 with no duplicates
+OVERLAP = 29093
 
         WorldVista
-NDF-RT  581
-        (0.2156% in NDF-RT, 20.41% in WorldVista)
+NDF-RT  29093
+        (10.79% in NDF-RT, 21.11% in WorldVista)
 
 
