@@ -11,10 +11,15 @@ ON (i.Drug_1_Code = TRIM(TRAILING '\r' FROM g.Class_Code))
 LEFT JOIN drug_group h
 ON (i.Drug_2_Code = TRIM(TRAILING '\r' FROM h.Class_Code)));
 
-SELECT *
-FROM drug_class_interaction w
-INNER JOIN NDF_RT_INTERACTION n
-ON ((w.Drug_1_RxCUI = n.drug_1_rxcui AND w.Drug_2_RxCUI = n.drug_2_rxcui)
-	OR (w.Drug_1_RxNorm = n.drug_1_rxcui AND w.Drug_2_RxCUI = n.drug_2_rxcui)
-	OR (w.Drug_1_RxCUI = n.drug_1_rxcui AND w.Drug_2_RxNorm = n.drug_2_rxcui)
-    OR (w.Drug_1_RxNorm = n.drug_1_rxcui AND w.Drug_2_RxNorm = n.drug_2_rxcui));
+SELECT * FROM (
+	SELECT drug_1_rxcui AS rxcui_1, 
+		   drug_1_rxcui AS rxnorm_1, 
+		   drug_2_rxcui AS rxcui_2, 
+		   drug_2_rxcui AS rxnorm_2
+	FROM ndf_rt_interaction
+	UNION ALL
+	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
+	FROM drug_class_interaction
+) AS all_pddi 
+GROUP BY rxcui_1, rxnorm_1, rxcui_2, rxnorm_2
+HAVING COUNT(*) > 1;
