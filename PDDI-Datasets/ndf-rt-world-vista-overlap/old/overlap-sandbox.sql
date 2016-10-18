@@ -89,13 +89,23 @@ ON ((w.Drug_1_RxCUI = n.drug_1_rxcui AND w.Drug_2_RxCUI = n.drug_2_rxcui)
     
 ###############################################################################################################
 
-# 269527 in NDF-RT
-# 137821 Drug Interactions in WorldVista when permutations of drugs in drug classes are accounted for
-# 407348 cumulatively with duplicates
-# 358210 with no duplicates
+/* 269527 total PDDI's in NDF-RT
+264135 PDDI's in NDF-RT where the RxCUI mapping is not null. For the overlap analysis, the RxCUI entry must not be null.
+137821 PDDI's in WorldVista when permutations of drugs in drug classes are accounted for.
+391668 cumulatively with duplicates and no null entries.
+354305 with no duplicates and no null entries. */
 
-SELECT drug_1_rxcui AS rxcui_1, drug_1_rxcui AS rxnorm_1, drug_2_rxcui AS rxcui_2, drug_2_rxcui AS rxnorm_2
-	FROM ndf_rt_interaction
+SELECT drug_1_rxcui AS rxcui_1, 
+		   drug_1_rxcui AS rxnorm_1, 
+		   drug_2_rxcui AS rxcui_2, 
+		   drug_2_rxcui AS rxnorm_2
+	FROM NDF_RT_INTERACTION
+	WHERE drug_1_rxcui is not null
+    AND drug_2_rxcui is not null
 	UNION ALL
 	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
-	FROM drug_class_interaction;
+	FROM Drug_Class_Interaction
+    WHERE (Drug_1_RxCUI != ""
+    OR Drug_1_RxNorm != "")
+    AND (Drug_2_RxCUI != "" 
+    OR Drug_2_RxNorm != "");
