@@ -33,14 +33,15 @@ overlap_query.sql - gives the simplified view of the finalized query (which is i
 
 RESULT:
 
-269527 in NDF-RT
-137821 Drug Interactions in WorldVista when permutations of drugs in drug classes are accounted for
-407348 cumulatively with duplicates
-358210 with no duplicates
-OVERLAP = 29093
+269527 total PDDI's in NDF-RT
+264135 PDDI's in NDF-RT where the RxCUI mapping is not null. For the overlap analysis, the RxCUI entry must not be null.
+137821 PDDI's in WorldVista when permutations of drugs in drug classes are accounted for.
+391668 cumulatively with duplicates and no null entries.
+354305 with no duplicates and no null entries. 
+OVERLAP = 26893
 
         WorldVista
-NDF-RT  29093
-        (10.79% in NDF-RT, 21.11% in WorldVista)
+NDF-RT  26893
+        (9.979% in NDF-RT, 19.51% in WorldVista)
 
 
