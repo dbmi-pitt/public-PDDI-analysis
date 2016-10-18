@@ -12,14 +12,20 @@ LEFT JOIN Drug_Group h
 ON (i.Drug_2_Code = TRIM(TRAILING '\r' FROM h.Class_Code)));
 
 SELECT * FROM (
-	SELECT Drug_1_RxCui AS rxcui_1, 
-		   Drug_1_RxCui AS rxnorm_1, 
-		   Drug_2_RxCui AS rxcui_2, 
-		   Drug_2_RxCui AS rxnorm_2
+	SELECT drug_1_rxcui AS rxcui_1, 
+		   drug_1_rxcui AS rxnorm_1, 
+		   drug_2_rxcui AS rxcui_2, 
+		   drug_2_rxcui AS rxnorm_2
 	FROM NDF_RT_INTERACTION
+	WHERE drug_1_rxcui is not null
+    AND drug_2_rxcui is not null
 	UNION ALL
 	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
 	FROM Drug_Class_Interaction
+    WHERE (Drug_1_RxCUI != ""
+    OR Drug_1_RxNorm != "")
+    AND (Drug_2_RxCUI != "" 
+    OR Drug_2_RxNorm != "")
 ) AS all_pddi 
 GROUP BY rxcui_1, rxnorm_1, rxcui_2, rxnorm_2
 HAVING COUNT(*) > 1;
