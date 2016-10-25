@@ -24,3 +24,7 @@ WHERE drug_1_rxcui = 'NULL';
 UPDATE NDF_RT_INTERACTION
 SET drug_2_rxcui = NULL
 WHERE drug_2_rxcui = 'NULL';
+
+# 269527 in data set total, 67 duplicates need to be removed => 269460
+
+DELETE FROM NDF_RT_INTERACTION WHERE drug_1_rxcui = drug_2_rxcui;
