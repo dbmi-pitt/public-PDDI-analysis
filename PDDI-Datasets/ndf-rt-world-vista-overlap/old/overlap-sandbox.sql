@@ -56,7 +56,7 @@ ORDER BY i.Drug_Interaction_ID asc;
 # TODO: 1007804, 1111, more have some drug_2_rxcui new line characters
 SELECT w.drug_1_rxcui, w.drug_2_rxcui 
 FROM drug_interaction w
-WHERE w.drug_1_rxcui != '' AND w.drug_2_rxcui != ''
+WHERE w.drug_1_rxcui is not null AND w.drug_2_rxcui is not null
 UNION ALL
 SELECT n.drug_1_rxcui, n.drug_2_rxcui
 FROM ndf_rt_interaction n
@@ -67,7 +67,7 @@ SELECT u.drug_1_rxcui, u.drug_2_rxcui, COUNT(*)
 FROM(
 	SELECT w.drug_1_rxcui, w.drug_2_rxcui 
 	FROM drug_interaction w
-	WHERE w.drug_1_rxcui != '' AND w.drug_2_rxcui != ''
+	WHERE w.drug_1_rxcui is not null AND w.drug_2_rxcui is not null
 	UNION ALL
 	SELECT n.drug_1_rxcui, n.drug_2_rxcui
 	FROM ndf_rt_interaction n
@@ -105,7 +105,85 @@ SELECT drug_1_rxcui AS rxcui_1,
 	UNION ALL
 	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
 	FROM Drug_Class_Interaction
-    WHERE (Drug_1_RxCUI != ""
-    OR Drug_1_RxNorm != "")
-    AND (Drug_2_RxCUI != "" 
-    OR Drug_2_RxNorm != "");
+    WHERE (Drug_1_RxCUI is not null
+    OR Drug_1_RxNorm is not null)
+    AND (Drug_2_RxCUI is not null 
+    OR Drug_2_RxNorm is not null);
+
+# 67 pddis in NDF-RT where both rxcuis are the same
+
+SELECT * FROM ndf_rt_interaction WHERE drug_1_rxcui = drug_2_rxcui;
+
+# 240 pddis in overlap where both are the same
+    
+SELECT * FROM (SELECT * FROM (
+	SELECT drug_1_rxcui AS rxcui_1, 
+		   drug_1_rxcui AS rxnorm_1, 
+		   drug_2_rxcui AS rxcui_2, 
+		   drug_2_rxcui AS rxnorm_2
+	FROM NDF_RT_INTERACTION
+	WHERE drug_1_rxcui is not null
+    AND drug_2_rxcui is not null
+	UNION ALL
+	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
+	FROM Drug_Class_Interaction
+    WHERE (Drug_1_RxCUI is not null
+    OR Drug_1_RxNorm is not null)
+    AND (Drug_2_RxCUI is not null 
+    OR Drug_2_RxNorm is not null)
+) AS all_pddi 
+GROUP BY rxcui_1, rxnorm_1, rxcui_2, rxnorm_2
+HAVING COUNT(*) > 1) AS p
+WHERE (rxcui_1 = rxnorm_2
+OR rxnorm_1 = rxnorm_2
+OR rxnorm_1 = rxcui_2
+OR (rxcui_1 = rxcui_2 
+AND rxcui_1 is not null
+AND rxcui_2 is not null));
+
+# 26893
+
+SELECT * FROM (
+	SELECT drug_1_rxcui AS rxcui_1, 
+		   drug_1_rxcui AS rxnorm_1, 
+		   drug_2_rxcui AS rxcui_2, 
+		   drug_2_rxcui AS rxnorm_2
+	FROM NDF_RT_INTERACTION
+	WHERE drug_1_rxcui is not null
+	AND drug_2_rxcui is not null
+	UNION ALL
+	SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
+	FROM Drug_Class_Interaction
+	WHERE (Drug_1_RxCUI is not null
+	OR Drug_1_RxNorm is not null)
+	AND (Drug_2_RxCUI is not null
+	OR Drug_2_RxNorm is not null)
+) AS all_pddi 
+GROUP BY rxcui_1, rxnorm_1, rxcui_2, rxnorm_2
+HAVING COUNT(*) > 1;
+
+# 26653 = 26893 - 240 where the singular RxCUI above are removed
+
+SELECT * FROM(
+	SELECT * FROM (
+		SELECT drug_1_rxcui AS rxcui_1, 
+			   drug_1_rxcui AS rxnorm_1, 
+			   drug_2_rxcui AS rxcui_2, 
+			   drug_2_rxcui AS rxnorm_2
+		FROM NDF_RT_INTERACTION
+		WHERE drug_1_rxcui is not null
+		AND drug_2_rxcui is not null
+		UNION ALL
+		SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
+		FROM Drug_Class_Interaction
+		WHERE (Drug_1_RxCUI is not null
+		OR Drug_1_RxNorm is not null)
+		AND (Drug_2_RxCUI is not null
+		OR Drug_2_RxNorm is not null)
+	) AS all_pddi 
+	GROUP BY rxcui_1, rxnorm_1, rxcui_2, rxnorm_2
+	HAVING COUNT(*) > 1) as overlap_pddi
+WHERE ((rxnorm_1 != rxnorm_2) OR (rxnorm_1 is null OR rxnorm_2 is null)) AND
+	  ((rxcui_1 != rxnorm_2) OR (rxcui_1 is null OR rxnorm_2 is null)) AND
+      ((rxnorm_1 != rxcui_2) OR (rxnorm_1 is null OR rxcui_2 is null)) AND
+      ((rxcui_1 != rxcui_2) OR (rxcui_1 is null OR rxcui_2 is null));
