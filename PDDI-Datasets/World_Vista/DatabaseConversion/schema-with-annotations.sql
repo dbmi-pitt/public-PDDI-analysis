@@ -155,3 +155,18 @@ ON DUPLICATE KEY UPDATE Drug_Interaction_ID = VALUES(Drug_Interaction_ID), Annot
 TRUNCATE TABLE tmp;
 
 DROP TABLE IF EXISTS tmp CASCADE;
+
+SET SQL_SAFE_UPDATES=0;
+
+UPDATE Drug_Interaction
+SET Drug_1_RxCUI = NULL
+WHERE Drug_1_RxCUI = '';
+
+UPDATE Drug_Interaction
+SET Drug_2_RxCUI = NULL
+WHERE Drug_2_RxCUI = '';
+
+UPDATE Drug_Group
+SET RxNorm  = NULL
+WHERE RxNorm = '';
+
