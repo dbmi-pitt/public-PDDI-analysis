@@ -164,6 +164,28 @@ HAVING COUNT(*) > 1;
 
 # 26653 = 26893 - 240 where the singular RxCUI above are removed
 
+CREATE VIEW Drug_Class_Interaction_View AS (
+SELECT i.Drug_Interaction_ID,
+	   i.Drug_1_Name,
+       i.Drug_1_RxCUI,
+       g.RxNorm AS Drug_1_RxNorm,
+       i.Drug_1_Class_Name,
+       i.Drug_1_Code,
+       i.Drug_2_Name,
+       i.Drug_2_RxCUI,
+       h.RxNorm AS Drug_2_RxNorm,
+       i.Drug_2_Class_Name,
+       i.Drug_2_Code,
+	   g.Drug_Name AS Drug_Name_1,
+       g.Class_Code AS Class_Code_1,
+       h.Drug_Name AS Drug_Name_2,
+       h.Class_Code AS Class_Code_2
+FROM Drug_Interaction i
+LEFT JOIN Drug_Group g
+ON (i.Drug_1_Code = TRIM(TRAILING '\r' FROM g.Class_Code))
+LEFT JOIN Drug_Group h
+ON (i.Drug_2_Code = TRIM(TRAILING '\r' FROM h.Class_Code)));
+
 SELECT * FROM(
 	SELECT * FROM (
 		SELECT drug_1_rxcui AS rxcui_1, 
@@ -175,7 +197,7 @@ SELECT * FROM(
 		AND drug_2_rxcui is not null
 		UNION ALL
 		SELECT Drug_1_RxCUI, Drug_1_RxNorm, Drug_2_RxCUI, Drug_2_RxNorm
-		FROM Drug_Class_Interaction
+		FROM Drug_Class_Interaction_View
 		WHERE (Drug_1_RxCUI is not null
 		OR Drug_1_RxNorm is not null)
 		AND (Drug_2_RxCUI is not null
