@@ -46,6 +46,13 @@ C-1 FILE: ndf-rt-schema.sql - Creates a new NDF-RT-Interaction table according t
 C-2 Querying of data worked with through overlap-sandbox.sql - A sandbox of SQL queries on the NDF-RT-interaction table created above that investigates the properties and characteristics of this new table in comparison to WorldVista's drug_interaction table toward building to an overlap analysis of these two data sets.
 
 C-3 The streamlined, finalized query is stored in overlap_query.sql for finding the overlapping PDDI's between the NDF-RT and WorldVista PDDI data sets.
+    
+    C-3.1 In order to account for the variety of drugs that can be included in a "Drug Group" a temporary table is created called "Drug_Class_Interaction" that represents left join of the "Drug_Interaction" and "Drug_Group" tables. This temporary table uses the "COALESCE" function to consolidate the RxCUI's for drugs in a drug group and for individual drugs into one single column.
+    For example:
+        COALESCE(i.Drug_1_RxCUI,g.RxNorm)
+    g.RxNorm provides several RxCUI's for drugs that would be in a drug group, and i.Drug_1_RxCUI provides an RxCUI for individual drugs. These would otherwise be in separate columns, but to ease the complexity of querying, they are coalesced into one column.
+    
+    C-3.2 The final query comes after creating this table, where a "UNION ALL" provides provides the full set of drug interactions in the NDF-RT and WorldVista datasets. The function "HAVING COUNT(*) > 1" provides the intersect between the two datasets.
 
 ---
 
@@ -61,5 +68,3 @@ OVERLAP = 26653
         WorldVista
 NDF-RT  26653
         (9.889% in NDF-RT, 19.34% in WorldVista)
-
-
