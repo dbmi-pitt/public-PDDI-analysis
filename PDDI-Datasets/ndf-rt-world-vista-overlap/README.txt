@@ -71,8 +71,6 @@ RESULTS:
 93279 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's and all drugs in drug classes are accounted for.
     91890 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's, all drugs in drug classes are accounted for and no null entries.
     91426 PDDI's in this set for distinct sets of drug 1 and drug 2 RxCUI's, no null entries, and drug 1 and drug 2 RxCUI's are not equivalent.
-355958 cumulatively with duplicates and no null entries.
-343752 with no duplicates and no null entries.
 OVERLAP = 8074
 
         WorldVista
