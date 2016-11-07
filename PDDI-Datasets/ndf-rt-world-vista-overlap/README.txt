@@ -59,6 +59,8 @@ C-3 The streamlined, finalized query is stored in overlap_query.sql for finding 
     C-3.3 The final query comes after creating this table, where a "UNION ALL" provides provides the intersect of drug interactions in the NDF-RT and WorldVista datasets. The function "HAVING COUNT(*) > 1" provides the intersect between the two datasets.
 
     C-3.3 The other queries in this file use left join functions to address set differences in the NDF-RT and WorldVista data sets, respectively. That is, the unique PDDI's that are only seen in the NDF-RT data set and the unique PDDI's that are only seen in the WorldVista data set are queried.
+    
+    C-3.4 All queries were joined with the RXNCONSO table from the rxnorm schema in order to include names for the drugs, and these queries were outputted into .csv files called "worldvista-NDFRT-overlap.csv", "NDFRT-set-difference.csv", and "worldvista-set-difference.csv". These queries used another "GROUP BY" function because one RxCUI could return several name variations for the same drug in the RXNCONSO table. For WorldVista set differences, this join had to become a "LEFT JOIN" because some RxCUI's did not have entries in the RXNCONSO table.
 
 ---
 
