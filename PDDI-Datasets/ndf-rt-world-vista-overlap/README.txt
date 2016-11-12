@@ -85,3 +85,16 @@ NDF-RT  8074
 In NDF-RT, there are 251862 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (259936) minus the number of overlapping PDDI's (8074).
 
 In WorldVista, there are 83352 distinct PDDI set differences that are not found in the NDF-RT data set  and are only in the WorldVista data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (91426) minus the number of overlapping PDDI's (8074).
+
+An example of one of these involves Mirtazapine. There are only 8 interaction in common with the NDFRT:
+
+"Rasagiline","134748","Mirtazapine","15996"
+"Mirtazapine","15996","Rasagiline","134748"
+"Mirtazapine","15996","CLONIDINE","2599"
+"Mirtazapine","15996","SELEGILINE","9639"
+"Mirtazapine","15996","HYDROXYBUTYRATE SODIUM 04","9899"
+"CLONIDINE","2599","Mirtazapine","15996"
+"SELEGILINE","9639","Mirtazapine","15996"
+"HYDROXYBUTYRATE SODIUM 04","9899","Mirtazapine","15996"
+
+However, there are 349 other interactions involving Mirtazapine can be found in the Worldvista. The main reason for this is that  interaction between "sedative hypnotics" ("N04-N05-N06") and "sedative hypnotics" ("N04-N05-N06"). The group includes 187 drugs, among them mirtazapine (rxcui 15996). 
