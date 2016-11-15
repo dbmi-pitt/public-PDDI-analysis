@@ -27,6 +27,17 @@ ON (i.Drug_2_Code = TRIM(TRAILING '\r' FROM h.Class_Code))
 WHERE COALESCE(i.Drug_1_RxCUI,g.RxNorm) != COALESCE(i.Drug_2_RxCUI,h.RxNorm)
 GROUP BY COALESCE(i.Drug_1_RxCUI,g.RxNorm), COALESCE(i.Drug_2_RxCUI,h.RxNorm));
 
+# Remove reverse duplicates (ex. pairs where [drug a, drug b] and [drug b, drug a] are in the table)
+# Index to improve performance
+CREATE INDEX wv_index ON Drug_Class_Interaction(drug_1_rxcui, drug_2_rxcui);
+
+DELETE a
+FROM Drug_Class_Interaction a
+INNER JOIN Drug_Class_Interaction b
+ON b.drug_2_rxcui = a.drug_1_rxcui
+AND b.drug_1_rxcui = a.drug_2_rxcui
+WHERE a.drug_1_rxcui > a.drug_2_rxcui;
+
 # Intersect of WorldVista and NDF-RT datasets
 
 SELECT rx1.STR, drug_1_rxcui, rx2.STR, drug_2_rxcui FROM(
