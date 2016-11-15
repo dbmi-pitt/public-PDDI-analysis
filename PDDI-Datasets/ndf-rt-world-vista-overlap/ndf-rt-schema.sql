@@ -28,3 +28,14 @@ WHERE drug_2_rxcui = 'NULL';
 # 269527 in data set total, 67 duplicates need to be removed => 269460
 
 DELETE FROM NDF_RT_INTERACTION WHERE drug_1_rxcui = drug_2_rxcui;
+
+# Remove reverse duplicates (ex. pairs where [drug a, drug b] and [drug b, drug a] are in the table)
+# Index to improve performance
+CREATE INDEX ndf_rt_index ON ndf_rt_interaction (drug_1_rxcui, drug_2_rxcui);
+
+DELETE a
+FROM NDF_RT_INTERACTION a
+INNER JOIN NDF_RT_INTERACTION b
+ON b.drug_2_rxcui = a.drug_1_rxcui
+AND b.drug_1_rxcui = a.drug_2_rxcui
+WHERE a.drug_1_rxcui > a.drug_2_rxcui;
