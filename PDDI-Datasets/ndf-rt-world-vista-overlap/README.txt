@@ -62,7 +62,7 @@ C-3 The streamlined, finalized query is stored in overlap_query.sql for finding 
     
     C-3.4 All queries were joined with the RXNCONSO table from the rxnorm schema in order to include names for the drugs, and these queries were outputted into .csv files called "worldvista-NDFRT-overlap.csv", "NDFRT-set-difference.csv", and "worldvista-set-difference.csv". These queries used another "GROUP BY" function because one RxCUI could return several name variations for the same drug in the RXNCONSO table. For WorldVista set differences, this join had to become a "LEFT JOIN" because some RxCUI's did not have entries in the RXNCONSO table.
     
-    C-3.5 "Inner join" functions were used to identify reverse duplicates within each of the NDF-RT and WorldVista PDDI sets (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a]. This further reduced the overlap from 8074 to 4032 PDDI's, and reduced the set differences from 251862 PDDI's that only appeared in NDF-RT to 125936 PDDI's. For the WorldVista set differences, this figure reduced from 83352 PDDI's to 41745 PDDI's that only appeard in WorldVista.
+    C-3.5 "Inner join" functions were used to identify reverse duplicates within each of the NDF-RT and WorldVista PDDI sets (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a]. This removed 132034 rows from the NDF-RT data set and removed 45649 rows from the WorldVista Drug_Class_Interaction table. This further reduced the overlap from 8074 to 4032 PDDI's, and reduced the set differences from 251862 PDDI's that only appeared in NDF-RT to 125936 PDDI's. For the WorldVista set differences, this figure reduced from 83352 PDDI's to 41745 PDDI's that only appeard in WorldVista.
 
 ---
 
