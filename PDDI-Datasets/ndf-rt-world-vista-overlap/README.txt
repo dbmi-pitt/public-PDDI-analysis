@@ -90,15 +90,32 @@ In NDF-RT, there are 125936 distinct PDDI set differences that are not found in 
 
 In WorldVista, there are 41745 distinct PDDI set differences that are not found in the NDF-RT data set  and are only in the WorldVista data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (45777) minus the number of overlapping PDDI's (4032).
 
-An example of one of these involves Mirtazapine. There are only 8 interaction in common with the NDFRT:
+Some of the reason for the low overlap becomes clear when looking at  Mirtazapine. There are only 4 interaction in common with the NDFRT:
 
 "Rasagiline","134748","Mirtazapine","15996"
-"Mirtazapine","15996","Rasagiline","134748"
 "Mirtazapine","15996","CLONIDINE","2599"
 "Mirtazapine","15996","SELEGILINE","9639"
 "Mirtazapine","15996","HYDROXYBUTYRATE SODIUM 04","9899"
-"CLONIDINE","2599","Mirtazapine","15996"
-"SELEGILINE","9639","Mirtazapine","15996"
-"HYDROXYBUTYRATE SODIUM 04","9899","Mirtazapine","15996"
 
-However, there are 349 other interactions involving Mirtazapine can be found in the Worldvista. The main reason for this is that  interaction between "sedative hypnotics" ("N04-N05-N06") and "sedative hypnotics" ("N04-N05-N06"). The group includes 187 drugs, among them mirtazapine (rxcui 15996). 
+Yet, there are 174 interactions involving mirtazapine (rxcui 15996) found only in the Worldvista. Plain and simply, this comes down to an explosion of interactions because mirtazapine is mentioned in the "sedative hypnotics" group ("N04-N05-N06") which includes 187 drugs total. There is an interaction between "sedative hypnotics" ("N04-N05-N06") and "sedative hypnotics" which would result in 186 interactions with mirtazapine (subtracting mirtazapine + mirtazapine). Eight others are subtracted because the interacting drug  has a null RxNorm identifier. This leaves 178 interactions, 4 of which are in NDF-RT.  = 174 interactions involving mirtazapine in the worldvista PDDIs.
+
+Conversely, inspection of the NDF-RT interactions shows that the majority of mirtazapine interactions unique to that resource involve combination products. Also, there are some natural products which might not be included in the wordvista dataset (or might not have rxnorm identifiers):
+
+"TRANYLCYPROMINE","10734","Mirtazapine","15996"
+"METHENAMINE/NA BIPHOSPHA/PHENYL SALICYLATE/METHELENE/HYOSCYAMINE","1117215","Mirtazapine","15996"
+"Mirtazapine","15996","linezolid","190376"
+"Mirtazapine","15996","CHLORTHALIDONE/CLONIDINE","214418"
+"Mirtazapine","15996","ST. JOHN'S WORT EXTRACT","258326"
+"Mirtazapine","15996","Isocarboxazid","6011"
+"Mirtazapine","15996","METHYLENE BLUE","6878"
+"Mirtazapine","15996","ATROPINE/BENZOIC/GELSEMIUM/HYOSCYAMINE/METHENAMINE/METHYLENE/PHE","689591"
+"Mirtazapine","15996","ATROPINE/BENZOIC/HYOSCYAMINE/METHENAMINE/METHYLENE/PHENYL","689592"
+"Mirtazapine","15996","HYOSCYAMINE/METHAMINE/METHYLENE BLUE/PHENYL SALICYLATE/SODIUM BI","689939"
+"Mirtazapine","15996","HYOSCYAMINE/METHENAMINE/METHYLENE BLUE/PHENYL SALICYLATE/SODIUM","690126"
+"Mirtazapine","15996","MULTIVITAMIN,HERBAL","693419"
+"Mirtazapine","15996","AMIODARONE","703"
+"Mirtazapine","15996","HYOSCYAMINE/METHENAMINE/METHYLENE/PHENYL SALICYL/SODIUM PHOS","751130"
+"Mirtazapine","15996","Phenelzine Sulfate","8124"
+"Mirtazapine","15996","TRAUMEEL","822349"
+"Mirtazapine","15996","PROCARBAZINE","8702"
+
