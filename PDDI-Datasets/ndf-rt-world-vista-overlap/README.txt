@@ -64,15 +64,38 @@ C-3 The streamlined, finalized query is stored in overlap_query.sql for finding 
     
     C-3.5 "Inner join" functions were used to identify reverse duplicates within each of the NDF-RT and WorldVista PDDI sets (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a]. This removed 132034 rows from the NDF-RT data set and removed 45649 rows from the WorldVista Drug_Class_Interaction table. This further reduced the overlap from 8074 to 4032 PDDI's, and reduced the set differences from 251862 PDDI's that only appeared in NDF-RT to 125936 PDDI's. For the WorldVista set differences, this figure reduced from 83352 PDDI's to 41745 PDDI's that only appeard in WorldVista.
 
+-------------------------------------------------------------------------------------
+
+PART D
+D-1 Previously, there were VUID's that when mapped to RxCUI's via the RXNCONSO table, the returned RxCUI's appeared to be nonexistent in RxNav. Thus, we conclude that these should not be included in the NDF-RT interaction set as they are a sort of false positive in mapping of VUID's.
+For example:
+    "Mirtazapine","15996","ATROPINE/BENZOIC/GELSEMIUM/HYOSCYAMINE/METHENAMINE/METHYLENE/PHE","689591"
+    "Mirtazapine","15996","ATROPINE/BENZOIC/HYOSCYAMINE/METHENAMINE/METHYLENE/PHENYL","689592"
+    "Mirtazapine","15996","HYOSCYAMINE/METHAMINE/METHYLENE BLUE/PHENYL SALICYLATE/SODIUM BI","689939"
+    "Mirtazapine","15996","HYOSCYAMINE/METHENAMINE/METHYLENE BLUE/PHENYL SALICYLATE/SODIUM","690126"
+RxCUI 689591, 689592, 689939, and 690126 were RxCUI mappings found from the RXNCONSO table but were not found elsewhere in the RxNav or RXNREL tables. We decided to therefore drop these mappings as faulty and reconsidered them as "null" to adjust the analysis.
+
+D-2 The following query was used to find these "false positive" mappings for the purpose of removing them from the NDF-RT PDDI set:
+        SELECT v.CODE, v.RXCUI, v.STR, r.RXCUI1, x.RXCUI2 FROM (
+        SELECT CODE, RXCUI, STR FROM RXNCONSO WHERE CODE IN (<vuid list>))
+        AS v
+        LEFT JOIN RXNREL r
+        ON r.RXCUI1 = v.RXCUI
+        LEFT JOIN RXNREL x
+        ON x.RXCUI2= v.RXCUI
+        WHERE r.RXCUI1 IS NULL
+        AND x.RXCUI2 IS NULL;
+    918 mappings dropped out. Now, the number of PDDI's in NDF-RT included in the analysis decreased dramatically from 129968 to 54503 PDDI's. Value for PDDI's in which the RxCUI is not null went down from 264068  to 111298.
+
+D-3 Analysis was re-run to give the new results below, where overlap decreased from 4032 to 4014, set NDF-RT differences decreased from 125936  to 50489, and set WorldVista differences increased slightly from 41745  to 41763 
 ---
 
 RESULTS:
 
-269460 total PDDI's in NDF-RT where drug 1 and drug 2 RxCUI's are not equivalent.
-    262145 distinct sets of drug 1 and drug 2 RxCUI's in NDF-RT. Some VUID's and values for "severity" vary among duplicate RxCUI sets, but for the sake of comparing with WorldVista, these duplicates will not be included.
-    264068 PDDI's in NDF-RT where the RxCUI mapping is not null. For the overlap analysis, the RxCUI entry must not be null.
-    259936 PDDI's in this set for distinct sets of drug 1 and drug 2 RxCUI's and no null entries.
-    129968 PDDI's in this set when reverse duplicates are eliminated (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a].
+269503 total PDDI's in NDF-RT where drug 1 and drug 2 RxCUI's are not equivalent.
+    111298 PDDI's in NDF-RT where the RxCUI mapping is not null. For the overlap analysis, the RxCUI entry must not be null. A large number of PDDI's drop out due to the existence of "false positive" mappings for VUID's, in which the RxCUI mapped from the RXNCONSO table is actually not found in RxNav or the RXNREL table.
+    109006 PDDI's in this set for distinct sets of drug 1 and drug 2 RxCUI's and no null entries.
+    54503 PDDI's in this set when reverse duplicates are eliminated (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a].
 93279 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's and all drugs in drug classes are accounted for.
     91890 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's, all drugs in drug classes are accounted for and no null entries.
     91426 PDDI's in this set for distinct sets of drug 1 and drug 2 RxCUI's, no null entries, and drug 1 and drug 2 RxCUI's are not equivalent.
@@ -80,15 +103,15 @@ RESULTS:
 OVERLAP = 4032
 
         WorldVista
-NDF-RT  4032
-        (3.102% in NDF-RT, 8.808% in WorldVista)
+NDF-RT  4014
+        (7.365% in NDF-RT, 8.769% in WorldVista)
 
-4032 / 129968 = 3.102% in NDF-RT
-4032 / 45777 = 8.808% in WorldVista)
+4032 / 54503 = 3.102% in NDF-RT
+4032 / 45777 = 8.769% in WorldVista)
 
-In NDF-RT, there are 125936 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (129968) minus the number of overlapping PDDI's (4032).
+In NDF-RT, there are 50489 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (54503) minus the number of overlapping PDDI's (4014).
 
-In WorldVista, there are 41745 distinct PDDI set differences that are not found in the NDF-RT data set  and are only in the WorldVista data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (45777) minus the number of overlapping PDDI's (4032).
+In WorldVista, there are 41763 distinct PDDI set differences that are not found in the NDF-RT data set  and are only in the WorldVista data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (45777) minus the number of overlapping PDDI's (4014).
 
 Some of the reason for the low overlap becomes clear when looking at  Mirtazapine. There are only 4 interaction in common with the NDFRT:
 
