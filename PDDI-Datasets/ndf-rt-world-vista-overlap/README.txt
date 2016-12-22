@@ -76,18 +76,32 @@ For example:
 RxCUI 689591, 689592, 689939, and 690126 were RxCUI mappings found from the RXNCONSO table but were not found elsewhere in the RxNav or RXNREL tables. We decided to therefore drop these mappings as faulty and reconsidered them as "null" to adjust the analysis.
 
 D-2 The following query was used to find these "false positive" mappings for the purpose of removing them from the NDF-RT PDDI set:
-        SELECT v.CODE, v.RXCUI, v.STR, r.RXCUI1, x.RXCUI2 FROM (
-        SELECT CODE, RXCUI, STR FROM RXNCONSO WHERE CODE IN (<vuid list>))
-        AS v
-        LEFT JOIN RXNREL r
-        ON r.RXCUI1 = v.RXCUI
-        LEFT JOIN RXNREL x
-        ON x.RXCUI2= v.RXCUI
-        WHERE r.RXCUI1 IS NULL
-        AND x.RXCUI2 IS NULL;
-    918 mappings dropped out. Now, the number of PDDI's in NDF-RT included in the analysis decreased dramatically from 129968 to 54503 PDDI's. Value for PDDI's in which the RxCUI is not null went down from 264068  to 111298.
+    SELECT v.CODE, v.RXCUI, v.STR, r.RXCUI1, x.RXCUI2 FROM (
+    SELECT CODE, RXCUI, STR FROM RXNCONSO WHERE CODE IN (<vuid list>))
+    AS v
+    LEFT JOIN RXNREL r
+    ON r.RXCUI1 = v.RXCUI
+    LEFT JOIN RXNREL x
+    ON x.RXCUI2= v.RXCUI
+    WHERE r.RXCUI1 IS NULL
+    AND x.RXCUI2 IS NULL;
+918 mappings (listed in null-rxcui.csv) dropped out. Now, the number of PDDI's in NDF-RT included in the analysis decreased dramatically from 129968 to 54503 PDDI's. Value for PDDI's in which the RxCUI is not null went down from 264068  to 111298.
 
-D-3 Analysis was re-run to give the new results below, where overlap decreased from 4032 to 4014, set NDF-RT differences decreased from 125936  to 50489, and set WorldVista differences increased slightly from 41745  to 41763 
+D-3 Analysis re-run to give the new results below, where overlap decreased from 4032 to 4014, set NDF-RT differences decreased from 125936  to 50489, and set WorldVista differences increased slightly from 41745  to 41763 
+
+D-4 VA combo products (for example: ACETAMINOPHEN/DEXTROMETHORPHAN/DOXYLAMINE/PHENYLEPHRINE) also seem to inflate the VA dataset compared to WorldVista. Through the query below, these products were identified (listed in VA-combos.csv) and also taken out:
+    SELECT c.CODE, r.RXCUI2, c.STR, r.RELA, r.RXCUI1, d.STR FROM rxnorm.RXNREL r
+    INNER JOIN (
+    SELECT CODE, RXCUI, STR FROM RXNCONSO WHERE CODE IN (<vuid list>))
+    c
+    ON c.RXCUI = r.RXCUI2
+    INNER JOIN RXNCONSO d ON r.RXCUI1 = d.RXCUI
+    WHERE (r.RELA = 'has_part')
+    GROUP BY RXCUI2, RXCUI1
+    ORDER BY RXCUI2, RXCUI1;
+This query returned 759 combo products to be dropped out, which had 1876 individual ingredients conglomerated among these combo products.
+
+D-5 Analysis re-run (TODO) 
 ---
 
 RESULTS:
@@ -106,8 +120,8 @@ OVERLAP = 4014
 NDF-RT  4014
         (7.365% in NDF-RT, 8.769% in WorldVista)
 
-4014 / 54503 = 3.102% in NDF-RT
-4014 / 45777 = 8.769% in WorldVista)
+4014 / 54503 = 7.365% in NDF-RT
+4014 / 45777 = 8.769% in WorldVista
 
 In NDF-RT, there are 50489 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (54503) minus the number of overlapping PDDI's (4014).
 
