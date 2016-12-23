@@ -122,7 +122,7 @@ OVERLAP = 3985
 
         WorldVista
 NDF-RT  3985
-        (22.625% in NDF-RT, 8.764% in WorldVista)
+        (22.761% in NDF-RT, 8.705% in WorldVista)
 
 3985 / 17508 = 22.761% in NDF-RT
 3985 / 45777 = 8.705% in WorldVista
