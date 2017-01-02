@@ -31,7 +31,7 @@ DELETE FROM NDF_RT_INTERACTION WHERE drug_1_rxcui = drug_2_rxcui;
 
 # Remove reverse duplicates (ex. pairs where [drug a, drug b] and [drug b, drug a] are in the table)
 # Index to improve performance
-CREATE INDEX ndf_rt_index ON ndf_rt_interaction (drug_1_rxcui, drug_2_rxcui);
+CREATE INDEX ndf_rt_index ON NDF_RT_INTERACTION (drug_1_rxcui, drug_2_rxcui);
 
 DELETE a
 FROM NDF_RT_INTERACTION a
