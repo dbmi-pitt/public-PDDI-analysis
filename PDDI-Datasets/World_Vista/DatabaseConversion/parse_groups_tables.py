@@ -2,16 +2,25 @@ import os, codecs
 import sys
 import xml.etree.ElementTree as ET
 
-ENG_GROUPS2015_XML_V3_ID_CODES = "eng_groups2015_xml_v3.tsv"
-groups_outfile = codecs.open(ENG_GROUPS2015_XML_V3_ID_CODES, 'w', 'utf-8')
+GROUP_FOLDER_PATH = "./eng_groups2016-xml"
+GROUP_OUTFILE_NAME = "eng_groups2016_xml.tsv"
+
+TABLES_FOLDER_PATH = "./eng_tables2016-xml"
+TABLES_OUTFILE_NAME = "eng_tables2016-xml.tsv"
+
+GROUPS_ATC_CODES_OUTFILE = "eng_groups_tables_2016_xml_atc_codes.tsv"
+
+##### GROUPS #####
+groups_outfile = codecs.open(GROUP_OUTFILE_NAME, 'w', 'utf-8')
 
 groups_outfile.write(u"Drug Name\tRxNorm\tSource File\tClinical Source\tClass Name\tClass Code\n")
 atc_dict = {}
 
-for file in os.listdir("./eng_groups2015-xml-v3"):  
-  if file.endswith(".xml"):
-    file = "./eng_groups2015-xml-v3/" + file
-    with open(file) as f:
+for fp in os.listdir(GROUP_FOLDER_PATH):  
+  if fp.endswith(".xml"):
+    fp_full = os.path.join(GROUP_FOLDER_PATH, fp)
+    print "Processing " + fp_full
+    with open(fp_full) as f:
       tree = ET.parse(f)
       root = tree.getroot()
 
@@ -47,12 +56,8 @@ for file in os.listdir("./eng_groups2015-xml-v3"):
 	
 groups_outfile.close()
 
-
-
-
-
-ENG_TABLES2015_XML_V5 = "eng_tables2015-xml-v5.tsv"
-tables_outfile = codecs.open(ENG_TABLES2015_XML_V5, 'w', 'utf-8')
+### TABLES #####
+tables_outfile = codecs.open(TABLES_OUTFILE_NAME, 'w', 'utf-8')
 
 tables_outfile.write(u"Drug Interaction ID\tDrug 1 Name\tDrug 1 RxCUI\tDrug 1 Class Name\tDrug 1 Code\tDrug 2 Name\tDrug 2 RxCUI\tDrug 2 Class Name\tDrug 2 Code\tClinical Source\tSource File\tDescription\tSeverity\tComment\n")
 
@@ -64,11 +69,11 @@ drug_class_code_id = 0
 general_drug_id = 0
 drug_interaction_id = 0
 
-for file in os.listdir("./eng_tables2015-xml-v5"):
-  if file.endswith(".xml"):
-    file = "./eng_tables2015-xml-v5/" + file
-
-    with open(file) as f:
+for fp in os.listdir(TABLES_FOLDER_PATH):
+  if fp.endswith(".xml"):
+    fp_full = os.path.join(TABLES_FOLDER_PATH, fp)
+    print "Processing " + fp_full
+    with open(fp_full) as f:
       tree = ET.parse(f)
       root = tree.getroot()
       
@@ -172,8 +177,8 @@ for file in os.listdir("./eng_tables2015-xml-v5"):
 
 tables_outfile.close()
 
-ENG_GROUPS2015_XML_V3_ATC_CODES = "eng_groups_tables_2015_xml_v3_v5_atc_codes.tsv"
-atc_codes_outfile = codecs.open(ENG_GROUPS2015_XML_V3_ATC_CODES, 'w', 'utf-8')
+### ATC CODES ###
+atc_codes_outfile = codecs.open(GROUPS_ATC_CODES_OUTFILE, 'w', 'utf-8')
 atc_codes_outfile.write(u"ATC Code\tDrug Name\n")
 
 for key, value in atc_dict.items():
