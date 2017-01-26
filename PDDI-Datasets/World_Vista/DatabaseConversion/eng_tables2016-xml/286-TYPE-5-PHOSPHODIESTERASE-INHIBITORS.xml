@@ -54,7 +54,7 @@
 <DRUG2>
 <CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
 <DESCRIPTION>Increase (very large for the avanafil and the vardenafil) of the plasma concentrations of the type 5 phosphodiesterase inhibitor, with risk of hypotension (severe with the vardenafil)</DESCRIPTION>
-<SEVERITY>To know the risks and the levels of constraint for each Type 5 phosphodiesterase inhibitor with the strong inhibitors of CYP3A4, consult the AMM ["Authorisation de la mise au marché", a French document for all medications authorized to be marketed in France with information about them] specific for each one of them.</SEVERITY>
+<SEVERITY>To know the risks and the levels of constraint for each Type 5 phosphodiesterase inhibitor with the strong inhibitors of CYP3A4, consult the AMM ["Authorisation de la mise au marche", a French document for all medications authorized to be marketed in France with information about them] specific for each one of them.</SEVERITY>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>

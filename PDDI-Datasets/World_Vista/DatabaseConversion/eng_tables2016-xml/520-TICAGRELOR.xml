@@ -120,7 +120,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="OMBITASVIR + PARITAPRÉVIR" code="OMPA" /></DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of the ticagrelor due to decrease of its hepatic metabolism by the therapy with ombitasvir+paritaprevir</DESCRIPTION>
 <SEVERITY>CONTRAINDICATION</SEVERITY>
 </INTERACTION>

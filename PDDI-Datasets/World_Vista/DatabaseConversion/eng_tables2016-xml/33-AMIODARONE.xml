@@ -381,7 +381,7 @@ For diltiazem by mouth: risk of bradycardia or of atrioventricular block, especi
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="OMBITASVIR + PARITAPÉVIR" code="OMPA" /></DRUG2>
+<CLASS name="OMBITASVIR + PARITAPEVIR" code="OMPA" /></DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of the amiodarone due to decrease of its hepatic metabolism by the therapy with ombitasvir+
 
 paritaprevir</DESCRIPTION>

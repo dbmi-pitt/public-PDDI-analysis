@@ -50,7 +50,7 @@
 <DRUG1>
 <CLASS name="VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE" code="N02CA0-001" /></DRUG1>
 <DRUG2>
-<CLASS name="OMBITASVIR + PARITAPÉVIR" code="OMPA" /></DRUG2>
+<CLASS name="OMBITASVIR + PARITAPEVIR" code="OMPA" /></DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of the vasoconstrictor alkaloid of ergot of rye by decrease of its hepatic metabolism by the therapy with the two medications. </DESCRIPTION>
 <SEVERITY>CONTRAINDICATION</SEVERITY>
 </INTERACTION>

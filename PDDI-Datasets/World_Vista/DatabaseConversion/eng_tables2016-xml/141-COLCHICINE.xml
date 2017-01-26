@@ -132,7 +132,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="OMBITASVIR + PARITAPRÉVIR" code="OMPA" /></DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
 <DESCRIPTION>Increase od the plasma concentrations of the colchicine due to decrease of its hepatic metabolism by the therapy with ombitasvir + paritaprevir</DESCRIPTION>
 <SEVERITY>CONTRAINDICATION</SEVERITY>
 <COMMENT>-with patients having renal and/or hepatic insufficiency</COMMENT>

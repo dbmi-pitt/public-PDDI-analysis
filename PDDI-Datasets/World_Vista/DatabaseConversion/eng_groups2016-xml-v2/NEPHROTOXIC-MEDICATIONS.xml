@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<CLASS name="NEPHROTOXIC MEDICATIONS" code="J01-J05">
+<CLASS name="NEPHROTOXIC MEDICATIONS
+" code="J01-J05">
 <SOURCE>
 <CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
 <SOURCE_FILE>99</SOURCE_FILE>
@@ -9,7 +10,7 @@
 <ATC code="J05AB01" />
 <ATC code="S01AD03" />
 </DRUG>
-<DRUG name="Diatrizoic acid [acide amidotrizoïque in the French table]" rxnorm="1546223">
+<DRUG name="Diatrizoic acid [acide amidotrizoique in the French table]" rxnorm="1546223">
 <ATC code="V08AA01" />
 </DRUG>
 <DRUG name="Clodronic Acid" rxnorm="3350">

@@ -250,7 +250,7 @@ Acute renal insufficiency in dehydrated patients, due to decrease of the glomeru
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="GLUCOCORTICOÏDS (EXCEPT FOR HYDROCORTISONE IN REPLACEMENT THERAPY) " code="A0-H0-001" /></DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT FOR HYDROCORTISONE IN REPLACEMENT THERAPY) " code="A0-H0-001" /></DRUG2>
 <DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
 <SEVERITY>Not recommended</SEVERITY>
 <COMMENT>-with anti-inflammatory doses of acetylsalicylic acid (>=1 g per dose and/or >3 g per day)</COMMENT>

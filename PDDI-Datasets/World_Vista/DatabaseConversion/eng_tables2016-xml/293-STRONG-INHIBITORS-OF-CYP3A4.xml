@@ -386,7 +386,7 @@
 <CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
 <DESCRIPTION>Risk of increase of the plasma concentrations of the protease inhibitor boosted by ritonavir or of the inhibitor of CYP3A4 </DESCRIPTION>
 <SEVERITY>Take into account</SEVERITY>
-<COMMENT>To know the risks and levels of severity for each protease inhibitor boosted by ritonavir with the strong inhibitors of CYP3A4, consult the specific authorization for sale to the public (“Authorisation de la Mise sur le Marché” a French document) for each one of them.</COMMENT>
+<COMMENT>To know the risks and levels of severity for each protease inhibitor boosted by ritonavir with the strong inhibitors of CYP3A4, consult the specific authorization for sale to the public ("Authorisation de la Mise sur le Marche" a French document) for each one of them.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>

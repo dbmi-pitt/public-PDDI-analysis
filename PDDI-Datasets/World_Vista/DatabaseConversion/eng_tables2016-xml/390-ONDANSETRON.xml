@@ -27,7 +27,7 @@
 </SOURCE_FILE>
 </SOURCE>
 <DRUG1>
-<DRUG name="ONDANSÉTRON" rxcui="26225">
+<DRUG name="ONDANSETRON" rxcui="26225">
 <ATC code="A04AA01" />
 </DRUG>
 </DRUG1>

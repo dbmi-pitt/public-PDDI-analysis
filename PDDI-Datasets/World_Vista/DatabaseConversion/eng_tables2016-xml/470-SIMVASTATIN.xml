@@ -301,7 +301,7 @@
 </DRUG>
 </DRUG1>
 <DRUG2>
-<CLASS name="OMBITASVIR + PARITAPRÉVIR" code="OMPA" /></DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
 <DESCRIPTION>Increase of the plasma concentrations of the simvastatin due to decrease of its hepatic metabolism by the therapy with ombitavir+paritaprevir</DESCRIPTION>
 <SEVERITY>CONTRAINDICATION</SEVERITY>
 </INTERACTION>

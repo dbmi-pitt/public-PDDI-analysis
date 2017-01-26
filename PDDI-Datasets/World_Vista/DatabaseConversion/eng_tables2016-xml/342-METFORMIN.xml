@@ -50,7 +50,7 @@
 <CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG2>
 <DESCRIPTION>Lactic acidosis due to the metformin, set into action by a possible functional renal insufficiency, linked to the loop diuretics</DESCRIPTION>
 <SEVERITY>Precaution for use</SEVERITY>
-<COMMENT>Do not use metformin when the creatinemia is greater than 15mg/l (135 µmol/l) for men, and 12 mg/l (110µmol/l) for women.</COMMENT>
+<COMMENT>Do not use metformin when the creatinemia is greater than 15mg/l (135 umol/l) for men, and 12 mg/l (110umol/l) for women.</COMMENT>
 </INTERACTION>
 <INTERACTION>
 <SOURCE>
