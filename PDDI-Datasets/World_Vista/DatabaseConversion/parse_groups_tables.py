@@ -2,13 +2,13 @@ import os, codecs
 import sys
 import xml.etree.ElementTree as ET
 
-GROUP_FOLDER_PATH = "./eng_groups2016-xml"
-GROUP_OUTFILE_NAME = "eng_groups2016_xml.tsv"
+GROUP_FOLDER_PATH = "./eng_groups2016-xml-v2"
+GROUP_OUTFILE_NAME = "eng_groups2016_xml-v2.tsv"
 
 TABLES_FOLDER_PATH = "./eng_tables2016-xml"
-TABLES_OUTFILE_NAME = "eng_tables2016-xml.tsv"
+TABLES_OUTFILE_NAME = "eng_tables2016-xml-v2.tsv"
 
-GROUPS_ATC_CODES_OUTFILE = "eng_groups_tables_2016_xml_atc_codes.tsv"
+GROUPS_ATC_CODES_OUTFILE = "eng_groups_tables_2016_xml_atc_codes-v2.tsv"
 
 ##### GROUPS #####
 groups_outfile = codecs.open(GROUP_OUTFILE_NAME, 'w', 'utf-8')

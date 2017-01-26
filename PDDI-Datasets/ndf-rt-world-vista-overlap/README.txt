@@ -106,6 +106,9 @@ D-5 Analysis re-run to give the new results below. PDDI's in NDF-RT where the Rx
         Overlap decreased from 4014 to 3985
         NDF-RT set differences decreased from 50489 to 13523
         WorldVista set differences increased from 41763 to 41792
+
+D-6 Updated WorldVista dataset (August 2016): For the set used for the denominator where all drug classes are accounted for with no nulls, reverse duplicates, or duplicate RxCUI pairs, the PDDI's decreased very significantly from 45777 PDDI's to 5606 PDDI's. 
+The reason for this seems to be that the previous 2015 file used for Drug Groups gave 2133 rows for drug groups, while the August 2016 file now has 470, which greatly decreases the number of permutations of Drug Class Interactions used for the overlap analysis. If this figure were to be used, the overlap would be down to 788 PDDI's.
 ---
 
 RESULTS:
