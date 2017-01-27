@@ -589,7 +589,7 @@ and mapped the drugs back to Drugbank.
 
 -----------------------------------------------------------------
 HOW THE DRUGBANK AND CHEBI MAPPINGS ARE CREATED (March/April 2014):
-------------------------------------------------------------------
+-----------------------------------------------------------------
 
 (1) download drugbank.xml from drugbank and 25Jan2014 Records.txt as UNNIs records
 
@@ -659,5 +659,17 @@ TODO (04/04/2014):
 
 - Bring in Hassanzadeh's mappings once tested and re-export the mappings
 
+-----------------------------------------------------------------
+HEP, HIV Drug Interactions (January 2016):
+-----------------------------------------------------------------
 
+1) Go to www.hep-druginteractions.org/view_all_interactions/new or www.hiv-druginteractions.org/view_all_interactions/new depending on which dataset you are working on downloading.
+
+2) Pick the drug that you want to retrieve all interactions for and then click Submit
+3) A page with a table of interactions will be shown. Click on the colored shape in the first row of the table.
+4) A page with the specific interaction will appear. A link at the bottom of the page will be present in a statement like "View all available interactions with <drug> by clicking here." Click on the "here" link.
+5) This will bring a page of all interactions for the drug. Select "view source" in your browser and save the HTML file to the appropriate folder. 
+6) Give the file a name like <drug>_interactions_<drug id>_all.html where <drug> is the drug you selected and <drug id> is and identifier for the drug within the website
+
+Same process done for HIV-Insite-Drug-Interactions (url: arv.ucsf.edu/insite?page=ar-00-02) but word documents were also created through copying and pasting the tables for each drug under "Search by Antiretroviral Drug". File names were simply the drug name before the parentheses.
 
