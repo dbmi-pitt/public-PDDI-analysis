@@ -107,8 +107,13 @@ D-5 Analysis re-run to give the new results below. PDDI's in NDF-RT where the Rx
         NDF-RT set differences decreased from 50489 to 13523
         WorldVista set differences increased from 41763 to 41792
 
-D-6 Updated WorldVista dataset (August 2016): For the set used for the denominator where all drug classes are accounted for with no nulls, reverse duplicates, or duplicate RxCUI pairs, the PDDI's decreased very significantly from 45777 PDDI's to 5606 PDDI's. 
-The reason for this seems to be that the previous 2015 file used for Drug Groups gave 2133 rows for drug groups, while the August 2016 file now has 470, which greatly decreases the number of permutations of Drug Class Interactions used for the overlap analysis. If this figure were to be used, the overlap would be down to 788 PDDI's.
+D-6 Updated WorldVista dataset (August 2016): For the set used for the denominator where all drug classes are accounted for with no nulls, reverse duplicates, or duplicate RxCUI pairs, the PDDI's decreased from 45777 PDDI's to 28791 PDDI's. 
+The reason for this seems to be that the previous 2015 file used for Drug Groups gave 2133 rows for drug groups, while the August 2016 file now has 1874, which decreases the number of permutations of Drug Class Interactions used for the overlap analysis.
+    Results changes:
+        Overlap decreased from 3985 to 3613
+        NDF-RT set differences increased from 13523 to 13895
+        WorldVista set differences decreased from 41792 to 25178
+
 ---
 
 RESULTS:
@@ -117,22 +122,20 @@ RESULTS:
     35174 PDDI's in NDF-RT where the RxCUI mapping is not null. For the overlap analysis, the RxCUI entry must not be null. A large number of PDDI's drop out due to the existence of "false positive" mappings for VUID's, in which the RxCUI mapped from the RXNCONSO table is actually not found in RxNav or the RXNREL table. Even more dropped out when combo products were removed.
     35016 PDDI's in this set for distinct sets of drug 1 and drug 2 RxCUI's and no null entries.
     17508 PDDI's in this set when reverse duplicates are eliminated (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a].
-93279 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's and all drugs in drug classes are accounted for.
-    91890 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's, all drugs in drug classes are accounted for and no null entries.
-    91426 PDDI's in this set for distinct sets of drug 1 and drug 2 RxCUI's, no null entries, and drug 1 and drug 2 RxCUI's are not equivalent.
-    45777 PDDI's in this set when reverse duplicates are eliminated (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a].
-OVERLAP = 3985
+57135 PDDI's in WorldVista for distinct sets of drug 1 and drug 2 RxCUI's and all drugs in drug classes are accounted for and no null entries.
+    28791 PDDI's in this set when reverse duplicates are eliminated (ex. pairs of [drug a, drug b] would be repeated as [drug b, drug a].
+OVERLAP = 3613
 
         WorldVista
-NDF-RT  3985
-        (22.761% in NDF-RT, 8.705% in WorldVista)
+NDF-RT  3613
+        (22.761% in NDF-RT, 12.549% in WorldVista)
 
-3985 / 17508 = 22.761% in NDF-RT
-3985 / 45777 = 8.705% in WorldVista
+3985 / 17508 = 20.636% in NDF-RT
+3985 / 28791 = 12.549% in WorldVista
 
-In NDF-RT, there are 13523 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (17508) minus the number of overlapping PDDI's (3985).
+In NDF-RT, there are 13895 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (17508) minus the number of overlapping PDDI's (3613).
 
-In WorldVista, there are 41792 distinct PDDI set differences that are not found in the NDF-RT data set  and are only in the WorldVista data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (45777) minus the number of overlapping PDDI's (3985).
+In WorldVista, there are 25178 distinct PDDI set differences that are not found in the NDF-RT data set  and are only in the WorldVista data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (28791) minus the number of overlapping PDDI's (3613).
 
 
 NOTE: COMMENTS BELOW THIS LINE ARE UNDER REVISION!!!
