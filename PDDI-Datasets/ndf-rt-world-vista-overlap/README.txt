@@ -141,7 +141,7 @@ In WorldVista, there are 25178 distinct PDDI set differences that are not found 
 NOTE: COMMENTS BELOW THIS LINE ARE UNDER REVISION!!!
 
 
-Some of the reason for the low overlap becomes clear when looking at  Mirtazapine. There are 12 interactions in common with the NDFRT (though one is a duplicate and another a natural product drug interaction):
+Some of the reason for the low overlap becomes clear when looking at  Mirtazapine. There are 13 interactions in common with the NDFRT (though one is a duplicate and another a natural product drug interaction):
 
 select NDF_RT_INTERACTION.*, rc1.STR, rc2.STR 
 from NDF_RT_INTERACTION 
@@ -153,31 +153,31 @@ where drug_1_rxcui is not null
  and rc1.SAB = 'RXNORM'
  and rc2.SAB = 'RXNORM';
 
-'46025', '4019953', '10734', '', '4020978', '15996', 'Tranylcypromine', 'Mirtazapine'
-'223812', '4025261', '134748', '', '4020978', '15996', 'rasagiline', 'Mirtazapine'
-'58744', '4020978', '15996', '', '4021218', '190376', 'Mirtazapine', 'linezolid'
-'58751', '4020978', '15996', '', '4024256', '258326', 'Mirtazapine', 'ST. JOHN\'S WORT EXTRACT'
-'58737', '4020978', '15996', '', '4017850', '2599', 'Mirtazapine', 'cloNIDine'
-'58737', '4020978', '15996', '', '4017850', '2599', 'Mirtazapine', 'Clonidine'
-'58736', '4020978', '15996', '', '4017782', '6011', 'Mirtazapine', 'Isocarboxazid'
-'58738', '4020978', '15996', '', '4018579', '6878', 'Mirtazapine', 'Methylene blue'
-'58740', '4020978', '15996', '', '4019606', '703', 'Mirtazapine', 'Amiodarone'
-'58739', '4020978', '15996', '', '4018632', '8124', 'Mirtazapine', 'Phenelzine Sulfate'
-'58741', '4020978', '15996', '', '4019906', '8702', 'Mirtazapine', 'Procarbazine'
-'58742', '4020978', '15996', '', '4019929', '9639', 'Mirtazapine', 'Selegiline'
-'58745', '4020978', '15996', '', '4021348', '9899', 'Mirtazapine', 'Sodium Oxybate'
+46025,4019953,10734,,4020978,15996,Tranylcypromine,Mirtazapine
+58736,4020978,15996,,4017782,6011,Mirtazapine,Isocarboxazid
+58737,4020978,15996,,4017850,2599,Mirtazapine,cloNIDine
+58737,4020978,15996,,4017850,2599,Mirtazapine,Clonidine
+58738,4020978,15996,,4018579,6878,Mirtazapine,"Methylene blue"
+58739,4020978,15996,,4018632,8124,Mirtazapine,"Phenelzine Sulfate"
+58740,4020978,15996,,4019606,703,Mirtazapine,Amiodarone
+58741,4020978,15996,,4019906,8702,Mirtazapine,Procarbazine
+58742,4020978,15996,,4019929,9639,Mirtazapine,Selegiline
+58744,4020978,15996,,4021218,190376,Mirtazapine,linezolid
+58745,4020978,15996,,4021348,9899,Mirtazapine,"Sodium Oxybate"
+58751,4020978,15996,,4024256,258326,Mirtazapine,"ST. JOHN'S WORT EXTRACT"
+223812,4025261,134748,,4020978,15996,rasagiline,Mirtazapine
 
 (TODO: - Figure out why the query below shows procarbazine as unique to NDF-RT)
 
- % grep 15996 NDFRT-set-difference.csv
- "TRANYLCYPROMINE","10734","Mirtazapine","15996"
- "Mirtazapine","15996","linezolid","190376"
- "Mirtazapine","15996","ST. JOHN'S WORT EXTRACT","258326"
- "Mirtazapine","15996","Isocarboxazid","6011"
- "Mirtazapine","15996","METHYLENE BLUE","6878"
- "Mirtazapine","15996","AMIODARONE","703"
- "Mirtazapine","15996","Phenelzine Sulfate","8124"
- "Mirtazapine","15996","PROCARBAZINE","8702"
+ grep 15996 NDFRT-set-difference.csv
+"TRANYLCYPROMINE","10734","Mirtazapine","15996"
+"Mirtazapine","15996","linezolid","190376"
+"Mirtazapine","15996","ST. JOHN'S WORT EXTRACT","258326"
+"Mirtazapine","15996","Isocarboxazid","6011"
+"Mirtazapine","15996","METHYLENE BLUE","6878"
+"Mirtazapine","15996","AMIODARONE","703"
+"Mirtazapine","15996","Phenelzine Sulfate","8124"
+"Mirtazapine","15996","PROCARBAZINE","8702
  
 
 (TODO: UPDATE THIS ... )
@@ -189,26 +189,14 @@ Plain and simply, this comes down to an explosion of interactions because mirtaz
 
 Conversely, inspection of the NDF-RT interactions shows that there are 17 interactions unique to that resource:
 
-grep 15996 17 | wc -l
-17
+grep 15996 ndfrt-set-difference.csv | wc -l
+8
 
 "TRANYLCYPROMINE","10734","Mirtazapine","15996"
-"METHENAMINE/NA BIPHOSPHA/PHENYL SALICYLATE/METHELENE/HYOSCYAMINE","1117215","Mirtazapine","15996"
 "Mirtazapine","15996","linezolid","190376"
-"Mirtazapine","15996","CHLORTHALIDONE/CLONIDINE","214418"
 "Mirtazapine","15996","ST. JOHN'S WORT EXTRACT","258326"
 "Mirtazapine","15996","Isocarboxazid","6011"
 "Mirtazapine","15996","METHYLENE BLUE","6878"
-"Mirtazapine","15996","ATROPINE/BENZOIC/GELSEMIUM/HYOSCYAMINE/METHENAMINE/METHYLENE/PHE","689591"
-"Mirtazapine","15996","ATROPINE/BENZOIC/HYOSCYAMINE/METHENAMINE/METHYLENE/PHENYL","689592"
-"Mirtazapine","15996","HYOSCYAMINE/METHAMINE/METHYLENE BLUE/PHENYL SALICYLATE/SODIUM BI","689939"
-"Mirtazapine","15996","HYOSCYAMINE/METHENAMINE/METHYLENE BLUE/PHENYL SALICYLATE/SODIUM","690126"
-"Mirtazapine","15996","MULTIVITAMIN,HERBAL","693419"
 "Mirtazapine","15996","AMIODARONE","703"
-"Mirtazapine","15996","HYOSCYAMINE/METHENAMINE/METHYLENE/PHENYL SALICYL/SODIUM PHOS","751130"
 "Mirtazapine","15996","Phenelzine Sulfate","8124"
-"Mirtazapine","15996","TRAUMEEL","822349"
 "Mirtazapine","15996","PROCARBAZINE","8702"
-
-As can be seen, most of these are either combos or herbals.
-
