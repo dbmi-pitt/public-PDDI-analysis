@@ -56,8 +56,7 @@ for file in glob.glob("*.html"):
         s = BeautifulSoup(str(ddi), "html.parser")
         drugs = s.findAll('div', attrs={'class': 'interaction-block-inner'})
         # quality = s.findAll('p', attrs={'class': ''})
-        info = s.findAll('div', attrs={'class': 'interaction-info-divide'})
-        # TODO find by <strong>, "interaction-info-divide" is not specific.
+        info = s.findAll('div', attrs={'class': 'interaction-info-block'})
         for node in drugs:
             if DEBUG:
                 print node
@@ -76,6 +75,15 @@ for file in glob.glob("*.html"):
         for node in info:
             if DEBUG:
                 print node
-            q = ''.join(node.findAll(text=True)).encode('utf-8')
+            i = ''.join(node.findAll(text=True)).encode('utf-8')
+            # fields 5, 7, 12, 14 when splitting on new line.
+            # TODO: won't be the same for HIV_DDI_PATH. New file?
+            summary = i.split('\n')[5]
+            summaryText = i.split('\n')[7]
+            description = i.split('\n')[12]
+            descriptionText = i.split('\n')[14]
             if DEBUG:
-                print(q)
+                print(summary)
+                print(summaryText)
+                print(description)
+                print(descriptionText)
