@@ -4,11 +4,11 @@
 #   HIV-drug-interactions
 #   HIV-Insite-interactions
 # Retrieve 2 drug names, quality of evidence, summary, and description of ddi
-# Consolidate all such DDI's from each folder as .csv file
+# Consolidate all such DDI's from each folder as .tsv file
 
-# import fileinput
 import glob
 import os
+import codecs
 
 from bs4 import BeautifulSoup
 
@@ -22,11 +22,14 @@ HIV_DDI_PATH = "../HIV-drug-interactions"
 HIV_INSITE_DDI_PATH = "../HIV-Insite-interactions"
 
 # OUTPUT FILES
-HEP_OUTFILE = "./HIV-HEP-DDI/HEP-drug-interactions.csv"
-HIV_OUTFILE = "./HIV-HEP-DDI/HIV-drug-interactions.csv"
-HIV_INSITE_OUTFILE = "./HIV-HEP-DDI/HIV-Insite-interactions.csv"
+HEP_OUTFILE_NAME = "HEP-drug-interactions.tsv"
+HIV_OUTFILE_NAME = "HIV-drug-interactions.tsv"
+HIV_INSITE_OUTFILE_NAME = "HIV-Insite-interactions.tsv"
 
 ########################################################
+
+hep_outfile = codecs.open(HEP_OUTFILE_NAME, encoding='utf-8', mode='w+')
+hep_outfile.write(u"Drug 1 Name\tDrug 2 Name\tSummary\tDescription\n")
 
 # uncomment one at a time. Comment both out for HIV-drug-interactions folder
 os.chdir(HEP_DDI_PATH)
@@ -35,9 +38,10 @@ os.chdir(HEP_DDI_PATH)
 for file in glob.glob("*.html"):
     if DEBUG:
         print(file)
-
-    f = open(file)
+    f = codecs.open(file, encoding='utf-8', mode='r+')
     soup = BeautifulSoup(f, "html.parser")
+    # Problems with '&nbsp;' entities -- replace with normal space.
+    soup.prettify(formatter=lambda s: s.replace(u'\xa0', ' '))
     ddi_list = soup.findAll('div', attrs={'class': 'interaction-block interaction-list'})
     # Each "interaction-block interaction-list" includes:
     # 2 drug names: <div class="interaction-block-inner">
@@ -60,10 +64,11 @@ for file in glob.glob("*.html"):
         for node in drugs:
             if DEBUG:
                 print node
-            drug = ''.join(node.findAll(text=True)).encode('utf-8')
-            drug1 = drug.split('\n')[1]
-            drug2 = drug.split('\n')[2]
+            drug = u''.join(node.findAll(text=True)).decode('utf-8').replace(u"\xa0", " ").encode('utf-8').strip()
+            drug1 = drug.split("\n")[0]
+            drug2 = drug.split("\n")[1]
             if DEBUG:
+                # print(drug)
                 print(drug1)
                 print(drug2)
         # for node in quality:
@@ -75,15 +80,21 @@ for file in glob.glob("*.html"):
         for node in info:
             if DEBUG:
                 print node
-            i = ''.join(node.findAll(text=True)).encode('utf-8')
-            # fields 5, 7, 12, 14 when splitting on new line.
-            # TODO: won't be the same for HIV_DDI_PATH. New file?
-            summary = i.split('\n')[5]
-            summaryText = i.split('\n')[7]
-            description = i.split('\n')[12]
-            descriptionText = i.split('\n')[14]
+            i = u''.join(node.findAll(text=True)).decode('utf-8').replace(u"\xa0", " ").encode('utf-8').strip()
+            # fields 0, 2, 7, 9 when splitting on new line.
+            # TODO: won't be the same for HIV_DDI_PATH. New script?
+            # "can't encode character u'\xa0'"
+            summary = i.split("\n")[0]
+            summaryText = i.split("\n")[2]
+            # TODO: concatenate all different liens of summary, description text.
+            description = i.split("\n")[7]
+            descriptionText = i.split("\n")[9]
             if DEBUG:
+                print(i)
                 print(summary)
                 print(summaryText)
                 print(description)
                 print(descriptionText)
+        hep_outfile.write(u"%s\t%s\t%s\t%s\n" % (drug1.rstrip(u"\n"), drug2.rstrip(u"\n"), summaryText.rstrip(u"\n"), descriptionText.rstrip(u"\n")))
+    f.close()
+hep_outfile.close()
