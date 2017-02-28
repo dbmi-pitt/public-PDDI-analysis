@@ -9,6 +9,9 @@
 import glob
 import os
 import codecs
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 from bs4 import BeautifulSoup
 
@@ -40,8 +43,6 @@ for file in glob.glob("*.html"):
         print(file)
     f = codecs.open(file, encoding='utf-8', mode='r+')
     soup = BeautifulSoup(f, "html.parser")
-    # Problems with '&nbsp;' entities -- replace with normal space.
-    soup.prettify(formatter=lambda s: s.replace(u'\xa0', ' '))
     ddi_list = soup.findAll('div', attrs={'class': 'interaction-block interaction-list'})
     # Each "interaction-block interaction-list" includes:
     # 2 drug names: <div class="interaction-block-inner">
@@ -64,9 +65,9 @@ for file in glob.glob("*.html"):
         for node in drugs:
             if DEBUG:
                 print node
-            drug = u''.join(node.findAll(text=True)).decode('utf-8').replace(u"\xa0", " ").encode('utf-8').strip()
-            drug1 = drug.split("\n")[0]
-            drug2 = drug.split("\n")[1]
+            drug = u''.join(node.findAll(text=True)).strip()  # .decode('utf-8').replace(u"\xa0", " ").encode('utf-8')
+            drug1 = drug.split(u"\n")[0]
+            drug2 = drug.split(u"\n")[1]
             if DEBUG:
                 # print(drug)
                 print(drug1)
@@ -80,15 +81,15 @@ for file in glob.glob("*.html"):
         for node in info:
             if DEBUG:
                 print node
-            i = u''.join(node.findAll(text=True)).decode('utf-8').replace(u"\xa0", " ").encode('utf-8').strip()
-            # fields 0, 2, 7, 9 when splitting on new line.
+            i = u''.join(node.findAll(text=True)).strip()  # .decode('utf-8').replace(u"\xa0", " ").encode('utf-8')
             # TODO: won't be the same for HIV_DDI_PATH. New script?
             # "can't encode character u'\xa0'"
-            summary = i.split("\n")[0]
-            summaryText = i.split("\n")[2]
+            summary = i.split(u"\n")[0]
+            summaryText = i.split(u"\n")[2]
             # TODO: concatenate all different liens of summary, description text.
-            description = i.split("\n")[7]
-            descriptionText = i.split("\n")[9]
+            description = i.split(u"\n")[7]
+            # description text can go to other <p></p> spans
+            descriptionText = u''.join(i.split(u"\n")[9:])
             if DEBUG:
                 print(i)
                 print(summary)
