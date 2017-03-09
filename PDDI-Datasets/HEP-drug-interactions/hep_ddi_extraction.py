@@ -19,11 +19,6 @@ from bs4 import BeautifulSoup
 
 DEBUG = True
 
-# INPUT FILE FOLDERS
-HEP_DDI_PATH = "../HEP-drug-interactions"
-HIV_DDI_PATH = "../HIV-drug-interactions"
-HIV_INSITE_DDI_PATH = "../HIV-Insite-interactions"
-
 # OUTPUT FILES
 HEP_OUTFILE_NAME = "HEP-drug-interactions.tsv"
 HIV_OUTFILE_NAME = "HIV-drug-interactions.tsv"
@@ -34,10 +29,6 @@ HIV_INSITE_OUTFILE_NAME = "HIV-Insite-interactions.tsv"
 outfile = codecs.open(HEP_OUTFILE_NAME, encoding='utf-8', mode='w+')
 outfile.write(u"Drug 1 Name\tDrug 2 Name\tSummary\tDescription\n")
 
-# uncomment one at a time. Comment both out for HIV-drug-interactions folder
-os.chdir(HEP_DDI_PATH)
-# os.chdir(HIV_DDI_PATH)
-# os.chdir(HIV_INSITE_DDI_PATH)
 for file in glob.glob("*.html"):
     if DEBUG:
         print(file)
