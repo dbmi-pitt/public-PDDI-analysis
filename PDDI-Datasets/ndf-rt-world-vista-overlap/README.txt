@@ -130,8 +130,8 @@ OVERLAP = 3613
 NDF-RT  3613
         (22.761% in NDF-RT, 12.549% in WorldVista)
 
-3985 / 17508 = 20.636% in NDF-RT
-3985 / 28791 = 12.549% in WorldVista
+3613 / 17508 = 20.636% in NDF-RT
+3613 / 28791 = 12.549% in WorldVista
 
 In NDF-RT, there are 13895 distinct PDDI set differences that are not found in the WorldVista data set and are only in the NDF-RT data set (no null entries, only distinct RxCUI's for both). This is equivalent to the number of distinct PDDI's with no null entries (17508) minus the number of overlapping PDDI's (3613).
 
