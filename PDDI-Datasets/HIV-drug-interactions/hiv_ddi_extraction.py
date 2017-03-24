@@ -8,6 +8,7 @@ import glob
 import os
 import codecs
 import sys
+import csv
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -17,10 +18,7 @@ from bs4 import BeautifulSoup
 
 DEBUG = True
 
-# INPUT FILE FOLDERS
-HEP_DDI_PATH = "../HEP-drug-interactions"
-HIV_DDI_PATH = "../HIV-drug-interactions"
-HIV_INSITE_DDI_PATH = "../HIV-Insite-interactions"
+DRUGBANK = "drugbank.csv"
 
 # OUTPUT FILES
 HEP_OUTFILE_NAME = "HEP-drug-interactions.tsv"
@@ -29,10 +27,12 @@ HIV_INSITE_OUTFILE_NAME = "HIV-Insite-interactions.tsv"
 
 ########################################################
 
-outfile = codecs.open(HIV_OUTFILE_NAME, encoding='utf-8', mode='w+')
-outfile.write(u"Drug 1 Name\tDrug 2 Name\tQuality of Evidence\tSummary\tDescription\n")
+drugbank = csv.reader(open(DRUGBANK, mode='r'))
+drug_dict = dict((rows[0], rows[1]) for rows in drugbank)
 
-os.chdir(HIV_DDI_PATH)
+outfile = codecs.open(HIV_OUTFILE_NAME, encoding='utf-8', mode='w+')
+outfile.write(u"Drug 1 Name\tDrug 1 DrugBank\tDrug 2 Name\tDrug 2 DrugBank\tQuality of Evidence\tSummary\tDescription\n")
+
 for file in glob.glob("*.html"):
     if DEBUG:
         print(file)
@@ -62,11 +62,15 @@ for file in glob.glob("*.html"):
                 print node
             drug = u''.join(node.findAll(text=True)).strip()  # .decode('utf-8').replace(u"\xa0", " ").encode('utf-8')
             drug1 = drug.split(u"\n")[0]
+            drugbank1 = drug_dict.get(drug1.upper(), "")
             drug2 = drug.split(u"\n")[1]
+            drugbank2 = drug_dict.get(drug2.upper(), "")
             if DEBUG:
                 # print(drug)
                 print(drug1)
+                print(drugbank1)
                 print(drug2)
+                print(drugbank2)
         # for node in quality:
         #     if DEBUG:
         #         print node
@@ -105,6 +109,6 @@ for file in glob.glob("*.html"):
                 print(description)
                 print(descriptionText)
         # TODO quality of evidence after drug2
-        outfile.write(u"%s\t%s\t%s\t%s\t%s\n" % (drug1.rstrip(u"\n"), drug2.rstrip(u"\n"), qualityText.rstrip(u"\n"), summaryText.rstrip(u"\n"), descriptionText.rstrip(u"\n")))
+        outfile.write(u"%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (drug1.rstrip(u"\n"), drugbank1, drug2.rstrip(u"\n"), drugbank2, qualityText.rstrip(u"\n"), summaryText.rstrip(u"\n"), descriptionText.rstrip(u"\n")))
     f.close()
 outfile.close()
