@@ -25,6 +25,9 @@ HEP_OUTFILE_NAME = "HEP-drug-interactions.tsv"
 HIV_OUTFILE_NAME = "HIV-drug-interactions.tsv"
 HIV_INSITE_OUTFILE_NAME = "HIV-Insite-interactions.tsv"
 
+UNMAPPED_HIV_DRUGS = "HIV-drugs-unmapped.txt"
+UNMAPPED_HEP_DRUGS = "HEP-drugs-unmapped.txt"
+
 ########################################################
 
 drugbank = csv.reader(open(DRUGBANK, mode='r'))
@@ -32,6 +35,9 @@ drug_dict = dict((rows[0], rows[1]) for rows in drugbank)
 
 outfile = codecs.open(HIV_OUTFILE_NAME, encoding='utf-8', mode='w+')
 outfile.write(u"Drug 1 Name\tDrug 1 DrugBank\tDrug 2 Name\tDrug 2 DrugBank\tQuality of Evidence\tSummary\tDescription\n")
+
+unmapped_drugs = codecs.open(UNMAPPED_HIV_DRUGS, mode='w')
+unmapped = []
 
 for file in glob.glob("*.html"):
     if DEBUG:
@@ -63,14 +69,24 @@ for file in glob.glob("*.html"):
             drug = u''.join(node.findAll(text=True)).strip()  # .decode('utf-8').replace(u"\xa0", " ").encode('utf-8')
             drug1 = drug.split(u"\n")[0]
             drugbank1 = drug_dict.get(drug1.upper(), "")
+            if drugbank1 == "" and "(" in drug1:
+                d1 = drug1.split("(")[0].strip()
+                drugbank1 = drug_dict.get(d1.upper(), "")
             drug2 = drug.split(u"\n")[1]
             drugbank2 = drug_dict.get(drug2.upper(), "")
+            if drugbank2 == "" and "(" in drug2:
+                d2 = drug2.split("(")[0].strip()
+                drugbank2 = drug_dict.get(d2.upper(), "")
             if DEBUG:
                 # print(drug)
                 print(drug1)
                 print(drugbank1)
                 print(drug2)
                 print(drugbank2)
+                if drugbank1 == "" and drug1 not in unmapped:
+                    unmapped.append(drug1)
+                if drugbank2 == "" and drug2 not in unmapped:
+                    unmapped.append(drug2)
         # for node in quality:
         #     if DEBUG:
         #         print node
@@ -112,3 +128,5 @@ for file in glob.glob("*.html"):
         outfile.write(u"%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (drug1.rstrip(u"\n"), drugbank1, drug2.rstrip(u"\n"), drugbank2, qualityText.rstrip(u"\n"), summaryText.rstrip(u"\n"), descriptionText.rstrip(u"\n")))
     f.close()
 outfile.close()
+unmapped_drugs.write('\n'.join(unmapped))
+unmapped_drugs.close()
