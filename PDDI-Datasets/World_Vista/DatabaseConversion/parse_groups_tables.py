@@ -23,37 +23,42 @@ for fp in os.listdir(GROUP_FOLDER_PATH):
     with open(fp_full) as f:
       tree = ET.parse(f)
       root = tree.getroot()
+      print('root')
+      print root
+      for k in root.getchildren():
+        print('1')
+        print k
+        # CLASS
+        if(k.tag == 'CLASS'):
+          class_name = k.get('name').strip()
+          class_code = k.get('code').strip()
 
-      # CLASS
-      if(root.tag == 'CLASS'):
-        class_name = root.get('name').strip()
-        class_code = root.get('code').strip()
-
-      for i in root.getchildren():
-
-        # SOURCE
-        for j in i.getchildren():
-          if(j.tag == 'CLINICAL_SOURCE'):
-            clinical_source = j.text
-          if(j.tag == 'SOURCE_FILE'):
-            source_file = j.text
-        
-        # DRUG
-        if(i.tag == 'DRUG'):
-          drug_name = i.get('name')
-          rxnorm = i.get('rxnorm')
-
-          if rxnorm is None:
-            rxnorm = ''
-
-          groups_outfile.write(u"%s\t%s\t%s\t%s\t%s\t%s\n" % ((drug_name.upper()).rstrip('\n'), rxnorm.rstrip('\n'), source_file.rstrip('\n'), clinical_source.rstrip('\n'), class_name.rstrip('\n'), class_code.rstrip('\n')) )
-
+        for i in k.getchildren():
+          print('2')
+          print i
+          # SOURCE
           for j in i.getchildren():
-            if(j.tag == 'ATC'):
-              atc_code = j.get('code').strip()
-              atc_dict[atc_code.strip().rstrip('\n') + "\t" + drug_name.upper()] = ""
-    
-	
+            print j
+            if(j.tag == 'CLINICAL_SOURCE'):
+              clinical_source = j.text
+            if(j.tag == 'SOURCE_FILE'):
+              source_file = j.text
+
+          # DRUG
+          if(i.tag == 'DRUG'):
+            drug_name = i.get('name')
+            rxnorm = i.get('rxnorm')
+
+            if rxnorm is None:
+              rxnorm = ''
+            print(u"%s\t%s\t%s\t%s\t%s\t%s\n" % ((drug_name.upper()).rstrip('\n'), rxnorm.rstrip('\n'), source_file.rstrip('\n'), clinical_source.rstrip('\n'), class_name.rstrip('\n'), class_code.rstrip('\n')) )
+            groups_outfile.write(u"%s\t%s\t%s\t%s\t%s\t%s\n" % ((drug_name.upper()).rstrip('\n'), rxnorm.rstrip('\n'), source_file.rstrip('\n'), clinical_source.rstrip('\n'), class_name.rstrip('\n'), class_code.rstrip('\n')) )
+
+            for j in i.getchildren():
+              if(j.tag == 'ATC'):
+                atc_code = j.get('code').strip()
+                atc_dict[atc_code.strip().rstrip('\n') + "\t" + drug_name.upper()] = ""
+
 groups_outfile.close()
 
 ### TABLES #####
