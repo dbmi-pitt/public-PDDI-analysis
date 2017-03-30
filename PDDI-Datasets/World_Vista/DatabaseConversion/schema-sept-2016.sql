@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS Drug_Group CASCADE;
 CREATE TABLE Drug_Group (
 	Drug_Name varchar(250) NOT NULL,
 	RxNorm varchar(50),
-	Source_File INT NOT NULL,
+	Source_File varchar(250) NOT NULL,
 	Clinical_Source varchar(50) NOT NULL,
 	Class_Name varchar(250) NOT NULL,
 	Class_Code varchar(50) NOT NULL,
@@ -29,7 +29,7 @@ CREATE TABLE Drug_Interaction (
 	Drug_2_Class_Name varchar(250),
 	Drug_2_Code varchar(50),
 	Clinical_Source varchar(50) NOT NULL,
-	Source_File varchar(100) NOT NULL,
+	Source_File varchar(250) NOT NULL,
 	Description varchar(2000),
 	Severity varchar(500),
 	`Comment` varchar(3000),
