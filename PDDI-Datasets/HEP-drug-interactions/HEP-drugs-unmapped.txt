@@ -1,315 +1,101 @@
 Adefovir
-Acenocoumarol
-Aciclovir
-Acitretin
-Agomelatine
-Albiglutide
 Aloe vera
 Aluminium hydroxide
 Alverine citrate
-Ambrisentan
-Amisulpride
-Amodiaquine
-Amphotericin B
 Antacids
 Artemisinin
-Artesunate
 Ascorbic acid (Vitamin C)
 Aspirin
-Astemizole
-Atorvastatin
 Azilsartan
-Azithromycin
 Basilixumab
 Beclometasone
 Benztropine
-Benzylpenicillin
-Bepridil
-Bezafibrate
-Bilastine
-Bisacodyl
 Brivudine
-Bromazepam
 Bromperidol
 Calcitonin
 Calcium resonium
 Cannabis
-Carbimazole
 Cefalexin
-Cefradine
 Ceftaroline
-Celecoxib
-Celiprolol
-Chlorphenamine
 Chlortalidone
-Ciclesonide
 Ciclosporin
-Cidofovir
-Cilazapril
 Cisatracurium
-Clevidipine
+Clavulanic acid
 Clobetasol (topical)
-Clobetasone (topical)
-Clomifene
-Clorazepate
-Cloxacillin
 Colestyramine
 Dabigatran
-Daclatasvir
-Dalteparin
 Danaparoid
-Dantron
 Darbepoetin
-Dasatinib
 Desloratidine
-Desvenlafaxine
-Dextropropoxyphene
 Diamorphine
-Diclofenac
-Dienogest
 Dihydroartemisinin
-Dihydrocodeine
-Dolutegravir
-Dulaglutide
-Duloxetine
 Echinacea
-Eculizumab
 Elbasvir/Grazoprevir
-Eltrombopag
 Elvitegravir/cobi/FTC/TAF
 Elvitegravir/cobi/FTC/TDF
 Emtricitabine/TAF
-Enoxaparin
-Entecavir
 Epoetin alfa
 Ergometrine (ergonovine)
-Ergotamine
 Eslicarbazepine
-Estradiol
-Etanercept
 Ethinylestradiol
-Etoricoxib
-Exenatide
-Filgrastim
 Fish oils
-Flecainide
-Flibanserin
-Flucloxacillin
-Fludarabine
 Fluindione
-Flupentixol
-Flurazepam
 Fluticasone
-Fluvastatin
 Fondaparinux
-Formoterol
-Fosamprenavir
-Foscarnet
-Frovatriptan
-Gabapentin
 Gadopentetate (gadolinium)
 Gamma-hydroxybutyrate
 Garlic
-Gentamicin
-Ginkgo biloba
-Ginseng
 Glibenclamide (Glyburide)
-Gliclazide
-Glipizide
-Goserelin
 Grapefruit juice
-Halofantrine
-Hydrochlorothiazide
-Hydrocortisone (topical)
-Hydroxychloroquine
 Hyoscine
 Ibandronic acid
-Iloperidone
-Iloprost
-Imipramine
-Indapamide
 Indometacin
 Insulin
-Ipilimumab
-Irinotecan
 Iron supplements
-Isoniazid
 Ispaghula husk
-Isradipine
-Ivermectin
-Ketoconazole
-Lacidipine
-Lacosamide
-Lanreotide
 Ledipasvir/Sofosbuvir
-Lercanidipine
-Levocetirizine
-Levofloxacin
 Levomepromazine
-Levothyroxine
-Linezolid
-Lithium
-Lopinavir
-Loratadine
-Lorazepam
 Lormetazepam
-Lubiprostone
-Lymecycline
-Lysergic acid diethylamide (LSD)
-Macitentan
 Macrogol
-Maprotiline
 MDMA (Ecstasy)
 Mebeverine
-Mefenamic acid
-Mefloquine
-Meloxicam
 Mephedrone
-Mesalazine
-Metamizole
 Methenamine
-Methotrexate
 Methylcellulose
-Methyldopa
 Methylergonovine
-Methylprednisolone
-Metolazone
-Midazolam (oral)
-Midazolam (parenteral)
 Milk thistle
-Milnacipran
-Misoprostol
-Moclobemide
-Modafinil
-Montelukast
-Moxonidine
 Mycophenolate
 Naftidrofuryl
-Nateglinide
-Nebivolol
-Nelfinavir
-Nicardipine
-Nicorandil
-Nisoldipine
-Nitrendipine
-Norethisterone (Norethindrone)
-Norfloxacin
 OBV/PTV/r
 OBV/PTV/r + DSV
-Omalizumab
-Ondansetron
-Orlistat
-Oxamniquine
-Oxprenolol
-Paliperidone
-Pamidronate
 Paracetamol
 Peg-IFN alfa
 Penicillin V
-Pentoxifylline
 Perazine
 Pericyazine
-Pethidine (Meperidine)
-Phencyclidine
-Phenprocoumon
-Pipotiazine
-Piracetam
 Pirfenadone
-Pivmecillinam
 Pizotifen
-Potassium
-Prasugrel
-Pravastatin
-Praziquantel
-Prednicarbate
-Primidone
-Propafenone
-Propofol
 Protamine sulphate
-Prucalopride
 Pyrantel
-Pyrazinamide
-Quazepam
-Raltegravir
-Ranolazine
-Rasagiline
-Repaglinide
 Retigabine
 Retinol (Vitamin A)
-Ribavirin
-Rifabutin
-Rifampicin
-Rifapentine
 Rilmenidine
-Rimantadine
-Risedronate
-Ritonavir
-Rituximab
-Rufinamide
-Salbutamol
-Salmeterol
-Saxagliptin
 Senna
 Serenoa repens
-Sevelamer
-Simeprevir
 Simeticone
-Sodium stibogluconate
-Sotalol
-Spectinomycin
-Stavudine
 St John's wort
-Streptokinase
-Strontium ranelate
-Sulfadoxine
-Sulpiride
 Sultiame
-Tacrolimus
-Tadalafil (erectile dysfunction)
-Tadalafil (pulmonary arterial hypertension)
-Tamoxifen
-Tazobactam
-Telaprevir
-Telbivudine
-Telithromycin
-Temazepam
 Temocillin
 Tenofovir-DF
 Tenofovir-DF (HBV)
-Terbinafine
-Terfenadine
 Tetracyclines
-Thalidomide
-Thiamine (Vitamin B1)
-Thiopental
-Tiagabine
-Tianeptine
 Tiapride
-Ticagrelor
-Tinzaparin
-Tizanidine
-Torasemide
-Tramadol
-Trandolapril
-Trimebutine
 Trimethoprim/ Sulfamethoxazole
-Troglitazone
-Troleandomycin
-Ursodeoxycholic acid
-Valaciclovir
 Valerian
 Valproate
-Vardenafil
-Varenicline
 Velpatasvir/Sofosbuvir
 Vernakalant
-Vigabatrin
-Vildagliptin
-Vinblastine
-Vitamin E
-Vortioxetine
 Xipamide
 Zofenopril
-Zopiclone
 Zuclopentixol
 Telbivudine 

@@ -1,325 +1,103 @@
-Acenocoumarol
-Aciclovir
-Acitretin
 Adefovir
 Adrenaline (Epinephrine)
 African Potato
-Agomelatine
 Alcohol
 Alcuronium
 Aloe vera
 Aluminium hydroxide
-Amisulpride
-Amodiaquine
-Amphotericin B
 Amyl nitrate (Poppers)
 Antacids
 Artemisinin
 Ascorbic Acid (Vitamin C)
-Asparaginase
 Aspirin
-Astemizole
-Atorvastatin
-Azithromycin
 Beclometasone
 Benserazide
 Benznidazole
-Bepridil
-Bezafibrate
-Biperiden
-Bisacodyl
-Bromazepam
 Caffeine citrate
-Calcium
 Cannabis
-Carbimazole
 Cat's Claw (Uncaria tomentosa)
 Cefalexin
-Celecoxib
-Chlorphenamine
 Chlortalidone
 Ciclosporin
-Cidofovir
-Cilazapril
 Cisatracurium
+Clavulanic acid
 Clobetasol
-Clofazimine
-Clofibrate
-Clomifene
-Clorazepate
-Cloxacillin
 Colecalciferol (Vitamin D3)
 Cubeb pepper (Piper cubeba)
-Cyanocobalamin (Vitamin B12)
-Cycloserine
-Cyproterone acetate
 Dabigatran
-Daclatasvir
-Dactinomycin
-Dalteparin
-Dasatinib
-Daunorubicin
-Denosumab
-Dextropropoxyphene
 Diamorphine (diacetylmorphine)
-Diclofenac
-Diethylcarbamazine
-Dihydrocodeine
-Diloxanide
-Docetaxel
-Dolasetron
-Dolutegravir
 Droloxifene
-Dronabinol
-Duloxetine
-Dydrogesterone
 Echinacea
-Eflornithine
 Elbasvir/Grazoprevir
-Eltrombopag
 Elvitegravir/Cobi/FTC/TAF
 Elvitegravir/Cobi/FTC/TDF
 Emtricitabine/TAF
-Enflurane
-Enfuvirtide (T20)
-Enoxaparin
-Entecavir
-Ephedrine
-Epirubicin
 Ergometrine (Ergonovine)
-Ergotamine
-Estradiol
 Ethinylestradiol
 Eucalpytus globulus
-Exenatide
-Fesoterodine
 Fish oils
-Flecainide
-Flibanserin
-Flucloxacillin
-Fludarabine
-Flunitrazepam
 Fluocinolone
-Fluorouracil
-Flurazepam
 Fluticasone
-Fluvastatin
 Fondaparinux
-Formestane
-Formoterol
-Fosamprenavir
-Foscarnet
-Gabapentin
 Gamma-hydroxybutyrate
 Garlic
-Gentamicin
-Gestodene
 Ginger (Zingiber officinale)
-Ginkgo biloba
 Glibenclamide (Glyburide)
-Gliclazide
-Glipizide
 Goldenseal root (Hydrastis canadensis)
-Goserelin
 Grapefruit juice
-Halofantrine
-Halothane
-Heroin
 Hops (Humulus lupulus)
-Hydrochlorothiazide
-Hydrocortisone (oral)
-Hydrocortisone (topical)
-Hydroxyurea (Hydroxycarbamide)
 Ibandronic acid
-Iloperidone
 Imipenem/Cilastatin
-Imipramine
-Indapamide
 Insulin
 Interferon alpha
 Interleukin 2 (Aldesleukin)
 Inula racemosa
 Iodine
-Irinotecan
 Iron supplements
-Isoniazid
-Ivermectin
-Kanamycin
-Ketoconazole
-Lacidipine
-Lacosamide
 Ledipasvir/Sofosbuvir
-Lercanidipine
 Leuprorelin
-Levamisole (Ergamisol)
-Levocetirizine
-Levodopa
-Levofloxacin
 Levomepromazine
-Levothyroxine
-Linezolid
 Liquorice (Glycyrrhiza glabra)
-Lithium
-Lopinavir
-Loratadine
-Lorazepam
 Lormetazepam
-Lysergic acid diethylamide (LSD)
-Macitentan
-Magnesium
 Malabar nut tree (Justicia adhatoda, Adhatoda vasica)
-Mannitol
-Maprotiline
 MDMA (Ecstasy)
-Mefenamic acid
-Mefloquine
+Medroxyprogesterone (IM depot injection)
+Medroxyprogesterone (oral)
 Meglumine antimoniate
 Melarsoprol
-Menthol
 Mephedrone
-Mesalazine
-Methotrexate
-Methyldopa
-Methylprednisolone
-Metolazone
-Mianserin
-Midazolam (oral)
-Midazolam (parenteral)
 Milk thistle
-Milnacipran
-Misoprostol
-Modafinil
-Montelukast
 Mycophenolate
 Naftidrofuryl
 Nandrolone
-Nateglinide
-Nebivolol
-Nelfinavir
-Nicardipine
-Niclosamide
-Nicorandil
-Nicotinamide (Niacinamide)
 Nifurtimox
-Nimesulide
-Nisoldipine
-Nitrendipine
-Nitrous oxide
-Norelgestromin
-Norethisterone (Norethindrone)
 Ombitasvir/Paritaprevir/r
 Ombitasvir/Paritaprevir/r + Dasabuvir
-Ondansetron
-Orlistat
-Oxamniquine
-Oxprenolol
-Oxytocin
-Paclitaxel
-Paliperidone
 Para-aminosalicylic acid
 Paracetamol (Acetaminophen)
-Paromomycin
-Peginterferon alfa-2a
 Penicillins
-Pentoxifylline
 Perazine
 Pericyazine
-Pethidine (Meperidine)
-Phencyclidine (PCP)
-Phenelzine
-Phenprocoumon
 Phytomenadione (Vitamin K)
-Pipotiazine
-Potassium
-Prasugrel
-Pravastatin
-Praziquantel
-Probenecid
-Propafenone
-Propofol
-Propylthiouracil
 Protamine sulphate
-Prucalopride
 Pyrantel
-Pyrazinamide
-Pyridostigmine
-Raltegravir
-Ranolazine
-Rasagiline
-Reboxetine
-Repaglinide
 Retinol (Vitamin A)
-Ribavirin
-Rifabutin
-Rifampicin
-Rifapentine
 Rilpivirine/FTC/TAF
-Rimantadine
-Ritonavir
-Rituximab
-Sacubitril
-Salbutamol
-Salmeterol
 Saw palmetto (Serenoa repens)
-Saxagliptin
 Senna
 Seville orange juice
-Simeprevir
 Sodium nitroprusside
-Sodium stibogluconate
-Solifenacin
-Spectinomycin
-Stanozolol
-Stavudine (d4T)
 St John's Wort
-Streptokinase
-Strontium ranelate
-Sulfadoxine
-Sulpiride
 Suramin sodium
 Suxamethonium (Succinylcholine)
-Tacrolimus
-Tadalafil (Erectile Dysfunction)
-Tadalafil (Pulmonary Arterial Hypertension)
-Tamoxifen
-Telaprevir
-Telbivudine
-Telithromycin
-Temazepam
-Temsirolimus
 Tenofovir-DF
-Terbinafine
-Terfenadine
 Tetracyclines
-Thalidomide
-Thiamine (Vitamin B1)
-Thiopental
 Tiapride
-Ticagrelor
-Tizanidine
-Topotecan
-Torasemide
-Tramadol
-Trandolapril
-Tranylcypromine
 Triclabendazole
 Trimethoprim/Sulfamethoxazole
-Trospium
 Turmeric (Curcuma longa)
-Ulipristal
-Valaciclovir
 Valerian
 Valproate
-Vardenafil
-Varenicline
 Velpatasvir/Sofosbuvir
 Vercuronium
-Vigabatrin
-Vildagliptin
-Vinblastine
-Vitamin E
-Vorinostat
 Xipamide
-Zopiclone
-Zotepine
-Zuclopenthixol
