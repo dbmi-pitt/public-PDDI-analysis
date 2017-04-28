@@ -1,0 +1,70 @@
+Drug Label for drug brand Dobutamine Hydrochloride in Dextrose, containing Dobutamine Hydrochloride.
+
+
+CONTRAINDICATIONS
+
+
+Dobutamine Hydrochloride in 5% Dextrose Injection is contraindicated in patients with idiopathic hypertrophic subaortic stenosis and in patients who have shown previous manifestations of hypersensitivity to dobutamine.
+Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products.
+
+
+WARNINGS
+
+
+Increase in Heart Rate or Blood Pressure
+
+Dobutamine Hydrochloride in 5% Dextrose Injection may cause a marked increase in heart rate or blood pressure, especially systolic pressure. Approximately 10% of adult patients in clinical studies have had rate increases of 30 beats/minute or more, and about 7.5% have had a 50-mm Hg or greater increase in systolic pressure. Usually, reduction of dosage reverses these effects. Because dobutamine facilitates atrioventricular conduction, patients with atrial fibrillation are at risk of developing rapid ventricular response. Patients with preexisting hypertension appear to face an increased risk of developing an exaggerated pressor response. In patients who have atrial fibrillation with rapid ventricular response, a digitalis preparation should be used prior to institution of therapy with Dobutamine in D5W.
+
+Ectopic Activity
+
+Dobutamine Hydrochloride in 5% Dextrose Injection may precipitate or exacerbate ventricular ectopic activity, but it rarely has caused ventricular tachycardia.
+
+Hypersensitivity
+
+Reactions suggestive of hypersensitivity associated with administration of dobutamine including skin rash, fever, eosinophilia, and bronchospasm, have been reported occasionally.
+Dobutamine Hydrochloride in 5% Dextrose Injection contains sodium bisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
+Solutions containing dextrose should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis.
+The intravenous administration of solutions may cause fluid overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema. The risk of dilutional states is inversely proportional to the electrolyte concentrations of the injections. The risk of solute overload causing congested states with peripheral and pulmonary edema is directly proportional to the electrolyte concentration of the injections.
+Excess administration of potassium-free solutions may result in significant hypokalemia.
+
+
+PRECAUTIONS
+
+
+General
+
+During the administration of Dobutamine Hydrochloride in 5% Dextrose Injection, as with any adrenergic agent, ECG and blood pressure should be continuously monitored. In addition, pulmonary wedge pressure and cardiac output should be monitored whenever possible to aid in the safe and effective infusion of dobutamine.
+Hypovolemia should be corrected with suitable volume expanders before treatment with dobutamine is instituted.
+Animal studies indicate that dobutamine may be ineffective if the patient has recently received a -blocking drug. In such a case, the peripheral vascular resistance may increase.
+No improvement may be observed in the presence of marked mechanical obstruction, such as severe valvular aortic stenosis.
+Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.
+Do not administer unless solution is clear and seal is intact.
+If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result.
+
+Usage Following Acute Myocardial Infarction
+
+Clinical experience with dobutamine following myocardial infarction has been insufficient to establish the safety of the drug for this use. There is concern that any agent that increases contractile force and heart rate may increase the size of an infarction by intensifying ischemia, but it is not known whether dobutamine does so.
+
+Drug Interactions
+
+There was no evidence of drug interactions in clinical studies in which dobutamine was administered concurrently with other drugs, including digitalis preparations, furosemide, spironolactone, lidocaine, glyceryl trinitrate, isosorbide dinitrate, morphine, atropine, heparin, protamine, potassium chloride, folic acid, and acetaminophen. Preliminary studies indicate that the concomitant use of dobutamine and nitroprusside results in a higher cardiac output and, usually, a lower pulmonary wedge pressure than when either drug is used alone.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Studies to evaluate the carcinogenic or mutagenic potential of dobutamine or the potential of the drug to affect fertility adversely have not been performed.
+
+Pregnancy
+
+
+Pregnancy Category B
+
+Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine. The drug, however, has not been administered to pregnant women and should be used only when the expected benefits clearly outweigh the potential risks to the fetus.
+
+Pediatric Use
+
+Dobutamine has been shown to increase cardiac output and systemic pressure in pediatric patients of every age group. In premature neonates, however, dobutamine is less effective than dopamine in raising systemic blood pressure without causing undue tachycardia, and dobutamine has not been shown to provide any added benefit when given to such infants already receiving optimal infusions of dopamine.
+
+Geriatric Use
+
+Clinical studies of dobutamine injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or drug therapy.
+

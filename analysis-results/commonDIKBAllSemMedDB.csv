@@ -1,0 +1,3 @@
+drug pair    SemMedDB    DIKBAll
+http://bio2rdf.org/drugbank:DB00897-http://bio2rdf.org/drugbank:DB00501    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/713', u'cimetidine is predicted to reduce the clearance of triazolam by inhibition of CYP3A4')]
+http://bio2rdf.org/drugbank:DB00404-http://bio2rdf.org/drugbank:DB00501    [(None, None)]    [(u'http://dbmi-icode-01.dbmi.pitt.edu/dikb/resource/DDIPredictions/711', u'cimetidine is predicted to reduce the clearance of alprazolam by inhibition of CYP3A5')]

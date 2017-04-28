@@ -1,0 +1,92 @@
+
+INDICATIONS  -  USAGE SECTION
+
+
+Cleviprex is indicated for the reduction of blood pressure when oral therapy is not feasible or not desirable.
+Cleviprex is a dihydropyridine calcium channel blocker indicated for the reduction of blood pressure when oral therapy is not feasible or not desirable. (1)
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+For intravenous use: Cleviprex is intended for intravenous use. Titrate Cleviprex to achieve the desired blood pressure reduction. Individualize dosage depending on the blood pressure response of the patient and the goal blood pressure. (2.2) Monitoring: Monitor blood pressure and heart rate during infusion, and until vital signs stabilize. (2.1) Initial dose: Initiate intravenous infusion of Cleviprex at 1- 2 mg/hour. (2.2) Dose titration: Double the dose at short (90 second) intervals initially. As the blood pressure approaches goal, increase the dose by less than doubling and lengthen the time between dose adjustments to every 5-10 minutes. An approximately 1-2 mg/hour increase will generally produce an additional 2-4 mmHg decrease in systolic pressure. (2.2) Maintenance dose: Most patients will achieve the desired therapeutic response at approximately 4-6 mg/hour. Severe hypertension is likely to require higher doses. (2.2) Maximum dose: Most patients have received maximum doses of 16 mg/hour or less. There is limited experience with short-term dosing as high as 32 mg/hour. Because of lipid load restrictions, no more than 1000 mL or an average of 21 mg/hour of Cleviprex infusion is recommended per 24 hour period. There is little experience beyond 72 hours at any dose. (2.2)
+Monitor blood pressure and heart rate continually during infusion, and then until vital signs are stable. Patients who receive prolonged Cleviprex infusions and are not transitioned to other antihypertensive therapies should be monitored for the possibility of rebound hypertension for at least 8 hours after the infusion is stopped. These patients may need follow-up adjustments in blood pressure control.
+Cleviprex is intended for intravenous use. Titrate drug to achieve the desired blood pressure reduction. Individualize dosage depending on the blood pressure to be obtained and the response of the patient.
+Initial dose: Initiate the intravenous infusion of Cleviprex at 1-2 mg/hour.
+Dose titration: The dose may be doubled at short (90 second) intervals initially. As the blood pressure approaches goal, the increase in doses should be less than doubling and the time between dose adjustments should be lengthened to every 5-10 minutes. An approximately 1-2 mg/hour increase will generally produce an additional 2-4 mmHg decrease in systolic pressure.
+Maintenance dose: The desired therapeutic response for most patients occurs at doses of 4-6 mg/hour. Patients with severe hypertension may require doses up to 32 mg/hour, but there is limited experience at this dose rate.
+Maximum dose: Most patients were treated with maximum doses of 16 mg/hour or less. There is limited short-term experience with doses up to 32 mg/hour. Because of lipid load restrictions, no more than 1000 mL or an average of 21 mg/hour of Cleviprex infusion is recommended per 24 hour period. In clinical trials, 55 hypertensive patients were treated with 500mL of Cleviprex infusion per 24 hour period. There is little experience with infusion durations beyond 72 hours at any dose.
+Transition to an oral antihypertensive agent: Discontinue Cleviprex or titrate downward while appropriate oral therapy is established. When an oral antihypertensive agent is being instituted, consider the lag time of onset of the oral agent s effect. Continue blood pressure monitoring until desired effect is achieved.
+Special populations: Special populations were not specifically studied. In clinical trials, 78 patients with abnormal hepatic function (one or more of the following: elevated serum bilirubin, AST/SGOT, ALT/SGPT) and 121 patients with moderate to severe renal impairment were treated with Cleviprex. An initial Cleviprex infusion rate of 1-2 mg/hour is appropriate in these patients.
+Table 1 is a guideline for dosing conversion from mg/hour to mL/hour.
+Maintain aseptic technique while handling Cleviprex. Cleviprex is a single-use parenteral product. Do not use if contamination is suspected. Once the stopper is punctured, use within 12 hours and discard any unused portion.
+Cleviprex is supplied in sterile, pre-mixed, ready-to-use 50 mL or 100 mL vials. Invert vial gently several times before use to ensure uniformity of the emulsion prior to administration. Inspect parenteral drug products for particulate matter and discoloration prior to administration whenever solution and container permit. Administer Cleviprex using an infusion device allowing calibrated infusion rates. Commercially available standard plastic cannulae may be used to administer the infusion.Administer Cleviprex by a central line or a peripheral line.
+Cleviprex should not be administered in the same line as other medications.
+Cleviprex should not be diluted, but it can be administered with the following:
+<list>
+<item>
+<item>Water for Injection, USP
+<item>
+<item>Sodium Chloride (0.9%) Injection, USP
+<item>
+<item>Dextrose (5%) Injection, USP
+<item>
+<item>Dextrose (5%) in Sodium Chloride (0.9%) Injection, USP
+<item>
+<item>Dextrose (5%) in Ringers Lactate Injection, USP
+<item>
+<item>Lactated Ringers Injection, USP
+<item>
+<item>10% amino acid
+<item>
+</list>
+
+CONTRAINDICATIONS SECTION
+
+<paragraph>
+<main>Cleviprex is contraindicated in patients with:
+<item>
+<item>Allergy to soy or eggs (4.1)
+<item>
+<item>Defective lipid metabolism (4.2)
+<item>
+<item>Severe aortic stenosis (4.3)
+<item>
+</paragraph>
+Cleviprex is contraindicated in patients with allergies to soybeans, soy products, eggs, or egg products.
+Cleviprex is contraindicated in patients with defective lipid metabolism such as pathologic hyperlipemia, lipoid nephrosis, or acute pancreatitis if it is accompanied by hyperlipidemia.
+Cleviprex is contraindicated in patients with severe aortic stenosis because afterload reduction can be expected to reduce myocardial oxygen delivery.
+
+WARNINGS AND PRECAUTIONS SECTION
+
+<list>
+<item>
+<item>Maintain aseptic technique. Discard unused portion 12 hours after stopper puncture. (5.1)
+<item>
+<item>Hypotension and reflex tachycardia are potential consequences of rapid upward titration of Cleviprex. (5.2)
+<item>
+<item>Dihydropyridine calcium channel blockers can produce negative inotropic effects and exacerbate heart failure. Monitor heart failure patients carefully (5.4)
+<item>
+<item>Cleviprex gives no protection against the effects of abrupt beta-blocker withdrawal. (5.5)
+<item>
+<item>Patients who receive prolonged Cleviprex infusions and are not transitioned to other antihypertensive therapies should be monitored for the possibility of rebound hypertension for at least 8 hours after the infusion is stopped. (5.6)
+<item>
+</list>
+Use aseptic technique and discard any unused product within 12 hours of stopper puncture see Dosage and Administration (2.3).
+Cleviprex may produce systemic hypotension and reflex tachycardia. If either occurs, decrease the dose of Cleviprex. There is limited experience with short-duration therapy with beta-blockers as a treatment for Cleviprex-induced tachycardia. Beta-blocker use for this purpose is not recommended.
+Cleviprex contains approximately 0.2 g of lipid per mL (2.0 kcal). Lipid intake restrictions may be necessary for patients with significant disorders of lipid metabolism. For these patients, a reduction in the quantity of concurrently administered lipids may be necessary to compensate for the amount of lipid infused as part of the Cleviprex formulation.
+Dihydropyridine calcium channel blockers can produce negative inotropic effects and exacerbate heart failure. Monitor heart failure patients carefully.
+Cleviprex is not a beta-blocker, does not reduce heart rate, and gives no protection against the effects of abrupt beta-blocker withdrawal. Beta-blockers should be withdrawn only after a gradual reduction in dose.
+Patients who receive prolonged Cleviprex infusions and are not transitioned to other antihypertensive therapies should be monitored for the possibility of rebound hypertension for at least 8 hours after the infusion is stopped.
+There is no information to guide use of Cleviprex in treating hypertension associated with pheochromocytoma.
+
+DRUG INTERACTIONS SECTION
+
+No clinical drug interaction studies were conducted. Clevidipine and its major dihydropyridine metabolite do not have the potential for blocking or inducing any CYP enzyme.
+At clinically relevant concentrations, clevidipine and its metabolites do not inhibit or induce any CYP450 enzymes. The potential of clevidipine to interact with other drugs is low.(7)
+
+DESCRIPTION SECTION
+
+<paragraph>
+<main>Cleviprex is a sterile, milky-white emulsion containing 0.5 mg/mL of clevidipine suitable for intravenous administration. Clevidipine is a dihydropyridine calcium channel blocker. Chemically, the active substance, clevidipine, is butyroxymethyl methyl 4-(2,3 -dichlorophenyl)-1,4-dihydro-2,6-dimethyl-3,5-pyridinedicarboxylate. It is a racemic mixture with a molecular weight of 456.3 g/mol. Each enantiomer has equipotent antihypertensive activity. The structure and formula are:
+<item>Clevidipine is practically insoluble in water and is formulated in an oil-in-water emulsion. In addition to the active ingredient, clevidipine, Cleviprex contains soybean oil (200 mg/mL), glycerin (22.5 mg/mL), purified egg yolk phospholipids (12 mg/mL), oleic acid (0.3 mg/mL), disodium edetate (0.05 mg/mL), and sodium hydroxide to adjust pH. Cleviprex has a pH of 6.0 8.0 and is a ready-to-use emulsion.
+</paragraph>
+Clevidipine Structure and Formula

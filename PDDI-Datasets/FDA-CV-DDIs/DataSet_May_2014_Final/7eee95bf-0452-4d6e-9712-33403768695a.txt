@@ -1,0 +1,73 @@
+Drug Label for drug brand SECTRAL, containing acebutolol hydrochloride.
+
+
+CONTRAINDICATIONS
+
+
+Sectral is contraindicated in: 1) persistently severe bradycardia, 2) second- and third-degree heart block, 3) overt cardiac failure, and 4) cardiogenic shock. (See WARNINGS.)
+
+
+WARNINGS
+
+
+Cardiac Failure
+
+Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by -adrenergic receptor blockade may precipitate more severe failure. Although -blockers should be avoided in overt cardiac failure, Sectral can be used with caution in patients with a history of heart failure who are controlled with digitalis and/or diuretics. Both digitalis and Sectral impair AV conduction. If cardiac failure persists, therapy with Sectral should be withdrawn.
+
+In Patients Without a History of Cardiac Failure
+
+In patients with aortic or mitral valve disease or compromised left ventricular function, continued depression of the myocardium with -blocking agents over a period of time may lead to cardiac failure. At the first signs of failure, patients should be digitalized and/or be given a diuretic and the response observed closely. If cardiac failure continues despite adequate digitalization and/or diuretic, Sectral therapy should be withdrawn.
+
+Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal
+
+Following abrupt cessation of therapy with certain -blocking agents in patients with coronary artery disease, exacerbation of angina pectoris and, in some cases, myocardial infarction and death have been reported. Therefore, such patients should be cautioned against interruption of therapy without a physician s advice. Even in the absence of overt ischemic heart disease, when discontinuation of Sectral is planned, the patient should be carefully observed, and should be advised to limit physical activity to a minimum while Sectral is gradually withdrawn over a period of about two weeks. (If therapy with an alternative -blocker is desired, the patient may be transferred directly to comparable doses of another agent without interruption of -blocking therapy.) If an exacerbation of angina pectoris occurs, antianginal therapy should be restarted immediately in full doses and the patient hospitalized until his condition stabilizes.
+
+Peripheral Vascular Disease
+
+Treatment with -antagonists reduces cardiac output and can precipitate or aggravate the symptoms of arterial insufficiency in patients with peripheral or mesenteric vascular disease. Caution should be exercised with such patients, and they should be observed closely for evidence of progression of arterial obstruction.
+
+Bronchospastic Disease
+
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE A -BLOCKER. Because of its relative 1-selectivity, however, low doses of Sectral may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate, alternative treatment. Since 1-selectivity is not absolute and is dose-dependent, the lowest possible dose of Sectral should be used initially, preferably in divided doses to avoid the higher plasma levels associated with the longer dose-interval. A bronchodilator, such as theophylline or a 2- stimulant, should be made available in advance with instructions concerning its use.
+
+Anesthesia and Major Surgery
+
+The necessity, or desirability, of withdrawal of a - blocking therapy prior to major surgery is controversial. -adrenergic receptor blockade impairs the ability of the heart to respond to -adrenergically mediated reflex stimuli. While this might be of benefit in preventing arrhythmic response, the risk of excessive myocardial depression during general anesthesia may be enhanced and difficulty in restarting and maintaining the heart beat has been reported with beta-blockers. If treatment is continued, particular care should be taken when using anesthetic agents which depress the myocardium, such as ether, cyclopropane, and trichlorethylene, and it is prudent to use the lowest possible dose of Sectral. Sectral, like other -blockers, is a competitive inhibitor of -receptor agonists, and its effect on the heart can be reversed by cautious administration of such agents (e.g., dobutamine or isoproterenol see OVERDOSAGE ). Manifestations of excessive vagal tone (e.g., profound bradycardia, hypotension) may be corrected
+
+Diabetes and Hypoglycemia
+
+blockers may potentiate insulin-induced hypoglycemia and mask some of its manifestations such as tachycardia, however, dizziness and sweating are usually not significantly affected. Diabetic patients should be warned of the possibility of masked hypoglycemia.
+
+Thyrotoxicosis
+
+adrenergic blockade may mask certain clinical signs (tachycardia) of hyperthyroidism. Abrupt withdrawal of -blockade may precipitate a thyroid storm, therefore, patients suspected of developing thyrotoxicosis from whom Sectral therapy is to be withdrawn should be monitored closely.
+
+
+PRECAUTIONS
+
+
+
+
+
+Risk of Anaphylactic Reaction
+
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+Impaired Renal or Hepatic Function
+
+Studies on the effect of acebutolol in patients with renal insufficiency have not been performed in the U.S. Foreign published experience shows that acebutolol has been used successfully in chronic renal insufficiency. Acebutolol is excreted through the GI tract, but the active metabolite, diacetolol, is eliminated predominantly by the kidney. There is a linear relationship between renal clearance of diacetolol and creatinine clearance. Therefore, the daily dose of acebutolol should be reduced by 50% when the creatinine clearance is less than 50 mL/min and by 75% when it is less than 25 mL/min. Sectral should be used cautiously in patients with impaired hepatic function.
+Sectral has been used successfully and without problems in elderly patients in the U.S. clinical trials without specific adjustment of dosage. However, elderly patients may require lower maintenance doses because the bioavailability of both Sectral and its metabolite are approximately doubled in this age group.
+
+Information for Patients
+
+Patients, especially those with evidence of coronary artery disease, should be warned against interruption or discontinuation of Sectral therapy without a physician s supervision. Although cardiac failure rarely occurs in properly selected patients, those being treated with -adrenergic blocking agents should be advised to consult a physician if they develop signs or symptoms suggestive of impending CHF, or unexplained respiratory symptoms.
+Patients should also be warned of possible severe hypertensive reactions from concomitant use of -adrenergic stimulants, such as the nasal decongestants commonly used in OTC cold preparations and nasal drops.
+
+
+Drug Interactions :
+
+Catecholamine-depleting drugs, such as reserpine, may have an additive effect when given with -blocking agents. Patients treated with Sectral plus catecholamine depletors should, therefore, be observed closely for evidence of marked bradycardia or hypotension which may present as vertigo, syncope/presyncope, or orthostatic changes in blood pressure without compensatory tachycardia. Exaggerated hypertensive responses have been reported from the combined use of -adrenergic antagonists and -adrenergic stimulants, including those contained in proprietary cold remedies and vasoconstrictive nasal drops. Patients receiving -blockers should be warned of this potential hazard.
+Blunting of the antihypertensive effect of beta-adrenoceptor blocking agents by nonsteroidal anti-inflammatory drugs has been reported.
+No significant interactions with digoxin, hydrochlorothiazide, hydralazine, sulfinpyrazone, oral contraceptives, tolbutamide, or warfarin have been observed.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+

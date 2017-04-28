@@ -1,0 +1,76 @@
+Drug Label for drug brand Quinidine Gluconate, containing Quinidine Gluconate.
+
+
+CONTRAINDICATIONS
+
+
+Quinidine is contraindicated in patients who are known to be allergic to it, or who have developed thrombocytopenic purpura during prior therapy with quinidine or quinine.
+In the absence of a functioning artificial pacemaker, quinidine is also contraindicated in any patient whose cardiac rhythm is dependent upon a junctional or idioventricular pacemaker, including patients in complete atrioventricular block.
+Quinidine is also contraindicated in patients who, like those with myasthenia gravis, might be adversely affected by an anticholinergic agent.
+
+
+WARNINGS
+
+Inappropriate infusion rate Overly rapid infusion of quinidine (see Dosage and Administration) may cause peripheral vascular collapse and severe hypotension.
+Proarrhythmic effects Like many other drugs (including all other class 1a antiarrhythmics), quinidine prolongs the QTc interval, and this can lead to torsades de pointes, a life threatening ventricular arrhythmia (see Overdosage). The risk of torsades is increased by any of bradycardia, hypokalemia, hypomagnesemia, and high serum levels of quinidine, but it may appear in the absence of any of these risk factors. The best predictor of this arrhythmia appears to be the length of the QTc interval, and quinidine should be used with extreme care in patients who have preexisting long QT syndromes, who have histories of torsades de pointes of any cause, or who have previously responded to quinidine (or other drugs that prolong ventricular repolarization) with marked lengthening of the QTc interval. Estimation of the incidence of torsades in patients with therapeutic levels of quinidine is not possible from the available data.
+Other ventricular arrhythmias that have been reported with quinidine include frequent extrasystoles, ventricular tachycardia, ventricular flutter, and ventricular fibrillation.
+Paradoxical increase in ventricular rate in atrial flutter/fibrillation When quinidine is administered to patients with atrial flutter/fibrillation, the desired pharmacologic reversion to sinus rhythm may (rarely) be preceded by a slowing of the atrial rate with a consequent increase in the rate of beats conducted to the ventricles. The resulting ventricular rate may be very high (greater than 200 beats per minute) and poorly tolerated. This hazard may be decreased if partial atrioventricular block is achieved prior to initiation of quinidine therapy, using conduction reducing drugs such as digitalis, verapamil, diltiazem, or a receptor blocking agent.
+Exacerbated bradycardia in sick sinus syndrome In patients with the sick sinus syndrome, quinidine has been associated with marked sinus node depression and bradycardia.
+Pharmacokinetic considerations Renal or hepatic dysfunction causes the elimination of quinidine to be slowed, while congestive heart failure causes a reduction in quinidine s apparent volume of distribution. Any of these conditions can lead to quinidine toxicity if dosage is not appropriately reduced. In addition, interactions with coadministered drugs can alter the serum concentration and activity of quinidine, leading either to toxicity or to lack of efficacy if the dose of quinidine is not appropriately modified (see Precautions/Drug Interactions).
+Vagolysis Because quinidine opposes the atrial and A V nodal effects of vagal stimulation, physical or pharmacological vagal maneuvers undertaken to terminate paroxysmal supraventricular tachycardia may be ineffective in patients receiving quinidine.
+
+
+PRECAUTIONS
+
+
+Heart block
+
+In patients without implanted pacemakers who are at high risk of complete atrioventricular block (eg, those with digitalis intoxication, second degree atrioventricular block, or severe intraventricular conduction defects), quinidine should be used only with caution.
+
+Drug interactions
+
+Altered pharmacokinetics of quinidine: Drugs that alkalinize the urine (carbonic anhydrase inhibitors, sodium bicarbonate, thiazide diuretics ) reduce renal elimination of quinidine.
+By pharmacokinetic mechanisms that are not well understood, quinidine levels are increased by coadministration of amiodarone or cimetidine. Very rarely, and again by mechanisms not understood, quinidine levels are decreased by coadministration of nifedipine.
+Hepatic elimination of quinidine may be accelerated by coadministration of drugs (phenobarbital, phenytoin, rifampin ) that induce production of cytochrome P450IIIA4.
+Perhaps because of competition of the P450IIIA4 metabolic pathway, quinidine levels rise when ketaconazole is coadministered.
+Coadministration of propranolol usually does not affect quinidine pharmacokinetics, but in some studies, the blocker appeared to cause increases in the peak serum levels of quinidine, decreases in quinidine's volume of distribution and decreases in total quinidine clearance. The effects (if any) of coadministration of other blockers on quinidine pharmacokinetics have not been adequately studied.
+Hepatic clearance of quinidine is significantly reduced during coadministration of verapamil, with corresponding increases in serum levels and half life.
+Altered pharmacokinetics of other drugs: Quinidine slows the elimination of digoxin and simultaneously reduces digoxin's apparent volume of distribution. As a result, serum digoxin levels may be as much as doubled. When quinidine and digoxin are coadministered, digoxin doses usually need to be reduced. Serum levels of digitoxin are also raised when quinidine is coadministered, although the effect appears to be smaller.
+By a mechanism that is not understood, quinidine potentiates the anticoagulatory action of warfarin, and the anticoagulant dosage may need to be reduced.
+Cytochrome P450IID6 is an enzyme critical to the metabolism of many drugs, notably including mexiletine, some phenothiazines, and most polycyclic antidepressants. Constitutional deficiency of cytochrome P450IID6 is found in less than 1% of Orientals, in about 2% of American blacks, and in about 8% of American whites. Testing with debrisoquine is sometimes used to distinguish the P450IID6 deficient "poor metabolizers" from the majority phenotype "extensive metabolizers."
+When drugs whose metabolism is P450IID6 dependent are given to poor metabolizers, the serum levels achieved are higher, sometimes much higher, than the serum levels achieved when identical doses are given to extensive metabolizers. To obtain similar clinical benefit without toxicity, doses given to poor metabolizers may need to be greatly reduced. In the cases of prodrugs whose actions are actually mediated by P450IID6 produced metabolites (for example, codeine and hydrocodone, whose analgesic and antitussive effects appear to be mediated by morphine and hydromorphone, respectively), it may not be possible to achieve the desired clinical benefits in poor metabolizers.
+Quinidine is not metabolized by cytochrome P450IID6, but therapeutic serum levels of quinidine inhibit the action of cytochrome P450IID6, effectively converting extensive metabolizers into poor metabolizers. Caution must be exercised whenever quinidine is prescribed together with drugs metabolized by cytochrome P450IID6.
+Perhaps by competing for pathways of renal clearance, coadministration of quinidine causes an increase in serum levels of procainamide.
+Serum levels of haloperidol are increased when quinidine is coadministered.
+Presumably because both drugs are metabolized by cyctochrome P450IIIA4, coadministration of quinidine causes variable slowing of the metabolism of nifedipine. Interactions with other dihydropyridine calcium channel blockers have not been reported, but these agents (including felodipine, nicardipine, and nimodipine ) are all dependent upon P450IIIA4 for metabolism, so similar interactions with quinidine should be anticipated.
+Altered pharmacodynamics of other drugs: Quinidine's anticholinergic, vasodilating, and negative inotropic actions may be additive to those of other drugs with these effects, and antagonistic to those of drugs with cholinergic, vasoconstricting, and positive inotropic effects. For example, when quinidine and verapamil are coadministered in doses that are each well tolerated as monotherapy, hypotension attributable to additive peripheral blockade is sometimes reported.
+Quinidine potentiates the actions of depolarizing (succinylcholine, decamethonium) and nondepolarizing (d tubocurarine, pancuronium) neuromuscular blocking agents. These phenomena are not well understood, but they are observed in animal models as well as in humans. In addition, in vitro addition of quinidine to the serum of pregnant women reduces the activity of pseudocholinesterase, an enzyme that is essential to the metabolism of succinylcholine.
+Diltiazem significantly decreases the clearance and increases the t of quinidine, but quinidine does not alter the kinetics of diltiazem. Non interactions of quinidine with other drugs: Quinidine has no clinically significant effect on the pharmacokinetics of diltiazem, flecainide, mephenytoin, metoprolol, propafenone, propranolol, quinine, timolol, or tocainide.
+Conversely, the pharmacokinetics of quinidine are not significantly affected by caffeine, ciprofloxacin, digoxin, felodipine, omeprazole, or quinine. Quinidine's pharmacokinetics are also unaffected by cigarette smoking.
+
+Carcinogenesis, mutagenesis, impairment of fertility
+
+Animal studies to evaluate quinidine's carcinogenic or mutagenic potential have not been performed. Similarly, there are no animal data as to quinidine's potential to impair fertility.
+
+Pregnancy
+
+Pregnancy Category C Animal reproductive studies have not been conducted with quinidine. There are no adequate and well controlled studies in pregnant women. Quinidine should be given to a pregnant woman only if clearly needed.
+In one neonate whose mother had received quinidine throughout her pregnancy, the serum level of quinidine was equal to that of the mother, with no apparent ill effect. The level of quinidine in amniotic fluid was about three times higher than that found in serum.
+
+Labor and Delivery
+
+Quinine is said to be oxytocic in humans, but there are no adequate data as to quinidine's effect (if any) on human labor and delivery.
+
+Nursing mothers
+
+Quinidine is present in human milk at levels slightly lower than those in maternal serum, a human infant ingesting such milk should (scaling directly by weight) be expected to develop serum quinidine levels at least an order of magnitude lower than those of the mother. On the other hand, the pharmacokinetics and pharmacodynamics of quinidine in human infants have not been adequately studied, and neonates' reduced protein binding of quinidine may increase their risk of toxicity at low total serum levels. Administration of quinidine should (if possible) be avoided in lactating women who continue to nurse.
+
+Pediatric use
+
+In antimalarial trials, quinidine was as safe and effective in pediatric patients as in adults. Notwithstanding the known pharmacokinetic differences between pediatric patients and adults (see Pharmacokinetics and Metabolism), pediatric patients in these trials received the same doses (on a mg/kg basis) as adults.
+Safety and effectiveness of antiarrhythmic use in pediatric patients have not been established.
+
+Geriatric use
+
+Safety and efficacy of quinidine in elderly patients has not been systematically studied. Clinical studies of quinidine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. The reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
+

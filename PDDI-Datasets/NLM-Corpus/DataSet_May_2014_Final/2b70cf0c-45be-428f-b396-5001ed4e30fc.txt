@@ -1,0 +1,73 @@
+AMILORIDE HYDROCLORIDE tablet 
+
+Amiloride HCl, an antikaliuretic-diuretic agent, is a pyrazine-carbonyl-guanidine that is unrelated chemically to other known antikaliuretic or diuretic agents.
+
+CONTRAINDICATIONS
+
+Hyperkalemia
+
+Amiloride HCl should not be used in the presence of elevated serum potassium levels (greater than 5.5 mEq per liter).
+
+Antikaliuretic Therapy or Potassium Supplementation
+
+Amiloride HCl should not be given to patients receiving other potassium-conserving agents, such as spironolactone or triamterene. Potassium supplementation in the form of medication, potassium-containing salt substitutes or a potassium-rich diet should not be used with amiloride HCl except in severe and/or refractory cases of hypokalemia. Such concomitant therapy can be associated with rapid increases in serum potassium levels. If potassium supplementation is used, careful monitoring of the serum potassium level is necessary.
+
+Impaired Renal Function
+
+Anuria, acute or chronic renal insufficiency, and evidence of diabetic nephropathy are contraindications to the use of amiloride HCl. Patients with evidence of renal functional impairment (blood urea nitrogen [BUN] levels over 30 mg per 100 mL or serum creatinine levels over 1.5 mg per 100 mL) or diabetes mellitus should not receive the drug without careful, frequent and continuing monitoring of serum electrolytes, creatinine, and BUN levels. Potassium retention associated with the use of an antikaliuretic agent is accentuated in the presence of renal impairment and may result in the rapid development of hyperkalemia.
+
+Hypersensitivity
+
+Amiloride HCl is contraindicated in patients who are hypersensitive to this product.
+
+WARNINGS
+
+Hyperkalemia
+
+Like other potassium-conserving agents, amiloride may cause hyperkalemia (serum potassium levels greater than 5.5 mEq per liter) which, if uncorrected, is potentially fatal. Hyperkalemia occurs commonly (about 10%) when amiloride is used without a kaliuretic diuretic. This incidence is greater in patients with renal impairment, diabetes mellitus (with or without recognized renal insufficiency), and in the elderly. When amiloride HCl is used concomitantly with a thiazide diuretic in patients without these complications, the risk of hyperkalemia is reduced to about 1-2 percent. It is thus essential to monitor serum potassium levels carefully in any patient receiving amiloride, particularly when it is first introduced, at the time of diuretic dosage adjustments, and during any illness that could affect renal function.
+
+The risk of hyperkalemia may be increased when potassium-conserving agents, including amiloride HCl, are administered concomitantly with an angiotensin-converting enzyme inhibitor, an angiotensin II receptor antagonist, cyclosporine or tacrolimus. (See PRECAUTIONS, Drug Interactions.) Warning signs or symptoms of hyperkalemia include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia, shock, and ECG abnormalities. Monitoring of the serum potassium level is essential because mild hyperkalemia is not usually associated with an abnormal ECG.
+
+When abnormal, the ECG in hyperkalemia is characterized primarily by tall, peaked T waves or elevations from previous tracings. There may also be lowering of the R wave and increased depth of the S wave, widening and even disappearance of the P wave, progressive widening of the QRS complex, prolongation of the PR interval, and ST depression.
+
+Treatment of hyperkalemia:
+
+If hyperkalemia occurs in patients taking amiloride HCl, the drug should be discontinued immediately. If the serum potassium level exceeds 6.5 mEq per liter, active measures should be taken to reduce it. Such measures include the intravenous administration of sodium bicarbonate solution or oral or parenteral glucose with a rapid-acting insulin preparation. If needed, a cation exchange resin such as sodium polystyrene sulfonate may be given orally or by enema. Patients with persistent hyperkalemia may require dialysis.
+
+Diabetes Mellitus
+
+In diabetic patients, hyperkalemia has been reported with the use of all potassium-conserving diuretics, including amiloride HCl, even in patients without evidence of diabetic nephropathy. Therefore, amiloride HCl should be avoided, if possible, in diabetic patients and, if it is used, serum electrolytes and renal function must be monitored frequently.
+
+Amiloride HCl should be discontinued at least three days before glucose tolerance testing.
+
+Metabolic or Respiratory Acidosis
+
+Antikaliuretic therapy should be instituted only with caution in severely ill patients in whom respiratory or metabolic acidosis may occur, such as patients with cardiopulmonary disease or poorly controlled diabetes. If amiloride HCl is given to these patients, frequent monitoring of acid-base balance is necessary. Shifts in acid-base balance alter the ratio of extracellular/intracellular potassium, and the development of acidosis may be associated with rapid increases in serum potassium levels.
+
+PRECAUTIONS
+
+General
+
+Electrolyte Imbalance and BUN Increases
+
+Hyponatremia and hypochloremia may occur when amiloride HCl is used with other diuretics and increases in BUN levels have been reported. These increases usually have accompanied vigorous fluid elimination, especially when diuretic therapy was used in seriously ill patients, such as those who had hepatic cirrhosis with ascites and metabolic alkalosis, or those with resistant edema. Therefore, when amiloride HCl is given with other diuretics to such patients, careful monitoring of serum electrolytes and BUN levels is important. In patients with pre-existing severe liver disease, hepatic encephalopathy, manifested by tremors, confusion, and coma, and increased jaundice, have been reported in association with diuretics, including amiloride HCl.
+
+Drug Interactions
+
+When amiloride HCl is administered concomitantly with an angiotensin-converting enzyme inhibitor, an angiotensin II receptor antagonist, cyclosporine or tacrolimus, the risk of hyperkalemia may be increased. Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium. (See WARNINGS.)
+
+Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity. Read circulars for lithium preparations before use of such concomitant therapy.
+
+In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when amiloride HCl and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained. Since indomethacin and potassium-sparing diuretics, including amiloride HCl, may each be associated with increased serum potassium levels, the potential effects on potassium kinetics and renal function should be considered when these agents are administered concurrently.
+
+DOSAGE AND ADMINISTRATION
+
+Amiloride HCl should be administered with food.
+
+Amiloride HCl, one 5 mg tablet daily, should be added to the usual antihypertensive or diuretic dosage of a kaliuretic diuretic. The dosage may be increased to 10 mg per day, if necessary. More than two 5 mg tablets of amiloride HCl daily usually are not needed, and there is little controlled experience with such doses. If persistent hypokalemia is documented with 10 mg, the dose can be increased to 15 mg, then 20 mg, with careful monitoring of electrolytes.
+
+In treating patients with congestive heart failure after an initial diuresis has been achieved, potassium loss may also decrease and the need for amiloride HCl should be re-evaluated. Dosage adjustment may be necessary. Maintenance therapy may be on an intermittent basis.
+
+If it is necessary to use amiloride HCl alone (See INDICATIONS), the starting dosage should be one 5 mg tablet daily. This dosage may be increased to 10 mg per day, if necessary. More than two 5 mg tablets usually are not needed, and there is little controlled experience with such doses. If persistent hypokalemia is documented with 10 mg, the dose can be increased to 15 mg, then 20 mg, with careful monitoring of electrolytes.
+
+

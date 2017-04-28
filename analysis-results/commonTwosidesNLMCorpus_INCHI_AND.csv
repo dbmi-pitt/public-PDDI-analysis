@@ -1,0 +1,6 @@
+drug pair    NLMCorpus    Twosides
+http://bio2rdf.org/drugbank:DB01258-http://bio2rdf.org/drugbank:DB00381    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00264-http://bio2rdf.org/drugbank:DB00575    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01020-http://bio2rdf.org/drugbank:DB00203    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00321-http://bio2rdf.org/drugbank:DB00575    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00727-http://bio2rdf.org/drugbank:DB00203    [(None, None)]    [(None, None)]

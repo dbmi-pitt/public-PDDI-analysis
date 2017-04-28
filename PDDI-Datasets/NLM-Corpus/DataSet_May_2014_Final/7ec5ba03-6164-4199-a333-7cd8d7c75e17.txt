@@ -1,0 +1,55 @@
+Drug Label for drug brand DilatrateSR, containing Isosorbide Dinitrate.
+
+
+CONTRAINDICATIONS:
+
+
+Allergic reactions to organic nitrates are extremely rare, but they do occur. Isosorbide dinitrate is contraindicated in patients who are allergic to it.
+
+
+WARNINGS:
+
+Amplification of the vasodilatory effects of dilatrate - SR by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
+The benefits of extended-release oral isosorbide dinitrate in patients with acute myocardial infarction or congestive heart failure have not been established. If one elects to use isosorbide dinitrate in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia. Because the effects of extended-release oral isosorbide dinitrate are so difficult to terminate rapidly, this formulation is not recommended in these settings.
+
+
+PRECAUTIONS:
+
+ <paragraph>
+ <main>General:
+ <item>Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide dinitrate. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide dinitrate may be accompanied by paradoxical bradycardia and increased angina pectoris.
+ <item>Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
+ <item>As tolerance to isosorbide dinitrate develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted.
+ <item>Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day. During the interdosing intervals in some of these trials, anginal attacks have been more easily provoked than before treatment and patients have demonstrated hemodynamic rebound and decreased exercise tolerance. The importance of these observations to the routine, clinical use of controlled-release oral isosorbide dinitrate is not known.
+ <item>In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers demonstrating the existence of true physical dependence.
+ </paragraph>
+ <paragraph>
+ <main>Information for Patients:
+ <item>Patients should be told that the antianginal efficacy of isosorbide dinitrate is strongly related to its dosing regimen, so the prescribed schedule of dosing should be followed carefully. In particular, daily headaches sometimes accompany treatment with isosorbide dinitrate. In patients who get these headaches, the headaches are a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide dinitrate, since loss of headache may be associated with simultaneous loss of antianginal efficacy. Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate's antianginal efficacy.
+ <item>Treatment with isosorbide dinitrate may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol.
+ </paragraph>
+ <paragraph>
+ <main>Drug interactions:
+ <item>The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety.
+ </paragraph>
+ <paragraph>
+ <main>Carcinogenesis, Mutagenesis and Impairment of Fertility:
+ <item>No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate. In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
+ </paragraph>
+ <paragraph>
+ <main>Pregnancy Category C:
+ <item>At oral doses 35 and 150 times the daily Maximum Recommended Human Dose (MRHD), isosorbide dinitrate has been shown to cause a dose related increase in embryotoxicity (increase in mummified pups) in rabbits. There are no adequate, well-controlled studies in pregnant women. Isosorbide dinitrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+ </paragraph>
+ <paragraph>
+ <main>Nursing Mothers:
+ <item>It is not known whether isosorbide dinitrate is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when isosorbide dinitrate is administered to a nursing woman.
+ </paragraph>
+ <paragraph>
+ <main>Pediatric Use:
+ <item>Safety and effectiveness in pediatric patients have not been established.
+ </paragraph>
+ <paragraph>
+ <main>Geriatric Use:
+ <item>Clinical studies of dilatrate -SR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+ </paragraph>
+

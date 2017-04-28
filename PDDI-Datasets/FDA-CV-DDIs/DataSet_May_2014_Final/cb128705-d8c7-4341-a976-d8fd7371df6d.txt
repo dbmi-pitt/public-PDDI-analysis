@@ -1,0 +1,69 @@
+MICRO-K EXTENCAPS (potassium chloride) capsule, extended release
+MICRO-K 10 EXTENCAPS (potassium chloride) capsule, extended release 
+
+Oral dosage forms of microencapsulated potassium chloride containing 600 and 750 mg, respectively, of potassium chloride, USP, equivalent to 8 and 10 mEq of potassium, respectively. 
+
+CONTRAINDICATIONS
+
+Potassium supplements are contraindicated in patients with hyperkalemia since a further increase in serum potassium concentration in such patients can produce cardiac arrest. Hyperkalemia may complicate any of the following conditions: chronic renal failure, systemic acidosis such as diabetic acidosis, acute dehydration, extensive tissue breakdown as in severe burns, adrenal insufficiency, or the administration of a potassium-sparing diuretic (e.g., spironolactone, triamterene, amiloride) (see OVERDOSAGE).
+
+Controlled-release formulations of potassium chloride have produced esophageal ulceration in certain cardiac patients with esophageal compression due to an enlarged left atrium. Potassium supplementation, when indicated in such patients, should be given as a liquid preparation.
+
+All solid oral dosage forms of potassium chloride are contraindicated in any patient in whom there is structural, pathological (e.g., diabetic gastroparesis) or pharmacologic (use of anticholinergic agents or other agents with anticholineric properties at sufficient doses to exert anticholinergic effects) cause for arrest or delay in capsule passage through the gastrointestinal tract. 
+
+WARNINGS
+
+Hyperkalemia (see OVERDOSAGE)
+
+In patients with impaired mechanisms for excreting potassium, the administration of potassium salts can produce hyperkalemia and cardiac arrest. This occurs most commonly in patients given potassium by the intravenous route but may also occur in patients given potassium orally. Potentially fatal hyperkalemia can develop rapidly and be asymptomatic. The use of potassium salts in patients with chronic renal disease, or any other condition which impairs potassium excretion, requires particularly careful monitoring of the serum potassium concentration and appropriate dosage adjustments.
+
+Interaction with Potassium-Sparing Diuretics
+
+Hypokalemia should not be treated by the concomitant administration of potassium salts and a potassium-sparing diuretic (e.g., spironolactone, triamterene, or amiloride), since the simultaneous administration of these agents can produce severe hyperkalemia.
+
+Interaction with Angiotensin Converting Enzyme Inhibitors
+
+Angiotensin converting enzyme (ACE) inhibitors (e.g., captopril, enalapril) will produce some potassium retention by inhibiting aldosterone production. Potassium supplements should be given to patients receiving ACE inhibitors only with close monitoring.
+
+Gastrointestinal Lesions
+
+Solid oral dosage forms of potassium chloride can produce ulcerative and/or stenotic lesions of the gastrointestinal tract. Based on spontaneous adverse reaction reports, enteric-coated preparations of potassium chloride are associated with an increased frequency of small bowel lesions (40 - 50 per 100,000 patient years) compared to sustained-release wax matrix formulations (less than one per 100,000 patient years). Because of the lack of extensive marketing experience with microencapsulated products, a comparison between such products and wax matrix or enteric-coated products is not available. Micro-K® Extencaps® and Micro-K 10 Extencaps are microencapsulated capsules formulated to provide a controlled rate of release of microencapsulated potassium chloride and thus to minimize the possibility of high local concentration of potassium near the gastrointestinal wall.
+
+Prospective trials have been conducted in normal human volunteers in which the upper gastrointestinal tract was evaluated by endoscopic inspection before and after one week of solid oral potassium chloride therapy. The ability of this model to predict events occurring in usual clinical practice is unknown. Trials which approximated usual clinical practice did not reveal any clear differences between the wax matrix and microencapsulated dosage forms. In contrast, there was a higher incidence of gastric and duodenal lesions in subjects receiving a high dose of a wax matrix controlled-release formulation under conditions which did not resemble usual or recommended clinical practice (i.e., 96 mEq per day in divided doses of potassium chloride administered to fasted patients, in the presence of an anticholinergic drug to delay gastric emptying). The upper gastrointestinal lesions observed by endoscopy were asymptomatic and were not accompanied by evidence of bleeding (hemoccult testing). The relevance of these findings to the usual conditions (i.e., non-fasting, no anticholinergic agent, smaller doses) under which controlled-release potassium chloride products are used is uncertain; epidemiologic studies have not identified an elevated risk, compared to microencapsulated products, for upper gastrointestinal lesions in patients receiving wax matrix formulations. Micro-K Extencaps and Micro-K 10 Extencaps should be discontinued immediately and the possibility of ulceration, obstruction or perforation considered if severe vomiting, abdominal pain, distention, or gastrointestinal bleeding occur.
+
+Metabolic Acidosis
+
+Hypokalemia in patients with metabolic acidosis should be treated with an alkalinizing potassium salt such as potassium bicarbonate, potassium citrate, potassium acetate, or potassium gluconate.
+
+PRECAUTIONS:
+
+General
+
+The diagnosis of potassium depletion is ordinarily made by demonstrating hypokalemia in a patient with a clinical history suggesting some cause for potassium depletion. In interpreting the serum potassium level, the physician should bear in mind that acute alkalosis per se can produce hypokalemia in the absence of a deficit in total body potassium, while acute acidosis per se can increase the serum potassium concentration into the normal range even in the presence of a reduced total body potassium. The treatment of potassium depletion, particularly in the presence of cardiac disease, renal disease, or acidosis, requires careful attention to acid-base balance and appropriate monitoring of serum electrolytes, the electrocardiogram, and the clinical status of the patient.
+
+Information for Patients
+
+Physicians should consider reminding the patient of the following: To take each dose with meals and with a full glass of water or other suitable liquid. To take each dose without crushing, chewing, or sucking the capsules. To take this medicine following the frequency and amount prescribed by the physician. This is especially important if the patient is also taking diuretics and/or digitalis preparations. To check with the physician if there is trouble swallowing capsules or if the capsules seem to stick in the throat.
+
+To check with the physician at once if tarry stools or other evidence of gastrointestinal bleeding is noticed.
+
+Laboratory Tests
+
+Regular serum potassium determinations are recommended, especially in patients with renal insufficiency or diabetic nephropathy. When blood is drawn for analysis of plasma potassium it is important to recognize that artifactual elevations can occur after improper venipuncture technique or as a result of in vitro hemolysis of the sample.
+
+Drug Interactions
+
+Potassium-sparing diuretics, angiotensin converting enzyme inhibitors (see WARNINGS).
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenicity, mutagenicity and fertility studies in animals have not been performed. Potassium is a normal dietary constituent.
+
+DOSAGE AND ADMINISTRATION
+
+The usual dietary intake of potassium by the average adult is 50 to 100 mEq per day. Potassium depletion sufficient to cause hypokalemia usually requires the loss of 200 mEq or more of potassium from the total body store.
+
+Dosage must be adjusted to the individual needs of each patient. The dose for the prevention of hypokalemia is typically in the range of 20 mEq per day. Doses of 40 to 100 mEq per day or more are used for the treatment of potassium depletion. Dosage should be divided if more than 20 mEq per day is given such that no more than 20 mEq is given in a single dose. Because of the potential for gastric irritation (see WARNINGS), Micro-K® Extencaps® should be taken with meals and with a full glass of water or other liquid.
+
+Patients who have difficulty swallowing capsules may sprinkle the contents of the capsule onto a spoonful of soft food. The soft food, such as applesauce or pudding, should be swallowed immediately without chewing and followed with a glass of cool water or juice to ensure complete swallowing of the microcapsules. The food used should not be hot and should be soft enough to be swallowed without chewing. Any microcapsule/food mixture should be used immediately and not stored for future use. 
+

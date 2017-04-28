@@ -1,0 +1,124 @@
+Drug Label for drug brand Norpace, containing disopyramide phosphate.
+
+
+CONTRAINDICATIONS
+
+
+Norpace and Norpace CR are contraindicated in the presence of cardiogenic shock, preexisting second- or third-degree AV block (if no pacemaker is present), congenital Q-T prolongation, or known hypersensitivity to the drug.
+
+
+WARNINGS
+
+
+Mortality
+
+In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-center, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had had a myocardial infarction more than 6 days but less than 2 years previously, an excessive mortality or non-fatal cardiac arrest rate (7.7%) was seen in patients treated with encainide or flecainide compared with that seen in patients assigned to carefully matched placebo-treated groups (3.0%). The average duration of treatment with encainide or flecainide in this study was 10 months.
+The applicability of the CAST results to other populations (e.g., those without recent myocardial infarction) is uncertain. Considering the known proarrhythmic properties of Norpace or Norpace CR and the lack of evidence of improved survival for any antiarrhythmic drug in patients without life-threatening arrhythmias, the use of Norpace or Norpace CR as well as other antiarrhythmic agents should be reserved for patients with life-threatening ventricular arrhythmias.
+
+Negative Inotropic Properties
+
+
+Heart Failure/Hypotension
+
+Norpace or Norpace CR may cause or worsen congestive heart failure or produce severe hypotension as a consequence of its negative inotropic properties. Hypotension has been observed primarily in patients with primary cardiomyopathy or inadequately compensated congestive heart failure. Norpace or Norpace CR should not be used in patients with uncompensated or marginally compensated congestive heart failure or hypotension unless the congestive heart failure or hypotension is secondary to cardiac arrhythmia. Patients with a history of heart failure may be treated with Norpace or Norpace CR, but careful attention must be given to the maintenance of cardiac function, including optimal digitalization. If hypotension occurs or congestive heart failure worsens, Norpace or Norpace CR should be discontinued and, if necessary, restarted at a lower dosage only after adequate cardiac compensation has been established.
+
+QRS Widening
+
+Although it is unusual, significant widening (greater than 25%) of the QRS complex may occur during Norpace or Norpace CR administration, in such cases Norpace or Norpace CR should be discontinued.
+
+Q-T Prolongation
+
+As with other Type 1 antiarrhythmic drugs, prolongation of the Q-T interval (corrected) and worsening of the arrhythmia, including ventricular tachycardia and ventricular fibrillation, may occur. Patients who have evidenced prolongation of the Q-T interval in response to quinidine may be at particular risk. As with other Type 1A antiarrhythmics, disopyramide phosphate has been associated with torsade de pointes.
+If a Q-T prolongation of greater than 25% is observed and if ectopy continues, the patient should be monitored closely, and consideration given to discontinuing Norpace or Norpace CR.
+
+Hypoglycemia
+
+In rare instances significant lowering of blood-glucose values has been reported during Norpace administration. The physician should be alert to this possibility, especially in patients with congestive heart failure, chronic malnutrition, hepatic, renal or other diseases, or drugs (e.g., beta-adrenoceptor blockers, alcohol) which could compromise preservation of the normal glucoregulatory mechanisms in the absence of food. In these patients the blood-glucose levels should be carefully followed.
+
+Concomitant Antiarrhythmic Therapy
+
+The concomitant use of Norpace or Norpace CR with other Type 1A antiarrhythmic agents (such as quinidine or procainamide), Type 1C antiarrhythmics (such as encainide, flecainide or propafenone), and/or propranolol should be reserved for patients with life-threatening arrhythmias who are demonstrably unresponsive to single-agent antiarrhythmic therapy. Such use may produce serious negative inotropic effects, or may excessively prolong conduction. This should be considered particularly in patients with any degree of cardiac decompensation or those with a prior history thereof. Patients receiving more than one antiarrhythmic drug must be carefully monitored.
+
+Heart Block
+
+If first-degree heart block develops in a patient receiving Norpace or Norpace CR, the dosage should be reduced. If the block persists despite reduction of dosage, continuation of the drug must depend upon weighing the benefit being obtained against the risk of higher degrees of heart block. Development of second- or third-degree AV block or unifascicular, bifascicular, or trifascicular block requires discontinuation of Norpace or Norpace CR therapy, unless the ventricular rate is adequately controlled by a temporary or implanted ventricular pacemaker.
+
+Anticholinergic Activity
+
+Because of its anticholinergic activity, disopyramide phosphate should not be used in patients with glaucoma, myasthenia gravis, or urinary retention unless adequate overriding measures are taken, these consist of the topical application of potent miotics (e.g., pilocarpine) for patients with glaucoma, and catheter drainage or operative relief for patients with urinary retention. Urinary retention may occur in patients of either sex as a consequence of Norpace or Norpace CR administration, but males with benign prostatic hypertrophy are at particular risk. In patients with a family history of glaucoma, intraocular pressure should be measured before initiating Norpace or Norpace CR therapy. Disopyramide phosphate should be used with special care in patients with myasthenia gravis since its anticholinergic properties could precipitate a myasthenic crisis in such patients.
+
+
+PRECAUTIONS
+
+
+General
+
+
+Atrial Tachyarrhythmias
+
+Patients with atrial flutter or fibrillation should be digitalized prior to Norpace or Norpace CR administration to ensure that drug-induced enhancement of AV conduction does not result in an increase of ventricular rate beyond physiologically acceptable limits.
+
+Conduction Abnormalities
+
+Care should be taken when prescribing Norpace or Norpace CR for patients with sick sinus syndrome (bradycardia-tachycardia syndrome), Wolff-Parkinson-White syndrome (WPW), or bundle branch block. The effect of disopyramide phosphate in these conditions is uncertain at present.
+
+Cardiomyopathy
+
+Patients with myocarditis or other cardiomyopathy may develop significant hypotension in response to the usual dosage of disopyramide phosphate, probably due to cardiodepressant mechanisms. Therefore, a loading dose of Norpace should not be given to such patients, and initial dosage and subsequent dosage adjustments should be made under close supervision (see Dosage and Administration ).
+
+Renal Impairment
+
+More than 50% of disopyramide is excreted in the urine unchanged. Therefore Norpace dosage should be reduced in patients with impaired renal function (see Dosage and Administration ). The electrocardiogram should be carefully monitored for prolongation of PR interval, evidence of QRS widening, or other signs of overdosage (see Overdosage ).
+Norpace CR is not recommended for patients with severe renal insufficiency (creatinine clearance 40 ml/min or less).
+
+Hepatic Impairment
+
+Hepatic impairment also causes an increase in the plasma half-life of disopyramide. Dosage should be reduced for patients with such impairment. The electrocardiogram should be carefully monitored for signs of overdosage (see Overdosage ).
+Patients with cardiac dysfunction have a higher potential for hepatic impairment, this should be considered when administering Norpace or Norpace CR.
+
+Potassium Imbalance
+
+Antiarrhythmic drugs may be ineffective in patients with hypokalemia, and their toxic effects may be enhanced in patients with hyperkalemia. Therefore, potassium abnormalities should be corrected before starting Norpace or Norpace CR therapy.
+
+Drug Interactions
+
+If phenytoin or other hepatic enzyme inducers are taken concurrently with Norpace or Norpace CR, lower plasma levels of disopyramide may occur. Monitoring of disopyramide plasma levels is recommended in such concurrent use to avoid ineffective therapy. Other antiarrhythmic drugs (e.g., quinidine, procainamide, lidocaine, propranolol) have occasionally been used concurrently with Norpace. Excessive widening of the QRS complex and/or prolongation of the Q-T interval may occur in these situations (see Warnings ). In healthy subjects, no significant drug-drug interaction was observed when Norpace was coadministered with either propranolol or diazepam. Concomitant administration of Norpace and quinidine resulted in slight increases in plasma disopyramide levels and slight decreases in plasma quinidine levels. Norpace does not increase serum digoxin levels.
+Until data on possible interactions between verapamil and disopyramide phosphate are obtained, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.
+Although potent inhibitors of cytochrome P450 3A4 (e.g., ketoconazole) have not been studied clinically, in vitro studies have shown that erythromycin and oleandomycin inhibit the metabolism of disopyramide. Cases of life-threatening interactions have been reported for disopyramide when given with clarithromycin and erythromycin indicating that coadministration of disopyramide with inhibitors of cytochrome 3A4 could result in potentially fatal interaction.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Eighteen months of Norpace administration to rats, at oral doses up to 400 mg/kg/day (about 30 times the usual daily human dose of 600 mg/day, assuming a patient weight of at least 50 kg), revealed no evidence of carcinogenic potential. An evaluation of mutagenic potential by Ames test was negative. Norpace, at doses up to 250 mg/kg/day, did not adversely affect fertility of rats.
+
+Pregnancy
+
+
+Teratogenic Effects
+
+
+Pregnancy Category C
+
+Norpace was associated with decreased numbers of implantation sites and decreased growth and survival of pups when administered to pregnant rats at 250 mg/kg/day (20 or more times the usual daily human dose of 12 mg/kg, assuming a patient weight of at least 50 kg), a level at which weight gain and food consumption of dams were also reduced. Increased resorption rates were reported in rabbits at 60 mg/kg/day (5 or more times the usual daily human dose). Effects on implantation, pup growth, and survival were not evaluated in rabbits. There are no adequate and well-controlled studies in pregnant women. Norpace or Norpace CR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Nonteratogenic Effects
+
+Norpace has been reported to stimulate contractions of the pregnant uterus. Disopyramide has been found in human fetal blood.
+
+Labor and Delivery
+
+It is not known whether the use of Norpace or Norpace CR during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention.
+
+Nursing Mothers
+
+Studies in rats have shown that the concentration of disopyramide and its metabolites is between one and three times greater in milk than it is in plasma. Following oral administration, disopyramide has been detected in human milk at a concentration not exceeding that in plasma. Because of the potential for serious adverse reactions in nursing infants from Norpace or Norpace CR, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established (see Dosage and Administration ).
+
+Geriatric Use
+
+Clinical studies of Norpace/Norpace CR did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Because of its anticholinergic activity, disopyramide phosphate should not be used in patients with glaucoma, urinary retention, or benign prostatic hypertrophy (medical conditions commonly associated with the elderly) unless adequate overriding measures are taken (see Warnings: Anticholinergic Activity ). In the event of increased anticholinergic side effects, plasma levels of disopyramide should be monitored and the dose of the drug adjusted accordingly. A reduction of the dose by one third, from the recommended 600 mg/day to 400 mg/day, would be reasonable, without changing the dosing interval.
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see Precautions: Renal Impairment and Dosage and Administration ).
+

@@ -1,0 +1,92 @@
+TYVASO (treprostinil) inhalant 
+
+Tyvaso is indicated for the treatment of pulmonary arterial hypertension.
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 Usual Dosage in Adults
+
+Tyvaso is intended for oral inhalation using the Tyvaso Inhalation System, which consists of an ultrasonic, pulsed delivery device and its accessories.
+
+Tyvaso is dosed in 4 separate, equally spaced treatment sessions per day, during waking hours. The treatment sessions should be approximately 4 hours apart.
+
+Initial Dosage:
+
+Therapy should begin with 3 breaths of Tyvaso (18 mcg of treprostinil), per treatment session, 4 times daily. If 3 breaths are not tolerated, reduce to 1 or 2 breaths and subsequently increase to 3 breaths, as tolerated.
+
+Maintenance Dosage:
+
+Dosage should be increased by an additional 3 breaths at approximately 1-2 week intervals, if tolerated, until the target dose of 9 breaths (54 mcg of treprostinil) is reached per treatment session, 4 times daily. If adverse effects preclude titration to target dose, Tyvaso should be continued at the highest tolerated dose.
+
+If a scheduled treatment session is missed or interrupted, therapy should be resumed as soon as possible at the usual dose.
+
+The maximum recommended dosage is 9 breaths per treatment session, 4 times daily.
+
+2.2 Patients with Hepatic Insufficiency
+
+Plasma clearance of treprostinil is reduced in patients with hepatic insufficiency. Patients with hepatic insufficiency may therefore be at increased risk of dose-dependent adverse reactions because of an increase in systemic exposure [see Warnings and Precautions (5.3), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+2.3 Patients with Renal Insufficiency
+
+Plasma clearance of treprostinil may be reduced in patients with renal insufficiency, since treprostinil and its metabolites are excreted mainly through the urinary route. Patients with renal insufficiency may therefore be at increased risk of dose-dependent adverse reactions [see Warnings and Precautions (5.3), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+4 CONTRAINDICATIONS
+
+None.
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Patients with Pulmonary Disease or Pulmonary Infections
+
+The safety and efficacy of Tyvaso have not been established in patients with significant underlying lung disease (e.g., asthma or chronic obstructive pulmonary disease). Patients with acute pulmonary infections should be carefully monitored to detect any worsening of lung disease and loss of drug effect.
+
+5.2 Risk of Symptomatic Hypotension
+
+Treprostinil is a pulmonary and systemic vasodilator. In patients with low systemic arterial pressure, treatment with Tyvaso may produce symptomatic hypotension.
+
+5.3 Patients with Hepatic or Renal Insufficiency
+
+Titrate slowly in patients with hepatic or renal insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic or renal function [see Dosage and Administration (2.2, 2.3), Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
+
+5.4 Risk of Bleeding
+
+Since Tyvaso inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulant therapy.
+
+5.5 Effect of Other Drugs on Treprostinil
+
+Co-administration of a cytochrome P450 (CYP) 2C8 enzyme inhibitor (e.g., gemfibrozil) may increase exposure (both Cmax and AUC) to treprostinil. Co-administration of a CYP2C8 enzyme inducer (e.g., rifampin) may decrease exposure to treprostinil. Increased exposure is likely to increase adverse events associated with treprostinil administration, whereas decreased exposure is likely to reduce clinical effectiveness [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+
+7 DRUG INTERACTIONS
+
+Pharmacokinetic/pharmacodynamic interaction studies have not been conducted with inhaled treprostinil (Tyvaso); however, some of such studies have been conducted with orally (treprostinil diolamine) and subcutaneously administered treprostinil (Remodulin®).
+
+Pharmacodynamics
+
+7.1 Antihypertensive Agents or Other Vasodilators
+
+Concomitant administration of Tyvaso with diuretics, antihypertensive agents or other vasodilators may increase the risk of symptomatic hypotension.
+
+7.2 Anticoagulants
+
+Since treprostinil inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulants.
+
+Pharmacokinetics
+
+7.3 Bosentan
+
+In a human pharmacokinetic study conducted with bosentan (250 mg/day) and an oral formulation of treprostinil (treprostinil diolamine), no pharmacokinetic interactions between treprostinil and bosentan were observed.
+
+7.4 Sildenafil
+
+In a human pharmacokinetic study conducted with sildenafil (60 mg/day) and an oral formulation of treprostinil (treprostinil diolamine), no pharmacokinetic interactions between treprostinil and sildenafil were observed.
+
+7.5 Effect of Cytochrome P450 Inhibitors and Inducers
+
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A. Additionally, treprostinil does not induce cytochrome P450 isoenzymes CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A.
+
+Human pharmacokinetic studies with an oral formulation of treprostinil (treprostinil diolamine) indicated that co-administration of the cytochrome P450 (CYP) 2C8 enzyme inhibitor gemfibrozil increases exposure (both Cmax and AUC) to treprostinil. Co-administration of the CYP2C8 enzyme inducer rifampin decreases exposure to treprostinil. It is unclear if the safety and efficacy of treprostinil by the inhalation route are altered by inhibitors or inducers of CYP2C8 [see Warnings and Precautions (5.5)].
+
+7.6 Effect of Other Drugs on Treprostinil
+
+Drug interaction studies have been carried out with treprostinil (oral or subcutaneous) co-administered with acetaminophen (4 g/day), warfarin (25 mg/day), and fluconazole (200 mg/day), respectively in healthy volunteers. These studies did not show a clinically significant effect on the pharmacokinetics of treprostinil. Treprostinil does not affect the pharmacokinetics or pharmacodynamics of warfarin. The pharmacokinetics of R- and S- warfarin and the INR in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous infusion of treprostinil at an infusion rate of 10 ng/kg/min.
+

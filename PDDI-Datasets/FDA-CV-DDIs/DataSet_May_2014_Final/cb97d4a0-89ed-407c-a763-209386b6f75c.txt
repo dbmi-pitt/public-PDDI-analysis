@@ -1,0 +1,110 @@
+DOPAMINE HYDROCHLORIDE AND DEXTROSE (dopamine hydrochloride) injection, solution 
+
+Dopamine Hydrochloride and 5% Dextrose Injection, USP is a sterile, nonpyrogenic solution of Dopamine Hydrochloride, USP and Dextrose, USP in Water for Injection.
+
+CONTRAINDICATIONS
+
+Dopamine hydrochloride should not be used in patients with pheochromocytoma.
+
+Dopamine hydrochloride should not be administered in the presence of uncorrected tachyarrhythmias or ventricular fibrillation.
+
+Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products.
+
+WARNINGS
+
+Patients who have been treated with monoamine oxidase (MAO) inhibitors prior to the administration of dopamine hydrochloride will require substantially reduced dosage. See Drug Interactions, below.
+
+Evidence is inadequate for fully defining proper dosage and limitations for use in children.
+
+Contains sodium bisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
+
+Do not add Dopamine Hydrochloride and 5% Dextrose Injection, USP to any alkaline diluent solution since dopamine hydrochloride is inactivated in alkaline solution.
+
+Solutions containing dextrose should not be administered through the same administration set as blood, as this may result in pseudoagglutination or hemolysis.
+
+The intravenous administration of solutions may cause fluid overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.
+
+Excess administration of potassium-free solutions may result in significant hypokalemia.
+
+PRECAUTIONS
+
+General
+
+Avoid bolus administration of dopamine hydrochloride. See Dosage and Administration.
+
+Avoid Hypovolemia
+
+Prior to treatment with dopamine hydrochloride, hypovolemia should be fully corrected, if possible, with either whole blood, plasma, or plasma expanders as indicated. Monitoring of central venous pressure or left ventricular filling pressure may be helpful in detecting and treating hypovolemia.
+
+Hypoxia, Hypercapnia, Acidosis
+
+These conditions, which may also reduce the effectiveness and/or increase the incidence of adverse effects of dopamine, must be identified and corrected prior to, and concurrently with, administration of dopamine HCl.
+
+Ventricular Arrhythmias
+
+If an increased number of ectopic beats is observed, the dose should be reduced if possible.
+
+Decreased Pulse Pressure
+
+If a disproportionate rise in the diastolic pressure (i.e., marked decrease in the pulse pressure) is observed in patients receiving dopamine hydrochloride, the infusion rate should be decreased and the patient observed carefully for further evidence of predominant vasoconstrictor activity, unless such an effect is desired.
+
+Hypotension
+
+At lower infusion rates, if hypotension occurs, the infusion rate should be rapidly increased until adequate blood pressure is obtained. If hypotension persists, dopamine HCl should be discontinued and a more potent vasoconstrictor agent such as norepinephrine should be administered.
+
+Occlusive Vascular Disease
+
+Patients with a history of occlusive vascular disease (for example, atherosclerosis, arterial embolism, Raynaud’s disease, cold injury, diabetic endarteritis and Buerger’s disease) should be closely monitored for any changes in color or temperature of the skin in the extremities. If a change in skin color or temperature occurs and is thought to be the result of compromised circulation to the extremities, the benefits of continued dopamine hydrochloride infusion should be weighed against the risk of possible necrosis. This condition may be reversed by either decreasing the rate or discontinuing the infusion.
+
+Extravasation
+
+Dopamine Hydrochloride and 5% Dextrose Injection, USP should be infused into a large vein whenever possible to prevent the possibility of extravasation into tissue adjacent to the infusion site. Extravasation may cause necrosis and sloughing of surrounding tissue. Large veins of the antecubital fossa are preferred to veins in the dorsum of the hand or ankle. Less suitable infusion sites should be used only if the patient’s condition requires immediate attention. The physician should switch to more suitable sites as rapidly as possible. The infusion site should be continuously monitored for free flow.
+
+IMPORTANT - Antidote for Peripheral Ischemia
+To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP containing from 5 to 10 mg phentolamine, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockage with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted.
+
+Weaning
+
+When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with IV fluids, since sudden cessation may result in marked hypotension.
+
+Careful Monitoring Required
+
+Close monitoring of the following indices - urine flow, cardiac output and blood pressure - during dopamine hydrochloride infusion is necessary as in the case of any adrenergic agent.
+
+Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.
+
+Do not administer unless solution is clear and seal is intact.
+
+If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result.
+
+Laboratory Tests
+
+Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance, electrolyte concentrations and acid base balance during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation.
+
+Drug Interactions
+
+Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol.
+
+Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine hydrochloride no greater than one-tenth (1/10) of the usual dose.
+
+Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow.
+
+Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents.
+
+Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents.
+
+Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion.
+
+The concomitant use of vasopressors, vasoconstrictor agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension.
+
+Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed.
+
+DOSAGE AND ADMINISTRATION
+
+Rate of Administration
+
+Dopamine Hydrochloride and 5% Dextrose Injection, USP is administered intravenously through a suitable intravenous catheter or needle. An IV drip chamber or other suitable metering device is essential for controlling the rate of flow in drops/minute. Each patient must be individually titrated to the desired hemodynamic and/or renal response with dopamine hydrochloride. In titrating to the desired increase in systolic blood pressure, the optimum dosage rate for renal response may be exceeded, thus necessitating a reduction in rate after the hemodynamic condition is stabilized.
+
+Administration of dopamine hydrochloride at rates greater than 50 mcg/kg/min has safely been used in advanced circulatory decompensation states. If unnecessary fluid expansion is of concern, use of a more concentrated solution may be preferred over increasing the flow rate of a less concentrated solution.
+
+Drug additives should not be made to Dopamine Hydrochloride and 5% Dextrose Injection, USP.

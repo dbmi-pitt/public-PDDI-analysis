@@ -1,0 +1,10 @@
+drug pair    PKCorpus    Twosides
+http://bio2rdf.org/drugbank:DB00404-http://bio2rdf.org/drugbank:DB00458    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00734    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB01067    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00196-http://bio2rdf.org/drugbank:DB00683    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00787-http://bio2rdf.org/drugbank:DB00454    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00448-http://bio2rdf.org/drugbank:DB01072    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01149-http://bio2rdf.org/drugbank:DB00404    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00734-http://bio2rdf.org/drugbank:DB00313    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01149-http://bio2rdf.org/drugbank:DB00897    [(None, None)]    [(None, None)]

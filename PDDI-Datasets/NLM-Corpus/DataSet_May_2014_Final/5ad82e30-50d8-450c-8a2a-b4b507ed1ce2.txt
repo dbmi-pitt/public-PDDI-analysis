@@ -1,0 +1,81 @@
+Drug Label for drug brand Integrilin, containing Eptifibatide.
+
+
+4 CONTRAINDICATIONS
+
+ <paragraph>
+ <main>Treatment with INTEGRILIN is contraindicated in patients with:
+ <item>
+ <item>A history of bleeding diathesis, or evidence of active abnormal bleeding within the previous 30 days
+ <item>
+ <item>Severe hypertension (systolic blood pressure 200 mm Hg or diastolic blood pressure 110 mm Hg) not adequately controlled on antihypertensive therapy
+ <item>
+ <item>Major surgery within the preceding 6 weeks
+ <item>
+ <item>History of stroke within 30 days or any history of hemorrhagic stroke
+ <item>
+ <item>Current or planned administration of another parenteral GP IIb/IIIa inhibitor
+ <item>
+ <item>Dependency on renal dialysis
+ <item>
+ <item>Hypersensitivity to INTEGRILIN or any component of the product (hypersensitivity reactions that occurred included anaphylaxis and urticaria).
+ <item>
+ </paragraph>
+ <list>
+ <item>
+ <item>Bleeding diathesis or bleeding within the previous 30 days (4)
+ <item>
+ <item>Severe uncontrolled hypertension (4)
+ <item>
+ <item>Major surgery within the preceding 6 weeks (4)
+ <item>
+ <item>Stroke within 30 days or any history of hemorrhagic stroke (4)
+ <item>
+ <item>Coadministration of another parenteral GP IIb/IIIa inhibitor (4)
+ <item>
+ <item>Dependency on renal dialysis (4)
+ <item>
+ <item>Known hypersensitivity to any component of the product (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>INTEGRILIN can cause serious bleeding. If bleeding cannot be controlled, discontinue INTEGRILIN immediately. Minimize vascular and other traumas. If heparin is given concomitantly, monitor aPTT or ACT. (5.1)
+ <item>
+ <item>Thrombocytopenia: Discontinue INTEGRILIN and heparin. Monitor and treat condition appropriately. (5.2)
+ <item>
+ </list>
+
+
+5.1 Bleeding
+
+Bleeding is the most common complication encountered during INTEGRILIN therapy. Administration of INTEGRILIN is associated with an increase in major and minor bleeding, as classified by the criteria of the Thrombolysis in Myocardial Infarction Study group (TIMI) see Adverse Reactions (6.1). Most major bleeding associated with INTEGRILIN has been at the arterial access site for cardiac catheterization or from the gastrointestinal or genitourinary tract. Minimize the use of arterial and venous punctures, intramuscular injections, and the use of urinary catheters, nasotracheal intubation, and nasogastric tubes. When obtaining intravenous access, avoid non-compressible sites (e.g., subclavian or jugular veins).
+Use of Thrombolytics, Anticoagulants, and Other Antiplatelet Agents
+Risk factors for bleeding include older age, a history of bleeding disorders, and concomitant use of drugs that increase the risk of bleeding (thrombolytics, oral anticoagulants, nonsteroidal anti-inflammatory drugs, and P2Y12 inhibitors). Concomitant treatment with other inhibitors of platelet receptor glycoprotein (GP) IIb/IIIa should be avoided. In patients treated with heparin, bleeding can be minimized by close monitoring of the aPTT and ACT see Dosage and Administration (2).
+Care of the Femoral Artery Access Site in Patients Undergoing Percutaneous Coronary Intervention (PCI)
+In patients undergoing PCI, treatment with INTEGRILIN is associated with an increase in major and minor bleeding at the site of arterial sheath placement. After PCI, INTEGRILIN infusion should be continued until hospital discharge or up to 18 to 24 hours, whichever comes first. Heparin use is discouraged after the PCI procedure. Early sheath removal is encouraged while INTEGRILIN is being infused. Prior to removing the sheath, it is recommended that heparin be discontinued for 3 to 4 hours and an aPTT of 45 seconds or ACT 150 seconds be achieved. In any case, both heparin and INTEGRILIN should be discontinued and sheath hemostasis should be achieved at least 2 to 4 hours before hospital discharge. If bleeding at access site cannot be controlled with pressure, infusion of INTEGRILIN and heparin should be discontinued immediately.
+
+5.2 Thrombocytopenia
+
+There have been reports of acute, profound thrombocytopenia (immune-mediated and non-immune mediated) with INTEGRILIN. In the event of acute profound thrombocytopenia or a confirmed platelet decrease to 100,000/mm3, discontinue INTEGRILIN and heparin (unfractionated or low-molecular weight). Monitor serial platelet counts, assess the presence of drug-dependent antibodies, and treat as appropriate see Adverse Reactions (6.1).
+There has been no clinical experience with INTEGRILIN initiated in patients with a baseline platelet count 100,000/mm3. If a patient with low platelet counts is receiving INTEGRILIN, their platelet count should be monitored closely.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Coadministration of antiplatelet agents, thrombolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding. Avoid concomitant use with other glycoprotein (GP) IIb/IIIa inhibitors. (7.1)
+ <item>
+ </list>
+
+
+7.1 Use of Thrombolytics, Anticoagulants, and Other Antiplatelet Agents
+
+Coadministration of antiplatelet agents, thrombolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding. Concomitant treatment with other inhibitors of platelet receptor GP IIb/IIIa should be avoided.
+

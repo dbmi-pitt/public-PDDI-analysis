@@ -1,0 +1,76 @@
+Drug Label for drug brand Potassium Citrate, containing potassium citrate.
+
+
+4 CONTRAINDICATIONS
+
+ <paragraph>
+ <main>Potassium Citrate Extended-release Tablets are contraindicated:
+ <item>
+ <item>In patients with hyperkalemia (or who have conditions pre-disposing them to hyperkalemia), as a further rise in serum potassium concentration may produce cardiac arrest. Such conditions include: chronic renal failure, uncontrolled diabetes mellitus, acute dehydration, strenuous physical exercise in unconditioned individuals, adrenal insufficiency, extensive tissue breakdown or the administration of a potassium-sparing agent (such as triamterene, spironolactone or amiloride).
+ <item>
+ <item>In patients in whom there is cause for arrest or delay in tablet passage through the gastrointestinal tract, such as those suffering from delayed gastric emptying, esophageal compression, intestinal obstruction or stricture, or those taking anticholinergic medication.
+ <item>
+ <item>In patients with peptic ulcer disease because of its ulcerogenic potential.
+ <item>
+ <item>In patients with active urinary tract infection (with either urea-splitting or other organisms, in association with either calcium or struvite stones). The ability of Potassium Citrate Extended-release Tablets to increase urinary citrate may be attenuated by bacterial enzymatic degradation of citrate. Moreover, the rise in urinary pH resulting from Potassium Citrate Extended-release Tablets therapy might promote further bacterial growth.
+ <item>
+ <item>In patients with renal insufficiency (glomerular filtration rate of less than 0.7 ml/kg/min), because of the danger of soft tissue calcification and increased risk for the development of hyperkalemia.
+ <item>
+ </paragraph>
+ <list>
+ <item>
+ <item>Patients with hyperkalemia (or who have conditions predisposing them to hyperkalemia). Such conditions include chronic renal failure, uncontrolled diabetes mellitus, acute dehydration, strenuous physical exercise in unconditioned individuals, adrenal insufficiency, extensive tissue breakdown (4)
+ <item>
+ <item>Patients for whom there is cause for arrest or delay in tablet passage through the gastrointestinal tract such as those suffering from delayed gastric emptying, esophageal compression, intestinal obstruction or stricture (4)
+ <item>
+ <item>Patients with peptic ulcer disease (4)
+ <item>
+ <item>Patients with active urinary tract infection (4)
+ <item>
+ <item>Patients with renal insufficiency (glomerular filtration rate of less than 0.7 ml/kg/min) (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Hyperkalemia: In patients with impaired mechanisms for excreting potassium, Potassium Citrate Extended-release Tablets administration can produce hyperkalemia and cardiac arrest. Potentially fatal hyperkalemia can develop rapidly and be asymptomatic. The use of Potassium Citrate Extended-release Tablets in patients with chronic renal failure, or any other condition which impairs potassium excretion such as severe myocardial damage or heart failure, should be avoided (5.1)
+ <item>
+ <item>Gastrointestinal lesions: if there is severe vomiting, abdominal pain or gastrointestinal bleeding, Potassium Citrate Extended-release Tablets should be discontinued immediately and the possibility of bowel perforation or obstruction investigated (5.2)
+ <item>
+ </list>
+
+
+5.1 Hyperkalemia
+
+In patients with impaired mechanisms for excreting potassium, Potassium Citrate Extended-release Tablets administration can produce hyperkalemia and cardiac arrest. Potentially fatal hyperkalemia can develop rapidly and be asymptomatic. The use of Potassium Citrate Extended-release Tablets in patients with chronic renal failure, or any other condition which impairs potassium excretion such as severe myocardial damage or heart failure, should be avoided. Closely monitor for signs of hyperkalemia with periodic blood tests and ECGs.
+
+5.2 Gastrointestinal Lesions
+
+Because of reports of upper gastrointestinal mucosal lesions following administration of potassium chloride (wax-matrix), an endoscopic examination of the upper gastrointestinal mucosa was performed in 30 normal volunteers after they had taken glycopyrrolate 2 mg p.o. t.i.d., Potassium Citrate Extended-release Tablets 95 mEq/day, wax-matrix potassium chloride 96 mEq/day or wax-matrix placebo, in thrice daily schedule in the fasting state for one week. Potassium Citrate Extended-release Tablets and the wax-matrix formulation of potassium chloride were indistinguishable but both were significantly more irritating than the wax-matrix placebo. In a subsequent, similar study, lesions were less severe when glycopyrrolate was omitted.
+Solid dosage forms of potassium chlorides have produced stenotic and/or ulcerative lesions of the small bowel and deaths. These lesions are caused by a high local concentration of potassium ions in the region of the dissolving tablets, which injured the bowel. In addition, perhaps because wax-matrix preparations are not enteric-coated and release some of their potassium content in the stomach, there have been reports of upper gastrointestinal bleeding associated with these products. The frequency of gastrointestinal lesions with wax-matrix potassium chloride products is estimated at one per 100,000 patient-years. Experience with Potassium Citrate Extended-release Tablets is limited, but a similar frequency of gastrointestinal lesions should be anticipated.
+If there is severe vomiting, abdominal pain or gastrointestinal bleeding, Potassium Citrate Extended-release Tablets should be discontinued immediately and the possibility of bowel perforation or obstruction investigated.
+
+
+7 DRUG INTERACTIONS
+
+ <paragraph>
+ <main>The following drug interactions may occur with potassium citrate:
+ <item>
+ <item>Potassium-sparing diuretics: concomitant administration should be avoided since the simultaneous administration of these agents can produce severe hyperkalemia (7.1)
+ <item>
+ <item>Drugs that slow gastrointestinal transit time: These agents (such as anticholinergics) can be expected to increase the gastrointestinal irritation produced by potassium salts (7.2)
+ <item>
+ </paragraph>
+
+7.1 Potential Effects of Potassium citrate on Other Drugs
+
+Potassium-sparing Diuretics: Concomitant administration of Potassium Citrate Extended-release Tablets and a potassium-sparing diuretic (such as triamterene, spironolactone or amiloride) should be avoided since the simultaneous administration of these agents can produce severe hyperkalemia.
+
+7.2 Potential Effects of Other Drugs on Potassium citrate
+
+Drugs that slow gastrointestinal transit time: These agents (such as anticholinergics) can be expected to increase the gastrointestinal irritation produced by potassium salts.
+

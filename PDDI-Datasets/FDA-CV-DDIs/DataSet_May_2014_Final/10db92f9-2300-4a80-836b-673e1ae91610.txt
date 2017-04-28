@@ -1,0 +1,222 @@
+XARELTO (rivaroxaban) tablet, film coated 
+
+Rivaroxaban, a factor Xa inhibitor, is the active ingredient in XARELTO Tablets with the chemical name 5-Chloro-N-({(5S)-2-oxo-3-[4-(3-oxo-4-morpholinyl)phenyl]-1,3-oxazolidin-5-yl}methyl)-2-thiophenecarboxamide.
+
+WARNING: (A) PREMATURE DISCONTINUATION OF XARELTO INCREASES THE RISK OF THROMBOTIC EVENTS, and (B) SPINAL/EPIDURAL HEMATOMA
+See full prescribing information for complete boxed warning
+
+PREMATURE DISCONTINUATION OF XARELTO INCREASES THE RISK OF THROMBOTIC EVENTS
+
+Premature discontinuation of any oral anticoagulant, including XARELTO, increases the risk of thrombotic events. To reduce this risk, consider coverage with another anticoagulant if XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy (2.2, 2.6, 5.1, 14.1).
+
+SPINAL/EPIDURAL HEMATOMA
+
+Epidural or spinal hematomas have occurred in patients treated with XARELTO who are receiving neuraxial anesthesia or undergoing spinal puncture. These hematomas may result in long-term or permanent paralysis (5.2, 5.3, 6.2).
+
+Monitor patients frequently for signs and symptoms of neurological impairment and if observed, treat urgently. Consider the benefits and risks before neuraxial intervention in patients who are or who need to be anticoagulated (5.3).
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 Important Food Effect Information
+
+The 15 mg and 20 mg XARELTO tablets should be taken with food, while the 10 mg tablet can be taken with or without food [see Clinical Pharmacology (12.3)].
+
+In the nonvalvular atrial fibrillation efficacy study XARELTO was taken with the evening meal.
+
+2.2 Switching to and from XARELTO
+
+Switching from Warfarin to XARELTO - When switching patients from warfarin to XARELTO, discontinue warfarin and start XARELTO as soon as the International Normalized Ratio (INR) is below 3.0 to avoid periods of inadequate anticoagulation.
+
+Switching from XARELTO to Warfarin - No clinical trial data are available to guide converting patients from XARELTO to warfarin. XARELTO affects INR, so INR measurements made during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin. One approach is to discontinue XARELTO and begin both a parenteral anticoagulant and warfarin at the time the next dose of XARELTO would have been taken.
+
+Switching from XARELTO to Anticoagulants other than Warfarin - For patients currently taking XARELTO and transitioning to an anticoagulant with rapid onset, discontinue XARELTO and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next XARELTO dose would have been taken [see Drug Interactions (7.3)]
+
+Switching from Anticoagulants other than Warfarin to XARELTO - For patients currently receiving an anticoagulant other than warfarin, start XARELTO 0 to 2 hours prior to the next scheduled evening administration of the drug (e.g., low molecular weight heparin or non-warfarin oral anticoagulant) and omit administration of the other anticoagulant. For unfractionated heparin being administered by continuous infusion, stop the infusion and start XARELTO at the same time.
+
+2.3 Nonvalvular Atrial Fibrillation
+
+For patients with creatinine clearance (CrCl) >50 mL/min, the recommended dose of XARELTO is 20 mg taken orally once daily with the evening meal. For patients with CrCl 15 to 50 mL/min, the recommended dose is 15 mg once daily with the evening meal [see Use in Specific Populations (8.7)].
+
+2.4 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
+
+The recommended dose of XARELTO for the initial treatment of acute DVT and/or PE is 15 mg taken orally twice daily with food for the first 21 days. After this initial treatment period, the recommended dose of XARELTO is 20 mg taken orally once daily with food, at approximately the same time each day. The recommended dose of XARELTO for reduction in the risk of recurrence of DVT or PE is 20 mg taken orally once daily with food at approximately the same time each day [see Clinical Studies (14.2)].
+
+2.5 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+The recommended dose of XARELTO is 10 mg taken orally once daily with or without food. The initial dose should be taken at least 6 to 10 hours after surgery once hemostasis has been established [see Dosage and Administration (2.6)].
+
+    For patients undergoing hip replacement surgery, treatment duration of 35 days is recommended.
+    For patients undergoing knee replacement surgery, treatment duration of 12 days is recommended.
+
+2.6 Discontinuation for Surgery and other Interventions
+
+If anticoagulation must be discontinued to reduce the risk of bleeding with surgical or other procedures, XARELTO should be stopped at least 24 hours before the procedure to reduce the risk of bleeding [see Warnings and Precautions (5.2)]. In deciding whether a procedure should be delayed until 24 hours after the last dose of XARELTO, the increased risk of bleeding should be weighed against the urgency of intervention. XARELTO should be restarted after the surgical or other procedures as soon as adequate hemostasis has been established, noting that the time to onset of therapeutic effect is short [see Warnings and Precautions (5.1)]. If oral medication cannot be taken during or after surgical intervention, consider administering a parenteral anticoagulant.
+
+2.7 Missed Dose
+
+If a dose of XARELTO is not taken at the scheduled time, administer the dose as soon as possible on the same day as follows:
+
+    For patients receiving 15 mg twice daily: The patient should take XARELTO immediately to ensure intake of 30 mg XARELTO per day. In this particular instance, two 15 mg tablets may be taken at once. The patient should continue with the regular 15 mg twice daily intake as recommended on the following day.
+    For patients receiving 20, 15 or 10 mg once daily: The patient should take the missed XARELTO dose immediately.
+
+2.8 Administration Options
+
+For patients who are unable to swallow whole tablets, 15 mg or 20 mg XARELTO tablets may be crushed and mixed with applesauce immediately prior to use and administered orally. After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should be immediately followed by food [see Dosage and Administration (2.1, 2.3, 2.4) and Clinical Pharmacology (12.3)].
+
+Administration via nasogastric (NG) tube or gastric feeding tube: After confirming gastric placement of the tube, 15 mg or 20 mg XARELTO tablets may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube. Since rivaroxaban absorption is dependent on the site of drug release, avoid administration of XARELTO distal to the stomach which can result in reduced absorption and thereby, reduced drug exposure. After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should then be immediately followed by enteral feeding [see Clinical Pharmacology (12.3)].
+
+Crushed 15 mg or 20 mg XARELTO tablets are stable in water and in applesauce for up to 4 hours. An in vitro compatibility study indicated that there is no adsorption of rivaroxaban from a water suspension of a crushed XARELTO tablet to PVC or silicone nasogastric (NG) tubing.
+
+4 CONTRAINDICATIONS
+
+XARELTO is contraindicated in patients with:
+
+    active pathological bleeding [see Warnings and Precautions (5.2)]
+    severe hypersensitivity reaction to XARELTO (e.g., anaphylactic reactions) [see Adverse Reactions (6.2)]
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
+
+Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients. If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.2, 2.6) and Clinical Studies (14.1)].
+
+5.2 Risk of Bleeding
+
+XARELTO increases the risk of bleeding and can cause serious or fatal bleeding. In deciding whether to prescribe XARELTO to patients at increased risk of bleeding, the risk of thrombotic events should be weighed against the risk of bleeding.
+
+Promptly evaluate any signs or symptoms of blood loss and consider the need for blood replacement. Discontinue XARELTO in patients with active pathological hemorrhage. The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
+
+A specific antidote for rivaroxaban is not available. Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)]. Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban. There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving rivaroxaban. There is neither scientific rationale for benefit nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving rivaroxaban. Use of procoagulant reversal agents such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC), or recombinant factor VIIa (rFVIIa) may be considered but has not been evaluated in clinical trials.
+
+Concomitant use of other drugs 7 DRUG INTERACTIONS
+
+Rivaroxaban is a substrate of CYP3A4/5, CYP2J2, and the P-gp and ATP-binding cassette G2 (ABCG2) transporters. Inhibitors and inducers of these CYP450 enzymes or transporters (e.g., P-gp) may result in changes in rivaroxaban exposure.
+
+7.1 Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+In drug interaction studies evaluating the concomitant use with drugs that are combined P-gp and CYP3A4 inhibitors (ketoconazole, ritonavir, clarithromycin, erythromycin and fluconazole), increases in rivaroxaban exposure and pharmacodynamic effects (i.e., factor Xa inhibition and PT prolongation) were observed. The increases in exposure ranged from 30% to 160%. Significant increases in rivaroxaban exposure may increase bleeding risk [see Clinical Pharmacology (12.3)].
+
+When data suggest a change in exposure is unlikely to affect bleeding risk (e.g., clarithromycin, erythromycin), no precautions are necessary during coadministration with drugs that are combined P-gp and CYP3A4 inhibitors.
+
+Avoid concomitant administration of XARELTO with combined P-gp and strong CYP3A4 inhibitors [see Warnings and Precautions (5.6)].
+
+7.2 Drugs that Induce Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+Results from drug interaction studies and population PK analyses from clinical studies indicate coadministration of XARELTO with a combined P-gp and strong CYP3A4 inducer (e.g., rifampicin, phenytoin) decreased rivaroxaban exposure by up to 50%. Similar decreases in pharmacodynamic effects were also observed. These decreases in exposure to rivaroxaban may decrease efficacy [see Clinical Pharmacology (12.3)].
+
+Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Warnings and Precautions (5.6)].
+
+7.3 Anticoagulants and NSAIDs/Aspirin
+
+Single doses of enoxaparin and XARELTO given concomitantly resulted in an additive effect on anti-factor Xa activity. Single doses of warfarin and XARELTO resulted in an additive effect on factor Xa inhibition and PT. Concomitant aspirin use has been identified as an independent risk factor for major bleeding in efficacy trials. NSAIDs are known to increase bleeding, and bleeding risk may be increased when NSAIDs are used concomitantly with XARELTO. Coadministration of the platelet aggregation inhibitor clopidogrel and XARELTO resulted in an increase in bleeding time for some subjects [see Clinical Pharmacology (12.3)].
+
+Avoid concurrent use of XARELTO with other anticoagulants due to increased bleeding risk unless benefit outweighs risk. Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with aspirin, other platelet aggregation inhibitors, or NSAIDs [see Warnings and Precautions (5.2)].
+
+7.4 Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+Patients with renal impairment receiving full dose XARELTO in combination with drugs classified as combined P-gp and weak or moderate CYP3A4 inhibitors (e.g., amiodarone, diltiazem, verapamil, quinidine, ranolazine, dronedarone, felodipine, erythromycin, and azithromycin) may have increases in exposure compared with patients with normal renal function and no inhibitor use, since both pathways of rivaroxaban elimination are affected.
+
+XARELTO should be used in patients with CrCl 15 to 50 mL/min who are receiving concomitant combined P-gp and weak or moderate CYP3A4 inhibitors only if the potential benefit justifies the potential risk [see Clinical Pharmacology (12.3)].
+Concomitant use of other drugs affecting hemostasis increases the risk of bleeding. These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, and non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)].
+
+Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.1)].
+
+5.3 Spinal/Epidural Anesthesia or Puncture
+
+When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis [see Boxed Warning].
+
+An epidural catheter should not be removed earlier than 18 hours after the last administration of XARELTO. The next XARELTO dose is not to be administered earlier than 6 hours after the removal of the catheter. If traumatic puncture occurs, the administration of XARELTO is to be delayed for 24 hours.
+
+5.4 Use in Patients with Renal Impairment
+
+Nonvalvular Atrial Fibrillation
+
+Avoid the use of XARELTO in patients with CrCl <15 mL/min since drug exposure is increased. Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly. Discontinue XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.7)].
+
+Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
+
+Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population [see Use in Specific Populations (8.7)].
+
+Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population. Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min. Patients who develop acute renal failure while on XARELTO should discontinue the treatment [see Use in Specific Populations (8.7)].
+
+5.5 Use in Patients with Hepatic Impairment
+
+No clinical data are available for patients with severe hepatic impairment.
+
+Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.8)].
+
+5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
+
+Avoid concomitant use of XARELTO with combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir/ritonavir, and conivaptan) [see Drug Interactions (7.1)].
+
+Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Drug Interactions (7.2)].
+
+5.7 Risk of Pregnancy Related Hemorrhage
+
+In pregnant women, XARELTO should be used only if the potential benefit justifies the potential risk to the mother and fetus. XARELTO dosing in pregnancy has not been studied. The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing nor readily reversed. Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress).
+
+5.8 Patients with Prosthetic Heart Valves
+
+The safety and efficacy of XARELTO have not been studied in patients with prosthetic heart valves. Therefore, use of XARELTO is not recommended in these patients.
+
+7 DRUG INTERACTIONS
+
+Rivaroxaban is a substrate of CYP3A4/5, CYP2J2, and the P-gp and ATP-binding cassette G2 (ABCG2) transporters. Inhibitors and inducers of these CYP450 enzymes or transporters (e.g., P-gp) may result in changes in rivaroxaban exposure.
+
+7.1 Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+In drug interaction studies evaluating the concomitant use with drugs that are combined P-gp and CYP3A4 inhibitors (ketoconazole, ritonavir, clarithromycin, erythromycin and fluconazole), increases in rivaroxaban exposure and pharmacodynamic effects (i.e., factor Xa inhibition and PT prolongation) were observed. The increases in exposure ranged from 30% to 160%. Significant increases in rivaroxaban exposure may increase bleeding risk [see Clinical Pharmacology (12.3)].
+
+When data suggest a change in exposure is unlikely to affect bleeding risk (e.g., clarithromycin, erythromycin), no precautions are necessary during coadministration with drugs that are combined P-gp and CYP3A4 inhibitors.
+
+Avoid concomitant administration of XARELTO with combined P-gp and strong CYP3A4 inhibitors [see Warnings and Precautions (5.6)].
+
+7.2 Drugs that Induce Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+Results from drug interaction studies and population PK analyses from clinical studies indicate coadministration of XARELTO with a combined P-gp and strong CYP3A4 inducer (e.g., rifampicin, phenytoin) decreased rivaroxaban exposure by up to 50%. Similar decreases in pharmacodynamic effects were also observed. These decreases in exposure to rivaroxaban may decrease efficacy [see Clinical Pharmacology (12.3)].
+
+Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Warnings and Precautions (5.6)].
+
+7.3 Anticoagulants and NSAIDs/Aspirin
+
+Single doses of enoxaparin and XARELTO given concomitantly resulted in an additive effect on anti-factor Xa activity. Single doses of warfarin and XARELTO resulted in an additive effect on factor Xa inhibition and PT. Concomitant aspirin use has been identified as an independent risk factor for major bleeding in efficacy trials. NSAIDs are known to increase bleeding, and bleeding risk may be increased when NSAIDs are used concomitantly with XARELTO. Coadministration of the platelet aggregation inhibitor clopidogrel and XARELTO resulted in an increase in bleeding time for some subjects [see Clinical Pharmacology (12.3)].
+
+Avoid concurrent use of XARELTO with other anticoagulants due to increased bleeding risk unless benefit outweighs risk. Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with aspirin, other platelet aggregation inhibitors, or NSAIDs [see Warnings and Precautions (5.2)].
+
+7.4 Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+Patients with renal impairment receiving full dose XARELTO in combination with drugs classified as combined P-gp and weak or moderate CYP3A4 inhibitors (e.g., amiodarone, diltiazem, verapamil, quinidine, ranolazine, dronedarone, felodipine, erythromycin, and azithromycin) may have increases in exposure compared with patients with normal renal function and no inhibitor use, since both pathways of rivaroxaban elimination are affected.
+
+XARELTO should be used in patients with CrCl 15 to 50 mL/min who are receiving concomitant combined P-gp and weak or moderate CYP3A4 inhibitors only if the potential benefit justifies the potential risk [see Clinical Pharmacology (12.3)].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00554-http://bio2rdf.org/drugbank:DB00373    object:PIROXICAM precipitant: TIMOLOL 	NDF-RT Evidence: None 	ONC-NonInteruptive Evidence: None 	OSCAR Evidence: 	 
+http://bio2rdf.org/drugbank:DB00328-http://bio2rdf.org/drugbank:DB00489    object:INDOMETHACIN precipitant: Sotalol 	NDF-RT Evidence: None 	ONC-NonInteruptive Evidence: None 	OSCAR Evidence: 	 
+http://bio2rdf.org/drugbank:DB00554-http://bio2rdf.org/drugbank:DB01359    object:Penbutolol precipitant: PIROXICAM 	NDF-RT Evidence: None 	ONC-NonInteruptive Evidence: None 	OSCAR Evidence: 	 
+http://bio2rdf.org/drugbank:DB00554-http://bio2rdf.org/drugbank:DB00489    object:PIROXICAM precipitant: Sotalol 	NDF-RT Evidence: None 	ONC-NonInteruptive Evidence: None 	OSCAR Evidence: 	 
+http://bio2rdf.org/drugbank:DB00328-http://bio2rdf.org/drugbank:DB00373    object:INDOMETHACIN precipitant: TIMOLOL 	NDF-RT Evidence: None 	ONC-NonInteruptive Evidence: None 	OSCAR Evidence: 	 
+http://bio2rdf.org/drugbank:DB00328-http://bio2rdf.org/drugbank:DB01359    object:Penbutolol precipitant: INDOMETHACIN 	NDF-RT Evidence: None 	ONC-NonInteruptive Evidence: None 	OSCAR Evidence: 	 

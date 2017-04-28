@@ -1,0 +1,87 @@
+Drug Label for drug brand AGGRASTAT, containing TIROFIBAN.
+
+
+CONTRAINDICATIONS
+
+ <paragraph>
+ <main>AGGRASTAT is contraindicated in patients with:
+ <item>
+ <item>known hypersensitivity to any component of the product
+ <item>
+ <item>active internal bleeding or a history of bleeding diathesis within the previous 30 days
+ <item>
+ <item>a history of intracranial hemorrhage, intracranial neoplasm, arteriovenous malformation, or aneurysm
+ <item>
+ <item>a history of thrombocytopenia following prior exposure to AGGRASTAT
+ <item>
+ <item>history of stroke within 30 days or any history of hemorrhagic stroke
+ <item>
+ <item>major surgical procedure or severe physical trauma within the previous month
+ <item>
+ <item>history, symptoms, or findings suggestive of aortic dissection
+ <item>
+ <item>severe hypertension (systolic blood pressure 180 mmHg and/or diastolic blood pressure 110 mmHg)
+ <item>
+ <item>concomitant use of another parenteral GP IIb/IIIa inhibitor
+ <item>
+ <item>acute pericarditis
+ <item>
+ </paragraph>
+
+
+WARNINGS
+
+Bleeding is the most common complication encountered during therapy with AGGRASTAT. Administration of AGGRASTAT is associated with an increase in bleeding events classified as both major and minor bleeding events by criteria developed by the Thrombolysis in Myocardial Infarction Study group (TIMI). Most major bleeding associated with AGGRASTAT occurs at the arterial access site for cardiac catheterization. Fatal bleedings have been reported (see ADVERSE REACTIONS).
+AGGRASTAT should be used with caution in patients with platelet count 150,000/mm3, in patients with hemorrhagic retinopathy, and in chronic hemodialysis patients.
+Because AGGRASTAT inhibits platelet aggregation, caution should be employed when it is used with other drugs that affect hemostasis. The safety of AGGRASTAT when used in combination with thrombolytic agents has not been established.
+During therapy with AGGRASTAT, patients should be monitored for potential bleeding. When bleeding cannot be controlled with pressure, infusion of AGGRASTAT and heparin should be discontinued.
+
+
+PRECAUTIONS
+
+
+Bleeding Precautions
+
+Percutaneous Coronary Intervention Care of the femoral artery access site: Therapy with AGGRASTAT is associated with increases in bleeding rates particularly at the site of arterial access for femoral sheath placement. Care should be taken when attempting vascular access that only the anterior wall of the femoral artery is punctured. Prior to pulling the sheath, heparin should be discontinued for 3-4 hours and activated clotting time (ACT) 180 seconds or APTT 45 seconds should be documented. Care should be taken to obtain proper hemostasis after removal of the sheaths using standard compressive techniques followed by close observation. While the vascular sheath is in place, patients should be maintained on complete bed rest with the head of the bed elevated 30 and the affected limb restrained in a straight position. Sheath hemostasis should be achieved at least 4 hours before hospital discharge.
+Minimize Vascular and Other Trauma: Other arterial and venous punctures, epidural procedures, intramuscular injections, and the use of urinary catheters, nasotracheal intubation and nasogastric tubes should be minimized. When obtaining intravenous access, non-compressible sites (e.g., subclavian or jugular veins) should be avoided.
+Laboratory Monitoring: Platelet counts, and hemoglobin and hematocrit should be monitored prior to treatment, within 6 hours following the loading infusion, and at least daily thereafter during therapy with AGGRASTAT (or more frequently if there is evidence of significant decline). In patients who have previously received GP IIb/IIIa receptor antagonists, consideration should be given to earlier monitoring of platelet count. If the patient experiences a platelet decrease to 90,000/mm3, additional platelet counts should be performed to exclude pseudothrombocytopenia. If thrombocytopenia is confirmed, AGGRASTAT and heparin should be discontinued and the condition appropriately monitored and treated.
+In addition, the activated partial thromboplastin time (APTT) should be determined before treatment and the anticoagulant effects of heparin should be carefully monitored by repeated determinations of APTT and the dose should be adjusted accordingly (see also DOSAGE AND ADMINISTRATION). Potentially life-threatening bleeding may occur especially when heparin is administered with other products affecting hemostasis, such as GP IIb/IIIa receptor antagonists. To monitor unfractionated heparin, APTT should be monitored 6 hours after the start of the heparin infusion, heparin should be adjusted to maintain APTT at approximately 2 times control.
+
+Severe Renal Insufficiency
+
+In clinical studies, patients with severe renal insufficiency (creatinine clearance 30 mL/min) showed decreased plasma clearance of AGGRASTAT. The dosage of AGGRASTAT should be reduced in these patients (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY, Clinical Trials ).
+
+Drug Interactions
+
+AGGRASTAT has been studied on a background of aspirin and heparin.
+The use of AGGRASTAT, in combination with heparin and aspirin, has been associated with an increase in bleeding compared to heparin and aspirin alone (see ADVERSE REACTIONS). Caution should be employed when AGGRASTAT is used with other drugs that affect hemostasis (e.g., warfarin). No information is available about the concomitant use of AGGRASTAT with thrombolytic agents (see PRECAUTIONS, Bleeding Precautions ).
+In a sub-set of patients (n 762) in the PRISM study, the plasma clearance of tirofiban in patients receiving one of the following drugs was compared to that in patients not receiving that drug. There were no clinically significant effects of co-administration of these drugs on the plasma clearance of tirofiban: acebutolol, acetaminophen, alprazolam, amlodipine, aspirin preparations, atenolol, bromazepam, captopril, diazepam, digoxin, diltiazem, docusate sodium, enalapril, furosemide, glyburide, heparin, insulin, isosorbide, lorazepam, lovastatin, metoclopramide, metoprolol, morphine, nifedipine, nitrate preparations, oxazepam, potassium chloride, propranolol, ranitidine, simvastatin, sucralfate and temazepam. Patients who received levothyroxine or omeprazole along with AGGRASTAT had a higher rate of clearance of AGGRASTAT. The clinical significance of this is unknown.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+The carcinogenic potential of AGGRASTAT has not been evaluated.
+Tirofiban HCI was negative in the in vitro microbial mutagenesis and V-79 mammalian cell mutagenesis assays. In addition, there was no evidence of direct genotoxicity in the in vitro alkaline elution and in vitro chromosomal aberration assays. There was no induction of chromosomal aberrations in bone marrow cells of male mice after the administration of intravenous doses up to 5 mg tirofiban/kg (about 3 times the maximum recommended daily human dose when compared on a body surface area basis).
+Fertility and reproductive performance were not affected in studies with male and female rats given intravenous doses of tirofiban hydrochloride up to 5 mg/kg/day (about 5 times the maximum recommended daily human dose when compared on a body surface area basis).
+
+Pregnancy
+
+Pregnancy Category B
+Tirofiban has been shown to cross the placenta in pregnant rats and rabbits. Studies with tirofiban HCI at intravenous doses up to 5 mg/kg/day (about 5 and 13 times the maximum recommended daily human dose for rat and rabbit, respectively, when compared on a body surface area basis) have revealed no harm to the fetus. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+Nursing Mothers
+
+It is not known whether tirofiban is excreted in human milk. However, significant levels of tirofiban were shown to be present in rat milk. Because many drugs are excreted in human milk, and because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use
+
+Safety and effectiveness of AGGRASTAT in pediatric patients ( 18 years old) have not been established.
+
+Geriatric Use
+
+Of the total number of patients in controlled clinical studies of AGGRASTAT, 42.8% were 65 years and over, while 11.7% were 75 and over. With respect to efficacy, the effect of AGGRASTAT in the elderly ( 65 years) appeared similar to that seen in younger patients ( 65 years). Elderly patients receiving AGGRASTAT with heparin or heparin alone had a higher incidence of bleeding complications than younger patients, but the incremental risk of bleeding in patients treated with AGGRASTAT in combination with heparin compared to the risk in patients treated with heparin alone was similar regardless of age. The overall incidence of non-bleeding adverse events was higher in older patients (compared to younger patients) but this was true both for AGGRASTAT with heparin and heparin alone. No dose adjustment is recommended for the elderly population (see DOSAGE AND ADMINISTRATION, Recommended Dosage ).
+
+
+Precautions
+
+AGGRASTAT is intended for intravenous delivery using sterile equipment and technique. Do not add other drugs or remove solution directly from the bag with a syringe. Do not use plastic containers in series connections, such use can result in air embolism by drawing air from the first container if it is empty of solution. Any unused solution should be discarded.
+

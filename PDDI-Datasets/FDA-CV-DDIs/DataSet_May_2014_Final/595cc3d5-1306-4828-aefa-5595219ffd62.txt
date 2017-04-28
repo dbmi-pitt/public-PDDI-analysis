@@ -1,0 +1,196 @@
+
+INDICATIONS  -  USAGE SECTION
+
+<paragraph>
+<main>BREVIBLOC injection is a beta adrenergic blocker indicated for the short-term treatment of:
+<item>
+<item>Control of ventricular rate in supraventricular tachycardia including atrial fibrillation and atrial flutter and control of heart rate in noncompensatory sinus tachycardia (1.1)
+<item>
+<item>Control of perioperative tachycardia and hypertension (1.2)
+<item>
+</paragraph>
+BREVIBLOC (Esmolol Hydrochloride) is indicated for the rapid control of ventricular rate in patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other emergent circumstances where short term control of ventricular rate with a short-acting agent is desirable. BREVIBLOC is also indicated in noncompensatory sinus tachycardia where, in the physician s judgment, the rapid heart rate requires specific intervention. BREVIBLOC is intended for short-term use.
+BREVIBLOC (Esmolol Hydrochloride) is indicated for the short-term treatment of tachycardia and hypertension that occur during induction and tracheal intubation, during surgery, on emergence from anesthesia and in the postoperative period, when in the physician s judgment such specific intervention is considered indicated.
+Use of BREVIBLOC to prevent such events is not recommended.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+<list>
+<item>
+<item>Administer intravenously (2.1, 2.2)
+<item>
+<item>Titrate using ventricular rate or blood pressure at 4-minute intervals. (2.1, 2.2)
+<item>
+<item>Supraventricular tachycardia (SVT) or noncompensatory sinus tachycardia (2.1) Optional loading dose: 500 mcg per kg infused over one minute Then 50 mcg per kg per minute for the next 4 minutes Adjust dose as needed to a maximum of 200 mcg per kg per minute. Additional loading doses may be administered
+<item>
+<item>Perioperative tachycardia and hypertension (2.2) Loading dose: 500 mcg per kg over 1 minute for gradual control (1 mg per kg over 30 seconds for immediate control) Then 50 mcg per kg per min for gradual control (150 mcg per kg per minute for immediate control) adjusted to a maximum of 200 (tachycardia) or 300 (hypertension) mcg per kg per min (2.2)
+<item>
+</list>
+BREVIBLOC is administered by continuous intravenous infusion with or without a loading dose. Additional loading doses and/or titration of the maintenance infusion (step-wise dosing) may be necessary based on desired ventricular response.
+In the absence of loading doses, continuous infusion of a single concentration of esmolol reaches pharmacokinetic and pharmacodynamic steady-state in about 30 minutes.
+The effective maintenance dose for continuous and step-wise dosing is 50 to 200 mcg per kg per minute, although doses as low as 25 mcg per kg per minute have been adequate. Dosages greater than 200 mcg per kg per minute provide little added heart rate lowering effect, and the rate of adverse reactions increases.
+Maintenance infusions may be continued for up to 48 hours.
+In this setting it is not always advisable to slowly titrate to a therapeutic effect. Therefore two dosing options are presented: immediate control and gradual control.
+<list>
+<item>
+<item>Administer 1 mg per kg as a bolus dose over 30 seconds followed by an infusion of 150 mcg per kg per min if necessary.
+<item>
+<item>Adjust the infusion rate as required to maintain desired heart rate and blood pressure. Refer to Maximum Recommended Doses below.
+<item>
+</list>
+<list>
+<item>
+<item>Administer 500 mcg per kg as a bolus dose over 1 minute followed by a maintenance infusion of 50 mcg per kg per min for 4 minutes.
+<item>
+<item>Depending on the response obtained, continue dosing as outlined for supraventricular tachycardia. Refer to Maximum Recommended Doses below.
+<item>
+</list>
+<list>
+<item>
+<item>For the treatment of tachycardia, maintenance infusion dosages greater than 200 mcg per kg per min are not recommended, dosages greater than 200 mcg per kg per min provide little additional heart rate-lowering effect, and the rate of adverse reactions increases.
+<item>
+<item>For the treatment of hypertension, higher maintenance infusion dosages (250-300 mcg per kg per min) may be required. The safety of doses above 300 mcg per kg per minute has not been studied.
+<item>
+</list>
+After patients achieve adequate control of the heart rate and a stable clinical status, transition to alternative antiarrhythmic drugs may be accomplished.
+When transitioning from BREVIBLOC to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of BREVIBLOC as follows:
+<list>
+<item>
+<item>Thirty minutes following the first dose of the alternative drug, reduce the BREVIBLOC infusion rate by one-half (50%).
+<item>
+<item>After administration of the second dose of the alternative drug, monitor the patient's response and if satisfactory control is maintained for the first hour, discontinue the BREVIBLOC infusion.
+<item>
+</list>
+BREVIBLOC injection is available in a pre-mixed bag and ready-to-use vial. BREVIBLOC is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+<list>
+<item>
+<item>The medication port is to be used solely for withdrawing an initial bolus from the bag.
+<item>
+<item>Use aseptic technique when withdrawing the bolus dose.
+<item>
+<item>Do not add any additional medications to the bag.
+<item>
+</list>
+The Ready-to-use Vial may be used to administer a loading dosage by hand-held syringe while the maintenance infusion is being prepared see How Supplied/Storage and Handling (16.2).
+<paragraph>
+<main>BREVIBLOC was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg esmolol hydrochloride per mL. BREVIBLOC was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
+<item>
+<item>Dextrose (5%) Injection, USP
+<item>
+<item>Dextrose (5%) in Lactated Ringer s Injection
+<item>
+<item>Dextrose (5%) in Ringer s Injection
+<item>
+<item>Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP
+<item>
+<item>Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP
+<item>
+<item>Lactated Ringer s Injection, USP
+<item>
+<item>Potassium Chloride (40 mEq/liter) in Dextrose (5%) Injection, USP
+<item>
+<item>Sodium Chloride (0.45%) Injection, USP
+<item>
+<item>Sodium Chloride (0.9%) Injection, USP
+<item>
+</paragraph>
+Figure 1: Two-Port INTRAVIA Bag
+
+CONTRAINDICATIONS SECTION
+
+<paragraph>
+<main>BREVIBLOC (Esmolol Hydrochloride) is contraindicated in patients with:
+<item>
+<item>Severe sinus bradycardia: May precipitate or worsen bradycardia resulting in cardiogenic shock and cardiac arrest see Warnings and Precautions (5.2).
+<item>
+<item>Heart block greater than first degree: Second- or third-degree atrioventricular block may precipitate or worsen bradycardia resulting in cardiogenic shock and cardiac arrest see Warnings and Precautions ( 5.2 ).
+<item>
+<item>Sick sinus syndrome: May precipitate or worsen bradycardia resulting in cardiogenic shock and cardiac arrest see Warnings and Precautions ( 5.2 ).
+<item>
+<item>Decompensated heart failure: May worsen heart failure.
+<item>
+<item>Cardiogenic shock: May precipitate further cardiovascular collapse and cause cardiac arrest.
+<item>
+<item>IV administration of cardiodepressant calcium-channel antagonists (e.g., verapamil) and BREVIBLOC in close proximity (i.e., while cardiac effects from the other are still present), fatal cardiac arrests have occurred in patients receiving BREVIBLOC and intravenous verapamil.
+<item>
+<item>Pulmonary hypertension: May precipitate cardiorespiratory compromise.
+<item>
+<item>Hypersensitivity reactions, including anaphylaxis, to esmolol or any of the inactive ingredients of the product (cross-sensitivity between beta blockers is possible).
+<item>
+</paragraph>
+
+WARNINGS AND PRECAUTIONS SECTION
+
+<list>
+<item>
+<item>Risk of hypotension, bradycardia, and cardiac failure: Monitor for signs and symptoms of cardiovascular adverse effects. Reduce or discontinue use (5.1, 5.2, 5.3, 5.10)
+<item>
+<item>Risk of exacerbating reactive airway disease (5.5)
+<item>
+<item>Diabetes mellitus: Increases the effect of hypoglycemic agents and masks hypoglycemic tachycardia (5.6)
+<item>
+<item>Risk of unopposed alpha-agonism and severe hypertension in untreated pheochromocytoma (5.9)
+<item>
+<item>Risk of myocardial ischemia when abruptly discontinued in patients with coronary artery disease (5.12, 5.15)
+<item>
+</list>
+Hypotension can occur at any dose but is dose-related. Patients with hemodynamic compromise or on interacting medications are at particular risk. Severe reactions may include loss of consciousness, cardiac arrest, and death. For control of ventricular heart rate, maintenance doses greater than 200 mcg per kg per min are not recommended. Monitor patients closely, especially if pretreatment blood pressure is low. In case of an unacceptable drop in blood pressure, reduce or stop BREVIBLOC injection. Decrease of dose or termination of infusion reverses hypotension, usually within 30 minutes.
+Bradycardia, including sinus pause, heart block, severe bradycardia, and cardiac arrest have occurred with the use of BREVIBLOC injection. Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk. Monitor heart rate and rhythm in patients receiving BREVIBLOC see Contraindications (4).
+If severe bradycardia develops, reduce or stop BREVIBLOC.
+Beta blockers, like BREVIBLOC injection, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock. At the first sign or symptom of impending cardiac failure, stop BREVIBLOC and start supportive therapy see Overdosage (10).
+Monitor vital signs closely and titrate BREVIBLOC slowly in the treatment of patients whose blood pressure is primarily driven by vasoconstriction associated with hypothermia.
+Patients with reactive airways disease should, in general, not receive beta blockers. Because of its relative beta1 selectivity and titratability, titrate BREVIBLOC to the lowest possible effective dose. In the event of bronchospasm, stop the infusion immediately, a beta2 stimulating agent may be administered with appropriate monitoring of ventricular rates.
+In patients with hypoglycemia, or diabetic patients (especially those with labile diabetes) who are receiving insulin or other hypoglycemic agents, beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be masked.
+Concomitant use of beta blockers and antidiabetic agents can enhance the effect of antidiabetic agents (blood glucose lowering).
+Infusion site reactions have occurred with the use of BREVIBLOC injection. They include irritation, inflammation, and severe reactions (thrombophlebitis, necrosis, and blistering), in particular when associated with extravasation see Adverse Reactions (6). Avoid infusions into small veins or through a butterfly catheter.
+If a local infusion site reaction develops, use an alternative infusion site and avoid extravasation.
+Beta blockers may exacerbate anginal attacks in patients with Prinzmetal s angina because of unopposed alpha receptor mediated coronary artery vasoconstriction. Do not use nonselective beta blockers.
+If BREVIBLOC is used in the setting of pheochromocytoma, give it in combination with an alpha-blocker, and only after the alpha-blocker has been initiated. Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure from the attenuation of beta-mediated vasodilation in skeletal muscle.
+In hypovolemic patients, BREVIBLOC injection can attenuate reflex tachycardia and increase the risk of hypotension.
+In patients with peripheral circulatory disorders (including Raynaud s disease or syndrome, and peripheral occlusive vascular disease), BREVIBLOC may aggravate peripheral circulatory disorders.
+Severe exacerbations of angina, myocardial infarction, and ventricular arrhythmias have been reported in patients with coronary artery disease upon abrupt discontinuation of beta blocker therapy. Observe patients for signs of myocardial ischemia when discontinuing BREVIBLOC.
+Heart rate increases moderately above pretreatment levels 30 minutes after BREVIBLOC discontinuation.
+Beta blockers, including BREVIBLOC, have been associated with increases in serum potassium levels and hyperkalemia. The risk is increased in patients with risk factors such as renal impairment. Intravenous administration of beta blockers has been reported to cause potentially life-threatening hyperkalemia in hemodialysis patients. Monitor serum electrolytes during therapy with BREVIBLOC.
+Beta blockers, including BREVIBLOC, have been reported to cause hyperkalemic renal tubular acidosis. Acidosis in general may be associated with reduced cardiac contractility.
+Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Abrupt withdrawal of beta blockade might precipitate a thyroid storm, therefore, monitor patients for signs of thyrotoxicosis when withdrawing beta blocking therapy.
+When using beta blockers, patients at risk of anaphylactic reactions may be more reactive to allergen exposure (accidental, diagnostic, or therapeutic).
+Patients using beta blockers may be unresponsive to the usual doses of epinephrine used to treat anaphylactic or anaphylactoid reactions see Drug Interactions (7).
+
+DRUG INTERACTIONS SECTION
+
+<paragraph>
+<main>Concomitant use of BREVIBLOC injection with other drugs that can lower blood pressure, reduce myocardial contractility, or interfere with sinus node function or electrical impulse propagation in the myocardium can exaggerate BREVIBLOC's effects on blood pressure, contractility, and impulse propagation. Severe interactions with such drugs can result in, for example, severe hypotension, cardiac failure, severe bradycardia, sinus pause, sinoatrial block, atrioventricular block, and/or cardiac arrest. In addition, with some drugs, beta blockade may precipitate increased withdrawal effects. (See clonidine, guanfacine, and moxonidine below.) BREVIBLOC should therefore be used only after careful individual assessment of the risks and expected benefits in patients receiving drugs that can cause these types of pharmacodynamic interactions, including but not limited to:
+<item>
+<item>Digitalis glycosides: Concomitant administration of digoxin and BREVIBLOC leads to an approximate 10% to 20% increase of digoxin blood levels at some time points. Digoxin does not affect BREVIBLOC pharmacokinetics. Both digoxin and beta blockers slow atrioventricular conduction and decrease heart rate. Concomitant use increases the risk of bradycardia.
+<item>
+<item>Anticholinesterases: BREVIBLOC prolonged the duration of succinylcholine-induced neuromuscular blockade and moderately prolonged clinical duration and recovery index of mivacurium.
+<item>
+<item>Antihypertensive agents clonidine, guanfacine, or moxonidine: Beta blockers also increase the risk of clonidine-, guanfacine-, or moxonidine-withdrawal rebound hypertension. If, during concomitant use of a beta blocker, antihypertensive therapy needs to be interrupted or discontinued, discontinue the beta blocker first, and the discontinuation should be gradual.
+<item>
+<item>Calcium channel antagonists: In patients with depressed myocardial function, use of BREVIBLOC with cardiodepressant calcium channel antagonists (e.g., verapamil) can lead to fatal cardiac arrests.
+<item>
+<item>Sympathomimetic drugs: Sympathomimetic drugs having beta-adrenergic agonist activity will counteract effects of BREVIBLOC.
+<item>
+<item>Vasoconstrictive and positive inotropic agents: Because of the risk of reducing cardiac contractility in presence of high systemic vascular resistance, do not use BREVIBLOC to control tachycardia in patients receiving drugs that are vasoconstrictive and have positive inotropic effects, such as epinephrine, norepinephrine, and dopamine.
+<item>
+</paragraph>
+
+DESCRIPTION SECTION
+
+<paragraph>
+<main>BREVIBLOC (Esmolol Hydrochloride) is a beta adrenergic receptor blocker with a very short duration of action (elimination half-life is approximately 9 minutes). Esmolol hydrochloride is:
+<item>
+<item>( )-Methyl p- 2-hydroxy-3-(isopropylamino) propoxy hydrocinnamate hydrochloride and has the following structure:
+<item>
+<item>
+<item>Esmolol hydrochloride has the empirical formula C16H26NO4Cl and a molecular weight of 331.8. It has one asymmetric center and exists as an enantiomeric pair.
+<item>
+<item>Esmolol hydrochloride is a white to off-white crystalline powder. It is a relatively hydrophilic compound which is very soluble in water and freely soluble in alcohol. Its partition coefficient (octanol/water) at pH 7.0 is 0.42 compared to 17.0 for propranolol.
+<item>
+</paragraph>
+<paragraph>
+<main>All BREVIBLOC presentations are clear, colorless to light yellow, sterile, nonpyrogenic, iso-osmotic solutions of esmolol hydrochloride in sodium chloride. The formulations for BREVIBLOC PREMIXED Injection, BREVIBLOC DOUBLE STRENGTH PREMIXED Injection, and BREVIBLOC Injection are described in the table below:
+<item>The calculated osmolarity of BREVIBLOC PREMIXED Injection and BREVIBLOC DOUBLE STRENGTH PREMIXED Injection is 312 mOsmol/L. The 250 mL and 100 mL bags are non-latex, non-PVC INTRAVIA bags with dual PVC ports. The INTRAVIA bags are manufactured from a specially designed multilayer plastic (PL 2408). Solutions in contact with the plastic container leach out certain chemical compounds from the plastic in very small amounts, however, biological testing was supportive of the safety of the plastic container materials.
+</paragraph>
+BREVIBLOC Structural Formula

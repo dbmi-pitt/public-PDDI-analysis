@@ -1,0 +1,183 @@
+object    precipitant    source    effectConcept    ddiPkMechanism    severity    label    uri    whoAnnotated    evidence    evidenceStatement
+Quinidine$Digoxin$OSCAR$A$None$2$None$None$None$G$	
+Quinidine$Digoxin$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Phenytoin$Fluconazole$NDF-RT$None$None$Significant$FLUCONAZOLE/PHENYTOIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034390$None$None$None
+Fluconazole$Phenytoin$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increase in phenytoin AUC was 88% | 
+Rifampicin$Losartan$NDF-RT$None$None$Significant$LOSARTAN/RIFAMPIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033957$None$None$None
+Losartan$Rifampicin$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Lisinopril$Indomethacin$ONC-NonInteruptive$None$None$None$None$None$None$None$None
+Lisinopril$Indomethacin$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Cilostazol$Erythromycin$NDF-RT$None$None$Significant$CILOSTAZOL/ERYTHROMYCIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034140$None$None$None
+Erythromycin$Cilostazol$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Imipramine$Alprazolam$OSCAR$A$None$2$None$None$None$P$	
+Alprazolam$Imipramine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increased an average of 31% and 20% | 
+Verapamil$Erythromycin$NDF-RT$None$None$Critical$ERYTHROMYCIN/VERAPAMIL [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176413$None$None$None
+Erythromycin$Verapamil$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Dofetilide$Verapamil$NDF-RT$None$None$Critical$DOFETILIDE/VERAPAMIL [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034638$None$None$None
+Verapamil$Dofetilide$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Quinidine$Haloperidol$ONC-HighPriority$None$None$None$None$None$None$None$None
+HALOPERIDOL$Quinidine$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Triazolam$Nefazodone$NDF-RT$None$None$Significant$NEFAZODONE/TRIAZOLAM [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034589$None$None$None
+Nefazodone$Triazolam$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$half-life and AUC increased 4-fold and peak concentrations increased 1.7-fold | 
+Amiodarone$Quinidine$ONC-HighPriority$None$None$None$None$None$None$None$None
+AMIODARONE$Quinidine$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Irbesartan$Aliskiren$NDF-RT$None$None$Significant$ALISKIREN/IRBESARTAN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000179857$None$None$None
+Aliskiren$Irbesartan$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Ketoconazole$Conivaptan$NDF-RT$None$None$Critical$CONIVAPTAN/KETOCONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000178033$None$None$None
+Ketoconazole$CONIVAPTAN$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Cimetidine$Nifedipine$OSCAR$A$None$1$None$None$None$ $	
+Nifedipine$Cimetidine$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Diltiazem$Nifedipine$OSCAR$A$None$1$None$None$None$P$	
+Diltiazem$Nifedipine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$Cmax values of nifedipine increased by factors of 2.0 and 1.7 | 
+Indomethacin$Torasemide$OSCAR$I$None$2$None$None$None$G$	
+Torasemide$Indomethacin$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Metoclopramide$Ethanol$OSCAR$A$None$1$None$None$None$P$	
+METOCLOPRAMIDE$Ethanol$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$the rate and/or extent of absorption of drugs from the small bowel may be increased | 
+Quinidine$Diltiazem$OSCAR$N$None$ $None$None$None$P$	
+Diltiazem$Quinidine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$decreases the clearance and increases the t1/2 of quinidine | 
+Ethanol$Acetylsalicylic acid$OSCAR$A$None$2$None$None$None$F$	
+Ethanol$Acetylsalicylic acid$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Verapamil$Carbamazepine$OSCAR$A$None$2$None$None$None$F$	
+Verapamil$Carbamazepine$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Phenytoin$Felbamate$NDF-RT$None$None$Significant$FELBAMATE/PHENYTOIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033191$None$None$None
+Felbamate$Phenytoin$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increased the steady-state phenytoin Cmin to 25?7 micrograms/mL | increased the steady-state phenytoin Cmin to 25?7 micrograms/mL | 
+Alprazolam$Erythromycin$NDF-RT$None$None$Significant$ALPRAZOLAM/ERYTHROMYCIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034118$None$None$None
+Erythromycin$Alprazolam$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold | ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold | 
+Ketoconazole$DIAZEPAM$NDF-RT$None$None$Significant$DIAZEPAM/KETOCONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000181975$None$None$None
+Ketoconazole$Diazepam$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$influence the pharmacokinetics | 
+Buspirone$Verapamil$NDF-RT$None$None$Significant$BUSPIRONE/VERAPAMIL [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034645$None$None$None
+Verapamil$Buspirone$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Ketoconazole$Aliskiren$NDF-RT$None$None$Significant$ALISKIREN/KETOCONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000179858$None$None$None
+Ketoconazole$Aliskiren$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$80% increase in plasma levels of aliskiren | 
+Simvastatin$Dronedarone$NDF-RT$None$None$Significant$DRONEDARONE/SIMVASTATIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000180984$None$None$None
+Dronedarone$Simvastatin$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Risperidone$PHENOBARBITAL$NDF-RT$None$None$Significant$PHENOBARBITAL/RISPERIDONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176295$None$None$None
+PHENOBARBITAL$Risperidone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$may cause a decrease in the combined plasma concentrations | may cause similar decreases in the combined plasma concentrations | 
+Phenytoin$AMIODARONE$NDF-RT$None$None$Significant$AMIODARONE/PHENYTOIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176484$None$None$None
+Phenytoin$AMIODARONE$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Paroxetine$Pimozide$NDF-RT$None$None$Critical$PAROXETINE/PIMOZIDE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176656$None$None$None
+PAROXETINE$Pimozide$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increases in pimozide AUC of 151% and Cmax of 62% | 
+Atazanavir$Lansoprazole$ONC-HighPriority$None$None$None$None$None$None$None$None
+Lansoprazole$Atazanavir$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$decrease the systemic concentrations | 
+Quinidine$Verapamil$OSCAR$A$None$2$None$None$None$P$	
+Quinidine$Verapamil$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Nifedipine$Phenytoin$OSCAR$A$None$2$None$None$None$P$	
+Phenytoin$Nifedipine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$lowered the AUC and Cmax of nifedipine by approximately 70% | 
+Voriconazole$Oxycodone$NDF-RT$None$None$Critical$OXYCODONE/VORICONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000182499$None$None$None
+Voriconazole$Oxycodone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increased oxycodone AUC and Cmax by 3.6 and 1.7 fold | increased the plasma concentrations | 
+Propranolol$Verapamil$OSCAR$A$None$2$None$None$None$G$Augments coronary vasoconstric
+Propranolol$Verapamil$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Sulfamethoxazole$Phenytoin$OSCAR$A$None$1$None$None$None$ $	
+Sulfamethoxazole$Phenytoin$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$may inhibit the hepatic metabolism | increased the phenytoin half-life by 39% and decreased the phenytoin metabolic clearance rate by 27% | 
+Ketoconazole$Eplerenone$NDF-RT$None$None$Critical$EPLERENONE/KETOCONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034992$None$None$None
+Ketoconazole$Eplerenone$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Cimetidine$Alprazolam$OSCAR$A$None$1$None$None$None$F$	
+Cimetidine$Alprazolam$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16% | 
+Torasemide$Digoxin$OSCAR$A$None$2$None$None$None$G$Digoxin toxicity, if potassium
+Digoxin$Torasemide$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Cimetidine$Quinidine$OSCAR$A$None$1$None$None$None$F$	
+Quinidine$Cimetidine$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+SIMVASTATIN$AMIODARONE$CredibleMeds$Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis$Inhibition of metabolism of simvastatin/ lovastatin by CYP3A4$None$None$None$None$None$None
+AMIODARONE$Simvastatin$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Lansoprazole$Ketoconazole$ONC-NonInteruptive$None$None$None$None$None$None$None$None
+Lansoprazole$Ketoconazole$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$may interfere with the absorption | 
+Risperidone$Carbamazepine$NDF-RT$None$None$Significant$CARBAMAZEPINE/RISPERIDONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176269$None$None$None
+Carbamazepine$Risperidone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$decreased the steady-state plasma concentrations of risperidone and 9-hydroxyrisperidone by about 50% | may cause a decrease in the combined plasma concentrations | 
+Phenobarbital$Verapamil$OSCAR$I$None$1$None$None$None$ $	
+PHENOBARBITAL$Verapamil$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Alprazolam$Nefazodone$NDF-RT$None$None$Significant$ALPRAZOLAM/NEFAZODONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034590$None$None$None
+Nefazodone$Alprazolam$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold | peak concentrations, AUC and half-life values for alprazolam increased by approximately 2-fold | increased alprazolam concentration two-fold | increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold | 
+ALLOPURINOL$Azathioprine$NDF-RT$None$None$Critical$ALLOPURINOL/AZATHIOPRINE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000032732$None$None$None
+Allopurinol$Azathioprine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$a reduction in dose to approximately one-third to one-fourth of the usual dose | 
+Penbutolol$Ethanol$OSCAR$N$None$ $None$None$None$P$	
+Penbutolol$Ethanol$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Ketoconazole$Dofetilide$NDF-RT$None$None$Critical$DOFETILIDE/KETOCONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034634$None$None$None
+Ketoconazole$Dofetilide$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Risperidone$Valproic Acid$NDF-RT$None$None$Significant$RISPERIDONE/VALPROIC ACID [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034753$None$None$None
+Risperidone$Valproic Acid$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$there was a 20% increase in valproate peak plasma concentration (Cmax | 
+ISONIAZID$Carbamazepine$NDF-RT$None$None$Critical$CARBAMAZEPINE/ISONIAZID [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000032734$None$None$None
+ISONIAZID$Carbamazepine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increase its serum levels | 
+DIGOXIN$CLARITHROMYCIN$CredibleMeds$Increased digoxin concentrations and risk of digoxin toxicity$Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin$None$None$None$None$None$None
+Clarithromycin$Digoxin$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Salicyclic acid$Valproic Acid$OSCAR$I$None$1$None$None$None$ $	
+Salicyclic acid$Valproic Acid$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Paroxetine$Risperidone$NDF-RT$None$None$Significant$PAROXETINE/RISPERIDONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034622$None$None$None
+PAROXETINE$Risperidone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increase the plasma concentration of risperidone 2.5 to 2.8 fold and 3 to 9 fold | increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold | increased mean plasma concentrations of risperidone approximately 4-fold | 
+Cimetidine$Pethidine$OSCAR$A$None$2$None$None$None$P$	
+Cimetidine$PETHIDINE$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$reduced the clearance and volume of distribution | 
+Rifampicin$Fluconazole$NDF-RT$None$None$Significant$FLUCONAZOLE/RIFAMPIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033454$None$None$None
+Rifampicin$Fluconazole$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$half-life decreased from 33.4 ? 4.4 hours to 26.8 ? 3.9 hours | significant decrease in fluconazole AUC | 
+SERTRALINE$Pimozide$NDF-RT$None$None$Critical$PIMOZIDE/SERTRALINE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034778$None$None$None
+SERTRALINE$Pimozide$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increase in pimozide AUC and C max of about 40% | 
+Spironolactone$Digoxin$OSCAR$A$None$1$None$None$None$F$	
+Spironolactone$Digoxin$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Metoclopramide$Digoxin$OSCAR$I$None$1$None$None$None$P$Affects slow-dissolving digoxi
+METOCLOPRAMIDE$Digoxin$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Salicyclic acid$Phenytoin$OSCAR$A$None$1$None$None$None$P$	
+Salicyclic acid$Phenytoin$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Digoxin$Nifedipine$OSCAR$N$None$ $None$None$None$P$	
+Digoxin$Nifedipine$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Lovastatin$Amiodarone$ONC-HighPriority$None$None$None$None$None$None$None$None
+AMIODARONE$Lovastatin$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Rifampicin$Verapamil$NDF-RT$None$None$Significant$RIFAMPIN/VERAPAMIL [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034148$None$None$None
+Rifampicin$Verapamil$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$lowering of plasma levels | reduce oral verapamil bioavailability | 
+DIGOXIN$ERYTHROMYCIN$CredibleMeds$Increased digoxin concentrations and risk of digoxin toxicity$Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin$None$None$None$None$None$None
+Erythromycin$Digoxin$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Acetylsalicylic acid$Nitroglycerin$OSCAR$A$None$1$None$None$None$P$	
+Acetylsalicylic acid$NITROGLYCERIN$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Rifampicin$AMIODARONE$NDF-RT$None$None$Significant$AMIODARONE/RIFAMPIN [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034454$None$None$None
+Rifampicin$AMIODARONE$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction
+Hydrochlorothiazide$Dofetilide$NDF-RT$None$None$Critical$DOFETILIDE/HYDROCHLOROTHIAZIDE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000035291$None$None$None
+Hydrochlorothiazide$Dofetilide$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Cimetidine$Verapamil$OSCAR$A$None$1$None$None$None$ $	
+Cimetidine$Verapamil$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$clearance of verapamil was either reduced or unchanged | 
+Felodipine$Erythromycin$NDF-RT$None$None$Significant$ERYTHROMYCIN/FELODIPINE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034626$None$None$None
+Erythromycin$Felodipine$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Verapamil$Imipramine$OSCAR$A$None$1$None$None$None$ $	
+Verapamil$IMIPRAMINE$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Verapamil$Digoxin$OSCAR$A$None$2$None$None$None$P$	
+Digoxin$Verapamil$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Furosemide$Aliskiren$NDF-RT$None$None$Significant$ALISKIREN/FUROSEMIDE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000179856$None$None$None
+Aliskiren$Furosemide$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$AUC and Cmax of furosemide were reduced by about 30% and 50 | 
+AMIODARONE$Fentanyl$NDF-RT$None$None$Significant$AMIODARONE/FENTANYL [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033555$None$None$None
+Fentanyl$AMIODARONE$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Ketoconazole$Alprazolam$NDF-RT$None$None$Critical$ALPRAZOLAM/KETOCONAZOLE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034443$None$None$None
+Ketoconazole$Alprazolam$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold | ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold | 
+Felbamate$Carbamazepine$NDF-RT$None$None$Significant$CARBAMAZEPINE/FELBAMATE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033190$None$None$None
+Carbamazepine$Felbamate$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$causes an approximate 50% increase in the clearance | 40% decrease in the steady-state trough concentrations | 
+Ramipril$Telmisartan$ONC-NonInteruptive$None$None$None$None$None$None$None$None
+Ramipril$Telmisartan$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Paroxetine$Desipramine$NDF-RT$None$None$Significant$DESIPRAMINE/PAROXETINE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034763$None$None$None
+PAROXETINE$Desipramine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increased single-dose desipramine (100 mg) Cmax, AUC, and T? by an average of approximately 2-, 5-, and 3-fold | 
+Metoclopramide$L-DOPA$OSCAR$A$None$3$None$None$None$P$Single case of hypertensive cr
+METOCLOPRAMIDE$L-DOPA$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$the rate and/or extent of absorption of drugs from the small bowel may be increased | 
+Cimetidine$Diazepam$OSCAR$A$None$1$None$None$None$F$	
+Cimetidine$DIAZEPAM$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$influence the pharmacokinetics | 
+Verapamil$Ethanol$OSCAR$A$None$1$None$None$None$ $	
+Verapamil$Ethanol$NLM-Corpus$None$None$None$None$None$None$None$Increase_Interaction
+Trimethoprim$Dofetilide$NDF-RT$None$None$Critical$DOFETILIDE/TRIMETHOPRIM [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034637$None$None$None
+TRIMETHOPRIM$Dofetilide$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Desipramine$Alprazolam$OSCAR$A$None$2$None$None$None$P$	
+Alprazolam$Desipramine$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$increased an average of 31% and 20% | 
+Ritonavir$TRAZODONE$NDF-RT$None$None$Significant$RITONAVIR/TRAZODONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176444$None$None$None
+Ritonavir$Trazodone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$can be inhibited | Cmax of trazodone increased by 34%, the AUC increased 2.4 fold, the half-life increased by 2.2 fold, and the clearance decreased by 52% | 
+Midazolam$Fluconazole$NDF-RT$None$None$Significant$FLUCONAZOLE/MIDAZOLAM [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033437$None$None$None
+Fluconazole$MIDAZOLAM$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$reduced the clearance of IV midazolam by 51% | increased the midazolam AUC and Cmax by 259% and 74% | increased the midazolam AUC and Cmax by 259% and 150% | 
+Phenytoin$Risperidone$NDF-RT$None$None$Significant$PHENYTOIN/RISPERIDONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176296$None$None$None
+Phenytoin$Risperidone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$may cause a decrease in the combined plasma concentrations | may cause similar decreases in the combined plasma concentrations | 
+Dofetilide$Cimetidine$NDF-RT$None$None$Critical$CIMETIDINE/DOFETILIDE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034821$None$None$None
+Cimetidine$Dofetilide$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Rifampicin$Risperidone$NDF-RT$None$None$Significant$RIFAMPIN/RISPERIDONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000176297$None$None$None
+Rifampicin$Risperidone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$may cause similar decreases in the combined plasma concentrations | may cause a decrease in the combined plasma concentrations | 
+Simvastatin$Verapamil$ONC-HighPriority$None$None$None$None$None$None$None$None
+Simvastatin$Verapamil$NLM-Corpus$None$None$None$None$None$None$None$Caution_Interaction
+Amitriptyline$Clonidine$NDF-RT$None$None$Critical$AMITRIPTYLINE/CLONIDINE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000033409$None$None$None
+Amitriptyline$Clonidine$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Carbamazepine$Hydrochlorothiazide$OSCAR$A$None$1$None$None$None$P$May potentiate risk of hyponat
+Carbamazepine$Hydrochlorothiazide$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Indomethacin$Triamterene$OSCAR$A$None$2$None$None$None$F$Rarely associated with acute r
+Indomethacin$Triamterene$NLM-Corpus$None$None$None$None$None$None$None$Specific_Interaction
+Carbamazepine$Nefazodone$NDF-RT$None$None$Significant$CARBAMAZEPINE/NEFAZODONE [VA Drug Interaction]$http://purl.bioontology.org/ontology/NDFRT/N0000034566$None$None$None
+Carbamazepine$Nefazodone$PK-Corpus$None$None$None$None$None$consensus set annotator team$None$results in insufficient plasma concentrations | 
+Quinidine$Disopyramide$ONC-HighPriority$None$None$None$None$None$None$None$None
+Disopyramide$Quinidine$NLM-Corpus$None$None$None$None$None$None$None$Decrease_Interaction

@@ -1,0 +1,87 @@
+CARDENE I.V. (nicardipine hydrochloride) injection 
+
+Cardene (nicardipine HCI) is a calcium ion influx inhibitor (slow channel blocker or calcium channel blocker).
+
+CONTRAINDICATIONS
+
+Cardene I.V. is contraindicated in patients with advanced aortic stenosis because part of the effect of Cardene I.V. is secondary to reduced afterload. Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance. 
+
+WARNINGS
+
+Use in Patients with Angina
+
+Increases in frequency, duration, or severity of angina have been seen in chronic oral therapy with oral nicardipine. Induction or exacerbation of angina has been seen in less than 1% of coronary artery disease patients treated with Cardene I.V. The mechanism of this effect has not been established.
+
+Use in Patients with Heart Failure
+
+Titrate slowly when using Cardene I.V., particularly in combination with a beta-blocker, in patients with heart failure or significant left ventricular dysfunction because of possible negative inotropic effects.
+
+Intravenous Infusion Site
+
+To reduce the possibility of venous thrombosis, phlebitis, local irritation, swelling, extravasation, and the occurrence of vascular impairment, administer drug through large peripheral veins or central veins rather than arteries or small peripheral veins, such as those on the dorsum of the hand or wrist. To minimize the risk of peripheral venous irritation, change the site of the drug infusion every 12 hours.
+
+PRECAUTIONS
+
+General
+
+Blood Pressure: In administering nicardipine, close monitoring of blood pressure and heart rate is required. Nicardipine may occasionally produce symptomatic hypotension or tachycardia. Avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage.
+
+Use in Patients with Impaired Hepatic Function: Since nicardipine is metabolized in the liver, consider lower dosages and closely monitor responses in patients with impaired liver function or reduced hepatic blood flow.
+
+Use in Patients with Impaired Renal Function: When Cardene I.V. was given to mild to moderate hypertensive patients with moderate renal impairment, a significantly lower systemic clearance and higher area under the curve (AUC) was observed. These results are consistent with those seen after oral administration of nicardipine. Titrate gradually in patients with renal impairment.
+
+Drug Interactions
+
+Beta Blockers
+
+In most patients, Cardene ® I.V. can safely be used concomitantly with beta-blockers. However, titrate slowly when using Cardene ® I.V. in combination with a beta-blocker in heart failure patients.
+
+Cimetidine
+
+Cimetidine has been shown to increase nicardipine plasma concentrations with oral nicardipine administration. Frequently monitor response in patients receiving both drugs. Data with other histamine-2 antagonists are not available.
+
+Cyclosporine
+
+Concomitant administration of oral nicardipine and cyclosporine results in elevated plasma cyclosporine levels. Closely monitor plasma concentrations of cyclosporine during Cardene ® I.V. administration, and reduce the dose of cyclosporine accordingly.
+
+In Vitro Interaction
+
+The plasma protein binding of nicardipine was not altered when therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine, or naproxen were added to human plasma in vitro.
+
+CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
+
+Rats treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of 5, 15, or 45 mg/kg/day) for two years showed a dose-dependent increase in thyroid hyperplasia and neoplasia (follicular adenoma/carcinoma). One- and three-month studies in the rat have suggested that these results are linked to a nicardipine-induced reduction in plasma thyroxine (T4) levels with a consequent increase in plasma levels of thyroid stimulating hormone (TSH). Chronic elevation of TSH is known to cause hyperstimulation of the thyroid. In rats on an iodine deficient diet, nicardipine administration for one month was associated with thyroid hyperplasia that was prevented by T4 supplementation. Mice treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of up to 100 mg/kg/day) for up to 18 months showed no evidence of neoplasia of any tissue and no evidence of thyroid changes. There was no evidence of thyroid pathology in dogs treated with up to 25 mg nicardipine/kg/day for one year and no evidence of effects of nicardipine on thyroid function (plasma T4 and TSH) in man. There was no evidence of a mutagenic potential of nicardipine in a battery of genotoxicity tests conducted on microbial indicator organisms, in micronucleus tests in mice and hamsters, or in a sister chromatid exchange study in hamsters. No impairment of fertility was seen in male or female rats administered nicardipine at oral doses as high as 100 mg/kg/day (human equivalent dose about 16 mg/kg/day, 8 times the maximum recommended oral dose).
+
+Pregnancy Category C
+
+There are no adequate and well-controlled studies of nicardipine use in pregnant women. However, limited human data in pregnant women with preeclampsia or pre-term labor are available. In animal studies, no embryotoxicity occurred in rats with oral doses 8 times the maximum recommended human dose (MRHD) based on body surface area (mg/m2), but did occur in rabbits with oral doses at 24 times the maximum recommended human dose (MRHD) based on body surface area (mg/m2). Cardene ® I.V. should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Hypotension, reflex tachycardia, postpartum hemorrhage, tocolysis, headache, nausea, dizziness, and flushing have been reported in pregnant women who were treated with intravenous nicardipine for hypertension during pregnancy. Fetal safety results ranged from transient fetal heart rate decelerations to no adverse events. Neonatal safety data ranged from hypotension to no adverse events.
+
+Adverse events in women treated with intravenous nicardipine during pre-term labor include pulmonary edema, dyspnea, hypoxia, hypotension, tachycardia, headache, and phlebitis at site of injection. Neonatal adverse event include acidosis (pH<7.25).
+
+In embryofetal toxicity studies, nicardipine was administered intravenously to pregnant rats and rabbits during organogenesis at doses up to 0.14 times the MRHD based on body surface area (mg/m2) (5 mg/kg/day) (rats) and 0.03 times the MRHD based on body surface area (mg/m2) (0.5 mg/kg/day) (rabbits). No embryotoxicity or teratogenicity was seen at these doses. Embryotoxicity, but no teratogenicity was seen at 0.27 times the MRHD based on body surface area (mg/m2) (10 mg/kg/day) in rats and at 0.05 times the MRHD based on body surface area (mg/m2) (1 mg/kg/day) in rabbits.
+
+In other animal studies, pregnant Japanese White rabbits received oral nicardipine during organogenesis, at doses 8 and 24 times the MRHD based on body surface area (mg/m2) (50 and 150 mg/kg/day). Embryotoxicity occurred at the high dose along with signs of maternal toxicity (marked maternal weight gain suppression). New Zealand albino rabbits received oral nicardipine during organogenesis, at doses up to 16 times the MRHD based on body surface area (mg/m2) (100 mg nicardipine/kg/day). While significant maternal mortality occurred, no adverse effects on the fetus were observed. Pregnant rats received oral nicardipine from day 6 through day 15 of gestation at doses up to 8 times the MRHD based on body surface area (mg/m2) (100 mg/kg/day). There was no evidence of embryotoxicity or teratogenicity; however, dystocia, reduced birth weights, reduced neonatal survival, and reduced neonatal weight gain were noted.
+
+Nursing Mothers
+
+Nicardipine is minimally excreted into human milk. Among 18 infants exposed to nicardipine through breast milk in the postpartum period, calculated daily infant dose was less than 0.3 mcg and there were no adverse events observed. Consider the possibility of infant exposure when using nicardipine in nursing mothers.
+
+In a study of 11 women who received oral nicardipine 4 to 14 days postpartum, 4 women received immediate-release nicardipine 40 to 80 mg daily, 6 received sustained-release nicardipine 100 to 150 mg daily, and one received intravenous nicardipine 120 mg daily. The peak milk concentration was 7.3 mcg/L (range 1.9 – 18.8), and the mean milk concentration was 4.4 mcg/L (range 1.3 – 13.8). Infants received an average of 0.073% of the weight-adjusted maternal oral dose and 0.14% of the weight-adjusted maternal intravenous dose.
+
+In another study of seven women who received intravenous nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for pre-eclampsia, 34 milk samples were obtained at unspecified times and nicardipine was undetectable (<5 mcg/L) in 82% of the samples. Four women who received 1 to 6.5 mg/hour of nicardipine had 6 milk samples with detectable nicardipine levels (range 5.1 to 18.5 mcg/L). The highest concentration of 18.5 mcg/L was found in a woman who received 5.5 mg/hour of nicardipine. The estimated maximum dose in a breastfed infant was <0.3 mcg daily or between 0.015 to 0.004% of the therapeutic dose in a 1 kg infant.
+
+Pediatric Use
+
+Safety and efficacy in patients under the age of 18 have not been established.
+
+Use in the Elderly
+
+The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (>65 years) and young healthy adults.
+
+Clinical studies of nicardipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, use low initial doses in elderly patients, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+DOSAGE AND ADMINISTRATION
+
+Cardene I.V. is intended for intravenous use. Titrate dose to achieve the desired blood pressure reduction. Individualize dosage depending on the blood pressure to be obtained and the response of the patient.
+
+The time course of blood pressure decrease is dependent on the initial rate of infusion and the frequency of dosage adjustment. With constant infusion, blood pressure begins to fall within minutes. It reaches about 50% of its ultimate decrease in about 45 minutes.

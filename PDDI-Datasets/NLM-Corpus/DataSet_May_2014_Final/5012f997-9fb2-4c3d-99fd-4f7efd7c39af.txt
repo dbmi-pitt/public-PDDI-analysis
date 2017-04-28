@@ -1,0 +1,41 @@
+Drug Label for drug brand Dyrenium, containing Triamterene.
+
+
+Warnings
+
+
+Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-sparing agents, including Dyrenium. Hyperkalemia is more likely to occur in patients with renal impairment and diabetes (even without evidence of renal impairment), and in the elderly or severely ill. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients receiving Dyrenium, when dosages are changed or with any illness that may influence renal function.
+
+
+CONTRAINDICATIONS
+
+Anuria. Severe or progressive kidney disease or dysfunction, with the possible exception of nephrosis. Severe hepatic disease. Hypersensitivity to the drug or any of its components.
+Dyrenium (triamterene) should not be used in patients with pre-existing elevated serum potassium, as is sometimes seen in patients with impaired renal function or azotemia, or in patients who develop hyperkalemia while on the drug. Patients should not be placed on dietary potassium supplements, potassium salts or potassium-containing salt substitutes in conjunction with Dyrenium.
+Dyrenium should not be given to patients receiving other potassium-sparing agents, such as spironolactone, amiloride hydrochloride, or other formulations containing triamterene. Two deaths have been reported in patients receiving concomitant spironolactone and Dyrenium or Dyazide. Although dosage recommendations were exceeded in one case and in the other serum electrolytes were not properly monitored, these two drugs should not be given concomitantly.
+
+WARNINGS
+
+
+
+
+
+There have been isolated reports of hypersensitivity reactions, therefore, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver damage or other idiosyncratic reactions.
+Periodic BUN and serum potassium determinations should be made to check kidney function, especially in patients with suspected or confirmed renal insufficiency. It is particularly important to make serum potassium determinations in elderly or diabetic patients receiving the drug, these patients should be observed carefully for possible serum potassium increases.
+If hyperkalemia is present or suspected, an electrocardiogram should be obtained. If the ECG shows no widening of the QRS or arrhythmia in the presence of hyperkalemia, it is usually sufficient to discontinue Dyrenium (triamterene) and any potassium supplementation, and substitute a thiazide alone. Sodium polystyrene sulfonate (Kayexalate, Sanofi Synthelabo) may be administered to enhance the excretion of excess potassium. The presence of a widened QRS complex or arrhythmia in association with hyperkalemia requires prompt additional therapy. For tachyarrhythmia, infuse 44 mEq of sodium bicarbonate or 10 mL of 10% calcium gluconate or calcium chloride over several minutes. For asystole, bradycardia or A-V block transvenous pacing is also recommended.
+The effect of calcium and sodium bicarbonate is transient and repeated administration may be required. When indicated by the clinical situation, excess K+ may be removed by dialysis or oral or rectal administration of Kayexalate. Infusion of glucose and insulin has also been used to treat hyperkalemia.
+
+
+Drug Interactions
+
+Caution should be used when lithium and diuretics are used concomitantly because diuretic-induced sodium loss may reduce the renal clearance of lithium and increase serum lithium levels with risk of lithium toxicity. Patients receiving such combined therapy should have serum lithium levels monitored closely and the lithium dosage adjusted if necessary.
+A possible interaction resulting in acute renal failure has been reported in a few subjects when indomethacin, a nonsteroidal anti-inflammatory agent, was given with triamterene. Caution is advised in administering nonsteroidal anti-inflammatory agents with triamterene.
+The effects of the following drugs may be potentiated when given together with triamterene: antihypertensive medication, other diuretics, preanesthetic and anesthetic agents, skeletal muscle relaxants (nondepolarizing).
+Potassium-sparing agents should be used with caution in conjunction with angiotensin-converting enzyme (ACE) inhibitors due to an increased risk of hyperkalemia.
+The following agents, given together with triamterene, may promote serum potassium accumulation and possibly result in hyperkalemia because of the potassium-sparing nature of triamterene, especially in patients with renal insufficiency: blood from blood bank (may contain up to 30 mEq of potassium per liter of plasma or up to 65 mEq per liter of whole blood when stored for more than 10 days), low-salt milk (may contain up to 60 mEq of potassium per liter), potassium-containing medications (such as parenteral penicillin G potassium), salt substitutes (most contain substantial amounts of potassium).
+Dyrenium (triamterene) may raise blood glucose levels, for adult-onset diabetes, dosage adjustments of hypoglycemic agents may be necessary during and/or after therapy, concurrent use with chlorpropamide may increase the risk of severe hyponatremia.
+
+
+Drug/Laboratory Test Interactions
+
+Triamterene and quinidine have similar fluorescence spectra, thus, triamterene will interfere with the fluorescent measurement of quinidine.
+

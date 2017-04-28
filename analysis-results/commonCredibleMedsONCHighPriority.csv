@@ -1,0 +1,9 @@
+drug pair    ONCHighPriority    CredibleMeds
+http://bio2rdf.org/drugbank:DB00227-http://bio2rdf.org/drugbank:DB01026    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB01167    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB01026    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB01118    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00227-http://bio2rdf.org/drugbank:DB00196    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00641-http://bio2rdf.org/drugbank:DB00196    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB01118    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00227-http://bio2rdf.org/drugbank:DB01167    [(None, None)]    [(None, None)]

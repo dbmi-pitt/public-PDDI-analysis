@@ -1,0 +1,48 @@
+Drug Label for drug brand Persantine, containing dipyridamole.
+
+
+CONTRAINDICATIONS
+
+
+Hypersensitivity to dipyridamole and any of the other components.
+
+
+PRECAUTIONS
+
+
+General
+
+Coronary Artery Disease: Dipyridamole has a vasodilatory effect and should be used with caution in patients with severe coronary artery disease (e.g., unstable angina or recently sustained myocardial infarction). Chest pain may be aggravated in patients with underlying coronary artery disease who are receiving dipyridamole.
+Hepatic Insufficiency: Elevations of hepatic enzymes and hepatic failure have been reported in association with dipyridamole administration.
+Hypotension: Dipyridamole should be used with caution in patients with hypotension since it can produce peripheral vasodilation.
+
+
+Laboratory Tests
+
+Dipyridamole has been associated with elevated hepatic enzymes.
+
+Drug Interactions
+
+No pharmacokinetic drug-drug interaction studies were conducted with Persantine (dipyridamole USP) tablets. The following information was obtained from the literature.
+Adenosine: Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine. Adjustment of adenosine dosage may be necessary.
+Cholinesterase Inhibitors: Dipyridamole may counteract the anticholinesterase effect of cholinesterase inhibitors, thereby potentially aggravating myasthenia gravis.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In studies in which dipyridamole was administered in the feed to mice (up to 111 weeks in males and females) and rats (up to 128 weeks in males and up to 142 weeks in females), there was no evidence of drug-related carcinogenesis. The highest dose administered in these studies (75 mg/kg/day) was, on a mg/m2 basis, about equivalent to the maximum recommended daily human oral dose (MRHD) in mice and about twice the MRHD in rats. Mutagenicity tests of dipyridamole with bacterial and mammalian cell systems were negative. There was no evidence of impaired fertility when dipyridamole was administered to male and female rats at oral doses up to 500 mg/kg/day (about 12 times the MRHD on a mg/m2 basis). A significant reduction in number of corpora lutea with consequent reduction in implantations and live fetuses was, however, observed at 1250 mg/kg (more than 30 times the MRHD on a mg/m2 basis).
+
+Pregnancy
+
+
+Teratogenic Effects: Pregnancy Category B.
+
+Reproduction studies have been performed in mice, rabbits and rats at oral dipyridamole doses of up to 125 mg/kg, 40 mg/kg and 1000 mg/kg, respectively (about 1, 2 and 25 times the maximum recommended daily human oral dose, respectively, on a mg/m2 basis) and have revealed no evidence of harm to the fetus due to dipyridamole. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, PERSANTINE tablets should be used during pregnancy only if clearly needed.
+
+Nursing Mothers
+
+As dipyridamole is excreted in human milk, caution should be exercised when PERSANTINE tablets are administered to a nursing woman.
+
+Pediatric Use
+
+Safety and effectiveness in the pediatric population below the age of 12 years have not been established.
+

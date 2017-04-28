@@ -1,0 +1,166 @@
+DUTOPROL (metoprolol succinate and hydrochlorothiazide) tablet, film coated 
+
+DUTOPROL (metoprolol succinate extended release/hydrochlorothiazide) combines a beta1-selective (cardioselective) adrenoceptor blocking agent and a diuretic, hydrochlorothiaz.
+
+CONTRAINDICATIONS
+
+Metoprolol succinate extended release/hydrochlorothiazide is contraindicated in patients in cardiogenic shock, overt cardiac failure (see WARNINGS), second or third degree AV block, marked sinus bradycardia, anuria, and hypersensitivity to either component of this product or to other sulfonamide-derived drugs.
+
+WARNINGS
+
+Metoprolol succinate extended release
+
+Ischemic Heart Disease: Following abrupt cessation of therapy with certain beta-blocking agents, exacerbations of angina pectoris and, in some cases, myocardial infarction have occurred. When discontinuing chronically administered DUTOPROL, particularly in patients with ischemic heart disease, gradually reduce the dosage over a period of 1–2 weeks and monitor the patient. If angina markedly worsens or acute coronary ischemia develops, promptly reinstate DUTOPROL, and take measures appropriate for the management of unstable angina. Warn patients not to interrupt therapy without the physician’s advice. Because coronary artery disease is common and may be unrecognized, avoid abruptly discontinuing DUTOPROL in patients treated only for hypertension.
+
+Bronchospastic Disease: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of its relative beta1 cardio-selectivity, however, metoprolol succinate extended release/hydrochlorothiazide may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment. Because beta1-selectivity is not absolute, use the lowest possible dose of DUTOPROL. Bronchodilators, including beta2—agonists, should be readily available or administered concomitantly (see DOSAGE AND ADMINISTRATION).
+
+Pheochromocytoma: If DUTOPROL is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated. Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+Major Surgery: Avoid initiation of high-dose regimen of extended— release metoprolol in patients undergoing non-cardiac surgery, since such use in patients with cardiovascular risk factors has been associated with bradycardia, hypotension, stroke and death.
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes and Hypoglycemia: Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected. (See PRECAUTIONS, General, Hydrochlorothiazide).
+
+Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism, such as tachycardia. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta—blockade, which might precipitate a thyroid storm.
+
+Peripheral Vascular Disease: Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease.
+
+Calcium Channel Blockers: Because of significant inotropic and chronotropic effects in patients treated with beta-blockers and calcium channel blockers of the verapamil and diltiazem type, caution should be exercised in patients treated with these agents concomitantly.
+
+Hydrochlorothiazide
+
+Acute Myopia and Secondary Angle-Closure Glaucoma: Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+Renal Disease: Thiazides should be used with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function. (See DOSAGE AND ADMINISTRATION section).
+
+Hepatic Disease: Thiazide diuretics should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma. (See DOSAGE AND ADMINISTRATION section).
+
+Hypersensitivity Reaction: Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+Systemic Lupus Erythematosus: Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+Lithium Interaction: Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
+
+PRECAUTIONS
+
+General
+
+Metoprolol succinate extended release/hydrochlorothiazide
+
+The precautions for the use of metoprolol succinate extended release/hydrochlorothiazide are the same as for the individual agents.
+
+DUTOPROL should be used with caution in patients with impaired hepatic function. In patients with pheochromocytoma, an alpha-blocking agent should be initiated prior to the use of any beta-blocking agent.
+
+Metoprolol succinate extended release
+
+Worsening cardiac failure may occur during up-titration of beta blockers. If such symptoms occur, diuretics should be increased and the dose of beta-blocking agent should not be advanced until clinical stability is restored. It may be necessary to lower the dose of DUTOPROL or temporarily discontinue it. (See DOSAGE AND ADMINISTRATION.) Such episodes do not preclude subsequent successful titration of DUTOPROL.
+
+Hydrochlorothiazide
+
+Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
+
+All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+
+Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy. Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (eg, increased ventricular irritability). Hypokalemia may be avoided or treated by use of potassium sparing diuretics or potassium supplements such as foods with a high potassium content. Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+
+Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+
+Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazide therapy.
+
+In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required. Hyperglycemia may occur with thiazide diuretics. Thus latent diabetes mellitus may become manifest during thiazide therapy.
+
+The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
+
+If progressive renal impairment becomes evident consider withholding or discontinuing diuretic therapy.
+
+Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
+
+Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
+
+Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
+
+Drug Interactions
+
+Metoprolol
+
+Catecholamine-depleting drugs (eg, reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents. Observe patients treated with DUTOPROL plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
+
+Drugs that inhibit CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone are likely to increase metoprolol concentration. In healthy subjects with CYP2D6 extensive metabolizer phenotype, coadministration of quinidine 100 mg and immediate release metoprolol 200 mg tripled the concentration of S—metoprolol and doubled the metoprolol elimination half—life. In four patients with cardiovascular disease, coadministration of propafenone 150 mg t.i.d. with immediate—release metoprolol 50 mg t.i.d. resulted in two— to five-fold increases in the steady-state concentration of metoprolol. These increases in plasma concentration would decrease the cardioselectivity of metoprolol.
+
+Digitalis glycosides, clonidine, diltiazem and verapamil slow atrioventricular conduction and decrease heart rate. Concomitant use with beta blockers can increase the risk of bradycardia.
+
+If clonidine and a beta blocker, such as metoprolol are coadministered, withdraw the beta-blocker several days before the gradual withdrawal of clonidine because beta-blockers may exacerbate the rebound hypertension that can follow the withdrawal of clonidine. If replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped (see Warnings).
+
+Hydrochlorothiazide
+
+When administered concurrently the following drugs may interact with thiazide diuretics:
+
+Alcohol, barbiturates, or narcotics – Potentiation of orthostatic hypotension may occur.
+
+Antidiabetic drugs (oral agents and insulin) – Dosage adjustment of the antidiabetic drug may be required.
+
+Other antihypertensive drugs – Additive effect or potentiation.
+
+Cholestyramine and colestipol resins – Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
+
+Corticosteroids, ACTH – Intensified electrolyte depletion, particularly hypokalemia.
+
+Pressor amines (eg, norepinephrine) – Possible decreased response to pressor amines but not sufficient to preclude their use.
+
+Skeletal muscle relaxants, nondepolarizing (eg, tubocurarine) – Possible increased responsiveness to the muscle relaxant.
+
+Lithium – Generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with DUTOPROL.
+
+Non-steroidal Anti-inflammatory Drugs – In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium sparing and thiazide diuretics. Therefore, when DUTOPROL and non-steroidal anti- inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Metoprolol/Hydrochlorothiazide
+
+Carcinogenicity and mutagenicity studies have not been conducted with combinations of metoprolol and hydrochlorothiazide.
+
+A combination of metoprolol tartrate and hydrochlorothiazide produced no adverse effects on the fertility and reproductive performance of male and female rats at doses of up to 200/50 mg/kg/day [about 10 and 20 times the maximum recommended human dose (MRHD) of metoprolol and hydrochlorothiazide, respectively, on a mg/m2 basis].
+
+Metoprolol
+
+Long-term studies in animals have been conducted to evaluate the carcinogenic potential of metoprolol tartrate. In 2-year studies in rats at oral dosage levels of up to 800 mg/kg/day (41 times, on a mg/m2 basis, the daily dose of 200 mg for a 60-kg patient), there was no increase in the development of spontaneously occurring benign or malignant neoplasms of any type. The only histologic changes that appeared to be drug related were an increased incidence of generally mild focal accumulation of foamy macrophages in pulmonary alveoli and a slight increase in biliary hyperplasia. In a 21-month study in Swiss albino mice at three oral dosage levels of up to 750 mg/kg/day (about 18 times, on a mg/m2 basis, the daily dose of 200 mg for a 60-kg patient), benign lung tumors (small adenomas) occurred more frequently in female mice receiving the highest dose than in untreated control animals. There was no increase in malignant or total (benign plus malignant) lung tumors, nor in the overall incidence of tumors or malignant tumors. This 21-month study was repeated in CD-1 mice, and no statistically or biologically significant differences were observed between treated and control mice of either sex for any type of tumor.
+
+All genotoxicity tests performed on metoprolol tartrate (a dominant lethal study in mice, chromosomal studies in somatic cells, a Salmonella/mammalian-microsome mutagenicity test, and a nucleus anomaly test in somatic interphase nuclei) and metoprolol succinate (a Salmonella/mammalian-microsome mutagenicity test) were negative.
+
+No evidence of impaired fertility due to metoprolol tartrate was observed in a study performed in rats at doses up to 22 times, on a mg/m2 basis, the daily dose of 200 mg in a 60 kg patient.
+
+Hydrochlorothiazide
+
+Two-year feeding studies in mice and rats uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice at doses of up to 600 mg/kg/day (about 120 times the MRHD of 25 mg/day) or in male and female rats at doses of up to 100 mg/kg/day (about 40 times the MRHD). However, there was equivocal evidence of hepatocarcinogenicity in male mice.
+
+Hydrochlorothiazide was not genotoxic in the Ames bacterial mutagenicity test or the in vitro Chinese Hamster Ovary (CHO) test for chromosomal aberrations. Nor was it genotoxic in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene. Positive results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) test, the Mouse Lymphoma Cell (mutagenicity) assay and the Aspergillus nidulans non-disjunction assay.
+
+Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day (about 20 and 1.6 times the MRHD, on a mg/m2 basis), respectively, prior to mating and throughout gestation.
+
+DOSAGE AND ADMINISTRATION
+
+Dosing must be individualized considering baseline and target blood pressure as well as experience with individual agents.
+
+The side effects (see WARNINGS) of metoprolol succinate extended release are a mixture of dose-dependent phenomena (primarily bradycardia and fatigue); those of hydrochlorothiazide are a mixture of dose-dependent (primarily hypokalemia) and dose independent phenomena (e.g., pancreatitis), the former much more common than the latter. Therapy with any combination of metoprolol succinate extended release and hydrochlorothiazide will be associated with both sets of dose independent side effects. To minimize the known dose-related tolerability and safety-related effects of the individual agents, consideration should be given to initiating treatment at less than their maximum doses.
+
+DUTOPROL may be administered with other antihypertensive agents.
+
+DUTOPROL may be administered with or without food.
+
+DUTOPROL is administered once daily.
+
+Hydrochlorothiazide is effective in doses of 12.5 mg to 50 mg once daily.
+
+Patients usually do not require doses in excess of 50 mg hydrochlorothiazide daily when used concomitantly with other antihypertensive agents.
+
+The usual initial dose of metoprolol succinate extended release is 25 to 100 mg daily in a single dose.
+
+Metoprolol succinate extended release doses greater than 400 mg have not been studied.
+
+Replacement Therapy
+
+DUTOPROL may be substituted for treatment with individual components.
+
+
+

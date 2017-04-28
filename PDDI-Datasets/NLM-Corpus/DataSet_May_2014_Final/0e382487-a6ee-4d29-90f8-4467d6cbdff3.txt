@@ -1,0 +1,47 @@
+PRISMASOL
+
+PrismaSol solution is indicated in adults and children for use as a replacement solution in Continuous Renal Replacement Therapy (CRRT) to replace plasma volume removed by ultrafiltration and to correct electrolytes and acid-base imbalances.
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 Individualization of Treatments
+
+The mode of therapy, solute formulation, flow rates and length of therapy should be selected by the physician responsible for managing treatment depending on the clinical condition of the patient as well as the patient's fluid, electrolyte, acid base and glucose balance. PrismaSol solution can be administered into the extra-corporeal circuit before (pre-dilution) and/or after the hemofilter or hemodiafilter (post-dilution).
+
+In post-dilution hemofiltration, the replacement rate should not be greater than one third of the blood flow rate; e.g., for blood flow of 100 mL/min, equivalent to 6000 mL/hour, post-filter replacement rate should not exceed 2000 mL/hour.
+
+4 CONTRAINDICATIONS
+
+There is no known contraindication to the use of PrismaSol solution.
+
+5 WARNINGS AND PRECAUTIONS
+
+The electrolyte solution contained in compartment A must be mixed with the buffer solution of compartment B before use in order to obtain the reconstituted solution suitable for hemofiltration /hemodiafiltration.
+
+Due to chemical reasons, after removal of the overwrap, the solution is stable for 24 hours including the duration of the treatment.
+
+Do not administer the reconstituted solution unless it is clear and free of visible particulate matter.
+
+PrismaSol solution includes several formulations. Selection of a specific formulation depends on the patient's condition and treatment procedures.
+
+Administration of the solution should only be under the direction of a physician competent in intensive care treatment including CRRT.
+
+The patient's hemodynamic fluid, electrolyte and acid-base balance should be monitored throughout the procedure. Note that citrate, when used as an anticoagulant, contributes to the base load and can reduce plasma calcium levels.
+
+During hemofiltration or hemodiafiltration, abnormalities in the plasma concentration of potassium, calcium, and glucose may develop. These abnormalities may be corrected by the use of appropriate formulations of PrismaSol solution. Abnormalities in plasma phosphate concentration, especially hypophosphatemia, may also occur. Hypophosphatemia may require phosphate supplementation to maintain plasma concentrations in the physiologic range.
+
+Use only with continuous extra-corporeal blood purification equipment in CRRT.
+
+When connecting solution bags, follow the instructions in this leaflet for correct use of the access ports. Incorrect use of the access port or other restrictions to fluid flow might lead to incorrect patient weight loss and may result in machine alarms. Continuing treatment without resolving the originating cause may result in patient injury or death.
+
+The solution may be heated to no more than 40°C/104°F inside of the overwrap and this must be carefully controlled. After heating, verify that the solution remains clear and contains no particulate matter.
+
+Diabetes Mellitus or Glucose Intolerance
+
+Patients may require initiation of insulin therapy or modification of insulin dosage during treatment with PrismaSol solution. Appropriate monitoring of blood glucose should be performed and insulin dosage adjusted accordingly.
+
+7 DRUG INTERACTIONS
+
+As with the use of other replacement solutions, blood concentrations of filterable drugs may be influenced by CRRT.
+
+The blood concentrations of certain drugs may need to be monitored and appropriate therapy implemented to correct for removal during treatment. In patients with cardiovascular disease, especially those using cardiac glycoside medications, plasma levels of calcium, potassium and magnesium must be carefully monitored.

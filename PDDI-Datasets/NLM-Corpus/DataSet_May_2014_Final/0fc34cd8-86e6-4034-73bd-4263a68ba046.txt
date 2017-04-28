@@ -1,0 +1,139 @@
+Drug Label for drug brand ALTACE, containing ramipril.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue ALTACE as soon as possible (5.6).
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.6).
+ <item>
+ </list>
+
+See full prescribing information for complete boxed warning
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue ALTACE as soon as possible (5.6).
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.6).
+ <item>
+ </list>
+
+
+
+4 CONTRAINDICATIONS
+
+ALTACE is contraindicated in patients who are hypersensitive to this product or any other ACE inhibitor (e.g., a patient who has experienced angioedema during therapy with any other ACE inhibitor).
+Angioedema related to previous treatment with an ACE inhibitor, or a history of hereditary or idiopathic angioedema. (4).
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <paragraph>
+ <main>ACE inhibitor use has been associated with the following:
+ <item>Angioedema, with increased risk in patients with a prior history (5.1)
+ <item>Hypotension and hyperkalemia (5.5, 5.8)
+ <item>Renal impairment: monitor renal function during therapy (5.3)
+ <item>Increased risk of renal impairment when combined with another blocker of the rein-angiotensin-aldosterone system (5.7)
+ <item>Rare cholestatic jaundice and hepatic failure (5.2)
+ <item>Rare neutropenia and agranulocytosis (5.4)
+ </paragraph>
+
+5.1 Anaphylactoid and Possibly Related Reactions
+
+Presumably because drugs that act directly on the renin-angiotensin-aldosterone system (e.g., ACE inhibitors) affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving these drugs (including ALTACE) may be subject to a variety of adverse reactions, some of them serious.
+Angioedema
+Head and Neck Angioedema
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor.
+Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with ACE inhibitors. Angioedema associated with laryngeal edema can be fatal. If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, discontinue treatment with ALTACE and institute appropriate therapy immediately. Where there is involvement of the tongue, glottis, or larynx likely to cause airway obstruction, administer appropriate therapy (e.g., subcutaneous epinephrine solution 1:1000 0.3 mL to 0.5 mL ) promptly see Adverse Reactions (6).
+In considering the use of ALTACE, note that in controlled clinical trials ACE inhibitors cause a higher rate of angioedema in Black patients than in non-Black patients.
+In a large U.S. post-marketing study, angioedema (defined as reports of angio, face, larynx, tongue, or throat edema) was reported in 3/1523 (0.20%) Black patients and in 8/8680 (0.09%) non-Black patients. These rates were not different statistically.
+Intestinal Angioedema
+Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting), in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Include intestinal angioedema in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+Anaphylactoid Reactions During Desensitization
+Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
+Anaphylactoid Reactions During Membrane Exposure
+Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+5.2 Hepatic Failure and Impaired Liver Function
+
+Rarely, ACE inhibitors, including ALTACE, have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and sometimes death. The mechanism of this syndrome is not understood. Discontinue ALTACE if patient develops jaundice or marked elevations of hepatic enzymes.
+As ramipril is primarily metabolized by hepatic esterases to its active moiety, ramiprilat, patients with impaired liver function could develop markedly elevated plasma levels of ramipril. No formal pharmacokinetic studies have been carried out in hypertensive patients with impaired liver function.
+
+5.3 Renal Impairment
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. In patients with severe congestive heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including ALTACE, may be associated with oliguria or progressive azotemia and rarely with acute renal failure or death.
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine may occur. Experience with another ACE inhibitor suggests that these increases would be reversible upon discontinuation of ALTACE and/or diuretic therapy. In such patients, monitor renal function during the first few weeks of therapy. Some hypertensive patients with no apparent pre-existing renal vascular disease have developed increases in blood urea nitrogen and serum creatinine, usually minor and transient, especially when ALTACE has been given concomitantly with a diuretic. This is more likely to occur in patients with pre-existing renal impairment. Dosage reduction of ALTACE and/or discontinuation of the diuretic may be required.
+
+5.4 Neutropenia and Agranulocytosis
+
+In rare instances, treatment with ACE inhibitors may be associated with mild reductions in red blood cell count and hemoglobin content, blood cell or platelet counts. In isolated cases, agranulocytosis, pancytopenia, and bone marrow depression may occur. Hematological reactions to ACE inhibitors are more likely to occur in patients with collagen-vascular disease (e.g., systemic lupus erythematosus, scleroderma) and renal impairment. Consider monitoring white blood cell counts in patients with collagen-vascular disease, especially if the disease is associated with impaired renal function.
+
+5.5 Hypotension
+
+General Considerations
+ALTACE can cause symptomatic hypotension, after either the initial dose or a later dose when the dosage has been increased. Like other ACE inhibitors, ALTACE, has been only rarely associated with hypotension in uncomplicated hypertensive patients. Symptomatic hypotension is most likely to occur in patients who have been volume- and/or salt-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Correct volume- and salt-depletion before initiating therapy with ALTACE.
+If excessive hypotension occurs, place the patient in a supine position and, if necessary, treat with intravenous infusion of physiological saline. ALTACE treatment usually can be continued following restoration of blood pressure and volume.
+Heart Failure Post-Myocardial Infarction
+In patients with heart failure post-myocardial infarction who are currently being treated with a diuretic, symptomatic hypotension occasionally can occur following the initial dose of ALTACE. If the initial dose of 2.5 mg ALTACE cannot be tolerated, use an initial dose of 1.25 mg ALTACE to avoid excessive hypotension. Consider reducing the dose of concomitant diuretic to decrease the incidence of hypotension.
+Congestive Heart Failure
+In patients with congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria or azotemia and rarely, with acute renal failure and death. In such patients, initiate ALTACE therapy under close medical supervision and follow patients closely for the first 2 weeks of treatment and whenever the dose of ALTACE or diuretic is increased.
+Surgery and Anesthesia
+In patients undergoing surgery or during anesthesia with agents that produce hypotension, ramipril may block angiotensin II formation that would otherwise occur secondary to compensatory renin release. Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.
+
+5.6 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue ALTACE as soon as possible see Use in Specific Populations (8.1).
+
+5.7 Dual Blockade of the Renin-Angiotensin-Aldosterone System
+
+Telmisartan
+The ONTARGET trial enrolled 25,620 patients 55 years old with atherosclerotic disease or diabetes with end-organ damage, randomized them to telmisartan only, ramipril only, or the combination, and followed them for a median of 56 months. Patients receiving the combination of telmisartan and ramipril did not obtain any benefit in the composite endpoint of cardiovascular death, MI, stroke and heart failure hospitalization compared to monotherapy, but experienced an increased incidence of clinically important renal dysfunction (death, doubling of serum creatinine, or dialysis) compared with groups receiving telmisartan alone or ramipril alone. Concomitant use of telmisartan and ramipril is not recommended.
+
+5.8 Hyperkalemia
+
+In clinical trials with ALTACE, hyperkalemia (serum potassium 5.7 mEq/L) occurred in approximately 1% of hypertensive patients receiving ALTACE. In most cases, these were isolated values, which resolved despite continued therapy. None of these patients were discontinued from the trials because of hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with ALTACE see Drug Interactions (7.1).
+
+5.9 Cough
+
+Presumably caused by inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. Consider the possibility of angiotensin converting enzyme inhibitor induced-cough in the differential diagnosis of cough.
+
+
+7 DRUG INTERACTIONS
+
+Diuretics: Possibility of excessive hypotension (7.1).
+Lithium: Use with caution (7.3).
+Gold: Nitritoid reactions have been reported (7.4).
+NSAIDS use may lead to increased risk of renal impairment and loss of antihypertensive effect (7.5).
+
+7.1 Diuretics
+
+Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with ALTACE. The possibility of hypotensive effects with ALTACE can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with ALTACE. If this is not possible, reduce the starting dose see Dosage and Administration (2).
+ALTACE can attenuate potassium loss caused by thiazide diuretics. Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) or potassium supplements can increase the risk of hyperkalemia. Therefore, if concomitant use of such agents is indicated, monitor the patient's serum potassium frequently.
+
+7.2 Other Antihypertensive Agents
+
+Limited experience in controlled and uncontrolled trials combining ALTACE with a calcium channel blocker, a loop diuretic, or triple therapy (beta-blocker, vasodilator, and a diuretic) indicate no unusual drug-drug interactions. Other ACE inhibitors have had less than additive effects with beta adrenergic blockers, presumably because both drug classes lower blood pressure by inhibiting parts of the renin-angiotensin-aldosterone system.
+The combination of ramipril and propranolol showed no adverse effects on dynamic parameters (blood pressure and heart rate).
+In a large-scale, long-term clinical efficacy study, the combination of telmisartan and ramipril resulted in an increased incidence of clinically important renal dysfunction (death, doubling of serum creatinine, dialysis) compared with groups receiving either drug alone. Therefore, concomitant use of telmisartan and ramipril is not recommended see Dual Blockade of the Renin-Angiotensin-Aldosterone System (5.7).
+
+7.3 Lithium
+
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium, therefore, frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of lithium toxicity may be increased.
+
+7.4 Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including ALTACE.
+
+7.5 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including ramipril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving ramipril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including ramipril, may be attenuated by NSAIDs.
+
+7.6 Other
+
+Neither ramipril nor its metabolites have been found to interact with food, digoxin, antacid, furosemide, cimetidine, indomethacin, and simvastatin. The co-administration of ramipril and warfarin did not adversely affect the anticoagulation effects of the latter drug. Additionally, co-administration of ramipril with phenprocoumon did not affect minimum phenprocoumon levels or interfere with the patients' state of anticoagulation.
+

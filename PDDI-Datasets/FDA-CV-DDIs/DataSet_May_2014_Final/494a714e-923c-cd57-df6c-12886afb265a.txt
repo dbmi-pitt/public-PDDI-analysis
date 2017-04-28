@@ -1,0 +1,37 @@
+Drug Label for drug brand Thiola, containing tiopronin.
+
+
+CONTRAINDICATIONS
+
+
+The use of THIOLA during pregnancy is contraindicated, except in those with severe cystinuria where the anticipated benefit of inhibited stone formation clearly outweighs possible hazards of treatment (see PRECAUTIONS).
+THIOLA should not be begun again in patients with a prior history of developing agranulocytosis, aplastic anemia or thrombocytopenia on this medication.
+Mothers maintained on THIOLA treatment should not nurse their infants.
+
+
+WARNINGS
+
+Despite apparent lower toxicity of THIOLA, THIOLA may potentially cause all the serious adverse reactions reported for d-penicillamine. Thus, although no death has been reported to result directly from THIOLA treatment, a fatal outcome from THIOLA is possible, as has been reported with d-penicillamine therapy from such complications as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture s syndrome or myasthenia gravis.
+Leukopenia of the granulocytic series may develop without eosinophilia. Thrombocytopenia may be immunologic in origin or occur on an idiosyncratic basis. The reduction in peripheral blood white count to less than 3500/cubic mm or in platelet count to below 100,000 cubic mm mandates cessation of therapy. Patients should be instructed to report promptly the occurrence of any symptom or sign of these hematological abnormalities, such as fever, sore throat, chills, bleeding or easy bruisability.
+Proteinuria, sometimes sufficiently severe to cause nephrotic syndrome, may develop from membranous glomerulopathy. A close observation of affected patients is mandatory.
+The following complications, though rare, have been reported during d-penicillamine therapy and could occur during THIOLA treatment. When there are abnormal urinary findings associated with hemoptysis and pulmonary infiltrates suggestive of Goodpasture s syndrome, THIOLA treatment should be stopped. Appearance of myasthenic syndrome or myasthenia gravis requires cessation of treatment. When pemphigus-type reactions develop, THIOLA therapy should be stopped. Steroid treatment may be necessary.
+
+
+PRECAUTIONS
+
+Patients should be advised of the potential development of complications and to report promptly the occurrence of any symptom or sign of them.
+To help monitor potential complications, the following tests are recommended: peripheral blood counts, direct platelet count, hemoglobin, serum albumin, liver function tests, 24-hour urinary protein and routine urinalysis at 3- 6 month intervals during treatment. In order to assess effect on stone disease, urinary cystine analysis should be monitored frequently during the first 6 months when the optimum dose schedule is being determined, and at 6-month intervals thereafter. Abdominal roentogenogram (KUB) is advised on a yearly basis to monitor the size and appearance/disappearance of stone(s).
+ <list>
+ <item>
+ <item>
+ <item>CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY: Long-term carcino-genicity studies in animals have not been performed. High doses of THIOLA in experimental animals have been shown to interfere with maintenance of pregnancy and viability of the fetus..
+ <item>
+ <item>USE IN PREGNANCY: Pregnancy category C. D-penicillamine has been shown to cause skeletal defects and cleft palates in the fetus when given to pregnant rats at 10 times the dose recommended for human use. A similar teratogenicity might be expected for THIOLA although no such findings could be related to the drug in studies in mice and rats at doses up to 10 times the highest recommended human dose.. There are no adequate and well-controlled studies in pregnant women. THIOLA should be used during pregnancy only if the potential benefit justifies potential risk to the fetus..
+ <item>
+ <item>NURSING MOTHERS: Because THIOLA may be excreted in milk and because of the potential serious adverse reactions of nursing infants from THIOLA, mothers taking THIOLA should not nurse their infants..
+ <item>
+ <item>PEDIATRIC USE: Safety and effectiveness below the age of 9 have not been established.
+ <item>
+ </list>
+
+

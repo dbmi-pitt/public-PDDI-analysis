@@ -1,0 +1,93 @@
+Drug Label for drug brand LANOXIN, containing digoxin.
+
+
+CONTRAINDICATIONS
+
+
+Digitalis glycosides are contraindicated in patients with ventricular fibrillation or in patients with a known hypersensitivity to digoxin. A hypersensitivity reaction to other digitalis preparations usually constitutes a contraindication to digoxin.
+
+
+WARNINGS
+
+
+Sinus Node Disease and AV Block
+
+Because digoxin slows sinoatrial and AV conduction, the drug commonly prolongs the PR interval. The drug may cause severe sinus bradycardia or sinoatrial block in patients with pre-existing sinus node disease and may cause advanced or complete heart block in patients with pre-existing incomplete AV block. In such patients consideration should be given to the insertion of a pacemaker before treatment with digoxin.
+
+Accessory AV Pathway (Wolff-Parkinson-White Syndrome)
+
+After intravenous digoxin therapy, some patients with paroxysmal atrial fibrillation or flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, leading to a very rapid ventricular response or ventricular fibrillation. Unless conduction down the accessory pathway has been blocked (either pharmacologically or by surgery), digoxin should not be used in such patients. The treatment of paroxysmal supraventricular tachycardia in such patients is usually direct-current cardioversion.
+
+Use in Patients With Preserved Left Ventricular Systolic Function
+
+Patients with certain disorders involving heart failure associated with preserved left ventricular ejection fraction may be particularly susceptible to toxicity of the drug. Such disorders include restrictive cardiomyopathy, constrictive pericarditis, amyloid heart disease, and acute cor pulmonale. Patients with idiopathic hypertrophic subaortic stenosis may have worsening of the outflow obstruction due to the inotropic effects of digoxin. Digoxin should generally be avoided in these patients, although it has been used for ventricular rate control in the subgroup of patients with atrial fibrillation.
+
+
+PRECAUTIONS
+
+
+Use in Patients With Impaired Renal Function
+
+Digoxin is primarily excreted by the kidneys, therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin (see DOSAGE AND ADMINISTRATION). Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function. If appropriate care is not taken to reduce the dose of digoxin, such patients are at high risk for toxicity, and toxic effects will last longer in such patients than in patients with normal renal function.
+
+Use in Patients With Electrolyte Disorders
+
+In patients with hypokalemia or hypomagnesemia, toxicity may occur despite serum digoxin concentrations below 2.0 ng/mL, because potassium or magnesium depletion sensitizes the myocardium to digoxin. Therefore, it is desirable to maintain normal serum potassium and magnesium concentrations in patients being treated with digoxin. Deficiencies of these electrolytes may result from malnutrition, diarrhea, or prolonged vomiting, as well as the use of the following drugs or procedures: diuretics, amphotericin B, corticosteroids, antacids, dialysis, and mechanical suction of gastrointestinal secretions.
+Hypercalcemia from any cause predisposes the patient to digitalis toxicity. Calcium, particularly when administered rapidly by the intravenous route, may produce serious arrhythmias in digitalized patients. On the other hand, hypocalcemia can nullify the effects of digoxin in humans, thus, digoxin may be ineffective until serum calcium is restored to normal. These interactions are related to the fact that digoxin affects contractility and excitability of the heart in a manner similar to that of calcium.
+
+Use in Thyroid Disorders and Hypermetabolic States
+
+Hypothyroidism may reduce the requirements for digoxin. Heart failure and/or atrial arrhythmias resulting from hypermetabolic or hyperdynamic states (e.g., hyperthyroidism, hypoxia, or arteriovenous shunt) are best treated by addressing the underlying condition. Atrial arrhythmias associated with hypermetabolic states are particularly resistant to digoxin treatment. Care must be taken to avoid toxicity if digoxin is used.
+
+Use in Patients With Acute Myocardial Infarction
+
+Digoxin should be used with caution in patients with acute myocardial infarction. The use of inotropic drugs in some patients in this setting may result in undesirable increases in myocardial oxygen demand and ischemia.
+
+Use During Electrical Cardioversion
+
+It may be desirable to reduce the dose of digoxin for 1 to 2 days prior to electrical cardioversion of atrial fibrillation to avoid the induction of ventricular arrhythmias, but physicians must consider the consequences of increasing the ventricular response if digoxin is withdrawn. If digitalis toxicity is suspected, elective cardioversion should be delayed. If it is not prudent to delay cardioversion, the lowest possible energy level should be selected to avoid provoking ventricular arrhythmias.
+
+Use in Patients With Myocarditis
+
+Digoxin can rarely precipitate vasoconstriction and therefore should be avoided in patients with myocarditis.
+
+Use in Patients With Beri Beri Heart Disease
+
+Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
+
+Laboratory Test Monitoring
+
+Patients receiving digoxin should have their serum electrolytes and renal function (serum creatinine concentrations) assessed periodically, the frequency of assessments will depend on the clinical setting. For discussion of serum digoxin concentrations, see DOSAGE AND ADMINISTRATION section.
+
+Drug Interactions
+
+Potassium-depleting diuretics are a major contributing factor to digitalis toxicity. Calcium, particularly if administered rapidly by the intravenous route, may produce serious arrhythmias in digitalized patients. Quinidine, verapamil, amiodarone, propafenone, indomethacin, itraconazole, alprazolam, and spironolactone raise the serum digoxin concentration due to a reduction in clearance and/or in volume of distribution of the drug, with the implication that digitalis intoxication may result. Erythromycin and clarithromycin (and possibly other macrolide antibiotics ) and tetracycline may increase digoxin absorption in patients who inactivate digoxin by bacterial metabolism in the lower intestine, so that digitalis intoxication may result (see CLINICAL PHARMACOLOGY: Absorption). Propantheline and diphenoxylate, by decreasing gut motility, may increase digoxin absorption. Antacids, kaolin-pectin, sulfasalazine, neomycin, cholestyramine, certain anticancer drugs, and metoclopramide may interfere with intestinal digoxin absorption, resulting in unexpectedly low serum concentrations. Rifampin may decrease serum digoxin concentration, especially in patients with renal dysfunction, by increasing the non-renal clearance of digoxin. There have been inconsistent reports regarding the effects of other drugs (e.g., quinine, penicillamine ) on serum digoxin concentration. Thyroid administration to a digitalized, hypothyroid patient may increase the dose requirement of digoxin. Concomitant use of digoxin and sympathomimetics increases the risk of cardiac arrhythmias. Succinylcholine may cause a sudden extrusion of potassium from muscle cells, and may thereby cause arrhythmias in digitalized patients. Although calcium channel blockers and digoxin may be useful in combination to control atrial fibrillation, their additive effects on AV node conduction can result in advanced or complete heart block. Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. Digoxin concentrations are increased by about 15% when digoxin and carvedilol are administered concomitantly. Therefore, increased monitoring of digoxin is recommended when initiating, adjusting, or discontinuing carvedilol.
+Due to the considerable variability of these interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently. Furthermore, caution should be exercised when combining digoxin with any drug that may cause a significant deterioration in renal function, since a decline in glomerular filtration or tubular secretion may impair the excretion of digoxin.
+
+Drug/Laboratory Test Interactions
+
+The use of therapeutic doses of digoxin may cause prolongation of the PR interval and depression of the ST segment on the electrocardiogram. Digoxin may produce false positive ST-T changes on the electrocardiogram during exercise testing. These electrophysiologic effects reflect an expected effect of the drug and are not indicative of toxicity.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Digoxin showed no genotoxic potential in in vitro studies (Ames test and mouse lymphoma). No data are available on the carcinogenic potential of digoxin, nor have studies been conducted to assess its potential to affect fertility..
+
+Pregnancy
+
+
+Teratogenic Effects
+
+Pregnancy Category C. Animal reproduction studies have not been conducted with digoxin. It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Digoxin should be given to a pregnant woman only if clearly needed.
+
+Nursing Mothers
+
+Studies have shown that digoxin concentrations in the mother s serum and milk are similar. However, the estimated exposure of a nursing infant to digoxin via breastfeeding will be far below the usual infant maintenance dose. Therefore, this amount should have no pharmacologic effect upon the infant. Nevertheless, caution should be exercised when digoxin is administered to a nursing woman.
+
+Pediatric Use
+
+Newborn infants display considerable variability in their tolerance to digoxin. Premature and immature infants are particularly sensitive to the effects of digoxin, and the dosage of the drug must not only be reduced but must be individualized according to their degree of maturity. Digitalis glycosides can cause poisoning in children due to accidental ingestion.
+
+Geriatric Use
+
+The majority of clinical experience gained with digoxin has been in the elderly population. This experience has not identified differences in response or adverse effects between the elderly and younger patients. However, this drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, which should be based on renal function, and it may be useful to monitor renal function (see DOSAGE AND ADMINISTRATION).
+

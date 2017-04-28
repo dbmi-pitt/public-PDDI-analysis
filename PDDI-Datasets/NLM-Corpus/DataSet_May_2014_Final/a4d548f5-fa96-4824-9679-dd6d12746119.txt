@@ -1,0 +1,82 @@
+Drug Label for drug brand NeoProfen, containing ibuprofen lysine.
+
+
+4 CONTRAINDICATIONS
+
+ <paragraph>
+ <main>NeoProfen is contraindicated in:
+ <item>
+ <item>Preterm infants with proven or suspected infection that is untreated,
+ <item>
+ <item>Preterm infants with congenital heart disease in whom patency of the PDA is necessary for satisfactory pulmonary or systemic blood flow (e.g., pulmonary atresia, severe tetralogy of Fallot, severe coarctation of the aorta),
+ <item>
+ <item>Preterm infants who are bleeding, especially those with active intracranial hemorrhage or gastrointestinal bleeding,
+ <item>
+ <item>Preterm infants with thrombocytopenia,
+ <item>
+ <item>Preterm infants with coagulation defects,
+ <item>
+ <item>Preterm infants with or who are suspected of having necrotizing enterocolitis,
+ <item>
+ <item>Preterm infants with significant impairment of renal function.
+ <item>
+ </paragraph>
+ <paragraph>
+ <main>NeoProfen is contraindicated in preterm infants:
+ <item>
+ <item>With proven or suspected infection that is untreated
+ <item>
+ <item>With congenital heart disease in whom patency of the PDA is necessary for satisfactory pulmonary or systemic blood flow
+ <item>
+ <item>With impaired renal function
+ <item>
+ <item>With thrombocytopenia, coagulation defects or who are bleeding
+ <item>
+ <item>With or who are suspected of having necrotizing enterocolitis
+ <item>
+ </paragraph>
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>NeoProfen has not been assessed for neurodevelopmental outcome and growth
+ <item>
+ <item>NeoProfen may alter the usual signs of infection.
+ <item>
+ <item>NeoProfen can inhibit platelet aggregation, and has been shown to prolong bleeding time in normal adult subjects
+ <item>
+ <item>Ibuprofen has been shown to displace bilirubin from albumin binding-sites
+ <item>
+ <item>NeoProfen should be administered carefully to avoid extravascular injection or leakage
+ <item>
+ </list>
+
+
+5.1 General
+
+There are no long-term evaluations of the infants treated with ibuprofen at durations greater than the 36 weeks post-conceptual age observation period. Ibuprofen's effects on neurodevelopmental outcome and growth as well as disease processes associated with prematurity (such as retinopathy of prematurity and chronic lung disease) have not been assessed.
+
+5.2 Infection
+
+NeoProfen may alter the usual signs of infection. The physician must be continually on the alert and should use the drug with extra care in the presence of controlled infection and in infants at risk of infection.
+
+5.3 Platelet Aggregation
+
+NeoProfen, like other non-steroidal anti-inflammatory agents, can inhibit platelet aggregation. Preterm infants should be observed for signs of bleeding. Ibuprofen has been shown to prolong bleeding time (but within the normal range) in normal adult subjects. This effect may be exaggerated in patients with underlying hemostatic defects (see CONTRAINDICATIONS).
+
+5.4 Bilirubin Displacement
+
+Ibuprofen has been shown to displace bilirubin from albumin binding-sites, therefore, it should be used with caution in patients with elevated total bilirubin.
+
+5.5 Administration
+
+NeoProfen should be administered carefully to avoid extravascular injection or leakage, as solution may be irritating to tissue.
+
+
+7 DRUG INTERACTIONS
+
+Drug interactions of NeoProfen in neonates have not been assessed.
+Drug interactions in neonates have not been assessed.
+

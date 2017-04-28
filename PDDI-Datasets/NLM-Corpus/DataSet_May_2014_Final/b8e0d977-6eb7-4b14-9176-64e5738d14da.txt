@@ -1,0 +1,66 @@
+Drug Label for drug brand Monoket, containing isosorbide mononitrate.
+
+
+CONTRAINDICATIONS
+
+
+Allergic reactions to organic nitrates are extremely rare, but they do occur. Isosorbide mononitrate is contraindicated in patients who are allergic to it.
+
+
+WARNINGS
+
+Amplification of the vasodilatory effects of monoket by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
+The benefits of isosorbide mononitrate in patients with acute myocardial infarction or congestive heart failure have not been established. Because the effects of isosorbide mononitrate are difficult to terminate rapidly, this drug is not recommended in these settings.
+If isosorbide mononitrate is used in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
+
+
+PRECAUTIONS
+
+
+General
+
+Severe hypotension, particularly with upright posture, may occur with even small doses of isosorbide mononitrate. This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive. Hypotension induced by isosorbide mononitrate may be accompanied by paradoxical bradycardia and increased angina pectoris.
+Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy. In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs. Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence. The importance of these observations to the routine, clinical use of oral isosorbide mononitrate is not known.
+
+Information for Patients
+
+Patients should be told that the antianginal efficacy of monoket tablets can be maintained by carefully following the prescribed schedule of dosing (two doses taken seven hours apart). For most patients, this can be accomplished by taking the first dose on awakening and the second dose 7 hours later.
+As with other nitrates, daily headaches sometimes accompany treatment with isosorbide mononitrate. In patients who get these headaches, the headaches are a marker of the activity of the drug. Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide mononitrate, since loss of headache may be associated with simultaneous loss of antianginal efficacy. Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide mononitrate-induced headaches with no deleterious effect on isosorbide mononitrate's antianginal efficacy.
+Treatment with isosorbide mononitrate may be associated with light-headedness on standing, especially just after rising from a recumbent or seated position. This effect may be more frequent in patients who have also consumed alcohol.
+
+Drug Interactions
+
+The vasodilating effects of isosorbide mononitrate may be additive with those of other vasodilators. Alcohol, in particular, has been found to exhibit additive effects of this variety.
+Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination. Dose adjustments of either class of agents may be necessary.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No evidence of carcinogenicity was observed in rats exposed to isosorbide mononitrate in their diets at doses of up to 900 mg/kg/day for the first six months and 500 mg/kg/day for the remaining duration of a study in which males were dosed for up to 121 weeks and females were dosed for up to 137 weeks. No evidence of mutagenicity was seen in vitro in the Salmonella test (Ames test), in human peripheral lymphocytes, in Chinese hamster cells (V79) or, in vivo in the rat micronucleus test. In a study on the fertility and breeding capacity of two generations of rats, monoket had no adverse effects on fertility or general reproductive performance with oral doses up to 120 mg/kg/day. A dose of 360 mg/kg/day was associated with increased mortality in treated males and females and a reduced fertility index. (See table at end of Pregnancy section for animal-to-human dosage comparisons.)
+
+Pregnancy
+
+
+Teratogenic Effects
+
+
+Pregnancy Category B
+
+Reproduction studies performed in rats and rabbits at doses of up to 540 and 810 mg/kg/day, respectively, have revealed no evidence of harm to the fetus due to isosorbide mononitrate. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, monoket should be used during pregnancy only if clearly needed.
+
+Nonteratogenic Effects
+
+Birth weights, neonatal survival and development, and incidence of stillbirths were adversely affected when pregnant rats were administered oral doses of 540 (but not 270) mg isosorbide mononitrate/kg/day during late gestation and lactation. This dose was associated with decreased maternal body weight gain and decreased maternal motor activity.
+Calculations assume a human weight of 50 kg and human body surface area of 1.46 m2, a rabbit weight of 2 kg and rabbit body surface area of 0.163 m2, and a rat weight of 150 g and rat body surface area of 0.025 m2. Maximum recommended human dose (MRHD) is 20 mg bid.
+
+Nursing Mothers
+
+It is not known whether isosorbide mononitrate is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when isosorbide mononitrate is administered to a nursing woman.
+
+Pediatric Use
+
+Safety and effectiveness of isosorbide mononitrate in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of monoket did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+

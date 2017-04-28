@@ -1,0 +1,131 @@
+
+BOXED WARNING SECTION
+
+
+<list>
+<item>
+<item>When pregnancy is detected, discontinue TARKA as soon as possible.
+<item>
+<item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (see WARNINGS: Fetal Toxicity).
+<item>
+</list>
+
+DESCRIPTION SECTION
+
+TARKA (trandolapril/verapamil hydrochloride ER) combines a slow release formulation of a calcium channel blocker, verapamil hydrochloride, and an immediate release formulation of an angiotensin converting enzyme inhibitor, trandolapril.
+<paragraph>
+<main>Verapamil hydrochloride is chemically described as benzeneacetonitrile, 3- 2-(3,4-dimethoxyphenyl)ethyl methylamino propyl -3, 4-dimethoxy- -(1-methylethyl) hydrochloride. Its empirical formula is C27H38N2O4 HCl and its structural formula is:
+<item>Verapamil hydrochloride is an almost white crystalline powder, with a molecular weight of 491.08. It is soluble in water, chloroform, and methanol. It is practically free of odor, with a bitter taste.
+</paragraph>
+Verapamil structure
+<paragraph>
+<main>Trandolapril is the ethyl ester prodrug of a nonsulfhydryl angiotensin converting enzyme (ACE) inhibitor, trandolaprilat. It is chemically described as (2S,3aR,7aS)-1- (S)-N- (S)-1-Carboxy-3-phenylpropyl alanyl hexahydro-2-indolinecarboxylic acid, 1-ethyl ester. Its empirical formula is C24 H34 N2O5 and its structural formula is:
+<item>Trandolapril is a white or almost white powder with a molecular weight of 430.54. It is soluble ( 100 mg/mL) in chloroform, dichloromethane, and methanol.
+<item>TARKA tablets are formulated for oral administration, containing verapamil hydrochloride as a controlled release formulation and trandolapril as an immediate release formulation. The tablet strengths are trandolapril 2 mg/verapamil hydrochloride ER 180 mg, trandolapril 1 mg/verapamil hydrochloride ER 240 mg, trandolapril 2 mg/verapamil hydrochloride ER 240 mg, and trandolapril 4 mg/verapamil hydrochloride ER 240 mg. The tablets also contain the following ingredients: corn starch, dioctyl sodium sulfosuccinate, ethanol, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, purified water, silicon dioxide, sodium alginate, sodium stearyl fumarate, synthetic iron oxides, talc, and titanium dioxide.
+</paragraph>
+Trandolapril structure
+
+INDICATIONS  -  USAGE SECTION
+
+TARKA is indicated for the treatment of hypertension.
+This fixed combination drug is not indicated for the initial therapy of hypertension (see DOSAGE AND ADMINISTRATION ).
+In using TARKA, consideration should be given to the fact that an angiotensin converting enzyme inhibitor, captopril, has caused agranulocytosis, particularly in patients with renal impairment or collagen vascular disease, and that available data are insufficient to show that trandolapril does not have similar risk (see WARNINGS - Neutropenia/Agranulocytosis ).
+
+CONTRAINDICATIONS SECTION
+
+TARKA is contraindicated in patients who are hypersensitive to any ACE inhibitor or verapamil.
+Because of the verapamil component, TARKA is contraindicated in:
+<list>
+<item>
+<item>Severe left ventricular dysfunction (see WARNINGS ).
+<item>
+<item>Hypotension (systolic pressure less than 90 mmHg) or cardiogenic shock.
+<item>
+<item>Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker).
+<item>
+<item>Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker).
+<item>
+<item>Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g. Wolff-Parkinson-White, Lown-Ganong-Levine syndromes) (see WARNINGS ).
+<item>
+</list>
+Because of the trandolapril component, TARKA is contraindicated in patients with a history of angioedema related to previous treatment with an angiotensin converting enzyme (ACE) inhibitor.
+Do not co-administer aliskiren with TARKA in patients with diabetes (see PRECAUTIONS, Drug Interactions ).
+
+PRECAUTIONS SECTION
+
+TARKA has not been evaluated in subjects with impaired hepatic function.
+Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function. Severe liver dysfunction prolongs the elimination half-life of immediate release verapamil to about 14 to 16 hours, hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients.
+Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see OVERDOSAGE ) should be carried out.
+Trandolapril and trandolaprilat concentrations increase in patients with impaired liver function.
+TARKA has not been evaluated in patients with impaired renal function.
+About 70% of an administered dose of verapamil is excreted as metabolites in the urine. Verapamil is not removed by hemodialysis. Until further data are available, verapamil should be administered cautiously to patients with impaired renal function. These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see OVERDOSAGE ).
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including trandolapril, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine have been observed in some patients following ACE inhibitor therapy. These increases were almost always reversible upon discontinuation of the ACE inhibitor and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+Some hypertensive patients with no apparent pre-existing renal vascular disease have developed increases in blood urea and serum creatinine, usually minor and transient, especially when ACE inhibitors have been given concomitantly with a diuretic. This is more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of any diuretic and/or the ACE inhibitor may be required.
+Evaluation of hypertensive patients should always include assessment of renal function (see DOSAGE AND ADMINISTRATION ).
+It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne's muscular dystrophy, and that verapamil prolongs recovery from the neuromuscular blocking agent vecuronium. It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission (see PRECAUTIONS - Surgery/Anesthesia ).
+In clinical trials, hyperkalemia (serum potassium 6.00 mEq/L) occurred in approximately 0.4 percent of hypertensive patients receiving trandolapril and in 0.8% of patients receiving a dose of trandolapril (0.5-8 mg) in combination with a dose of verapamil SR (120-240 mg). In most cases, elevated serum potassium levels were isolated values, which resolved despite continued therapy. None of these patients were discontinued from the trials because of hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with trandolapril (see PRECAUTIONS - Drug Interactions ).
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough. In controlled trials of trandolapril, cough was present in 2% of trandolapril patients and 0% of patients given placebo. There was no evidence of a relationship to dose.
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, trandolapril will block angiotensin II formation secondary to compensatory renin release. If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion (see PRECAUTIONS - Use in Patients with Attenuated (Decreased) Neuromuscular Transmission ).
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 including CYP3A4, CYP1A2, CYP2C8, CYP2C9 and CYP2C18. Verapamil has been shown to be an inhibitor of CYP3A4 enzymes and P-glycoprotein (P-gp).
+Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g. erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g. rifampin) have caused a lowering of plasma levels of verapamil. Therefore, patients receiving inhibitors or inducers of the cytochrome P450 system should be monitored for drug interactions.
+Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted. Chronic verapamil treatment can increase serum digoxin levels by 50 to 75% during the first week of therapy, and this can result in digoxin toxicity. In patients with hepatic cirrhosis, the influence of verapamil on digoxin kinetics is magnified. Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively. Maintenance digoxin doses should be reduced when verapamil is administered, and the patient should be carefully monitored to avoid over- or under-digitalization. Whenever overdigitalization is suspected, the daily dose of digoxin should be reduced or temporarily discontinued. Upon discontinuation of any verapamil-containing regime including TARKA (trandolapril/verapamil hydrochloride ER), the patient should be reassessed to avoid underdigitalization. No clinically significant pharmacokinetic interaction has been found between trandolapril (or its metabolites) and digoxin.
+Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy with either no change or an increase in serum lithium levels. Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy. TARKA and lithium should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of lithium toxicity may be increased.
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent clarithromycin.
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent erythromycin ethylsuccinate.
+The interaction between cimetidine and chronically administered verapamil has not been studied. Variable results on clearance have been obtained in acute studies of healthy volunteers, clearance of verapamil was either reduced or unchanged. No clinically significant pharmacokinetic interaction has been found between trandolapril (or its metabolites) and cimetidine.
+Data on possible interactions between verapamil and disopyramide phosphate are not available. Therefore, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.
+A study of healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization. Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.
+In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension. Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided.
+The electrophysiological effects of quinidine and verapamil on AV conduction were studied in 8 patients. Verapamil significantly counteracted the effects of quinidine on AV conduction. There has been a report of increased quinidine levels during verapamil therapy.
+Concomitant use of TARKA with other antihypertensive agents including diuretics, vasodilators, beta-adrenergic blockers, and alpha-antagonists may result in additive hypotensive effects. There are reports that verapamil may result in higher concentrations of the alpha-agonists prazosin and terazosin.
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on TARKA and other agents that affect the RAS.
+Do not co-administer aliskiren with TARKA in patients with diabetes. Avoid use of aliskiren with TARKA in patients with renal impairment (GFR 60 ml/min).
+Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility. Drug interaction studies have indicated that the maximum concentrations of metoprolol and propanolol are increased after the administration of verapamil. The use of verapamil in combination with a beta-adrenergic blocker should be used only with caution, and close monitoring.
+Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil.
+As with other ACE inhibitors, patients on diuretics, especially those on recently instituted diuretic therapy, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with TARKA. The possibility of exacerbation of hypotensive effects with TARKA may be minimized by either discontinuing the diuretic or cautiously increasing salt intake prior to initiation of treatment with TARKA. If it is not possible to discontinue the diuretic, the starting dose of TARKA should be reduced (see DOSAGE AND ADMINISTRATION ). No clinically significant pharmacokinetic interaction has been found between trandolapril (or its metabolites) and furosemide.
+Trandolapril can attenuate potassium loss caused by thiazide diuretics and increase serum potassium when used alone. Use of potassium-sparing diuretics (spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes concomitantly with ACE inhibitors can increase the risk of hyperkalemia. If concomitant use of such agents is indicated, they should be used with caution and with appropriate monitoring of serum potassium (see PRECAUTIONS ).
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone. Limit the dose of simvastatin in patients on verapamil to 10 mg daily. Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including trandolapril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving trandolapril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including trandolapril may be attenuated by NSAIDs.
+Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions. The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
+Verapamil may increase carbamazepine concentrations during combined therapy. This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.
+Therapy with rifampin may markedly reduce oral verapamil bioavailability. There have been reports that erythromycin and telithromycin may increase concentrations of verapamil.
+Phenobarbital therapy may increase verapamil clearance.
+Verapamil therapy may increase serum levels of cyclosporin, sirolimus and tacrolimus.
+Verapamil therapy may inhibit the clearance and increase the plasma levels of theophylline.
+Due to metabolism via the CYP enzyme system, there have been reports that verapamil may increase the concentrations of buspirone, midazolam, almotriptan and imipramine.
+Colchicine is a substrate for both CYP3A and the efflux transporter, P-gp. Verapamil is known to inhibit CYP3A and P-gp. When verapamil and colchicine are administered together, the potential inhibition of P-gp and/or CYP3A by verapamil may lead to increased exposure to colchicine (see PRECAUTIONS - Drug Interactions ).
+Concentrations of verapamil may be increased by the concomitant administration of protease inhibitors such as ritonavir, and reduced by the concomitant administration of sulfinpyrazone, or St John s Wort.
+Concentrations of doxorubicin may be increased by the administration of verapamil.
+There have been reports that verapamil may elevate the concentrations of the oral anti-diabetic glyburide.
+Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions. When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should be titrated carefully to avoid excessive cardiovascular depression.
+Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing). It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including TARKA.
+No clinically significant pharmacokinetic interaction has been found between trandolapril (or its metabolites) and nifedipine.
+The anticoagulant effect of warfarin was not significantly changed by trandolapril.
+The concomitant use of ACE inhibitors such as trandolapril with antidiabetic medications (insulin or oral hypoglycemic agents) may result in increased blood glucose lowering effects.
+An 18-month toxicity study in rats, at a low multiple (6 fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential. There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35, and 120 mg/kg per day or approximately 1x, 3.5x, and 12x, respectively, the maximum recommended human daily dose (480 mg per day or 9.6 mg/kg/day).
+Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation.
+Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility. Effects on male fertility have not been determined.
+Long-term studies were conducted with oral trandolapril administered by gavage to mice (78 weeks) and rats (104 and 106 weeks). No evidence of carcinogenic potential was seen in mice dosed up to 25 mg/kg/day (85 mg/m2/day) or rats dosed up to 8 mg/kg/day (60 mg/m2/day). These doses are 313 and 32 times (mice), and 100 and 23 times (rats) the maximum recommended human daily dose (MRHDD) of 4 mg based on body-weight and body-surface-area, respectively assuming a 50 kg individual. The genotoxic potential of trandolapril was evaluated in the microbial mutagenicity (Ames) test, the point mutation and chromosome aberration assays in Chinese hamster V79 cells, and the micronucleus test in mice. There was no evidence of mutagenic or clastogenic potential in these in vitro and in vivo assays.
+Reproduction studies in rats did not show any impairment of fertility at doses up to 100 mg/kg/day (710 mg/m2/day) of trandolapril, or 1250 and 260 times the MRHDD on the basis of body-weight and body-surface-area, respectively.
+Female patients of childbearing age should be told about the consequences of exposure to TARKA during pregnancy. Discuss treatment options with women planning to become pregnant. Patients should be asked to report pregnancies to their physicians as soon as possible.
+Verapamil is excreted in human milk. Radiolabeled trandolapril or its metabolites are secreted in rat milk. TARKA should not be administered to nursing mothers.
+In placebo-controlled studies, where 23% of patients receiving TARKA were 65 years and older, and 2.4% were 75 years and older, no overall differences in effectiveness or safety were observed between these patients and younger patients. However, greater sensitivity of some older individual patients cannot be ruled out.
+<paragraph>
+<main>Neonates with a history of in utero exposure to TARKA:
+<item>If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion. Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+<item>The safety and effectiveness of TARKA in children below the age of 18 have not been established.
+</paragraph>
+In chronic animal toxicology studies, verapamil caused lenticular and/or suture line changes at 30 mg/kg/day or greater and frank cataracts at 62.5 mg/kg/day or greater in the beagle dog but not the rat. Development of cataracts due to verapamil has not been reported in man.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+The recommended usual dosage range of trandolapril for hypertension is 1 to 4 mg per day administered in a single dose or two divided doses. The recommended usual dosage range of Isoptin-SR for hypertension is 120 to 480 mg per day administered in a single dose or two divided doses.
+The hazards (see WARNINGS ) of trandolapril are generally independent of dose, those of verapamil are a mixture of dose-dependent phenomena (primarily dizziness, AV block, constipation) and dose-independent phenomena, the former much more common than the latter. Therapy with any combination of trandolapril and verapamil will thus be associated with both sets of dose-independent hazards. The dose-dependent side effects of verapamil have not been shown to be decreased by the addition of trandolapril nor vice versa.
+Rarely, the dose-independent hazards of trandolapril are serious. To minimize dose-independent hazards, it is usually appropriate to begin therapy with TARKA only after a patient has either (a) failed to achieve the desired antihypertensive effect with one or the other monotherapy at its respective maximally recommended dose and shortest dosing interval, or (b) the dose of one or the other monotherapy cannot be increased further because of dose-limiting side effects.
+Clinical trials with TARKA have explored only once-a-day doses. The antihypertensive effect and or adverse effects of adding 4 mg of trandolapril once-a-day to a dose of 240 mg Isoptin-SR administered twice-a-day has not been studied, nor have the effects of adding as little of 180 mg Isoptin-SR to 2 mg trandolapril administered twice-a-day been evaluated. Over the dose range of Isoptin-SR 120 to 240 mg once-a-day and trandolapril 0.5 to 8 mg once-a-day, the effects of the combination increase with increasing doses of either component.
+For convenience, patients receiving trandolapril (up to 8 mg) and verapamil (up to 240 mg) in separate tablets, administered once-a-day, may instead wish to receive tablets of TARKA containing the same component doses.
+TARKA should be administered with food.

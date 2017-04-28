@@ -1,0 +1,59 @@
+Drug Label for drug brand Phoslyra, containing calcium acetate oral solution.
+
+
+4 CONTRAINDICATIONS
+
+
+Patients with hypercalcemia.
+ <list>
+ <item>
+ <item>Hypercalcemia. (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Treat mild hypercalcemia by reducing or interrupting PHOSLYRA and Vitamin D. Severe hypercalcemia may require hemodialyis and discontinuation of PHOSLYRA. (5.1)
+ <item>
+ <item>May cause diarrhea with nutritional supplements that contain maltitol. (5.2)
+ <item>
+ </list>
+
+
+5.1 Hypercalcemia
+
+Patients with end stage renal disease may develop hypercalcemia when treated with calcium, including calcium acetate (PHOSLYRA). Avoid the concurrent use of calcium supplements, including calcium-based nonprescription antacids, with PHOSLYRA.
+An overdose of PHOSLYRA may lead to progressive hypercalcemia, which may require emergency measures. Therefore, early in the treatment phase during the dosage adjustment period, monitor serum calcium levels twice weekly. Should hypercalcemia develop, reduce the PHOSLYRA dosage or discontinue the treatment, depending on the severity of hypercalcemia.
+More severe hypercalcemia (Ca 12 mg/dL) is associated with confusion, delirium, stupor and coma. Severe hypercalcemia can be treated by acute hemodialysis and discontinuing PHOSLYRA therapy.
+Mild hypercalcemia (10.5 to 11.9 mg/dL) may be asymptomatic or manifest as constipation, anorexia, nausea, and vomiting. Mild hypercalcemia is usually controlled by reducing the PHOSLYRA dose or temporarily discontinuing therapy. Decreasing or discontinuing Vitamin D therapy is recommended as well.
+Chronic hypercalcemia may lead to vascular calcification and other soft-tissue calcification. Radiographic evaluation of suspected anatomical regions may be helpful in early detection of soft-tissue calcification. The long-term effect of PHOSLYRA on the progression of vascular or soft-tissue calcification has not been determined.
+Hypercalcemia ( 11 mg/dL) was reported in 16% of patients in a 3-month study of a solid dose formulation of calcium acetate, all cases resolved upon lowering the dose or discontinuing treatment.
+Maintain the serum calcium-phosphorus (Ca x P) product below 55 mg2/dL2.
+
+5.2 Concomitant Use with Medications
+
+Hypercalcemia may aggravate digitalis toxicity.
+PHOSLYRA contains maltitol (1 g per 5 mL) and may induce a laxative effect, especially if taken with other products containing maltitol.
+
+
+7 DRUG INTERACTIONS
+
+The drug interaction profile of PHOSLYRA is characterized by the potential of calcium to bind to drugs with anionic functions (e.g., carboxyl, carbonyl, and hydroxyl groups). PHOSLYRA may decrease the bioavailability of tetracyclines or fluoroquinolones via this mechanism.
+There are no empirical data on avoiding drug interactions between calcium acetate or PHOSLYRA and most concomitant drugs. When administering and oral medication with PHOSLYRA where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, administer the drug one hour before or three hours after PHOSLYRA or calcium acetate. Monitor blood levels of the concomitant drugs that have a narrow therapeutic range. Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from the clinical trials with all forms of calcium acetate.
+ <list>
+ <item>
+ <item>PHOSLYRA may decrease the bioavailability of tetracyclines or fluoroquinolones. (7)
+ <item>
+ <item>When clinically significant drug interactions are expected, administer the drug at least one hour before or at least three hours after PHOSLYRA, or consider monitoring blood levels of the drug. (7)
+ <item>
+ </list>
+
+
+7.1 Ciprofloxacin
+
+In a study of 15 healthy subjects, a co-administered single dose of 4 calcium acetate tablets (approximately 2.7 g) decreased the bioavailability of ciprofloxacin by approximately 50%.
+

@@ -1,0 +1,127 @@
+TENORETIC (atenolol and chlorthalidone) tablet 
+
+TENORETIC (atenolol and chlorthalidone) is for the treatment of hypertension.
+
+CONTRAINDICATIONS
+
+TENORETIC is contraindicated in patients with: sinus bradycardia; heart block greater than first degree; cardiogenic shock; overt cardiac failure (see WARNINGS); anuria; hypersensitivity to this product or to sulfonamide-derived drugs.
+
+WARNINGS
+
+Cardiac Failure
+
+Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
+
+IN PATIENTS WITHOUT A HISTORY OF CARDIAC FAILURE, continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure. At the first sign or symptom of impending cardiac failure, patients should be treated appropriately according to currently recommended guidelines, and the response observed closely. If cardiac failure continues despite adequate treatment, TENORETIC should be withdrawn. (See DOSAGE AND ADMINISTRATION.)
+
+Renal and Hepatic Disease and Electrolyte Disturbances
+
+Since atenolol is excreted via the kidneys, TENORETIC should be used with caution in patients with impaired renal function.
+
+In patients with renal disease, thiazides may precipitate azotemia. Since cumulative effects may develop in the presence of impaired renal function, if progressive renal impairment becomes evident, TENORETIC should be discontinued.
+
+In patients with impaired hepatic function or progressive liver disease, minor alterations in fluid and electrolyte balance may precipitate hepatic coma. TENORETIC should be used with caution in these patients.
+
+Ischemic Heart Disease
+
+Following abrupt cessation of therapy with certain beta-blocking agents in patients with coronary artery disease, exacerbations of angina pectoris and, in some cases, myocardial infarction have been reported. Therefore, such patients should be cautioned against interruption of therapy without the physician's advice. Even in the absence of overt angina pectoris, when discontinuation of TENORETIC is planned, the patient should be carefully observed and should be advised to limit physical activity to a minimum. TENORETIC should be reinstated if withdrawal symptoms occur. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue TENORETIC therapy abruptly even in patients treated only for hypertension.
+
+Concomitant Use of Calcium Channel Blockers
+
+Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem. Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible. (See PRECAUTIONS.)
+
+Bronchospastic Diseases
+
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS. Because of its relative beta1-selectivity, however, TENORETIC may be used with caution in patients with bronchospastic disease who do not respond to or cannot tolerate, other antihypertensive treatment. Since beta1-selectivity is not absolute, the lowest possible dose of TENORETIC should be used and a beta2-stimulating agent (bronchodilator) should be made available. If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
+
+Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Metabolic and Endocrine Effects
+
+TENORETIC may be used with caution in diabetic patients. Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected. At recommended doses atenolol does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta blockers, does not delay recovery of blood glucose to normal levels.
+
+Insulin requirements in diabetic patients may be increased, decreased or unchanged; latent diabetes mellitus may become manifest during chlorthalidone administration.
+
+Beta-adrenergic blockade may mask certain clinical signs (eg, tachycardia) of hyperthyroidism. Abrupt withdrawal of beta blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom TENORETIC therapy is to be withdrawn should be monitored closely.
+
+Because calcium excretion is decreased by thiazides, TENORETIC should be discontinued before carrying out tests for parathyroid function. Pathologic changes in the parathyroid glands, with hypercalcemia and hypophosphatemia, have been observed in a few patients on prolonged thiazide therapy; however, the common complications of hyperparathyroidism such as renal lithiasis, bone resorption, and peptic ulceration have not been seen.
+
+Hyperuricemia may occur, or acute gout may be precipitated in certain patients receiving thiazide therapy.
+
+Untreated Pheochromocytoma
+
+TENORETIC should not be given to patients with untreated pheochromocytoma.
+
+PREGNANCY AND FETAL INJURY
+
+Atenolol can cause fetal harm when administered to a pregnant woman. Atenolol crosses the placental barrier and appears in cord blood. Administration of atenolol, starting in the second trimester of pregnancy, has been associated with the birth of infants that are small for gestational age. No studies have been performed on the use of atenolol in the first trimester and the possibility of fetal injury cannot be excluded. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia. Caution should be exercised when TENORETIC is administered during pregnancy or to a woman who is breast-feeding. (See PRECAUTIONS, Nursing Mothers.)
+
+TENORETIC was studied for teratogenic potential in the rat and rabbit. Doses of atenolol/chlorthalidone of 8/2, 80/20, and 240/60 mg/kg/day were administered orally to pregnant rats with no evidence of embryofetotoxicity observed. Two studies were conducted in rabbits. In the first study, pregnant rabbits were dosed with 8/2, 80/20, and 160/40 mg/kg/day of atenolol/chlorthalidone. No teratogenic effects were noted, but embryonic resorptions were observed at all dose levels (ranging from approximately 5 times to 100 times the maximum recommended human dose1). In the second rabbit study, doses of atenolol/chlorthalidone were 4/1, 8/2, and 20/5 mg/kg/day. No teratogenic or embryotoxic effects were demonstrated.
+
+Atenolol
+
+Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose1. Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose1.
+
+Chlorthalidone
+
+Thiazides cross the placental barrier and appear in cord blood. The use of chlorthalidone and related drugs in pregnant women requires that the anticipated benefits of the drug be weighed against possible hazards to the fetus. These hazards include fetal or neonatal jaundice, thrombocytopenia and possibly other adverse reactions which have occurred in the adult.
+
+PRECAUTIONS
+
+General
+
+TENORETIC may aggravate peripheral arterial circulatory disorders.
+
+Electrolyte and Fluid Balance Status
+
+Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
+
+Patients should be observed for clinical signs of fluid or electrolyte imbalance; i.e., hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance include dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+
+Measurement of potassium levels is appropriate especially in elderly patients, those receiving digitalis preparations for cardiac failure, patients whose dietary intake of potassium is abnormally low, or those suffering from gastrointestinal complaints.
+
+Hypokalemia may develop especially with brisk diuresis, when severe cirrhosis is present, or during concomitant use of corticosteroids or ACTH.
+
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia can sensitize or exaggerate the response of the heart to the toxic effects of digitalis (eg, increased ventricular irritability). Hypokalemia may be avoided or treated by use of potassium supplements or foods with a high potassium content.
+
+Any chloride deficit during thiazide therapy is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease). Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than administration of salt except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+
+Drug Interactions
+
+TENORETIC may potentiate the action of other antihypertensive agents used concomitantly. Patients treated with TENORETIC plus a catecholamine depletor (eg, reserpine) should be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope or postural hypotension.
+
+Calcium channel blockers may also have an additive effect when given with TENORETIC. (See WARNINGS.)
+
+Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects. Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
+
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
+
+Thiazides may decrease arterial responsiveness to norepinephrine. This diminution is not sufficient to preclude the therapeutic effectiveness of norepinephrine. Thiazides may increase the responsiveness to tubocurarine.
+
+Concomitant use of prostaglandin synthase inhibiting drugs, eg, indomethacin, may decrease the hypotensive effects of beta blockers.
+
+Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity. Read prescribing information for lithium preparations before use of such preparations with TENORETIC.
+
+Beta blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine. If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine. If replacing clonidine by beta-blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
+
+While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
+
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+Other Precautions
+
+In patients receiving thiazides, sensitivity reactions may occur with or without a history of allergy or bronchial asthma. The possible exacerbation or activation of systemic lupus erythematosus has been reported. The antihypertensive effects of thiazides may be enhanced in the postsympathectomy patient.
+
+Dosage and Administration
+
+DOSAGE MUST BE INDIVIDUALIZED. (See INDICATIONS AND USAGE.)
+
+Chlorthalidone is usually given at a dose of 25 mg daily; the usual initial dose of atenolol is 50 mg daily. Therefore, the initial dose should be one TENORETIC 50 tablet given once a day. If an optimal response is not achieved, the dosage should be increased to one TENORETIC 100 tablet given once a day.
+
+When necessary, another antihypertensive agent may be added gradually beginning with 50 percent of the usual recommended starting dose to avoid an excessive fall in blood pressure.
+
+Since atenolol is excreted via the kidneys, dosage should be adjusted in cases of severe impairment of renal function. No significant accumulation of atenolol occurs until creatinine clearance falls below 35 mL/min/1.73m2 (normal range is 100-150 mL/min/1.73m2); therefore, the following maximum dosages are recommended for patients with renal impairment.

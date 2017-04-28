@@ -1,0 +1,66 @@
+
+DESCRIPTION SECTION
+
+
+CORVERT Injection (ibutilide fumarate injection) is an antiarrhythmic drug with predominantly class III (cardiac action potential prolongation) properties according to the Vaughan Williams Classification. Each milliliter of CORVERT Injection contains 0.1 mg of ibutilide fumarate (equivalent to 0.087 mg ibutilide free base), 0.189 mg sodium acetate trihydrate, 8.90 mg sodium chloride, hydrochloric acid to adjust pH to approximately 4.6, and Water for Injection.
+CORVERT Injection is an isotonic, clear, colorless, sterile aqueous solution.
+Ibutilide fumarate has one chiral center, and exists as a racemate of the (+) and ( ) enantiomers.
+The chemical name for ibutilide fumarate is Methanesulfonamide, N- 4- 4-(ethylheptylamino)-1-hydroxybutyl phenyl, (+) ( ), (E)-2-butenedioate (1:0.5) (hemifumarate salt). Its molecular formula is C22H38N2O5S, and its molecular weight is 442.62.
+Ibutilide fumarate is a white to off-white powder with an aqueous solubility of over 100 mg/mL at pH 7 or lower.
+The structural formula is represented below:
+Ibutilide Fumarate
+Chemical Structure
+
+INDICATIONS  -  USAGE SECTION
+
+CORVERT Injection is indicated for the rapid conversion of atrial fibrillation or atrial flutter of recent onset to sinus rhythm. Patients with atrial arrhythmias of longer duration are less likely to respond to CORVERT. The effectiveness of ibutilide has not been determined in patients with arrhythmias of more than 90 days in duration.
+
+BOXED WARNING SECTION
+
+CORVERT can cause potentially fatal arrhythmias, particularly sustained polymorphic ventricular tachycardia, usually in association with QT prolongation (torsades de pointes), but sometimes without documented QT prolongation. In registration studies, these arrhythmias, which require cardioversion, occurred in 1.7% of treated patients during, or within a number of hours of, use of CORVERT. These arrhythmias can be reversed if treated promptly (see WARNINGS, Proarrhythmia). It is essential that CORVERT be administered in a setting of continuous ECG monitoring and by personnel trained in identification and treatment of acute ventricular arrhythmias, particularly polymorphic ventricular tachycardia. Patients with atrial fibrillation of more than 2 to 3 days' duration must be adequately anticoagulated, generally for at least 2 weeks.
+Patients with chronic atrial fibrillation have a strong tendency to revert after conversion to sinus rhythm (see CLINICAL STUDIES) and treatments to maintain sinus rhythm carry risks. Patients to be treated with CORVERT, therefore, should be carefully selected such that the expected benefits of maintaining sinus rhythm outweigh the immediate risks of CORVERT, and the risks of maintenance therapy, and are likely to offer an advantage compared with alternative management.
+
+CONTRAINDICATIONS SECTION
+
+CORVERT Injection is contraindicated in patients who have previously demonstrated hypersensitivity to ibutilide fumarate or any of the other product components.
+
+PRECAUTIONS SECTION
+
+Class Ia antiarrhythmic drugs (Vaughan Williams Classification), such as disopyramide, quinidine, and procainamide, and other class III drugs, such as amiodarone and sotalol, should not be given concomitantly with CORVERT Injection or within 4 hours postinfusion because of their potential to prolong refractoriness. In the clinical trials, class I or other class III antiarrhythmic agents were withheld for at least 5 half-lives prior to ibutilide infusion and for 4 hours after dosing, but thereafter were allowed at the physician's discretion.
+The potential for proarrhythmia may increase with the administration of CORVERT Injection to patients who are being treated with drugs that prolong the QT interval, such as phenothiazines, tricyclic antidepressants, tetracyclic antidepressants, and certain antihistamine drugs (H1 receptor antagonists).
+Of the nine (1.5%) ibutilide-treated patients with reports of reversible heart block, five had first degree, three had second degree, and one had complete heart block.
+None known.
+No specific pharmacokinetic or other formal drug interaction studies were conducted.
+Supraventricular arrhythmias may mask the cardiotoxicity associated with excessive digoxin levels. Therefore, it is advisable to be particularly cautious in patients whose plasma digoxin levels are above or suspected to be above the usual therapeutic range. Coadministration of digoxin did not have effects on either the safety or efficacy of ibutilide in the clinical trials.
+Coadministration of calcium channel blockers did not have any effect on either the safety or efficacy of ibutilide in the clinical trials.
+Coadministration of beta-adrenergic blocking agents did not have any effect on either the safety or efficacy of ibutilide in the clinical trials.
+No animal studies have been conducted to determine the carcinogenic potential of CORVERT, however, it was not genotoxic in a battery of assays, (Ames assay, mammalian cell forward gene mutation assay, unscheduled DNA synthesis assay, and mouse micronucleus assay). Similarly, no drug-related effects on fertility or mating were noted in a reproductive study in rats in which ibutilide was administered orally to both sexes up to doses of 20 mg/kg/day. On a mg/m2 basis, corrected for 3% bioavailability, the highest dose tested was approximately four times the maximum recommended human dose (MRHD).
+Ibutilide administered orally was teratogenic (abnormalities included adactyly, interventricular septal defects, and scoliosis) and embryocidal in reproduction studies in rats. On a mg/m2 basis, corrected for the 3% oral bioavailability, the "no adverse effect dose" (5 mg/kg/day given orally) was approximately the same as the maximum recommended human dose (MRHD), the teratogenic dose (20 mg/kg/day given orally) was about four times the MRHD on a mg/m2 basis, or 16 times the MRHD on a mg/kg basis. CORVERT should not be administered to a pregnant woman unless clinical benefit outweighs potential risk to the fetus.
+The excretion of ibutilide into breast milk has not been studied, accordingly, breastfeeding should be discouraged during therapy with CORVERT.
+Clinical trials with CORVERT in patients with atrial fibrillation and atrial flutter did not include anyone under the age of 18. Safety and effectiveness of ibutilide in pediatric patients has not been established.
+Clinical studies of ibutilide fumarate (involving 586 patients) did not include sufficient numbers of subjects less than age 65 (45%) to determine whether they respond differently from older subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+The safety, effectiveness, and pharmacokinetics of CORVERT have not been established in patients with hepatic or renal dysfunction. However, it is unlikely that dosing adjustments would be necessary in patients with compromised renal or hepatic function based on the following considerations: (1) CORVERT is indicated for rapid intravenous therapy (duration 30 minutes) and is dosed to a known, well-defined pharmacologic action (termination of arrhythmia) or to a maximum of two 10-minute infusions, (2) less than 10% of the dose of CORVERT is excreted unchanged in the urine, and (3) drug distribution appears to be one of the primary mechanisms responsible for termination of the pharmacologic effect. Nonetheless, patients with abnormal liver function should be monitored by telemetry for more than the 4-hour period generally recommended.
+In 285 patients with atrial fibrillation or atrial flutter who were treated with CORVERT, the clearance of ibutilide was independent of renal function, as assessed by creatinine clearance (range 21 to 140 mL/min).
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+The recommended dose based on controlled trials (see CLINICAL STUDIES) is outlined in the Table below. Ibutilide infusion should be stopped as soon as the presenting arrhythmia is terminated or in the event of sustained or nonsustained ventricular tachycardia, or marked prolongation of QT or QTc.
+In a trial comparing ibutilide and sotalol (see CLINICAL STUDIES), 2 mg ibutilide fumarate administered as a single infusion to patients weighing more than 60 kg was also effective in terminating atrial fibrillation or atrial flutter.
+In the post-cardiac surgery study (see CLINICAL STUDIES), one or two intravenous infusions of 0.5 mg (0.005 mg/kg per dose for patients weighing less than 60 kg) was effective in terminating atrial fibrillation or atrial flutter.
+Patients should be observed with continuous ECG monitoring for at least 4 hours following infusion or until QTc has returned to baseline. Longer monitoring is required if any arrhythmic activity is noted. Skilled personnel and proper equipment (see WARNINGS, Proarrhythmia), such as a cardioverter/defibrillator, and medication for treatment of sustained ventricular tachycardia, including polymorphic ventricular tachycardia, must be available during administration of CORVERT and subsequent monitoring of the patient.
+CORVERT Injection may be administered undiluted or diluted in 50 mL of diluent. CORVERT may be added to 0.9% Sodium Chloride Injection or 5% Dextrose Injection before infusion. The contents of one 10 mL vial (0.1 mg/mL) may be added to a 50 mL infusion bag to form an admixture of approximately 0.017 mg/mL ibutilide fumarate. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+<paragraph>
+<main>The following diluents are compatible with CORVERT Injection (0.1 mg/mL):
+<item>
+<item>5% Dextrose Injection
+<item>
+<item>0.9% Sodium Chloride Injection
+<item>
+<item>The following intravenous solution containers are compatible with admixtures of CORVERT Injection (0.1 mg/mL):
+<item>
+<item>polyvinyl chloride plastic bags
+<item>
+<item>polyolefin bags
+<item>
+<item>Admixtures of the product, with approved diluents, are chemically and physically stable for 24 hours at room temperature (15 to 30 C or 59 to 86 F) and for 48 hours at refrigerated temperatures (2 to 8 C or 36 to 46 F). Strict adherence to the use of aseptic technique during the preparation of the admixture is recommended in order to maintain sterility.
+</paragraph>

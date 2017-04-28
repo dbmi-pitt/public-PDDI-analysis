@@ -1,0 +1,146 @@
+MAVIK (trandolapril) tablet 
+
+Trandolapril is the ethyl ester prodrug of a nonsulfhydryl angiotensin converting enzyme (ACE) inhibitor, trandolaprilat.
+
+CONTRAINDICATIONS
+
+MAVIK is contraindicated in patients who are hypersensitive to this product, in patients with hereditary/idiopathic angioedema and in patients with a history of angioedema related to previous treatment with an ACE inhibitor.
+
+Do not co-administer aliskiren with MAVIK in patients with diabetes (see PRECAUTIONS, Drug Interactions).
+
+WARNINGS
+
+Anaphylactoid and Possibly Related Reactions
+
+Presumably because angiotensin converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors, including MAVIK, may be subject to a variety of adverse reactions, some of them serious.
+
+Anaphylactoid Reactions During Desensitization
+
+Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions did not occur when ACE inhibitors were temporarily withheld, but they reappeared when the ACE inhibitors were inadvertently readministered.
+
+Anaphylactoid Reactions During Membrane Exposure
+
+Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+Head and Neck Angioedema
+
+In controlled trials ACE inhibitors (for which adequate data are available) cause a higher rate of angioedema in black than in non-black patients.
+
+Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with ACE inhibitors including MAVIK. Symptoms suggestive of angioedema or facial edema occurred in 0.13% of MAVIK-treated patients. Two of the four cases were life-threatening and resolved without treatment or with medication (corticosteroids). Angioedema associated with laryngeal edema can be fatal. If laryngeal stridor or angioedema of the face, tongue or glottis occurs, treatment with MAVIK should be discontinued immediately, the patient treated in accordance with accepted medical care and carefully observed until the swelling disappears. In instances where swelling is confined to the face and lips, the condition generally resolves without treatment; antihistamines may be useful in relieving symptoms. Where there is involvement of the tongue, glottis, or larynx, likely to cause airway obstruction, emergency therapy, including but not limited to subcutaneous epinephrine solution 1:1,000 (0.3 to 0.5 mL) should be promptly administered. (see PRECAUTIONS - Information for Patients and ADVERSE REACTIONS.)
+
+Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+Hypotension
+
+MAVIK can cause symptomatic hypotension. Like other ACE inhibitors, MAVIK has only rarely been associated with symptomatic hypotension in uncomplicated hypertensive patients. Symptomatic hypotension is most likely to occur in patients who have been salt- or volume-depleted as a result of prolonged treatment with diuretics, dietary salt restriction, dialysis, diarrhea, or vomiting. Volume and/or salt depletion should be corrected before initiating treatment with MAVIK. (see PRECAUTIONS - Drug Interactions and ADVERSE REACTIONS.) In controlled and uncontrolled studies, hypotension was reported as an adverse event in 0.6% of patients and led to discontinuations in 0.1% of patients.
+
+In patients with concomitant congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria or azotemia, and rarely, with acute renal failure and death. In such patients, MAVIK therapy should be started at the recommended dose under close medical supervision. These patients should be followed closely during the first 2 weeks of treatment and, thereafter, whenever the dosage of MAVIK or diuretic is increased. (see DOSAGE AND ADMINISTRATION.) Care in avoiding hypotension should also be taken in patients with ischemic heart disease, aortic stenosis, or cerebrovascular disease.
+
+If symptomatic hypotension occurs, the patient should be placed in the supine position and, if necessary, normal saline may be administered intravenously. A transient hypotensive response is not a contraindication to further doses; however, lower doses of MAVIK or reduced concomitant diuretic therapy should be considered.
+
+Neutropenia/Agranulocytosis
+
+Another ACE inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression rarely in patients with uncomplicated hypertension, but more frequently in patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma. Available data from clinical trials of trandolapril are insufficient to show that trandolapril does not cause agranulocytosis at similar rates. As with other ACE inhibitors, periodic monitoring of white blood cell counts in patients with collagen-vascular disease and/or renal disease should be considered.
+
+Hepatic Failure
+
+ACE inhibitors rarely have been associated with a syndrome of cholestatic jaundice, fulminant hepatic necrosis, and death. The mechanism of this syndrome is not understood. Patients receiving ACE inhibitors who develop jaundice should discontinue the ACE inhibitor and receive appropriate medical follow-up.
+
+Fetal Toxicity
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue MAVIK as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examinations to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue MAVIK, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to MAVIK for hypotension, oliguria, and hyperkalemia (See PRECAUTIONS, Pediatric Use).
+
+Doses of 0.8 mg/kg/day (9.4 mg/m2/day) in rabbits, 1000 mg/kg/day (7000 mg/m2/day) in rats, and 25 mg/kg/day (295 mg/m2/day) in cynomolgus monkeys did not produce teratogenic effects. These doses represent 10 and 3 times (rabbits), 1250 and 2564 times (rats), and 312 and 108 times (monkeys) the maximum projected human dose of 4 mg based on body-weight and body-surface-area, respectively assuming a 50 kg woman.
+
+PRECAUTIONS
+
+General
+
+Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including MAVIK (trandolapril), may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine have been observed in some patients following ACE inhibitor therapy. These increases were almost always reversible upon discontinuation of the ACE inhibitor and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+
+Some hypertensive patients with no apparent preexisting renal vascular disease have developed increases in blood urea and serum creatinine, usually minor and transient, especially when ACE inhibitors have been given concomitantly with a diuretic. This is more likely to occur in patients with preexisting renal impairment. Dosage reduction and/or discontinuation of any diuretic and/or the ACE inhibitor may be required. Evaluation of hypertensive patients should always include assessment of renal function. (see DOSAGE AND ADMINISTRATION.)
+
+Hyperkalemia and Potassium-sparing Diuretics
+
+In clinical trials, hyperkalemia (serum potassium > 6.00 mEq/L) occurred in approximately 0.4% of hypertensive patients receiving MAVIK. In most cases, elevated serum potassium levels were isolated values, which resolved despite continued therapy. None of these patients were discontinued from the trials because of hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with MAVIK. (see PRECAUTIONS - Drug Interactions.)
+
+Cough
+
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough. In controlled trials of trandolapril, cough was present in 2% of trandolapril patients and 0% of patients given placebo. There was no evidence of a relationship to dose.
+
+Surgery/Anesthesia
+
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, MAVIK will block angiotensin II formation secondary to compensatory renin release. If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion.
+
+Drug Interactions
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on MAVIK and other agents that affect the RAS.
+
+Do not co-administer aliskiren with MAVIK in patients with diabetes. Avoid use of aliskiren with MAVIK in patients with renal impairment (GFR <60 ml/min).
+
+Concomitant Diuretic Therapy
+
+As with other ACE inhibitors, patients on diuretics, especially those on recently instituted diuretic therapy, may experience an excessive reduction of blood pressure after initiation of therapy with MAVIK. The possibility of exacerbation of hypotensive effects with MAVIK may be minimized by either discontinuing the diuretic or cautiously increasing salt intake prior to initiation of treatment with MAVIK. If it is not possible to discontinue the diuretic, the starting dose of trandolapril should be reduced. (see DOSAGE AND ADMINISTRATION.)
+
+Agents Increasing Serum Potassium
+
+Trandolapril can attenuate potassium loss caused by thiazide diuretics and increase serum potassium when used alone. Use of potassium-sparing diuretics (spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes concomitantly with ACE inhibitors can increase the risk of hyperkalemia. If concomitant use of such agents is indicated, they should be used with caution and with appropriate monitoring of serum potassium. (see PRECAUTIONS.)
+
+Antidiabetic Agents
+
+Concomitant use of ACE inhibitors and antidiabetic medicines (insulin or oral hypoglycemic agents) may cause an increased blood glucose lowering effect with greater risk of hypoglycemia.
+
+Lithium
+
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy. These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of lithium toxicity may be increased.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including trandolapril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving trandolapril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors, including trandolapril may be attenuated by NSAIDs.
+
+Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including MAVIK.
+
+Other
+
+No clinically significant pharmacokinetic interaction has been found between trandolaprilat and food, cimetidine, digoxin, or furosemide.
+
+The anticoagulant effect of warfarin was not significantly changed by trandolapril.
+
+The hypotensive effect of certain inhalation anesthetics may be enhanced by ACE inhibitors including trandolapril (see PRECAUTIONS-Surgery/Anesthesia).
+
+DOSAGE AND ADMINISTRATION
+
+Hypertension
+
+The recommended initial dosage of MAVIK for patients not receiving a diuretic is 1 mg once daily in non-black patients and 2 mg in black patients. Dosage should be adjusted according to the blood pressure response. Generally, dosage adjustments should be made at intervals of at least 1 week. Most patients have required dosages of 2 to 4 mg once daily. There is little clinical experience with doses above 8 mg.
+
+Patients inadequately treated with once-daily dosing at 4 mg may be treated with twice-daily dosing. If blood pressure is not adequately controlled with MAVIK monotherapy, a diuretic may be added.
+
+In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally can occur following the initial dose of MAVIK. To reduce the likelihood of hypotension, the diuretic should, if possible, be discontinued two to three days prior to beginning therapy with MAVIK. (see WARNINGS.) Then, if blood pressure is not controlled with MAVIK alone, diuretic therapy should be resumed. If the diuretic cannot be discontinued, an initial dose of 0.5 mg MAVIK should be used with careful medical supervision for several hours until blood pressure has stabilized. The dosage should subsequently be titrated (as described above) to the optimal response. (see WARNINGS, PRECAUTIONS and DRUG INTERACTIONS.)
+
+Concomitant administration of MAVIK with potassium supplements, potassium salt substitutes, or potassium sparing diuretics can lead to increases of serum potassium. (see PRECAUTIONS.)
+
+Heart Failure Post Myocardial Infarction or Left-Ventricular Dysfunction Post Myocardial Infarction
+
+The recommended starting dose is 1 mg, once daily. Following the initial dose, all patients should be titrated (as tolerated) toward a target dose of 4 mg, once daily. If a 4 mg dose is not tolerated, patients can continue therapy with the greatest tolerated dose.
+
+Dosage Adjustment in Renal Impairment or Hepatic Cirrhosis
+
+For patients with a creatinine clearance < 30 mL/min. or with hepatic cirrhosis, the recommended starting dose, based on clinical and pharmacokinetic data, is 0.5 mg daily. Patients should subsequently have their dosage titrated (as described above) to the optimal response.
+

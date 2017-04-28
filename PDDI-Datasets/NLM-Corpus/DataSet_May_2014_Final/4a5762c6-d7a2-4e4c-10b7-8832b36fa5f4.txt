@@ -1,0 +1,134 @@
+Drug Label for drug brand TOPROLXL, containing Metoprolol succinate.
+
+
+WARNING: ISCHEMIC HEART DISEASE:
+
+
+Following abrupt cessation of therapy with certain beta-blocking agents, exacerbations of angina pectoris and, in some cases, myocardial infarction have occurred. When discontinuing chronically administered TOPROL-XL, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of 1 - 2 weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, TOPROL-XL administration should be reinstated promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Warn patients against interruption or discontinuation of therapy without the physician s advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue TOPROL-XL therapy abruptly even in patients treated only for hypertension (5.1).
+WARNING: ISCHEMIC HEART DISEASE
+(See Full Prescribing Information for complete boxed warning)
+Following abrupt cessation of therapy with beta-blocking agents, exacerbations of angina pectoris and myocardial infarction have occurred. Warn patients against interruption or discontinuation of therapy without the physician s advice. (5.1)
+
+
+4 CONTRAINDICATIONS
+
+TOPROL-XL is contraindicated in severe bradycardia, second or third degree heart block, cardiogenic shock, decompensated cardiac failure, sick sinus syndrome (unless a permanent pacemaker is in place), and in patients who are hypersensitive to any component of this product.
+ <list>
+ <item>
+ <item>Known hypersensitivity to product components. (4)
+ <item>
+ <item>Severe bradycardia. (4)
+ <item>
+ <item>Heart block greater than first degree. (4)
+ <item>
+ <item>Cardiogenic shock. (4)
+ <item>
+ <item>Decompensated cardiac failure. (4)
+ <item>
+ <item>Sick sinus syndrome without a pacemarker. (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Heart Failure: Worsening cardiac failure may occur. (5.2)
+ <item>
+ <item>Bronchospastic Disease: Avoid beta blockers. (5.3)
+ <item>
+ <item>Pheochromocytoma: If required, first initiate therapy with an alpha blocker. (5.4)
+ <item>
+ <item>Major Surgery: Avoid initiation of high-dose extended-release metoprolol in patients undergoing non-cardiac surgery because it has been associated with bradycardia, hypotension, stroke and death. Do not routinely withdraw chronic beta blocker therapy prior to surgery. (5.5, 6.1)
+ <item>
+ <item>Diabetes and Hypoglycemia: May mask tachycardia occurring with hypoglycemia. (5.6)
+ <item>
+ <item>Patients with Hepatic Impairment: (5.7)
+ <item>
+ <item>Thyrotoxicosis: Abrupt withdrawal in patients with thyrotoxicosis might precipitate a thyroid storm. (5.8)
+ <item>
+ <item>Anaphylactic Reactions: Patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction. (5.9)
+ <item>
+ <item>Peripheral Vascular Disease: Can aggravate symptoms of arterial insufficiency. (5.10)
+ <item>
+ <item>Calcium Channel Blockers: Because of significant inotropic and chronotropic effects in patients treated with beta-blockers and calcium channel blockers of the verapamil and diltiazem type, caution should be exercised in patients treated with these agents concomitantly. (5.11)
+ <item>
+ </list>
+
+
+5.1 Ischemic Heart Disease
+
+Following abrupt cessation of therapy with certain beta-blocking agents, exacerbations of angina pectoris and, in some cases, myocardial infarction have occurred. When discontinuing chronically administered TOPROL-XL, particularly in patients with ischemic heart disease, gradually reduce the dosage over a period of 1 - 2 weeks and monitor the patient. If angina markedly worsens or acute coronary ischemia develops, promptly reinstate TOPROL-XL, and take measures appropriate for the management of unstable angina. Warn patients not to interrupt therapy without their physician s advice. Because coronary artery disease is common and may be unrecognized, avoid abruptly discontinuing TOPROL-XL in patients treated only for hypertension.
+
+5.2 Heart Failure
+
+Worsening cardiac failure may occur during up-titration of TOPROL-XL. If such symptoms occur, increase diuretics and restore clinical stability before advancing the dose of TOPROL-XL see Dosage and Administration (2). It may be necessary to lower the dose of TOPROL-XL or temporarily discontinue it. Such episodes do not preclude subsequent successful titration of TOPROL-XL.
+
+5.3 Bronchospastic Disease
+
+PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of its relative beta1 cardio-selectivity, however, TOPROL-XL may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment. Because beta1-selectivity is not absolute, use the lowest possible dose of TOPROL-XL. Bronchodilators, including beta2-agonists, should be readily available or administered concomitantly see Dosage and Administration (2).
+
+5.4 Pheochromocytoma
+
+If TOPROL-XL is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated. Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+5.5 Major Surgery
+
+Avoid initiation of a high-dose regimen of extended-release metoprolol in patients undergoing non-cardiac surgery, since such use in patients with cardiovascular risk factors has been associated with bradycardia, hypotension, stroke and death.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+5.6 Diabetes and Hypoglycemia
+
+Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+
+5.7 Hepatic Impairment
+
+Consider initiating TOPROL-XL therapy at doses lower than those recommended for a given indication, gradually increase dosage to optimize therapy, while monitoring closely for adverse events.
+
+5.8 Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism, such as tachycardia. Abrupt withdrawal of beta-blockade may precipitate a thyroid storm.
+
+5.9 Anaphylactic Reaction
+
+While taking beta-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated challenge and may be unresponsive to the usual doses of epinephrine used to treat an allergic reaction.
+
+5.10 Peripheral Vascular Disease
+
+Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease.
+
+5.11 Calcium Channel Blockers
+
+Because of significant inotropic and chronotropic effects in patients treated with beta-blockers and calcium channel blockers of the verapamil and diltiazem type, caution should be exercised in patients treated with these agents concomitantly.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Catecholamine-depleting drugs may have an additive effect when given with beta-blocking agents. (7.1)
+ <item>
+ <item>CYP2D6 Inhibitors are likely to increase metoprolol concentration. (7.2)
+ <item>
+ <item>Concomitant use of glycosides, clonidine, and diltiazem and verapamil with beta-blockers can increase the risk of bradycardia. (7.3)
+ <item>
+ <item>Beta-blockers including metoprolol, may exacerbate the rebound hypertension that can follow the withdrawal of clonidine. (7.3)
+ <item>
+ </list>
+
+
+7.1 Catecholamine Depleting Drugs
+
+Catecholamine depleting drugs (eg, reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents. Observe patients treated with TOPROL-XL plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
+
+7.2 CYP2D6 Inhibitors
+
+Drugs that inhibit CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone are likely to increase metoprolol concentration. In healthy subjects with CYP2D6 extensive metabolizer phenotype, coadministration of quinidine 100 mg and immediate-release metoprolol 200 mg tripled the concentration of S-metoprolol and doubled the metoprolol elimination half-life. In four patients with cardiovascular disease, coadministration of propafenone 150 mg t.i.d. with immediate-release metoprolol 50 mg t.i.d. resulted in two- to five-fold increases in the steady-state concentration of metoprolol. These increases in plasma concentration would decrease the cardioselectivity of metoprolol.
+
+7.3 Digitalis, Clonidine, and Calcium Channel Blockers
+
+Digitalis glycosides, clonidine, diltiazem and verapamil slow atrioventricular conduction and decrease heart rate. Concomitant use with beta blockers can increase the risk of bradycardia.
+If clonidine and a beta blocker, such as metoprolol are coadministered, withdraw the beta-blocker several days before the gradual withdrawal of clonidine because beta-blockers may exacerbate the rebound hypertension that can follow the withdrawal of clonidine. If replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped see Warnings and Precautions (5.11).
+

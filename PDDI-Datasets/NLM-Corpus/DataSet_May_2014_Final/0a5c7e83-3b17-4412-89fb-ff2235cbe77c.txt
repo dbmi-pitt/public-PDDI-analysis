@@ -1,0 +1,150 @@
+AMTURNIDE (aliskiren hemifumarate and amlodipine besylate and hydrochlorothiazide) tablet, film coated 
+
+Amturnide is indicated for the treatment of hypertension, to lower blood pressure. 
+
+2     DOSAGE AND ADMINISTRATION
+
+2.1     General Considerations
+
+Dose once-daily. The dosage may be increased after 2 weeks of therapy. The maximum recommended dose of Amturnide is 300/10/25 mg.
+
+2.2     Add-on/Switch Therapy
+
+Use Amturnide for patients not adequately controlled with any two of the following: aliskiren, dihydropyridine calcium channel blockers, and thiazide diuretics.
+
+Switch a patient who experiences dose-limiting adverse reactions attributed to an individual component—while on any dual combination of the components of Amturnide—to Amturnide at a lower dose of that component to achieve similar blood pressure reductions.
+
+2.3     Replacement Therapy
+
+For patients receiving aliskiren, amlodipine and HCTZ from separate tablets, substitute Amturnide containing the same component doses.
+
+2.4     Relationship to Meals
+
+Patients should establish a routine pattern for taking Amturnide, either with or without a meal. High-fat meals decrease absorption of aliskiren substantially  [see Clinical Pharmacology (12.3)].
+
+4     CONTRAINDICATIONS
+
+Do not use aliskiren with ARBs or ACEIs in patients with diabetes [see Warnings and Precautions (5.2), Clinical Studies (14.2)].
+
+Amturnide is contraindicated in patients with anuria or hypersensitivity to sulfonamide-derived drugs like HCTZ or to any of the components [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)]. Hypersensitivity reactions may range from urticaria to anaphylaxis.
+
+5     WARNINGS AND PRECAUTIONS
+
+5.1     Fetal Toxicity
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Amturnide as soon as possible [see Use in Specific Populations (8.1)].
+
+5.2     Renal Impairment/Hyperkalemia/Hypotension when Amturnide is given in combination with ARBs or ACEIs
+
+Amturnide is contraindicated in patients with diabetes who are receiving ARBs or ACEIs because of the increased risk of renal impairment, hyperkalemia, and hypotension [see Contraindications (4) and Clinical Studies (14.2)].
+
+Avoid use of Amturnide with ARBs or ACEI in patients with moderate renal impairment (GFR <60 ml/min).
+
+5.3     Anaphylactic Reactions and Head and Neck Angioedema
+Aliskiren
+
+Hypersensitivity reactions such as anaphylactic reactions and angioedema of the face, extremities, lips, tongue, glottis and/or larynx have been reported in patients treated with aliskiren and has necessitated hospitalization and intubation. This may occur at any time during treatment and has occurred in patients with and without a history of angioedema with ACE inhibitors or angiotensin receptor antagonists. Anaphylactic reactions have been reported from post-marketing experience with unknown frequency. If angioedema involves the throat, tongue, glottis or larynx, or if the patient has a history of upper respiratory surgery, airway obstruction may occur and be fatal. Patients who experience these effects, even without respiratory distress, require prolonged observation and appropriate monitoring measures since treatment with antihistamines and corticosteroids may not be sufficient to prevent respiratory involvement. Prompt administration of subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 mL) and measures to ensure a patent airway may be necessary.
+
+Discontinue Amturnide immediately in patients who develop anaphylactic reactions or angioedema, and do not re-administer.
+
+5.4     Hypotension
+
+In patients with an activated renin-angiotensin-aldosterone system, such as volume- and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur in patients receiving renin-angiotensin-aldosterone system (RAAS) blockers. Correct these conditions prior to administration of Amturnide, or start the treatment under close medical supervision. 
+
+A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+Amlodipine besylate
+
+Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. Because of the gradual onset of action, acute hypotension is unlikely.
+
+5.5     Risk of Myocardial Infarction or Increased Angina
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly with severe obstructive coronary artery disease.
+
+5.6     Impaired Renal Function
+
+Monitor renal function periodically in patients treated with Amturnide. Changes in renal function, including acute renal failure, can be caused by drugs that affect the renin-angiotensin system and by diuretics. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, severe heart failure, post-myocardial infarction or volume depletion) or patients receiving ARB, ACEI or non-steroidal anti-inflammatory (NSAID) therapy may be at particular risk of developing acute renal failure on Amturnide [see Contraindications (4), Warnings and Precautions (5.2), Clinical Studies (14.2)]. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Amturnide.
+
+5.7     Hypersensitivity Reactions
+
+Hydrochlorothiazide
+
+Hypersensitivity reactions to HCTZ may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+5.8     Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+5.9     Lithium Interaction
+
+Lithium generally should not be given with thiazides [see Drug Interactions (7)].
+
+5.10     Serum Electrolyte Abnormalities
+
+Amturnide
+
+In a short-term controlled trial the incidence of patients with hypertension not concomitantly treated with an ARB or ACEI who developed hypokalemia (serum potassium <3.5 mEq/L) was 11.0% of Amturnide-treated patients compared to 19.0% of amlodipine/HCTZ patients, 4.4% of aliskiren/HCTZ patients, and 2.1% of aliskiren/amlodipine patients; the incidence of hyperkalemia (serum potassium >5.5 mEq/L) was 3.0% compared to 2.0% of amlodipine/HCTZ patients, 0.7% of aliskiren/HCTZ patients, and 0.7% of aliskiren/amlodipine patients. No Amturnide-treated patients discontinued due to increase or decrease of serum potassium.
+
+Aliskiren
+
+Monitor serum potassium periodically in patients receiving aliskiren. Drugs that affect the renin-angiotensin system can cause hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes, combination use with ARBs or ACEI [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Studies (14.2)], NSAIDs, or potassium supplements or potassium sparing diuretics.
+
+Hydrochlorothiazide
+
+Hydrochlorothiazide can cause hypokalemia and hyponatremia. Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
+
+If hypokalemia is accompanied by clinical signs (e.g., muscular weakness, paresis, or ECG alterations), Amturnide should be discontinued. Correction of hypokalemia and any coexisting hypomagnesemia is recommended prior to the initiation of thiazides.
+
+5.11     Cyclosporine or Itraconazole
+
+When aliskiren was given with cyclosporine or itraconazole, the blood concentrations of aliskiren were significantly increased. Avoid concomitant use of Amturnide with cyclosporine or itraconazole [see Drug Interactions (7)].
+
+5.12      Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy. 
+
+5.13     Metabolic Disturbances
+
+Hydrochlorothiazide
+
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
+
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
+
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevation of serum calcium. Monitor calcium levels in patients with hypercalcemia receiving Amturnide.
+
+7     DRUG INTERACTIONS
+
+No drug interaction studies have been conducted between Amturnide and other drugs. In a phase III sub-study, there was no clinically relevant change in the exposure of aliskiren, amlodipine, and HCTZ observed with Amturnide compared to the dual combinations of aliskiren and amlodipine, amlodipine and HCTZ, and aliskiren and HCTZ. Studies with the individual aliskiren, amlodipine, and HCTZ components are described below.
+
+Aliskiren
+
+Cyclosporine: Avoid co-administration of cyclosporine with aliskiren.
+
+Itraconazole: Avoid co-administration of itraconazole with aliskiren [see Clinical Pharmacology (12.3)].
+
+Non-Steroidal Anti-Inflammatory Agents (NSAIDs) including selective Cyclooxygenase-2 inhibitors (COX-2 inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors with agents that affect the renin-angiotensin system, including aliskiren, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving aliskiren and NSAID therapy.
+
+The antihypertensive effect of aliskiren may be attenuated by NSAIDs.
+
+Amlodipine 
+
+Simvastatin: Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
+CYP3A4 Inhibitors: Co-administration with CYP3A inhibitors (moderate and strong) result in increased systemic exposure to amlodipine warranting dose reduction. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors to determine the need for dose adjustment.
+
+CYP3A4 Inducers: No information is available on the quantitative effects of CYP3A4 inducers on amlodipine. Blood pressure should be monitored when amlodipine is co-administered with CYP3A4 inducers.
+
+HCTZ
+
+When administered concurrently, the following drugs may interact with thiazide diuretics.
+
+Antidiabetic drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+
+Lithium: Diuretic agents increase the risk of lithium toxicity. Refer to the package insert for lithium before use of such preparation with Amturnide. Monitoring of serum lithium concentrations is recommended during concurrent use.
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs) and COX-2 selective agents: When Amturnide and nonsteroidal anti-inflammatory agents are used concomitantly, observe the patient to determine if the desired effect of the diuretic is obtained.
+
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and resin (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)]. 

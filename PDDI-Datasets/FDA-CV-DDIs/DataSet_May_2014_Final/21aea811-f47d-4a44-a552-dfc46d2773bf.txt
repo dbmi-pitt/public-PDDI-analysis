@@ -1,0 +1,228 @@
+BETAPACE AF (sotalol hydrochloride) tablet 
+
+Betapace AF, (sotalol hydrochloride), is an antiarrhythmic drug with Class II (beta-adrenoreceptor blocking) and Class III (cardiac action potential duration prolongation) properties. 
+
+CONTRAINDICATIONS
+
+Betapace AF (sotalol hydrochloride) is contraindicated in patients with sinus bradycardia (<50 bpm during waking hours), sick sinus syndrome or second and third degree AV block (unless a functioning pacemaker is present), congenital or acquired long QT syndromes, baseline QT interval >450 msec, cardiogenic shock, uncontrolled heart failure, hypokalemia (<4 meq/L), creatinine clearance <40 mL/min, bronchial asthma and previous evidence of hypersensitivity to sotalol.
+
+WARNINGS
+
+Ventricular Arrhythmia
+
+Betapace AF (sotalol) can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QT interval prolongation. QT interval prolongation is directly related to the dose of Betapace AF. Factors such as reduced creatinine clearance, gender (female) and larger doses increase the risk of TdP. The risk of TdP can be reduced by adjustment of the Betapace AF dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval.
+
+Treatment with Betapace AF must therefore be started only in patients observed for a minimum of three days on their maintenance dose in a facility that can provide electrocardiographic monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias. Calculation of the creatinine clearance must precede administration of the first dose of Betapace AF. For detailed instructions regarding dose selection, see DOSAGE AND ADMINISTRATION.
+
+Proarrhythmia in Atrial Fibrillation/Atrial Flutter Patients:
+
+In eight controlled trials of patients with AFIB/AFL and other supraventricular arrhythmias (N=659) there were four cases of Torsade de Pointes reported (0.6%) during the controlled phase of treatment with Betapace AF. The incidence of Torsade de Pointes was significantly lower in those patients receiving total daily doses of 320 mg or less (0.3%), as summarized in Table 5 below. Both patients who had Torsade de Pointes in the group receiving >320 mg/day were receiving 640 mg/day. In the group receiving ≤320 mg daily, one case of TdP occurred at a daily dose of 320 mg on day 4 of treatment and one case occurred on a daily dose of 160 mg on day 1 of treatment.
+
+Prolongation of the QT interval is dose related, increasing from baseline an average of 25, 40, and 50 msec in the 80, 120, and 160 mg groups, respectively, in the clinical dose-response study. In this clinical trial Betapace AF treatment was not initiated if the QT interval was greater than 450 msec and during therapy the dose was reduced or discontinued if the QT interval was ≥520 msec.
+
+Experience in patients with ventricular arrhythmias is also pertinent to the risk of Torsade de Pointes in patients with AFIB/AFL (see below).
+
+Proarrhythmia in Ventricular Arrhythmia Patients: [see Betapace (sotalol hydrochloride) Package Insert]
+
+In patients with a history of sustained ventricular tachycardia, the incidence of Torsade de Pointes during sotalol treatment was 4% and worsened VT in about 1%; in patients with other less serious ventricular arrhythmias the incidence of Torsade de Pointes was 1% and new or worsened VT in about 0.7%. Additionally, in approximately 1% of patients, deaths were considered possibly drug related; such cases, although difficult to evaluate, may have been associated with proarrhythmic events.
+
+Torsade de Pointes arrhythmias in patients with VT/VF were dose related, as was the prolongation of QT (QTc) interval, as shown in Table 6 below.
+
+In addition to dose and presence of sustained VT, other risk factors for Torsade de Pointes were gender (females had a higher incidence), excessive prolongation of the QTc interval and history of cardiomegaly or congestive heart failure. Patients with sustained ventricular tachycardia and a history of congestive heart failure appear to have the highest risk for serious proarrhythmia (7%). Of the ventricular arrhythmia patients experiencing Torsade de Pointes, approximately two-thirds spontaneously reverted to their baseline rhythm. The others were either converted electrically (D/C cardioversion or overdrive pacing) or treated with other drugs (see OVERDOSAGE). It is not possible to determine whether some sudden deaths represented episodes of Torsade de Pointes, but in some instances sudden death did follow a documented episode of Torsade de Pointes. Although sotalol therapy was discontinued in most patients experiencing Torsade de Pointes, 17% were continued on a lower dose.
+
+Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
+
+The use of Betapace AF in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended. Such drugs include many antiarrhythmics, some phenothiazines, bepridil, tricyclic antidepressants, and certain oral macrolides. Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with Betapace AF. In clinical trials, Betapace AF was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months. Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with Betapace AF because of their potential to prolong refractoriness (see WARNINGS). There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
+
+Congestive Heart Failure
+
+Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta-blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure. In patients who have heart failure controlled by digitalis and/or diuretics, Betapace AF should be administered cautiously. Both digitalis and sotalol slow AV conduction. As with all beta-blockers, caution is advised when initiating therapy in patients with any evidence of left ventricular dysfunction. In a pooled data base of four placebo-controlled AFIB/AFL and PSVT studies, new or worsening CHF occurred during therapy with Betapace AF in 5 (1.2%) of 415 patients. In these studies patients with uncontrolled heart failure were excluded (i.e., NYHA Functional Classes III or IV). In other premarketing sotalol studies, new or worsened congestive heart failure (CHF) occurred in 3.3% (n=3257) of patients and led to discontinuation in approximately 1% of patients receiving sotalol. The incidence was higher in patients presenting with sustained ventricular tachycardia/fibrillation (4.6%, n=1363), or a prior history of heart failure (7.3%, n=696). Based on a life-table analysis, the one-year incidence of new or worsened CHF was 3% in patients without a prior history and 10% in patients with a prior history of CHF. NYHA Classification was also closely associated to the incidence of new or worsened heart failure while receiving sotalol (1.8% in 1395 Class I patients, 4.9% in 1254 Class II patients and 6.1% in 278 Class III or IV patients).
+
+Electrolyte Disturbances
+
+Betapace AF should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes. Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
+
+Bradycardia/Heart Block
+
+The incidence of bradycardia (as determined by the investigators) in the supraventricular arrhythmia population treated with Betapace AF (N = 415) was 13%, and led to discontinuation in 2.4% of patients. Bradycardia itself increases the risk of Torsade de Pointes.
+
+Recent Acute MI
+
+Sotalol has been used in a controlled trial following an acute myocardial infarction without evidence of increased mortality (see Safety in Patients with Structural Heart Disease). Although specific studies of its use in treating atrial arrhythmias after infarction have not been conducted, the usual precautions regarding heart failure, avoidance of hypokalemia, bradycardia or prolonged QT interval apply.
+
+The following warnings are related to the beta-blocking activity of Betapace AF.
+
+Abrupt Withdrawal
+
+Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy. Occasional cases of exacerbation of angina pectoris, arrhythmias and, in some cases, myocardial infarction have been reported after abrupt discontinuation of beta-blocker therapy. Therefore, it is prudent when discontinuing chronically administered Betapace AF, particularly in patients with ischemic heart disease, to carefully monitor the patient and consider the temporary use of an alternate beta-blocker if appropriate. If possible, the dosage of Betapace AF should be gradually reduced over a period of one to two weeks. If angina or acute coronary insufficiency develops, appropriate therapy should be instituted promptly. Patients should be warned against interruption or discontinuation of therapy without the physician's advice. Because coronary artery disease is common and may be unrecognized in patients receiving Betapace AF, abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
+
+Non-Allergic Bronchospasm (e.g., chronic bronchitis and emphysema)
+
+PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS. It is prudent, if Betapace AF (sotalol hydrochloride) is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
+
+Anaphylaxis
+
+While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
+
+Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes
+
+In patients with diabetes (especially labile diabetes) or with a history of episodes of spontaneous hypoglycemia, Betapace AF should be given with caution since beta-blockade may mask some important premonitory signs of acute hypoglycemia; e.g., tachycardia.
+
+Sick Sinus Syndrome
+
+Betapace AF should be used only with extreme caution in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest. In patients with AFIB and sinus node dysfunction, the risk of Torsade de Pointes with Betapace AF therapy is increased, especially after cardioversion. Bradycardia following cardioversion in these patients is associated with QTcinterval prolongation which is augmented due to the reverse use dependence of the Class III effects of Betapace AF. Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with Betapace AF if they have an implanted pacemaker for control of bradycardia symptoms.
+
+Thyrotoxicosis
+
+Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism. Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade which might be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm. The beta-blocking effects of Betapace AF may be useful in controlling heart rate in AFIB associated with thyrotoxicosis but no study has been conducted to evaluate this.
+
+PRECAUTIONS
+
+Renal Impairment
+
+Betapace AF (sotalol hydrochloride) is eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion. There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of Betapace AF. Guidance for dosing in conditions of renal impairment can be found under "DOSAGE AND ADMINISTRATION."
+
+Information for Patients
+
+Please refer to the patient package insert.
+
+Prior to initiation of Betapace AF therapy, the patient should be advised to read the patient package insert and reread it each time therapy is renewed. The patient should be fully instructed on the need for compliance with the recommended dosing of Betapace AF, the potential interactions with drugs that prolong the QT interval and other antiarrhythmics, and the need for periodic monitoring of QT and renal function to minimize the risk of serious abnormal rhythms.
+
+Medications and Supplements
+
+Assessment of patients' medication history should include all over-counter, prescription and herbal/natural preparations with emphasis on preparations that may affect the pharmacodynamics of Betapace AF such as other cardiac antiarrhythmic drugs, some phenothiazines, bepridil, tricyclic antidepressants and oral macrolides (see WARNINGS and Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents). Patients should be instructed to notify their health care providers of any change in over-the-counter, prescription or supplement use. If a patient is hospitalized or is prescribed a new medication for any condition, the patient must inform the health care provider of ongoing Betapace AF therapy. Patients should also check with their health care provider and/or pharmacist prior to taking a new over-the-counter medicine.
+
+Electrolyte Imbalance
+
+If patients experience symptoms that may be associated with altered electrolyte balance, such as excessive or prolonged diarrhea, sweating, or vomiting, or loss of appetite or thirst, these conditions should be immediately reported to their health care provider.
+
+Dosing Schedule
+
+Patients should be instructed NOT to double the next dose if a dose is missed. The next dose should be taken at the usual time.
+
+Drug Interactions
+
+Drugs undergoing CYP450 metabolism
+
+Sotalol is primarily eliminated by renal excretion; therefore, drugs that are metabolized by CYP450 are not expected to alter the pharmacokinetics of sotalol.
+
+Digoxin
+
+Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin. Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+Calcium blocking drugs
+
+ Betapace AF should be administered with caution in conjunction with calcium blocking drugs because of possible additive effects on atrioventricular conduction or ventricular function. Additionally, concomitant use of these drugs may have additive effects on blood pressure, possibly leading to hypotension.
+
+Catecholamine-depleting agents
+
+ Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone. Patients treated with Betapace AF plus a catecholamine depletor should therefore be closely monitored for evidence of hypotension and/or marked bradycardia which may produce syncope.
+
+Insulin and oral antidiabetics
+
+Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment. Symptoms of hypoglycemia may be masked.
+
+Beta-2-receptor stimulants
+
+Beta-agonists such as salbutamol, terbutaline and isoprenaline may have to be administered in increased dosages when used concomitantly with Betapace AF.
+
+Clonidine
+
+ Beta-blocking drugs may potentiate the rebound hypertension sometimes observed after discontinuation of clonidine; therefore, caution is advised when discontinuing clonidine in patients receiving Betapace AF.
+
+Other
+
+No pharmacokinetic interactions were observed with hydrochlorothiazide or warfarin.
+
+Antacids
+
+Administration of Betapace AF within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in Cmax and AUC of 26% and 20%, respectively and consequently in a 25% reduction in the bradycardic effect at rest. Administration of the antacid two hours after Betapace AF has no effect on the pharmacokinetics or pharmacodynamics of sotalol.
+
+Drug/Laboratory Test Interactions
+
+The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods. In screening patients suspected of having a pheochromocytoma and being treated with sotalol, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J. Chromatogr. 385:241, 1987) should be employed in determining levels of catecholamines.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No evidence of carcinogenic potential was observed in rats during a 24-month study at 137-275 mg/kg/ day (approximately 30 times the maximum recommended human oral dose (MRHD) as mg/kg or 5 times the MRHD as mg/m2) or in mice, during a 24-month study at 4141-7122 mg/kg/day (approximately 450-750 times the MRHD as mg/kg or 36-63 times the MRHD as mg/m2).
+
+Sotalol has not been evaluated in any specific assay of mutagenicity or clastogenicity.
+
+No significant reduction in fertility occurred in rats at oral doses of 1000 mg/kg/ day (approximately 100 times the MRHD as mg/kg or 9 times the MRHD as mg/m2) prior to mating, except for a small reduction in the number of offspring per litter.
+
+DOSAGE AND ADMINISTRATION
+
+Dosing and Administration in Adults
+
+•Therapy with Betapace AF must be initiated (and, if necessary, titrated) in a setting that provides continuous electrocardiographic (ECG) monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias. Patients should continue to be monitored in this way for a minimum of 3 days on the maintenance dose. In addition, patients should not be discharged within 12 hours of electrical or pharmacological conversion to normal sinus rhythm.
+•The QT interval is used to determine patient eligibility for Betapace AF treatment and for monitoring safety during treatment. The baseline QT interval must be ≤450 msec in order for a patient to be started on Betapace AF therapy. During initiation and titration, the QT interval should be monitored 2-4 hours after each dose. If the QT interval prolongs to 500 msec or greater, the dose must be reduced or the drug discontinued. 
+•The dose of Betapace AF must be individualized according to calculated creatinine clearance. In patients with a creatinine clearance >60 mL/min Betapace AF is administered twice daily (BID) while in those with a creatinine clearance between 40 and 60 mL/min, the dose is administered once daily (QD). In patients with a creatinine clearance less than 40 mL/min Betapace AF is contraindicated. The recommended initial dose of Betapace AF is 80 mg and is initiated as shown in the dosing algorithm described below. The 80 mg dose can be titrated upward to 120 mg during initial hospitalization or after discharge on 80 mg in the event of recurrence, by rehospitalization and repeating the same steps used during the initiation of therapy (see Upward Titration of Dose).
+•Patients with atrial fibrillation should be anticoagulated according to usual medical practice. Hypokalemia should be corrected before initiation of Betapace AF therapy (see WARNINGS, Ventricular Arrhythmia). 
+•Patients to be discharged on Betapace AF therapy from an in-patient setting should have an adequate supply of Betapace AF, to allow uninterrupted therapy until the patient can fill a Betapace AF prescription.
+
+Upward Titration of Dose
+
+If the 80 mg dose level (given BID or QD depending upon the creatinine clearance) does not reduce the frequency of relapses of AFIB/AFL and is tolerated without excessive QT interval prolongation (i.e., ≥520 msec), the dose level may be increased to 120 mg (BID or QD depending upon the creatinine clearance). As proarrhythmic events can occur not only at initiation of therapy, but also with each upward dosage adjustment, Steps 2 through 5 used during initiation of Betapace AF therapy should be followed when increasing the dose level. In the U.S. multicenter dose-response study, the 120 mg dose (BID or QD) was found to be the most effective in prolonging the time to ECG documented symptomatic recurrence of AFIB/AFL. If the 120 mg dose does not reduce the frequency of early relapse of AFIB/AFL and is tolerated without excessive QT interval prolongation (≥520 msec), an increase to 160 mg (BID or QD depending upon the creatinine clearance), can be considered. Steps 2 through 5 used during the initiation of therapy should be used again to introduce such an increase.
+
+Maintenance of Betapace AF Therapy
+
+Renal function and QT should be re-evaluated regularly if medically warranted. If QT is 520 msec or greater (JT 430 msec or greater if QRS is > 100 msec), the dose of Betapace AF therapy should be reduced and patients should be carefully monitored until QT returns to less than 520 msec. If the QT interval is ≥520 msec while on the lowest maintenance dose level (80 mg) the drug should be discontinued. If renal function deteriorates, reduce the daily dose in half by administering the drug once daily as described in Initiation of Betapace AF Therapy, Step 3.
+
+Special Considerations
+
+The maximum recommended dose in patients with a calculated creatinine clearance greater than 60 mL/min is 160 mg BID, doses greater than 160 mg BID have been associated with an increased incidence of Torsade de Pointes and are not recommended.
+
+A patient who misses a dose should NOT double the next dose. The next dose should be taken at the usual time.
+
+Dosing and Administration in Children
+
+As in adults the following precautionary measures should be considered when initiating sotalol treatment in children: initiation of treatment in the hospital after appropriate clinical assessment; individualized regimen as appropriate; gradual increase of doses if required; careful assessment of therapeutic response and tolerability; and frequent monitoring of the QTc interval and heart rate.
+
+For children aged about 2 years and greater
+
+For children aged about 2 years and greater, with normal renal function, doses normalized for body surface area are appropriate for both initial and incremental dosing. Since the Class III potency in children (see CLINICAL PHARMACOLOGY) is not very different from that in adults, reaching plasma concentrations that occur within the adult dose range is an appropriate guide. From pediatric pharmacokinetic data the following is recommended.
+
+For initiation of treatment, 30 mg/m2 three times a day (90 mg/m2 total daily dose) is approximately equivalent to the initial 160 mg total daily dose for adults. Subsequent titration to a maximum of 60 mg/m2 (approximately equivalent to the 360 mg total daily dose for adults) can then occur. Titration should be guided by clinical response, heart rate and QTc, with increased dosing being preferably carried out in-hospital. At least 36 hours should be allowed between dose increments to attain steady-state plasma concentrations of sotalol in patients with age-adjusted normal renal function.
+
+For children aged about 2 years or younger
+
+For children aged about 2 years or younger, the above pediatric dosage should be reduced by a factor that depends heavily upon age, as shown in the following graph, age plotted on a logarithmic scale in months.
+
+For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 X 0.97)=29.1 mg/m2, administered three times daily. For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68)=20 mg/m2, administered three times daily. For a child aged about 1 week, the initial starting dose should be multiplied by 0.3; the starting dose would be (30 X 0.3)=9 mg/m2. Similar calculations should be made for increased doses as titration proceeds. Since the half-life of sotalol decreases with decreasing age (below about 2 years), time to steady-state will also increase. Thus, in neonates the time to steady-state may be as long as a week or longer.
+
+In all children, individualization of dosage is required. As in adults Betapace AF (sotalol hydrochloride) should be used with particular caution in children if the QTc is greater than 500 msec on therapy and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
+
+The use of Betapace AF (sotalol hydrochloride) in children with renal impairment has not been investigated. Sotalol elimination is predominantly via the kidney in the unchanged form. Use of sotalol in any age group with decreased renal function should be at lower doses or at increased intervals between doses. Monitoring of heart rate and QTc is more important and it will take much longer to reach steady-state with any dose and/or frequency of administration.
+
+Transfer to Betapace AF from Betapace
+
+Patients with a history of symptomatic AFIB/AFL who are currently receiving Betapace for the maintenance of normal sinus should be transferred to Betapace AF because of the significant differences in labeling (i.e., patient package insert, dosing administration, and safety information).
+
+Transfer to Betapace AF from Other Antiarrhythmic Agents
+
+Before starting Betapace AF, previous antiarrhythmic therapy should generally be withdrawn under careful monitoring for a minimum of 2-3 plasma half-lives if the patient's clinical condition permits (see Drug Interactions). Treatment has been initiated in some patients receiving I.V. lidocaine without ill effect. After discontinuation of amiodarone, Betapace AF should not be initiated until the QT interval is normalized (see WARNINGS).
+
+Preparation of Extemporaneous Oral Solution
+
+Betapace AF Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
+
+1.Measure 120 mL of Simple Syrup 
+2.Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle. NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle. 
+3.Add five (5) Betapace AF 120 mg tablets to the bottle. These tablets are added intact; it is not necessary to crush the tablets. NOTE: The addition of the tablets can also be done first. The tablets can also be crushed if preferred. If the tablets are crushed, care should be taken to transfer the entire quantity of tablet powder into the bottle containing the syrup. 
+4.Shake the bottle to wet the entire surface of the tablets. If the tablets have been crushed, shake the bottle until the endpoint is achieved. 
+5.Allow the tablets to hydrate for approximately two hours. 
+6.After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated. NOTE: The tablets can be allowed to hydrate overnight to simplify the disintegration process. 
+
+The endpoint is achieved when a dispersion of fine particles in the syrup is obtained.
+
+This compounding procedure results in a solution containing 5 mg/mL of sotalol HCl. The fine solid particles are the water-insoluble inactive ingredients of the tablets.
+
+This extemporaneously prepared oral solution of sotalol HCl (with suspended inactive particles) must be shaken well prior to administration. This is to ensure that the amount of inactive solid particles per dose remains constant throughout the duration of use.
+
+Stability studies indicate that the suspension is stable when stored at controlled room temperature (15°-30°C/59°-86°F) and ambient humidity for three (3) months.
+
+

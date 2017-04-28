@@ -1,0 +1,105 @@
+Drug Label for drug brand Aggrenox, containing aspirin and dipyridamole.
+
+
+4 CONTRAINDICATIONS
+
+
+ <list>
+ <item>
+ <item>Hypersensitivity to any product ingredients (4.1)
+ <item>
+ <item>Patients with known allergy to NSAIDs (4.2)
+ <item>
+ <item>Patients with the syndrome of asthma, rhinitis, and nasal polyps (4.2)
+ <item>
+ </list>
+
+
+4.1 Hypersensitivity
+
+AGGRENOX is contraindicated in patients with known hypersensitivity to any of the product components.
+
+4.2 Allergy
+
+Aspirin is contraindicated in patients with known allergy to nonsteroidal anti-inflammatory drug products and in patients with the syndrome of asthma, rhinitis, and nasal polyps. Aspirin may cause severe urticaria, angioedema or bronchospasm.
+
+4.3 Reye Syndrome
+
+Do not use aspirin in children or teenagers with viral infections because of the risk of Reye syndrome.
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>AGGRENOX increases the risk of bleeding (5.1)
+ <item>
+ <item>Avoid use in patients with severe hepatic or renal insufficiency (5.2, 5.3)
+ <item>
+ <item>Can cause fetal harm when administered to a pregnant woman, especially in the third trimester (5.4)
+ <item>
+ </list>
+
+
+5.1 Risk of Bleeding
+
+AGGRENOX increases the risk of bleeding. Risk factors for bleeding include the use of other drugs that increase the risk of bleeding (e.g., anticoagulants, antiplatelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs) see Drug Interactions (7.1).
+Intracranial Hemorrhage. In ESPS2 the incidence of intracranial hemorrhage was 0.6% in the AGGRENOX group, 0.5% in the extended-release dipyridamole (ER-DP) group, 0.4% in the aspirin (ASA) group and 0.4% in the placebo groups.
+Gastrointestinal (GI) Side Effects. GI side effects include stomach pain, heartburn, nausea, vomiting, and gross GI bleeding. Although minor upper GI symptoms, such as dyspepsia, are common and can occur anytime during therapy, physicians should remain alert for signs of ulceration and bleeding, even in the absence of previous GI symptoms. Inform patients about the signs and symptoms of GI side effects and what steps to take if they occur.
+In ESPS2 the incidence of gastrointestinal bleeding was 4.1% in the AGGRENOX group, 2.2% in the extended-release dipyridamole group, 3.2% in the aspirin group, and 2.1% in the placebo groups.
+Peptic Ulcer Disease. Avoid using aspirin in patients with a history of active peptic ulcer disease, which can cause gastric mucosal irritation and bleeding.
+Alcohol Warning. Because AGGRENOX contains aspirin, counsel patients who consume three or more alcoholic drinks every day about the bleeding risks involved with chronic, heavy alcohol use while taking aspirin.
+
+5.2 Renal Failure
+
+Avoid aspirin in patients with severe renal failure (glomerular filtration rate less than 10 mL/minute) see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3).
+
+5.3 Hepatic Insufficiency
+
+Elevations of hepatic enzymes and hepatic failure have been reported in association with dipyridamole administration see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3).
+
+5.4 Pregnancy
+
+Because AGGRENOX contains aspirin, AGGRENOX can cause fetal harm when administered to a pregnant woman. Maternal aspirin use during later stages of pregnancy may cause low birth weight, increased incidence for intracranial hemorrhage in premature infants, stillbirths and neonatal death. Because of the above and because of the known effects of nonsteroidal anti-inflammatory drugs (NSAIDs) on the fetal cardiovascular system (closure of the ductus arteriosus), avoid AGGRENOX in the third trimester of pregnancy see Use in Specific Populations (8.1).
+Aspirin has been shown to be teratogenic in rats (spina bifida, exencephaly, microphthalmia and coelosomia) and rabbits (congested fetuses, agenesis of skull and upper jaw, generalized edema with malformation of the head, and diaphanous skin) at oral doses of 330 mg/kg/day and 110 mg/kg/day, respectively. These doses, which also resulted in a high resorption rate in rats (63% of implantations versus 5% in controls), are, on a mg/m2 basis, about 66 and 44 times, respectively, the dose of aspirin contained in the maximum recommended daily human dose of AGGRENOX. Reproduction studies with dipyridamole have been performed in mice, rabbits and rats at oral doses of up to 125 mg/kg, 40 mg/kg and 1000 mg/kg, respectively (about 1, 2 and 25 times the maximum recommended daily human oral dose, respectively, on a mg/m2 basis) and have revealed no evidence of harm to the fetus due to dipyridamole. When 330 mg aspirin/kg/day was combined with 75 mg dipyridamole/kg/day in the rat, the resorption rate approached 100%, indicating potentiation of aspirin-related fetal toxicity. There are no adequate and well-controlled studies of the use of AGGRENOX in pregnant women. If AGGRENOX is used during pregnancy, or if the patient becomes pregnant while taking AGGRENOX, inform the patient of the potential hazard to the fetus.
+
+5.5 Coronary Artery Disease
+
+Dipyridamole has a vasodilatory effect. Chest pain may be precipitated or aggravated in patients with underlying coronary artery disease who are receiving dipyridamole.
+For stroke or TIA patients for whom aspirin is indicated to prevent recurrent myocardial infarction (MI) or angina pectoris, the aspirin in this product may not provide adequate treatment for the cardiac indications.
+
+5.6 Hypotension
+
+Dipyridamole produces peripheral vasodilation, which can exacerbate pre-existing hypotension.
+
+5.7 General
+
+AGGRENOX capsules are not interchangeable with the individual components of aspirin and dipyridamole tablets.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Co-administration with anticoagulants, antiplatelets, or NSAIDS can increase risk of bleeding (7.1)
+ <item>
+ <item>Decreased renal function can occur with co-administration with NSAIDS (7.1)
+ <item>
+ </list>
+
+
+7.1 Drug Interaction Study Information Obtained From Literature
+
+Adenosine. Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine. Adjustment of adenosine dosage may be necessary.
+Angiotensin Converting Enzyme (ACE) Inhibitors. Due to the indirect effect of aspirin on the renin-angiotensin conversion pathway, the hyponatremic and hypotensive effects of ACE inhibitors may be diminished by concomitant administration of aspirin.
+Acetazolamide. Concurrent use of aspirin and acetazolamide can lead to high serum concentrations of acetazolamide (and toxicity) due to competition at the renal tubule for secretion.
+Anticoagulants and Antiplatelets. Patients taking AGGRENOX in combination with anticoagulants, antiplatelets, or any substance impacting coagulation are at increased risk for bleeding. Aspirin can displace warfarin from protein binding sites, leading to prolongation of both the prothrombin time and the bleeding time. Aspirin can increase the anticoagulant activity of heparin, increasing bleeding risk.
+Anticonvulsants. Salicylic acid can displace protein-bound phenytoin and valproic acid, leading to a decrease in the total concentration of phenytoin and an increase in serum valproic acid levels.
+Beta Blockers. The hypotensive effects of beta blockers may be diminished by the concomitant administration of aspirin due to inhibition of renal prostaglandins, leading to decreased renal blood flow and salt and fluid retention.
+Cholinesterase Inhibitors. Dipyridamole may counteract the anticholinesterase effect of cholinesterase inhibitors, thereby potentially aggravating myasthenia gravis.
+Diuretics. The effectiveness of diuretics in patients with underlying renal or cardiovascular disease may be diminished by the concomitant administration of aspirin due to inhibition of renal prostaglandins, leading to decreased renal blood flow and salt and fluid retention.
+Methotrexate. Salicylate can inhibit renal clearance of methotrexate, leading to bone marrow toxicity, especially in the elderly or renal impaired.
+Nonsteroidal Anti-Inflammatory Drugs (NSAIDs). The concurrent use of aspirin with other NSAIDs may increase bleeding or lead to decreased renal function.
+Oral Hypoglycemics. Moderate doses of aspirin may increase the effectiveness of oral hypoglycemic drugs, leading to hypoglycemia.
+Uricosuric Agents (probenecid and sulfinpyrazone). Salicylates antagonize the uricosuric action of uricosuric agents.
+

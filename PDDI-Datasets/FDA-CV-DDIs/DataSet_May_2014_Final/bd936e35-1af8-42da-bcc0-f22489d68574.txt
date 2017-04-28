@@ -1,0 +1,72 @@
+Drug Label for drug brand DIURIL, containing CHLOROTHIAZIDE.
+
+
+CONTRAINDICATIONS
+
+
+Anuria.
+Hypersensitivity to this product or to other sulfonamide-derived drugs.
+
+
+WARNINGS
+
+Use with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.
+Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+Thiazides may add to or potentiate the action of other antihypertensive drugs.
+Sensitivity reactions may occur in patients with or without a history of allergy or bronchial asthma.
+The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
+Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions).
+
+
+PRECAUTIONS
+
+
+
+
+General
+All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present or after prolonged therapy.
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmias and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability). Hypokalemia may be avoided or treated by use of potassium-sparing diuretics or potassium supplements such as foods with a high potassium content.
+Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+Dilutional hyponatremia may occur in edematous patients in hot weather, appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazides.
+In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required. Hyperglycemia may occur with thiazide diuretics. Thus latent diabetes mellitus may become manifest during thiazide therapy.
+The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
+If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
+Thiazides have been shown to increase the urinary excretion of magnesium, this may result in hypomagnesemia.
+Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
+Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
+Laboratory Tests
+Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be done at appropriate intervals.
+Drug Interactions
+When given concurrently the following drugs may interact with thiazide diuretics.
+Alcohol, barbiturates, or narcotics - potentiation of orthostatic hypotension may occur.
+Antidiabetic drugs (oral agents and insulin) - dosage adjustment of the antidiabetic drug may be required.
+Other antihypertensive drugs - additive effect or potentiation.
+Cholestyramine and colestipol resins - Both cholestyramine and colestipol resins have the potential of binding thiazide diuretics and reducing diuretic absorption from the gastrointestinal tract.
+Corticosteroids, ACTH - intensified electrolyte depletion, particularly hypokalemia.
+Pressor amines (e.g., norepinephrine) - possible decreased response to pressor amines but not sufficient to preclude their use.
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) - possible increased responsiveness to the muscle relaxant.
+Lithium - generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with DIURIL.
+Non-steroidal Anti-inflammatory Drugs Including Selective Cyclooxygenase-2 (COX-2) Inhibitors - In some patients, the administration of a non-steroidal anti-inflammatory agent including a selective COX-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when DIURIL and non-steroidal anti-inflammatory agents or selective COX-2 inhibitors are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+In some patients with compromised renal function (e.g., elderly patients or patients who are volume-depleted, including those on diuretic therapy) who are being treated with non-steroidal anti-inflammatory drugs, including selective COX-2 inhibitors, the co-administration of angiotensin II receptor antagonists or ACE inhibitors may result in a further deterioration of renal function, including possible acute renal failure. These effects are usually reversible.
+These interactions should be considered in patients taking NSAIDs including selective COX-2 inhibitors concomitantly with diuretics and angiotensin II antagonists or ACE inhibitors. Therefore, the combination should be administered with caution, especially in the elderly.
+Drug/Laboratory Test Interactions
+Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General).
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenicity studies have not been conducted with chlorothiazide.
+Chlorothiazide was not mutagenic in vitro in the Ames microbial mutagen test (using a maximum concentration of 5mg/plate and Salmonella typhimurium strains TA98 and TA100) and was not mutagenic and did not induce mitotic nondisjunction in diploid-strains of Aspergillus nidulans.
+Chlorothiazide had no adverse effects on fertility in female rats at doses up to 60mg/kg/day and no adverse effects on fertility in male rats at doses up to 40mg/kg/day. These doses are 1.5 and 1 times Calculations based on a human body weight of 50 kg the recommended maximum human dose, respectively, when compared on a body weight basis.
+
+Pregnancy
+
+Teratogenic Effects - Pregnancy Category C: Although reproduction studies performed with chlorothiazide doses of 50 mg/kg/day in rabbits, 60 mg/kg/day in rats and 500 mg/kg/day in mice revealed no external abnormalities of the fetus or impairment of growth and survival of the fetus due to chlorothiazide, such studies did not include complete examinations for visceral and skeletal abnormalities. It is not known whether chlorothiazide can cause fetal harm when administered to a pregnant woman, however, thiazides cross the placental barrier and appear in cord blood. DIURIL should be used during pregnancy only if clearly needed (see INDICATIONS AND USAGE).
+Nonteratogenic Effects: Chlorothiazide may cause fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions which have occurred in the adult.
+Nursing Mothers
+Because of the potential for serious adverse reactions in nursing infants from DIURIL, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Pediatric Use
+There are no well-controlled clinical trials in pediatric patients. Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients. (See DOSAGE AND ADMINISTRATION, Infants and Children.)
+Geriatric Use
+Clinical studies of DIURIL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS).
+

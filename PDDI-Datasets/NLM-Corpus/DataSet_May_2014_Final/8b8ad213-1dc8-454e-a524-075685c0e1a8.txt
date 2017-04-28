@@ -1,0 +1,124 @@
+BYSTOLIC (nebivolol hydrochloride) tablet 
+
+BYSTOLIC is indicated for the treatment of hypertension, to lower blood pressure [see Clinical Studies (14.1)]. BYSTOLIC may be used alone or in combination with other antihypertensive agents [see Drug Interactions (7)]. 
+
+2. DOSAGE AND ADMINISTRATION
+
+2.1 Hypertension
+
+The dose of BYSTOLIC must be individualized to the needs of the patient. For most patients, the recommended starting dose is 5 mg once daily, with or without food, as monotherapy or in combination with other agents. For patients requiring further reduction in blood pressure, the dose can be increased at 2-week intervals up to 40 mg. A more frequent dosing regimen is unlikely to be beneficial.
+
+Renal Impairment
+
+In patients with severe renal impairment (ClCr less than 30 mL/min) the recommended initial dose is 2.5 mg once daily; titrate up slowly if needed. BYSTOLIC has not been studied in patients receiving dialysis [see Clinical Pharmacology (12.4)].
+
+Hepatic Impairment
+
+In patients with moderate hepatic impairment, the recommended initial dose is 2.5 mg once daily; titrate up slowly if needed. BYSTOLIC has not been studied in patients with severe hepatic impairment and therefore it is not recommended in that population [see Clinical Pharmacology (12.4)].
+
+2.2 Subpopulations
+
+Geriatric Patients
+
+It is not necessary to adjust the dose in the elderly [see use in Specific Populations (8.5)].
+
+CYP2D6 Polymorphism
+
+No dose adjustments are necessary for patients who are CYP2D6 poor metabolizers. The clinical effect and safety profile observed in poor metabolizers were similar to those of extensive metabolizers [see Clinical Pharmacology (12.3)].
+
+5. WARNINGS AND PRECAUTIONS
+
+5.1 Abrupt Cessation of Therapy
+
+Do not abruptly discontinue BYSTOLIC therapy in patients with coronary artery disease. Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with β-blockers. Myocardial infarction and ventricular arrhythmias may occur with or without preceding exacerbation of the angina pectoris. Caution patients without overt coronary artery disease against interruption or abrupt discontinuation of therapy. As with other β-blockers, when discontinuation of BYSTOLIC is planned, carefully observe and advise patients to minimize physical activity. Taper BYSTOLIC over 1 to 2 weeks when possible. If the angina worsens or acute coronary insufficiency develops, re-start BYSTOLIC promptly, at least temporarily.
+
+5.2 Angina and Acute Myocardial Infarction
+
+BYSTOLIC was not studied in patients with angina pectoris or who had a recent MI.
+
+5.3 Bronchospastic Diseases
+
+In general, patients with bronchospastic diseases should not receive β-blockers.
+
+5.4 Anesthesia and Major Surgery
+
+Because beta-blocker withdrawal has been associated with an increased risk of MI and chest pain, patients already on beta-blockers should generally continue treatment throughout the perioperative period. If BYSTOLIC is to be continued perioperatively, monitor patients closely when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used. If β-blocking therapy is withdrawn prior to major surgery, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+The β-blocking effects of BYSTOLIC can be reversed by β-agonists, e.g., dobutamine or isoproterenol. However, such patients may be subject to protracted severe hypotension. Additionally, difficulty in restarting and maintaining the heartbeat has been reported with β-blockers.
+
+5.5 Diabetes and Hypoglycemia
+
+β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia. Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels. It is not known whether nebivolol has these effects. Advise patients subject to spontaneous hypoglycemia and diabetic patients receiving insulin or oral hypoglycemic agents about these possibilities.
+
+5.6 Thyrotoxicosis
+
+β-blockers may mask clinical signs of hyperthyroidism, such as tachycardia. Abrupt withdrawal of β-blockers may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate a thyroid storm.
+
+5.7 Peripheral Vascular Disease
+
+β-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease.
+
+5.8 Non-dihydropyridine Calcium Channel Blockers
+
+Because of significant negative inotropic and chronotropic effects in patients treated with β-blockers and calcium channel blockers of the verapamil and diltiazem type, monitor the ECG and blood pressure in patients treated concomitantly with these agents.
+
+5.9 Use with CYP2D6 Inhibitors
+
+Nebivolol exposure increases with inhibition of CYP2D6 [see Drug Interactions (7)]. The dose of BYSTOLIC may need to be reduced.
+
+5.10 Impaired Renal Function
+
+Renal clearance of nebivolol is decreased in patients with severe renal impairment. BYSTOLIC has not been studied in patients receiving dialysis [see Clinical Pharmacology (12.4) and Dosage and Administration (2.1)].
+
+5.11 Impaired Hepatic Function
+
+Metabolism of nebivolol is decreased in patients with moderate hepatic impairment. BYSTOLIC has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.4) and Dosage and Administration (2.1)].
+
+5.12 Risk of Anaphylactic Reactions
+
+While taking β-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
+
+7. Drug Interactions
+
+7.1 CYP2D6 Inhibitors
+
+Use caution when BYSTOLIC is co-administered with CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.) [see Clinical Pharmacology (12.5)].
+
+7.2 Hypotensive Agents
+
+Do not use BYSTOLIC with other β-blockers. Closely monitor patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, because the added β-blocking action of BYSTOLIC may produce excessive reduction of sympathetic activity. In patients who are receiving BYSTOLIC and clonidine, discontinue BYSTOLIC for several days before the gradual tapering of clonidine.
+
+7.3 Digitalis Glycosides
+
+Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+7.4 Calcium Channel Blockers
+
+BYSTOLIC can exacerbate the effects of myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide.
+
+Drugs that inhibit CYP2D6 can be expected to increase plasma levels of nebivolol. When BYSTOLIC is co-administered with an inhibitor or an inducer of this enzyme, monitor patients closely and adjust the nebivolol dose according to blood pressure response. In vitro studies have demonstrated that at therapeutically relevant concentrations, d- and l-nebivolol do not inhibit any cytochrome P450 pathways.
+
+Digoxin: Concomitant administration of BYSTOLIC (10 mg once daily) and digoxin (0.25 mg once daily) for 10 days in 14 healthy adult individuals resulted in no significant changes in the pharmacokinetics of digoxin or nebivolol [see Drug Interactions (7)].
+
+Warfarin: Administration of BYSTOLIC (10 mg once daily for 10 days) led to no significant changes in the pharmacokinetics of nebivolol or R- or S-warfarin following a single 10 mg dose of warfarin. Similarly, nebivolol has no significant effects on the anticoagulant activity of warfarin, as assessed by Prothrombin time and INR profiles from 0 to 144 hours after a single 10 mg warfarin dose in 12 healthy adult volunteers.
+
+Diuretics: No pharmacokinetic interactions were observed in healthy adults between nebivolol (10 mg daily for 10 days) and furosemide (40 mg single dose), hydrochlorothiazide (25 mg once daily for 10 days), or spironolactone (25 mg once daily for 10 days).
+
+Ramipril: Concomitant administration of BYSTOLIC (10 mg once daily) and ramipril (5 mg once daily) for 10 days in 15 healthy adult volunteers produced no pharmacokinetic interactions.
+
+Losartan: Concomitant administration of BYSTOLIC (10 mg single dose) and losartan (50 mg single dose) in 20 healthy adult volunteers did not result in pharmacokinetic interactions.
+
+Fluoxetine: Fluoxetine, a CYP2D6 inhibitor, administered at 20 mg per day for 21 days prior to a single 10 mg dose of nebivolol to 10 healthy adults, led to an 8-fold increase in the AUC and 3-fold increase in Cmax for d-nebivolol [see Drug Interactions (7)].
+
+Histamine-2 Receptor Antagonists: The pharmacokinetics of nebivolol (5 mg single dose) were not affected by the co-administration of ranitidine (150 mg twice daily). Cimetidine (400 mg twice daily) causes a 23% increase in the plasma levels of d-nebivolol.
+
+Charcoal: The pharmacokinetics of nebivolol (10 mg single dose) were not affected by repeated co-administration (4, 8, 12, 16, 22, 28, 36, and 48 hours after nebivolol administration) of activated charcoal (Actidose-Aqua®).
+
+Sildenafil: The co-administration of nebivolol and sildenafil decreased AUC and Cmax of sildenafil by 21 and 23% respectively. The effect on the Cmax and AUC for d-nebivolol was also small (< 20%). The effect on vital signs (e.g., pulse and blood pressure) was approximately the sum of the effects of sildenafil and nebivolol.
+
+Other Concomitant Medications: Utilizing population pharmacokinetic analyses, derived from hypertensive patients, the following drugs were observed not to have an effect on the pharmacokinetics of nebivolol: acetaminophen, acetylsalicylic acid, atorvastatin, esomeprazole, ibuprofen, levothyroxine sodium, metformin, sildenafil, simvastatin, or tocopherol.
+
+Protein Binding: No meaningful changes in the extent of in vitro binding of nebivolol to human plasma proteins were noted in the presence of high concentrations of diazepam, digoxin, diphenylhydantoin, enalapril, hydrochlorothiazide, imipramine, indomethacin, propranolol, sulfamethazine, tolbutamide, or warfarin. Additionally, nebivolol did not significantly alter the protein binding of the following drugs: diazepam, digoxin, diphenylhydantoin, hydrochlorothiazide, imipramine, or warfarin at their therapeutic concentrations.
+
+
+

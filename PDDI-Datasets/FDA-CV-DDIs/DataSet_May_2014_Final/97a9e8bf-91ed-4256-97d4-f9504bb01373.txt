@@ -1,0 +1,147 @@
+Drug Label for drug brand Aceon, containing perindopril erbumine.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue ACEON as soon as possible. (5.4)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.4)
+ <item>
+ </list>
+
+WARNING: FETAL TOXICITY
+See full prescribing information for complete boxed warning.
+
+
+4 CONTRAINDICATIONS
+
+ACEON (perindopril erbumine) is contraindicated in patients known to be hypersensitive (including angioedema) to this product or to any other ACE inhibitor. ACEON is also contraindicated in patients with hereditary or idiopathic angioedema.
+Do not co-administer aliskiren with ACEON in patients with diabetes see Drug Interactions (7.8).
+ <list>
+ <item>
+ <item>Angioedema related to previous treatment with an ACE inhibitor, or a history of hereditary or idiopathic angioedema (4.0, 5.1)
+ <item>
+ <item>Do not co-administer aliskiren with ACEON in patients with diabetes (4.0, 7.8)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Watch for anaphylactoid reactions, including angioedema (5.1)
+ <item>
+ <item>Monitor renal function during therapy (5.8)
+ <item>
+ <item>Assess for hypotension and hyperkalemia (5.2, 5.6)
+ <item>
+ </list>
+
+
+5.1 Anaphylactoid and Possibly Related Reactions
+
+Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including ACEON) may be subject to a variety of adverse events, some of them serious. Black patients receiving ACE inhibitors have a higher incidence of angioedema compared to nonblacks.
+Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis, or larynx has been reported in patients treated with ACE inhibitors, including ACEON (0.1% of patients treated with ACEON in U.S. clinical trials). Angioedema associated with involvement of the tongue, glottis or larynx may be fatal. In such cases, discontinue ACEON treatment immediately and observe until the swelling disappears. When involvement of the tongue, glottis, or larynx appears likely to cause airway obstruction, administer appropriate therapy, such as subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 mL), promptly.
+Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting), in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+5.2 Hypotension
+
+ACEON can cause symptomatic hypotension. ACEON has been associated with hypotension in 0.3% of uncomplicated hypertensive patients in U.S. placebo-controlled trials. Symptoms related to orthostatic hypotension were reported in another 0.8% of patients.
+Symptomatic hypotension is most likely to occur in patients who have been volume or salt-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea or vomiting see Dosage and Administration (2.1).
+ACE inhibitors may cause excessive hypotension, and may be associated with oliguria or azotemia, and rarely with acute renal failure and death. In patients with ischemic heart disease or cerebrovascular disease, an excessive fall in blood pressure could result in a myocardial infarction or a cerebrovascular accident.
+In patients at risk of excessive hypotension, ACEON therapy should be started under very close medical supervision. Patients should be followed closely for the first two weeks of treatment and whenever the dose of ACEON and/or diuretic is increased.
+If excessive hypotension occurs, the patient should be placed immediately in a supine position and, if necessary, treated with an intravenous infusion of physiological saline. ACEON treatment can usually be continued following restoration of volume and blood pressure.
+
+5.3 Neutropenia/Agranulocytosis
+
+ACE inhibitors have been associated with agranulocytosis and bone marrow depression, most frequently in patients with renal impairment, especially patients with a collagen vascular disease such as systemic lupus erythematosus or scleroderma.
+
+5.4 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected discontinue ACEON as soon as possible see Use in Specific Populations (8.1).
+
+5.5 Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. Renal function should be monitored periodically in patients receiving ACEON see Dosage and Administration (2.3), see Drug Interactions (7.8).
+In patients with severe congestive heart failure, where renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including ACEON, may be associated with oliguria, progressive azotemia, and, rarely, acute renal failure and death.
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine may occur, usually reversible upon discontinuation of the ACE inhibitor. In such patients, renal function should be monitored during the first few weeks of therapy.
+Some ACEON-treated patients have developed minor and transient increases in blood urea nitrogen and serum creatinine especially in those concomitantly treated with a diuretic.
+
+5.6 Hyperkalemia
+
+Elevations of serum potassium have been observed in some patients treated with ACE inhibitors, including ACEON. Most cases were isolated single values that did not appear clinically relevant and were rarely a cause for withdrawal. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus and the concomitant use of agents such as potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes see Drug Interactions (7.2).
+Serum potassium should be monitored periodically in patients receiving ACEON.
+
+5.7 Cough
+
+Presumably because of the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, generally resolving after discontinuation of therapy. Consider ACE inhibitor-induced cough in the differential diagnosis of cough.
+
+5.8 Hepatic Failure
+
+Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and sometimes death. The mechanism of this syndrome is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
+
+5.9 Surgery/Anesthesia
+
+In patients undergoing surgery or during anesthesia with agents that produce hypotension, ACEON may block angiotensin II formation that would otherwise occur secondary to compensatory renin release. Hypotension attributable to this mechanism can be corrected by volume expansion.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Diuretics: Excessive drop in blood pressure (7.1)
+ <item>
+ <item>Potassium-sparing diuretics/potassium supplements: Hyperkalemia (7.2)
+ <item>
+ <item>Lithium: Increase serum lithium levels, symptoms of lithium toxicity (7.3)
+ <item>
+ <item>Injectable gold: Nitritoid reactions (facial flushing, nausea, vomiting, and hypotension) (7.4)
+ <item>
+ <item>NSAID use may lead to increased risk of renal impairment and loss of antihypertensive effect (7.7)
+ <item>
+ <item>Dual inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia (7.8).
+ <item>
+ </list>
+
+
+7.1 Diuretics
+
+Patients on diuretics, and especially those started recently, may occasionally experience an excessive reduction of blood pressure after initiation of ACEON therapy. The possibility of hypotensive effects can be minimized by either decreasing the dose of or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with perindopril. If diuretic therapy cannot be altered, provide close medical supervision with the first dose of ACEON, for at least two hours and until blood pressure has stabilized for another hour see Warnings and Precautions (5.2).
+The rate and extent of perindopril absorption and elimination are not affected by concomitant diuretics. The bioavailability of perindoprilat was reduced by diuretics, however, and this was associated with a decrease in plasma ACE inhibition.
+
+7.2 Potassium Supplements and Potassium-Sparing Diuretics
+
+ACEON may increase serum potassium because of its potential to decrease aldosterone production. Use of potassium-sparing diuretics (spironolactone, amiloride, triamterene and others), potassium supplements or other drugs capable of increasing serum potassium (indomethacin, heparin, cyclosporine and others) can increase the risk of hyperkalemia. Therefore, if concomitant use of such agents is indicated, monitor the patient's serum potassium frequently.
+
+7.3 Lithium
+
+Increased serum lithium and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy. Frequent monitoring of serum lithium concentration is recommended. Use of a diuretic may further increase the risk of lithium toxicity.
+
+7.4 Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE Inhibitor therapy including ACEON.
+
+7.5 Digoxin
+
+A controlled pharmacokinetic study has shown no effect on plasma digoxin concentrations when coadministered with ACEON, but an effect of digoxin on the plasma concentration of perindopril/perindoprilat has not been excluded.
+
+7.6 Gentamicin
+
+Animal data have suggested the possibility of interaction between perindopril and gentamicin. However, this has not been investigated in human studies.
+
+7.7 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including perindopril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving perindopril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including perindopril, may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+7.8 Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on ACEON and other agents that affect the RAS.
+Do not co-administer aliskiren with ACEON in patients with diabetes. Avoid use of aliskiren with ACEON in patients with renal impairment (GFR 60 ml/min).
+

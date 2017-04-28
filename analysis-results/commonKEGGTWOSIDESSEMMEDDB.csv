@@ -1,0 +1,17 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB01595-http://bio2rdf.org/drugbank:DB00897    object:Triazolam precipitant: Nitrazepam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00363    object:Chlorpromazine precipitant: Clozapine 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00575    object:Clonidine precipitant: Chlorpromazine 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00951-http://bio2rdf.org/drugbank:DB00897    object:Isoniazid precipitant: Triazolam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB01068-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Clonazepam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00850    object:Diazepam precipitant: Perphenazine 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00951    object:Chlorpromazine precipitant: Isoniazid 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00690    object:Diazepam precipitant: Flurazepam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00363-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Clozapine 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB01233    object:Haloperidol precipitant: Metoclopramide 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00683    object:Diazepam precipitant: Midazolam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00850    object:Haloperidol precipitant: Perphenazine 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Diazepam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00829    object:Chlorpromazine precipitant: Diazepam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00829-http://bio2rdf.org/drugbank:DB00897    object:Diazepam precipitant: Triazolam 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Chlorpromazine 	Kegg Evidence: None 	Twosides Evidence: None 	SemMedDB Evidence: None 

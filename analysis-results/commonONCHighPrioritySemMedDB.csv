@@ -1,0 +1,13 @@
+drug pair    SemMedDB    ONCHighPriority
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00907    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB01100    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00907    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB01184    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB01035    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00502    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00908    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01035-http://bio2rdf.org/drugbank:DB00908    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB01100    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00454-http://bio2rdf.org/drugbank:DB00780    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB00477    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB01184    [(None, None)]    [(None, None)]

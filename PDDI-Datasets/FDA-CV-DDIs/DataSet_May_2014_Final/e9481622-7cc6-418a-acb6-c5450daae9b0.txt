@@ -1,0 +1,86 @@
+Drug Label for drug brand ELIQUIS, containing apixaban.
+
+
+WARNING: DISCONTINUING ELIQUIS IN PATIENTS WITHOUT ADEQUATE CONTINUOUS ANTICOAGULATION INCREASES RISK OF STROKE
+
+
+Discontinuing ELIQUIS places patients at an increased risk of thrombotic events. An increased rate of stroke was observed following discontinuation of ELIQUIS in clinical trials in patients with nonvalvular atrial fibrillation. If anticoagulation with ELIQUIS must be discontinued for a reason other than pathological bleeding, coverage with another anticoagulant should be strongly considered see Dosage and Administration (2.4) and Warnings and Precautions (5.1).
+WARNING: DISCONTINUING ELIQUIS IN PATIENTS WITHOUT ADEQUATE CONTINUOUS ANTICOAGULATION INCREASES RISK OF STROKE
+See full prescribing information for complete boxed warning.
+Discontinuing ELIQUIS places patients at an increased risk of thrombotic events. An increased rate of stroke was observed following discontinuation of ELIQUIS in clinical trials in patients with nonvalvular atrial fibrillation. If anticoagulation with ELIQUIS must be discontinued for a reason other than pathological bleeding, coverage with another anticoagulant should be strongly considered. (2.4, 5.1)
+
+
+4 CONTRAINDICATIONS
+
+ <paragraph>
+ <main>ELIQUIS is contraindicated in patients with the following conditions:
+ <item>
+ <item>Active pathological bleeding see Warnings and Precautions (5.2) and Adverse Reactions (6.1) 
+ <item>
+ <item>Severe hypersensitivity reaction to ELIQUIS (i.e., anaphylactic reactions) see Adverse Reactions (6.1) 
+ <item>
+ </paragraph>
+ <list>
+ <item>
+ <item>Active pathological bleeding (4)
+ <item>
+ <item>Severe hypersensitivity to ELIQUIS (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>ELIQUIS can cause serious, potentially fatal bleeding. Promptly evaluate signs and symptoms of blood loss. (5.2)
+ <item>
+ <item>Prosthetic heart valves: ELIQUIS use not recommended. (5.3)
+ <item>
+ </list>
+
+
+5.1 Increased Risk of Stroke with Discontinuation of ELIQUIS
+
+Discontinuing ELIQUIS in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in patients with nonvalvular atrial fibrillation. If ELIQUIS must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant see Dosage and Administration (2.3).
+
+5.2 Bleeding
+
+ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding see Dosage and Administration (2.2) and Adverse Reactions (6.1).
+Concomitant use of drugs affecting hemostasis increases the risk of bleeding. These include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitor, and nonsteroidal anti-inflammatory drugs (NSAIDs) see Drug Interactions (7.3).
+Patients should be made aware of signs and symptoms of blood loss and instructed to report them immediately or go to an emergency room. ELIQUIS should be discontinued in patients with active pathological hemorrhage.
+There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for about 24 hours after the last dose, i.e., for about two half-lives. A specific antidote for ELIQUIS is not available. Because of high plasma protein binding, apixaban is not expected to be dialyzable see Clinical Pharmacology (12.3). Protamine sulfate and vitamin K would not be expected to affect the anticoagulant activity of apixaban. There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban. There is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban. Use of procoagulant reversal agents such as prothrombin complex concentrate, activated prothrombin complex concentrate, or recombinant factor VIIa may be considered but has not been evaluated in clinical studies. Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration see Overdosage (10).
+
+5.3 Patients with Prosthetic Heart Valves
+
+The safety and efficacy of ELIQUIS has not been studied in patients with prosthetic heart valves. Therefore, use of ELIQUIS is not recommended in these patients.
+
+
+7 DRUG INTERACTIONS
+
+Apixaban is a substrate of both CYP3A4 and P-gp. Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding. Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke.
+ <list>
+ <item>
+ <item>Strong dual inhibitors of CYP3A4 and P-gp increase blood levels of apixaban: Reduce ELIQUIS dose to 2.5 mg or avoid concomitant use. (2.2, 7.1, 12.3)
+ <item>
+ <item>Simultaneous use of strong inducers of CYP3A4 and P-gp reduces blood levels of apixaban: Avoid concomitant use. (7.2, 12.3)
+ <item>
+ </list>
+
+
+7.1 Strong Dual Inhibitors of CYP3A4 and P-gp
+
+The dose of ELIQUIS should be decreased to 2.5 mg twice daily when it is coadministered with drugs that are strong dual inhibitors of CYP3A4 and P-gp, (e.g., ketoconazole, itraconazole, ritonavir, or clarithromycin) see Dosage and Administration (2.2) and Clinical Pharmacology (12.3).
+In patients already taking ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with strong dual inhibitors of both CYP3A4 and P-gp see Dosage and Administration (2.2) and Clinical Pharmacology (12.3).
+
+7.2 Strong Dual Inducers of CYP3A4 and P-gp
+
+Avoid concomitant use of ELIQUIS with strong dual inducers of CYP3A4 and P-gp (e.g., rifampin, carbamazepine, phenytoin, St. John's wort) because such drugs will decrease exposure to apixaban see Clinical Pharmacology (12.3).
+
+7.3 Anticoagulants and Antiplatelet Agents
+
+Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.
+APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo. The rate of ISTH major bleeding was 2.77%/year with apixaban versus 0.62%/year with placebo in patients receiving single antiplatelet therapy and was 5.91%/year with apixaban versus 2.50%/year with placebo in those receiving dual antiplatelet therapy.
+In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and the bleeding risk on warfarin from 2.7% per year to 4.6% per year. In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.
+

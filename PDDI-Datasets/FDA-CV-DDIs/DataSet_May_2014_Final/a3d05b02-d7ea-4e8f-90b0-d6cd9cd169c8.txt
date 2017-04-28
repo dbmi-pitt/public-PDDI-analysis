@@ -1,0 +1,40 @@
+
+DESCRIPTION SECTION
+
+
+Dianeal Low Calcium peritoneal dialysis solutions are sterile, nonpyrogenic solutions in UltraBag containers for intraperitoneal administration only. They contain no bacteriostatic or antimicrobial agents. UltraBag containers are designed with an integrated Y set and drain container for infusion and drainage of Dianeal Low Calcium when disconnection of the Y set from the transfer set during dwell is desired.
+Composition, calculated osmolarity, pH and ionic concentrations are shown in the following table.
+The plastic container tubing set is fabricated from polyvinyl chloride (PL 146 Plastic). Exposure to temperatures above 25 C/77 F during transport and storage will lead to minor losses in moisture content. Higher temperatures lead to greater losses. It is unlikely that these minor losses will lead to clinically significant changes within the expiration period. The amount of water that can permeate from inside the solution container into the overpouch is insufficient to affect the solution significantly. Solutions in contact with the plastic container may leach out certain chemical components from the plastic in very small amounts, however, biological testing was supportive of the safety of the plastic container materials.
+Sodium Lactate Structural Formula
+Dextrose Hydrous Structural Formula
+
+INDICATIONS  -  USAGE SECTION
+
+Dianeal Low Calcium peritoneal dialysis solutions in UltraBag containers are indicated for use in chronic renal failure patients being maintained on continuous ambulatory peritoneal dialysis when nondialytic medical therapy is judged to be inadequate.
+
+CONTRAINDICATIONS SECTION
+
+None known.
+
+PRECAUTIONS SECTION
+
+Do not administer unless solution is clear.
+Aseptic technique must be used throughout the procedure and at its termination in order to reduce the possibility of infection.
+Significant losses of protein, amino acids and water soluble vitamins may occur during peritoneal dialysis. Replacement therapy should be provided as necessary.
+When prescribing the solution to be used for an individual patient, consideration should be given to the potential interaction between the dialysis treatment and therapy directed at other existing illnesses. For example, rapid potassium removal may create arrhythmias in cardiac patients using digitalis or similar drugs, digitalis toxicity may be masked by elevated potassium or magnesium, or by hypocalcemia. Correction of electrolytes by dialysis may precipitate signs and symptoms of digitalis excess. Conversely, toxicity may occur at suboptimal dosages of digitalis if potassium is low or calcium high. Azotemic diabetics require careful monitoring of insulin requirements during and following dialysis with dextrose containing solutions.
+Serum electrolytes, magnesium, bicarbonate levels and fluid balance should be periodically monitored.
+Studies to evaluate the carcinogenic or mutagenic potential of this product, or its potential to affect fertility adversely, have not been performed.
+Animal reproduction studies have not been conducted with Dianeal Low Calcium peritoneal dialysis solution. It is also not known whether Dianeal Low Calcium peritoneal dialysis solution can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Dianeal Low Calcium peritoneal dialysis solution should be given to a pregnant woman only if clearly needed.
+Caution should be exercised when Dianeal Low Calcium peritoneal dialysis solution is administered to a nursing woman.
+Safety and effectiveness in children have not been established.
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+Dianeal Low Calcium solutions are intended for intraperitoneal administration only.
+It is recommended that adult patients being placed on continuous ambulatory peritoneal dialysis should be appropriately trained in a program which is under supervision of a physician. Training materials are available from Baxter Healthcare Corporation, Deerfield, IL, 60015 USA to facilitate this training.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+The frequency of treatment, formulation, exchange volume, duration of dwell, and length of dialysis should be selected by the physician responsible for and supervising the treatment of the individual patient.
+To avoid the risk of severe dehydration and hypovolemia and to minimize the loss of protein, it is advisable to select the peritoneal dialysis solution with the lowest level of osmolarity consistent with the fluid removal requirements for that exchange.
+Heating the dialysis solution to 37 C (98.6 F) may decrease discomfort.
+Additives may be incompatible. Do not store solution containing additives.
+Approximately two liters of dialysis solution are instilled into the peritoneal cavity of adults and the peritoneal access device is then clamped. The solution remains in the cavity for dwell times of 4 to 8 hours during the day and 8 to 12 hours overnight. At the conclusion of each dwell period, the access device is opened, the solution drained and fresh solution instilled. The procedure is repeated 3 to 5 times per day, 6 to 7 days per week. Solution exchange frequency should be individualized for adequate biochemical and fluid volume control. The majority of exchanges will utilize 1.5% or 2.5% dextrose containing peritoneal dialysis solutions, with 4.25% dextrose containing solutions being used when extra fluid removal is required. Patient weight is used as the indicator of the need for fluid removal.

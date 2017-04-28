@@ -1,0 +1,103 @@
+INSPRA (eplerenone) tablet, film coated 
+
+2 DOSAGE AND ADMINISTRATION
+
+2.1 Congestive Heart Failure Post-Myocardial Infarction
+
+Treatment should be initiated at 25 mg once daily and titrated to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. INSPRA may be administered with or without food. 
+
+2.2 Hypertension
+
+The recommended starting dose of INSPRA is 50 mg administered once daily. The full therapeutic effect of INSPRA is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily the dosage of INSPRA should be increased to 50 mg twice daily. Higher dosages of INSPRA are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia. [See CLINICAL STUDIES (14.2).]
+
+2.3 Recommended Monitoring
+
+Serum potassium should be measured before initiating INSPRA therapy, within the first week, and at one month after the start of treatment or dose adjustment. Serum potassium should be assessed periodically thereafter. Patient characteristics and serum potassium levels may indicate that additional monitoring is appropriate. [See WARNINGS AND PRECAUTIONS (5.1), ADVERSE REACTIONS (6.2).] In the EPHESUS study [See CLINICAL STUDIES (14.1)], the majority of hyperkalemia was observed within the first three months after randomization.
+
+In all patients taking INSPRA who start taking a moderate CYP3A4 inhibitor, check serum potassium and serum creatinine in 3–7 days.
+
+2.4 Dose Modifications for Specific Populations
+
+For hypertensive patients receiving moderate CYP3A4 inhibitors (e.g., erythromycin, saquinavir, verapamil, and fluconazole), the starting dose of INSPRA should be reduced to 25 mg once daily. [See DRUG INTERACTIONS (7.1).]
+
+No adjustment of the starting dose is recommended for the elderly or for patients with mild-to-moderate hepatic impairment. [See CLINICAL PHARMACOLOGY (12.3).]
+
+4 CONTRAINDICATIONS
+
+For All Patients
+
+INSPRA is contraindicated in all patients with:
+- serum potassium >5.5 mEq/L at initiation,
+- creatinine clearance ≤30 mL/min, or
+- concomitant administration of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, and nelfinavir). [See DRUG INTERACTIONS (7.1), CLINICAL PHARMACOLOGY (12.3).]
+
+For Patients Treated for Hypertension
+
+INSPRA is contraindicated for the treatment of hypertension in patients with:
+
+    type 2 diabetes with microalbuminuria,
+    serum creatinine >2.0 mg/dL in males or >1.8 mg/dL in females,
+    creatinine clearance <50 mL/min, or
+    concomitant administration of potassium supplements or potassium-sparing diuretics (e.g., amiloride, spironolactone, or triamterene). [See WARNINGS AND PRECAUTIONS (5.1), ADVERSE REACTIONS (6.2), DRUG INTERACTIONS (7), and CLINICAL PHARMACOLOGY (12.3).]
+
+4 CONTRAINDICATIONS
+
+For All Patients
+
+INSPRA is contraindicated in all patients with:
+
+    serum potassium >5.5 mEq/L at initiation,
+    creatinine clearance ≤30 mL/min, or
+    concomitant administration of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, and nelfinavir). [See DRUG INTERACTIONS (7.1), CLINICAL PHARMACOLOGY (12.3).]
+
+For Patients Treated for Hypertension
+
+INSPRA is contraindicated for the treatment of hypertension in patients with:
+
+    type 2 diabetes with microalbuminuria,
+    serum creatinine >2.0 mg/dL in males or >1.8 mg/dL in females,
+    creatinine clearance <50 mL/min, or
+    concomitant administration of potassium supplements or potassium-sparing diuretics (e.g., amiloride, spironolactone, or triamterene). [See WARNINGS AND PRECAUTIONS (5.1), ADVERSE REACTIONS (6.2), DRUG INTERACTIONS (7), and CLINICAL PHARMACOLOGY (12.3).]
+
+7 DRUG INTERACTIONS
+
+7.1 CYP3A4 Inhibitors
+
+Because eplerenone metabolism is predominantly mediated via CYP3A4, do not use INSPRA with drugs that are strong inhibitors of CYP3A4. [See CONTRAINDICATIONS (4) and CLINICAL PHARMACOLOGY (12.3).]
+
+In patients with hypertension taking moderate CYP3A4 inhibitors, reduce the starting dose of INSPRA to 25 mg once daily. [See DOSAGE AND ADMINISTRATION (2.3, 2.4) and CLINICAL PHARMACOLOGY (12.3).]
+
+7.2 ACE Inhibitors and Angiotensin II Receptor Antagonists
+
+Congestive Heart Failure Post-Myocardial Infarction
+
+In EPHESUS [see CLINICAL STUDIES (14.1)], 3020 (91%) patients receiving INSPRA 25 to 50 mg also received ACE inhibitors or angiotensin II receptor antagonists (ACEI/ARB). Rates of patients with maximum potassium levels >5.5 mEq/L were similar regardless of the use of ACEI/ARB.
+
+Hypertension
+
+In clinical studies of patients with hypertension, the addition of INSPRA 50 to 100 mg to ACE inhibitors and angiotensin II receptor antagonists increased mean serum potassium slightly (about 0.09–0.13 mEq/L). In a study in diabetics with microalbuminuria, INSPRA 200 mg combined with the ACE inhibitor enalapril 10 mg increased the frequency of hyperkalemia (serum potassium >5.5 mEq/L) from 17% on enalapril alone to 38%.
+
+7.3 Lithium
+
+A drug interaction study of eplerenone with lithium has not been conducted. Lithium toxicity has been reported in patients receiving lithium concomitantly with diuretics and ACE inhibitors. Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.
+
+7.4 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+
+A drug interaction study of eplerenone with an NSAID has not been conducted. The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function. Therefore, when INSPRA and NSAIDs are used concomitantly, patients should be observed to determine whether the desired effect on blood pressure is obtained and monitored for changes in serum potassium levels.
+
+Eplerenone is metabolized primarily by CYP3A4. Inhibitors of CYP3A4 cause increased exposure [see DRUG INTERACTIONS (7.1)].
+
+Drug-drug interaction studies were conducted with a 100 mg dose of eplerenone.
+
+A pharmacokinetic study evaluating the administration of a single dose of INSPRA 100 mg with ketoconazole 200 mg two times a day, a strong inhibitor of the CYP3A4 pathway, showed a 1.7-fold increase in Cmax of eplerenone and a 5.4-fold increase in AUC of eplerenone.
+
+Administration of eplerenone with moderate CYP3A4 inhibitors (e.g., erythromycin 500 mg BID, verapamil 240 mg once daily, saquinavir 1200 mg three times a day, fluconazole 200 mg once daily) resulted in increases in Cmax of eplerenone ranging from 1.4- to 1.6-fold and AUC from 2.0- to 2.9-fold.
+
+Grapefruit juice caused only a small increase (about 25%) in exposure.
+
+Eplerenone is not an inhibitor of CYP1A2, CYP3A4, CYP2C19, CYP2C9, or CYP2D6. Eplerenone did not inhibit the metabolism of amiodarone, amlodipine, astemizole, chlorzoxazone, cisapride, dexamethasone, dextromethorphan, diclofenac, 17α-ethinyl estradiol, fluoxetine, losartan, lovastatin, mephobarbital, methylphenidate, methylprednisolone, metoprolol, midazolam, nifedipine, phenacetin, phenytoin, simvastatin, tolbutamide, triazolam, verapamil, and warfarin in vitro. Eplerenone is not a substrate or an inhibitor of P-Glycoprotein at clinically relevant doses.
+
+No clinically significant drug-drug pharmacokinetic interactions were observed when eplerenone was administered with cisapride, cyclosporine, digoxin, glyburide, midazolam, oral contraceptives (norethindrone/ethinyl estradiol), simvastatin, or warfarin. St. John's Wort (a CYP3A4 inducer) caused a small (about 30%) decrease in eplerenone AUC.
+
+No significant changes in eplerenone pharmacokinetics were observed when eplerenone was administered with aluminum- and magnesium-containing antacids.
+

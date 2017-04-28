@@ -1,0 +1,107 @@
+FLOLAN (epoprostenol sodium) injection, powder, lyophilized, for solution
+DILUENT (water) solution
+[GlaxoSmithKline LLC] 
+
+FLOLAN (epoprostenol sodium) for Injection is a sterile sodium salt formulated for intravenous (IV) administration. Each vial of FLOLAN contains epoprostenol sodium equivalent to either 0.5 mg (500,000 ng) or 1.5 mg (1,500,000 ng) epoprostenol, 3.76 mg glycine, 2.93 mg sodium chloride, and 50 mg mannitol. Sodium hydroxide may have been added to adjust pH.
+
+CONTRAINDICATIONS
+
+A large study evaluating the effect of FLOLAN on survival in NYHA Class III and IV patients with congestive heart failure due to severe left ventricular systolic dysfunction was terminated after an interim analysis of 471 patients revealed a higher mortality in patients receiving FLOLAN plus conventional therapy than in those receiving conventional therapy alone. The chronic use of FLOLAN in patients with congestive heart failure due to severe left ventricular systolic dysfunction is therefore contraindicated.
+
+Some patients with pulmonary hypertension have developed pulmonary edema during dose initiation, which may be associated with pulmonary veno-occlusive disease. FLOLAN should not be used chronically in patients who develop pulmonary edema during dose initiation.
+
+FLOLAN is also contraindicated in patients with known hypersensitivity to the drug or to structurally related compounds.
+
+WARNINGS
+
+FLOLAN must be reconstituted only as directed using STERILE DILUENT for FLOLAN. FLOLAN must not be reconstituted or mixed with any other parenteral medications or solutions prior to or during administration.
+
+Abrupt Withdrawal
+
+Abrupt withdrawal (including interruptions in drug delivery) or sudden large reductions in dosage of FLOLAN may result in symptoms associated with rebound pulmonary hypertension, including dyspnea, dizziness, and asthenia. In clinical trials, one Class III patient's death was judged attributable to the interruption of FLOLAN. Avoid abrupt withdrawal.
+
+Sepsis
+
+See ADVERSE REACTIONS: Adverse Events Attributable to the Drug Delivery System.
+
+PRECAUTIONS
+
+General
+
+FLOLAN should be used only by clinicians experienced in the diagnosis and treatment of pulmonary hypertension. Carefully establish the diagnosis of idiopathic or heritable PAH or PAH/CTD.
+
+FLOLAN is a potent pulmonary and systemic vasodilator. Initiate FLOLAN in a setting with adequate personnel and equipment for physiologic monitoring and emergency care. Dose initiation has been performed during right heart catheterization and without cardiac catheterization. During dose initiation, asymptomatic increases in pulmonary artery pressure coincident with increases in cardiac output occurred rarely. In such cases, consider dose reduction, but such an increase does not imply that chronic treatment is contraindicated.
+
+FLOLAN is a potent inhibitor of platelet aggregation. Therefore, expect an increased risk for hemorrhagic complications, particularly for patients with other risk factors for bleeding (see PRECAUTIONS: Drug Interactions).
+
+During chronic use, deliver FLOLAN continuously on an ambulatory basis through a permanent indwelling central venous catheter. Unless contraindicated, administer anticoagulant therapy to patients receiving FLOLAN to reduce the risk of pulmonary thromboembolism or systemic embolism through a patent foramen ovale. To reduce the risk of infection, use aseptic technique in the reconstitution and administration of FLOLAN and in routine catheter care. Because FLOLAN is metabolized rapidly, even brief interruptions in the delivery of FLOLAN may result in symptoms associated with rebound pulmonary hypertension including dyspnea, dizziness, and asthenia. Intravenous therapy with FLOLAN will likely be needed for prolonged periods, possibly years, so consider the patient's ability to accept and care for a permanent intravenous catheter and infusion pump.
+
+Based on clinical trials, the acute hemodynamic response to FLOLAN did not correlate well with improvement in exercise tolerance or survival during chronic use of FLOLAN. Adjust dosage of FLOLAN during chronic use at the first sign of recurrence or worsening of symptoms attributable to pulmonary hypertension or the occurrence of adverse events associated with FLOLAN (see DOSAGE AND ADMINISTRATION).  Following dosage adjustments, monitor standing and supine blood pressure and heart rate closely for several hours.
+
+Information for Patients
+
+Patients receiving FLOLAN should receive the following information. FLOLAN must be reconstituted only with STERILE DILUENT for FLOLAN. FLOLAN is infused continuously through a permanent indwelling central venous catheter via a small, portable infusion pump. Thus, therapy with FLOLAN requires commitment by the patient to drug reconstitution, drug administration, and care of the permanent central venous catheter. Patients must adhere to sterile technique in preparing the drug and in the care of the catheter, and even brief interruptions in the delivery of FLOLAN may result in rapid symptomatic deterioration. A patient’s decision to receive FLOLAN should be based upon the understanding that there is a high likelihood that therapy with FLOLAN will be needed for prolonged periods, possibly years. The patient's ability to accept and care for a permanent intravenous catheter and infusion pump should also be carefully considered.
+
+Drug Interactions
+
+Additional reductions in blood pressure may occur when FLOLAN is administered with diuretics, antihypertensive agents, or other vasodilators. When other antiplatelet agents or anticoagulants are used concomitantly, there is the potential for FLOLAN to increase the risk of bleeding. However, patients receiving infusions of FLOLAN in clinical trials were maintained on anticoagulants without evidence of increased bleeding. In clinical trials, FLOLAN was used with digoxin, diuretics, anticoagulants, oral vasodilators, and supplemental oxygen.
+
+In a pharmacokinetic substudy in patients with congestive heart failure receiving furosemide or digoxin in whom therapy with FLOLAN was initiated, apparent oral clearance values for furosemide (n = 23) and digoxin (n = 30) were decreased by 13% and 15%, respectively, on the second day of therapy and had returned to baseline values by day 87. The change in furosemide clearance value is not likely to be clinically significant. However, patients on digoxin may show elevations of digoxin concentrations after initiation of therapy with FLOLAN, which may be clinically significant in patients prone to digoxin toxicity.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies in animals have not been performed to evaluate carcinogenic potential. A micronucleus test in rats revealed no evidence of mutagenicity. The Ames test and DNA elution tests were also negative, although the instability of epoprostenol makes the significance of these tests uncertain. Fertility was not impaired in rats given FLOLAN by subcutaneous injection at doses up to 100 mcg/kg/day (600 mcg/m2/day, 2.5 times the recommended human dose [4.6 ng/kg/min or 245.1 mcg/m2/day, IV] based on body surface area).
+
+Pregnancy
+
+Pregnancy Category B. Reproductive studies have been performed in pregnant rats and rabbits at doses up to 100 mcg/kg/day (600 mcg/m2/day in rats, 2.5 times the recommended human dose, and 1,180 mcg/m2/day in rabbits, 4.8 times the recommended human dose based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to FLOLAN. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+Labor and Delivery
+
+The use of FLOLAN during labor, vaginal delivery, or cesarean section has not been adequately studied in humans.
+
+Nursing Mothers
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when FLOLAN is administered to a nursing woman.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of FLOLAN in pulmonary hypertension did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+DOSAGE AND ADMINISTRATION
+
+Important Note
+
+FLOLAN must be reconstituted only with STERILE DILUENT for FLOLAN. Do not dilute reconstituted solutions of FLOLAN or administer with other parenteral solutions or medications (see WARNINGS).
+
+Dosage
+
+Administer continuous chronic infusion of FLOLAN through a central venous catheter. Temporary peripheral intravenous infusion may be used until central access is established. Initiate chronic infusion of FLOLAN at 2 ng/kg/min and increase in increments of 2 ng/kg/min every 15 minutes or longer until dose-limiting pharmacologic effects are elicited or until a tolerance limit to the drug is established or further increases in the infusion rate are not clinically warranted (see Dosage Adjustments). If dose-limiting pharmacologic effects occur, then decrease the infusion rate until FLOLAN is tolerated. In clinical trials, the most common dose-limiting adverse events were nausea, vomiting, hypotension, sepsis, headache, abdominal pain, or respiratory disorder (most treatment-limiting adverse events were not serious). If the initial infusion rate of 2 ng/kg/min is not tolerated, identify a lower dose that is tolerated by the patient.
+
+In the controlled 12-week trial in PAH/SSD, for example, the dose increased from a mean starting dose of 2.2 ng/kg/min. During the first 7 days of treatment, the dose was increased daily to a mean dose of 4.1 ng/kg/min on day 7 of treatment. At the end of week 12, the mean dose was 11.2 ng/kg/min. The mean incremental increase was 2 to 3 ng/kg/min every 3 weeks.
+
+Dosage Adjustments
+
+Base changes in the chronic infusion rate on persistence, recurrence, or worsening of the patient's symptoms of pulmonary hypertension and the occurrence of adverse events due to excessive doses of FLOLAN. In general, expect increases in dose from the initial chronic dose.
+
+Consider increments in dose if symptoms of PAH persist or recur. Increase the infusion by 1- to 2-ng/kg/min increments at intervals sufficient to allow assessment of clinical response; these intervals should be at least 15 minutes. In clinical trials, incremental increases in dose occurred at intervals of 24 to 48 hours or longer. Following establishment of a new chronic infusion rate, observe the patient, and monitor standing and supine blood pressure and heart rate for several hours to ensure that the new dose is tolerated.
+
+During chronic infusion, the occurrence of dose-limiting pharmacological events may necessitate a decrease in infusion rate, but the adverse event may occasionally resolve without dosage adjustment. Make dosage decreases gradually in 2-ng/kg/min decrements every 15 minutes or longer until the dose-limiting effects resolve. Avoid abrupt withdrawal of FLOLAN or sudden large reductions in infusion rates. Except in life-threatening situations (e.g., unconsciousness, collapse, etc.), adjust infusion rates of FLOLAN only under the direction of a physician.
+
+In patients receiving lung transplants, doses of FLOLAN were tapered after the initiation of cardiopulmonary bypass.
+
+Administration
+
+FLOLAN is administered by continuous intravenous infusion via a central venous catheter using an ambulatory infusion pump. During initiation of treatment, FLOLAN may be administered peripherally.
+
+The ambulatory infusion pump used to administer FLOLAN should: (1) be small and lightweight, (2) be able to adjust infusion rates in 2-ng/kg/min increments, (3) have occlusion, end-of-infusion, and low-battery alarms, (4) be accurate to ±6% of the programmed rate, and (5) be positive pressure-driven (continuous or pulsatile) with intervals between pulses not exceeding 3 minutes at infusion rates used to deliver FLOLAN. The reservoir should be made of polyvinyl chloride, polypropylene, or glass. The infusion pump used in the most recent clinical trials was the CADD-1 HFX 5100 (SIMS Deltec). A 60-inch microbore non-DEHP extension set with proximal antisyphon valve, low priming volume (0.9 mL), and in-line 0.22 micron filter was used during clinical trials.
+
+To avoid interruptions in drug delivery, the patient should have access to a backup infusion pump and intravenous infusion sets. Consider a multi-lumen catheter if other intravenous therapies are routinely administered.
+
+To facilitate extended use at ambient temperatures exceeding 25°C (77°F), a cold pouch with frozen gel packs was used in clinical trials (see DOSAGE AND ADMINISTRATION: Storage and Stability). The cold pouches and gel packs used in clinical trials were obtained from Palco Labs, Palo Alto, California. Any cold pouch used must be capable of maintaining the temperature of reconstituted FLOLAN between 2° and 8°C for 12 hours.
+
+

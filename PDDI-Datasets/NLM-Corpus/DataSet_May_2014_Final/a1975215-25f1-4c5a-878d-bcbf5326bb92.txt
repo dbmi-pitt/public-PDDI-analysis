@@ -1,0 +1,46 @@
+Drug Label for drug brand AMINOHIPPURATE SODIUMPAH, containing aminohippurate sodium.
+
+
+CONTRAINDICATIONS
+
+
+Hypersensitivity to this product or to its components.
+
+
+PRECAUTIONS
+
+
+General
+
+Intravenous solutions must be given with caution to patients with low cardiac reserve, since a rapid increase in plasma volume can precipitate congestive heart failure.
+For measurement of ERPF, small doses of PAH are used. However, in research procedures to measure TmPAH, high plasma levels are required to saturate the capacity of the tubular cells. During these procedures, the intravenous administration of PAH solutions should be carried out slowly and with caution. The patient should be continuously observed for any adverse reactions.
+Use caution when injecting this product into latex-sensitive individuals, since the vial stopper contains dry natural latex rubber that may cause allergic reactions.
+
+Drug Interactions
+
+Renal clearance measurements of PAH cannot be made with any significant accuracy in patients receiving sulfonamides, procaine, or thiazolesulfone. These compounds interfere with chemical color development essential to the analytical procedures.
+Probenecid depresses tubular secretion of certain weak acids such as PAH. Therefore, patients receiving probenecid will have erroneously low ERPF and TmPAH values.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies in animals have not been done to evaluate any effects upon fertility or carcinogenic potential of PAH.
+
+Pregnancy
+
+
+Pregnancy Category C
+
+Animal reproduction studies have not been done with PAH. It is also not known whether PAH can cause fetal harm when given to a pregnant woman or can affect reproduction capacity. PAH should be given to a pregnant woman only if clearly needed.
+
+Nursing Mothers
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when PAH is administered to a nursing woman.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of PAH did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+

@@ -1,0 +1,59 @@
+DESCRIPTION
+
+TIKOSYN (dofetilide) is an antiarrhythmic drug with Class III (cardiac action potential duration prolonging) properties. Its empirical formula is C19H27N3O5S2 and it has a molecular weight of 441.6.
+
+Drug-Drug Interactions
+
+Dose-Response and Concentration Response for Increase in QT Interval
+
+Because there is a linear relationship between dofetilide plasma concentration and QTc, concomitant drugs that interfere with the metabolism or renal elimination of dofetilide may increase the risk of arrhythmia (Torsade de Pointes). TIKOSYN is metabolized to a small degree by the CYP3A4 isoenzyme of the cytochrome P450 system and an inhibitor of this system could increase systemic dofetilide exposure. More important, dofetilide is eliminated by cationic renal secretion, and three inhibitors of this process have been shown to increase systemic dofetilide exposure. The magnitude of the effect on renal elimination by cimetidine, trimethoprim, and ketoconazole (all contraindicated concomitant uses with dofetilide) suggests that all renal cation transport inhibitors should be contraindicated.
+
+Hypokalemia and Potassium-Depleting Diuretics
+
+Hypokalemia or hypomagnesemia may occur with administration of potassium-depleting diuretics, increasing the potential for Torsade de Pointes. Potassium levels should be within the normal range prior to administration of TIKOSYN and maintained in the normal range during administration of TIKOSYN (see DOSAGE AND ADMINISTRATION).
+
+Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
+
+The use of TIKOSYN in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended. Such drugs include phenothiazines, cisapride, bepridil, tricyclic antidepressants, certain oral macrolides, and certain fluoroquinolones. Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with TIKOSYN. In clinical trials, TIKOSYN was administered to patients previously treated with oral amiodarone only if serum amiodarone levels were below 0.3 mg/L or amiodarone had been withdrawn for at least three months.
+
+Drug-Drug Interactions
+
+Cimetidine
+
+(see WARNINGS, CONTRAINDICATIONS) Concomitant use of cimetidine is contraindicated. Cimetidine at 400 mg BID (the usual prescription dose) co-administered with TIKOSYN (500 mcg BID) for 7 days has been shown to increase dofetilide plasma levels by 58%. Cimetidine at doses of 100 mg BID (OTC dose) resulted in a 13% increase in dofetilide plasma levels (500 mcg single dose). No studies have been conducted at intermediate doses of cimetidine. If a patient requires TIKOSYN and anti-ulcer therapy, it is suggested that omeprazole, ranitidine, or antacids (aluminum and magnesium hydroxides) be used as alternatives to cimetidine, as these agents have no effect on the pharmacokinetic profile of TIKOSYN.
+
+Verapamil
+
+(see CONTRAINDICATIONS) Concomitant use of verapamil is contraindicated. Co-administration of TIKOSYN with verapamil resulted in increases in dofetilide peak plasma levels of 42%, although overall exposure to dofetilide was not significantly increased. In an analysis of the supraventricular arrhythmia and DIAMOND patient populations, the concomitant administration of verapamil with dofetilide was associated with a higher occurrence of Torsade de Pointes.
+
+Ketoconazole
+
+(see WARNINGS, CONTRAINDICATIONS) Concomitant use of ketoconazole is contraindicated. Ketoconazole at 400 mg daily (the maximum approved prescription dose) co-administered with TIKOSYN (500 mcg BID) for 7 days has been shown to increase dofetilide Cmax by 53% in males and 97% in females, and AUC by 41% in males and 69% in females.
+
+Trimethoprim Alone or in Combination with Sulfamethoxazole
+
+(see WARNINGS, CONTRAINDICATIONS) Concomitant use of trimethoprim alone or in combination with sulfamethoxazole is contraindicated. Trimethoprim 160 mg in combination with 800 mg sulfamethoxazole co-administered BID with TIKOSYN (500 mcg BID) for 4 days has been shown to increase dofetilide AUC by 103% and Cmax by 93%.
+
+Hydrochlorothiazide (HCTZ) Alone or in Combination with Triamterene
+
+(see CONTRAINDICATIONS) Concomitant use of HCTZ alone or in combination with triamterene is contraindicated. HCTZ 50 mg QD or HCTZ/triamterene 50/100 mg QD was co-administered with TIKOSYN (500 mcg BID) for 5 days (following 2 days of diuretic use at half dose). In patients receiving HCTZ alone, dofetilide AUC increased by 27% and Cmax by 21%. However, the pharmacodynamic effect increased by 197% (QTc increase over time) and by 95% (maximum QTc increase). In patients receiving HCTZ in combination with triamterene, dofetilide AUC increased by 30% and Cmax by 16%. However, the pharmacodynamic effect increased by 190% (QTc increase over time) and by 84% (maximum QTc increase). The pharmacodynamic effects can be explained by a combination of the increase in dofetilide exposure and the reductions in serum potassium. In the DIAMOND trials, 1252 patients were treated with TIKOSYN and diuretics concomitantly, of whom 493 died compared to 508 deaths among the 1248 patients receiving placebo and diuretics. Of the 229 patients who had potassium depleting diuretics added to their concomitant medications in the DIAMOND trials, the patients on TIKOSYN had a non-significantly reduced relative risk for death of 0.68 (95% CI: 0.376, 1.230).
+
+Potential Drug Interactions
+
+Dofetilide is eliminated in the kidney by cationic secretion. Inhibitors of renal cationic secretion are contraindicated with TIKOSYN. In addition, drugs that are actively secreted via this route (e.g., triamterene, metformin, and amiloride) should be co-administered with care as they might increase dofetilide levels.
+
+Dofetilide is metabolized to a small extent by the CYP3A4 isoenzyme of the cytochrome P450 system. Inhibitors of the CYP3A4 isoenzyme could increase systemic dofetilide exposure. Inhibitors of this isoenzyme (e.g., macrolide antibiotics, azole antifungal agents, protease inhibitors, serotonin reuptake inhibitors, amiodarone, cannabinoids, diltiazem, grapefruit juice, nefazadone, norfloxacin, quinine, zafirlukast) should be cautiously co-administered with TIKOSYN as they can potentially increase dofetilide levels. Dofetilide is not an inhibitor of CYP3A4 nor of other cytochrome P450 isoenzymes (e.g., CYP2C9, CYP2D6) and is not expected to increase levels of drugs metabolized by CYP3A4.
+
+Other Drug Interaction Information
+
+Digoxin
+
+Studies in healthy volunteers have shown that TIKOSYN does not affect the pharmacokinetics of digoxin. In patients, the concomitant administration of digoxin with dofetilide was associated with a higher occurrence of Torsade de Pointes. It is not clear whether this represents an interaction with TIKOSYN or the presence of more severe structural heart disease in patients on digoxin; structural heart disease is a known risk factor for arrhythmia. No increase in mortality was observed in patients taking digoxin as concomitant medication.
+
+Other Drugs
+
+In healthy volunteers, amlodipine, phenytoin, glyburide, ranitidine, omeprazole, hormone replacement therapy (a combination of conjugated estrogens and medroxyprogesterone), antacid (aluminum and magnesium hydroxides), and theophylline did not affect the pharmacokinetics of TIKOSYN. In addition, studies in healthy volunteers have shown that TIKOSYN does not affect the pharmacokinetics or pharmacodynamics of warfarin, or the pharmacokinetics of propranolol (40 mg twice daily), phenytoin, theophylline, or oral contraceptives.
+
+Population pharmacokinetic analyses were conducted on plasma concentration data from 1445 patients in clinical trials to examine the effects of concomitant medications on clearance or volume of distribution of dofetilide. Concomitant medications were grouped as ACE inhibitors, oral anticoagulants, calcium channel blockers, beta blockers, cardiac glycosides, inducers of CYP3A4, substrates and inhibitors of CYP3A4, substrates and inhibitors of P-glycoprotein, nitrates, sulphonylureas, loop diuretics, potassium sparing diuretics, thiazide diuretics, substrates and inhibitors of tubular organic cation transport, and QTc-prolonging drugs. Differences in clearance between patients on these medications (at any occasion in the study) and those off medications varied between -16% and +3%. The mean clearances of dofetilide were 16% and 15% lower in patients on thiazide diuretics and inhibitors of tubular organic cation transport, respectively.
+
+

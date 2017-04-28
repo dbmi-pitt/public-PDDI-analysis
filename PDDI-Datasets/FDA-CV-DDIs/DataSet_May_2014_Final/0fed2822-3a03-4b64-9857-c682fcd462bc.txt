@@ -1,0 +1,118 @@
+ALDACTONE (spironolactone) tablet, film coated 
+
+INDICATIONS AND USAGE
+
+ALDACTONE (spironolactone) is indicated in the management of Primary hyperaldosteronism.
+
+CONTRAINDICATIONS
+
+ALDACTONE is contraindicated for patients with anuria, acute renal insufficiency, significant impairment of renal excretory function, or hyperkalemia.
+
+WARNINGS
+
+Potassium supplementation
+
+Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with ALDACTONE therapy. Excessive potassium intake may cause hyperkalemia in patients receiving ALDACTONE (see Precautions: General).
+
+ALDACTONE should not be administered concurrently with other potassium-sparing diuretics. ALDACTONE, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia. Extreme caution should be exercised when ALDACTONE is given concomitantly with these drugs.
+
+Hyperkalemia in patients with severe heart failure
+
+Hyperkalemia may be fatal. It is critical to monitor and manage serum potassium in patients with severe heart failure receiving ALDACTONE. Avoid using other potassium-sparing diuretics. Avoid using oral potassium supplements in patients with serum potassium > 3.5 mEq/L. RALES excluded patients with a serum creatinine > 2.5 mg/dL or a recent increase in serum creatinine > 25%. The recommended monitoring for potassium and creatinine is one week after initiation or increase in dose of ALDACTONE, monthly for the first 3 months, then quarterly for a year, and then every 6 months. Discontinue or interrupt treatment for serum potassium > 5 mEq/L or for serum creatinine > 4 mg/dL. (See Clinical Studies: Severe heart failure, and Dosage and Administration: Severe heart failure.)
+
+ALDACTONE should be used with caution in patients with impaired hepatic function because minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+
+Lithium generally should not be given with diuretics (see Precautions: Drug interactions).
+
+PRECAUTIONS
+
+General
+
+All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance, e.g., hypomagnesemia, hyponatremia, hypochloremic alkalosis, and hyperkalemia.
+
+Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of the mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Hyperkalemia may occur in patients with impaired renal function or excessive potassium intake and can cause cardiac irregularities, which may be fatal. Consequently, no potassium supplement should ordinarily be given with ALDACTONE.
+
+Concomitant administration of potassium-sparing diuretics and ACE inhibitors or nonsteroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin, has been associated with severe hyperkalemia.
+
+If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia, and shock), an electrocardiogram (ECG) should be obtained. However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
+
+If hyperkalemia is present, ALDACTONE should be discontinued immediately. With severe hyperkalemia, the clinical situation dictates the procedures to be employed. These may include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation. These are temporary measures to be repeated as required. Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered. Persistent hyperkalemia may require dialysis.
+
+Reversible hyperchloremic metabolic acidosis, usually in association with hyperkalemia, has been reported to occur in some patients with decompensated hepatic cirrhosis, even in the presence of normal renal function.
+
+Dilutional hyponatremia, manifested by dryness of the mouth, thirst, lethargy, and drowsiness, and confirmed by a low serum sodium level, may be caused or aggravated, especially when ALDACTONE is administered in combination with other diuretics, and dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction rather than administration of sodium, except in rare instances when the hyponatremia is life-threatening.
+
+ALDACTONE therapy may cause a transient elevation of BUN, especially in patients with pre-existing renal impairment. ALDACTONE may cause mild acidosis.
+
+Gynecomastia may develop in association with the use of ALDACTONE; physicians should be alert to its possible onset. The development of gynecomastia appears to be related to both dosage level and duration of therapy and is normally reversible when ALDACTONE is discontinued. In rare instances, some breast enlargement may persist when ALDACTONE is discontinued.
+
+Drug interactions
+
+ACE inhibitors
+
+Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
+
+Alcohol, barbiturates, or narcotics
+
+Potentiation of orthostatic hypotension may occur.
+
+Corticosteroids, ACTH
+
+Intensified electrolyte depletion, particularly hypokalemia, may occur.
+
+Pressor amines (e.g., norepinephrine)
+
+ALDACTONE reduces the vascular responsiveness to norepinephrine. Therefore, caution should be exercised in the management of patients subjected to regional or general anesthesia while they are being treated with ALDACTONE.
+
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine)
+
+Possible increased responsiveness to the muscle relaxant may result.
+
+Lithium
+
+Lithium generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs)
+
+In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics. Combination of NSAIDs, e.g., indomethacin, with potassium-sparing diuretics has been associated with severe hyperkalemia. Therefore, when ALDACTONE and NSAIDs are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+Digoxin
+
+ALDACTONE has been shown to increase the half-life of digoxin. This may result in increased serum digoxin levels and subsequent digitalis toxicity. It may be necessary to reduce the maintenance and digitalization doses when ALDACTONE is administered, and the patient should be carefully monitored to avoid over- or under-digitalization.
+
+Drug/Laboratory test interactions
+
+Several reports of possible interference with digoxin radioimmunoassay by ALDACTONE, or its metabolites, have appeared in the literature. Neither the extent nor the potential clinical significance of its interference (which may be assay-specific) has been fully established.
+
+DOSAGE AND ADMINISTRATION
+
+Primary hyperaldosteronism
+
+ALDACTONE may be employed as an initial diagnostic measure to provide presumptive evidence of primary hyperaldosteronism while patients are on normal diets.
+
+Long test
+
+ALDACTONE is administered at a daily dosage of 400 mg for three to four weeks. Correction of hypokalemia and of hypertension provides presumptive evidence for the diagnosis of primary hyperaldosteronism.
+
+Short test
+
+ALDACTONE is administered at a daily dosage of 400 mg for four days. If serum potassium increases during ALDACTONE administration but drops when ALDACTONE is discontinued, a presumptive diagnosis of primary hyperaldosteronism should be considered.
+
+After the diagnosis of hyperaldosteronism has been established by more definitive testing procedures, ALDACTONE may be administered in doses of 100 to 400 mg daily in preparation for surgery. For patients who are considered unsuitable for surgery, ALDACTONE may be employed for long-term maintenance therapy at the lowest effective dosage determined for the individual patient.
+
+Edema in adults (congestive heart failure, hepatic cirrhosis, or nephrotic syndrome)
+
+An initial daily dosage of 100 mg of ALDACTONE administered in either single or divided doses is recommended, but may range from 25 to 200 mg daily. When given as the sole agent for diuresis, ALDACTONE should be continued for at least five days at the initial dosage level, after which it may be adjusted to the optimal therapeutic or maintenance level administered in either single or divided daily doses. If, after five days, an adequate diuretic response to ALDACTONE has not occurred, a second diuretic that acts more proximally in the renal tubule may be added to the regimen. Because of the additive effect of ALDACTONE when administered concurrently with such diuretics, an enhanced diuresis usually begins on the first day of combined treatment; combined therapy is indicated when more rapid diuresis is desired. The dosage of ALDACTONE should remain unchanged when other diuretic therapy is added.
+
+Essential hypertension
+
+For adults, an initial daily dosage of 50 to 100 mg of ALDACTONE administered in either single or divided doses is recommended. ALDACTONE may also be given with diuretics that act more proximally in the renal tubule or with other antihypertensive agents. Treatment with ALDACTONE should be continued for at least two weeks since the maximum response may not occur before this time. Subsequently, dosage should be adjusted according to the response of the patient.
+
+Hypokalemia
+
+ALDACTONE in a dosage ranging from 25 mg to 100 mg daily is useful in treating a diuretic-induced hypokalemia, when oral potassium supplements or other potassium-sparing regimens are considered inappropriate.
+
+Severe heart failure (NYHA class III – IV)
+
+Treatment should be initiated with ALDACTONE 25 mg once daily if the patient's serum potassium is ≤5.0 mEq/L and the patient's serum creatinine is ≤ 2.5 mg/dL. Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated. Patients who do not tolerate 25 mg once daily may have their dosage reduced to 25 mg every other day. See Warnings: Hyperkalemia in patients with severe heart failure for advice on monitoring serum potassium and serum creatinine.
+

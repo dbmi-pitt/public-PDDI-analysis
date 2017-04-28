@@ -1,0 +1,82 @@
+Drug Label for drug brand Kayexalate, containing sodium polystyrene sulfonate.
+
+
+CONTRAINDICATIONS
+
+
+KAYEXALATE is contraindicated in the following conditions: patients with hypokalemia, patients with a history of hypersensitivity to polystyrene sulfonate resins, obstructive bowel disease, neonates with reduced gut motility (postoperatively or drug induced) and oral administration in neonates (see PRECAUTIONS).
+
+
+WARNINGS
+
+
+Intestinal Necrosis
+
+Cases of intestinal necrosis, which may be fatal, and other serious gastrointestinal adverse events (bleeding, ischemic colitis, perforation) have been reported in association with KAYEXALATE use. The majority of these cases reported the concomitant use of sorbitol. Risk factors for gastrointestinal adverse events were present in many of the cases including prematurity, history of intestinal disease or surgery, hypovolemia, and renal insufficiency and failure. Concomitant administration of sorbitol is not recommended (see PRECAUTIONS, Drug Interactions).
+ <list>
+ <item>
+ <item>Use only in patients who have normal bowel function. Avoid use in patients who have not had a bowel movement post-surgery.
+ <item>
+ <item>Avoid use in patients who are at risk for developing constipation or impaction (including those with history of impaction, chronic constipation, inflammatory bowel disease, ischemic colitis, vascular intestinal atherosclerosis, previous bowel resection, or bowel obstruction).
+ <item>
+ <item>Discontinue use in patients who develop constipation.
+ <item>
+ </list>
+
+
+Alternative Therapy in Severe Hyperkalemia
+
+Since effective lowering of serum potassium with KAYEXALATE may take hours to days, treatment with this drug alone may be insufficient to rapidly correct severe hyperkalemia associated with states of rapid tissue breakdown (e.g., burns and renal failure) or hyperkalemia so marked as to constitute a medical emergency. Therefore, other definitive measures, including dialysis, should always be considered and may be imperative.
+
+Hypokalemia
+
+Serious potassium deficiency can occur from therapy with KAYEXALATE. The effect must be carefully controlled by frequent serum potassium determinations within each 24 hour period. Since intracellular potassium deficiency is not always reflected by serum potassium levels, the level at which treatment with KAYEXALATE should be discontinued must be determined individually for each patient. Important aids in making this determination are the patient's clinical condition and electrocardiogram. Early clinical signs of severe hypokalemia include a pattern of irritable confusion and delayed thought processes.
+Electrocardiographically, severe hypokalemia is often associated with a lengthened Q-T interval, widening, flattening, or inversion of the T wave, and prominent U waves. Also, cardiac arrhythmias may occur, such as premature atrial, nodal, and ventricular contractions, and supraventricular and ventricular tachycardias. The toxic effects of digitalis are likely to be exaggerated. Marked hypokalemia can also be manifested by severe muscle weakness, at times extending into frank paralysis.
+
+Electrolyte Disturbances
+
+Like all cation-exchange resins, KAYEXALATE is not totally selective (for potassium) in its actions, and small amounts of other cations such as magnesium and calcium can also be lost during treatment. Accordingly, patients receiving KAYEXALATE should be monitored for all applicable electrolyte disturbances.
+
+Systemic Alkalosis
+
+Systemic alkalosis has been reported after cation-exchange resins were administered orally in combination with nonabsorbable cation-donating antacids and laxatives such as magnesium hydroxide and aluminum carbonate. Magnesium hydroxide should not be administered with KAYEXALATE. One case of grand mal seizure has been reported in a patient with chronic hypocalcemia of renal failure who was given KAYEXALATE with magnesium hydroxide as laxative. (See PRECAUTIONS, Drug Interactions.)
+
+
+PRECAUTIONS
+
+Caution is advised when KAYEXALATE is administered to patients who cannot tolerate even a small increase in sodium loads (i.e., severe congestive heart failure, severe hypertension, or marked edema). In such instances compensatory restriction of sodium intake from other sources may be indicated.
+In the event of clinically significant constipation, treatment with KAYEXALATE should be discontinued until normal bowel motion is resumed (see WARNINGS, Intestinal Necrosis).
+
+Drug Interactions
+
+Antacids
+The simultaneous oral administration of KAYEXALATE with nonabsorbable cation-donating antacids and laxatives may reduce the resin's potassium exchange capability.
+Non-absorbable cation-donating antacids and laxatives
+Systemic alkalosis has been reported after cation-exchange resins were administered orally in combination with nonabsorbable cation-donating antacids and laxatives such as magnesium hydroxide and aluminum carbonate. Magnesium hydroxide should not be administered with KAYEXALATE. One case of grand mal seizure has been reported in a patient with chronic hypocalcemia of renal failure who was given KAYEXALATE with magnesium hydroxide as a laxative.
+Intestinal obstruction due to concretions of aluminum hydroxide when used in combination with KAYEXALATE has been reported.
+Digitalis
+The toxic effects of digitalis on the heart, especially various ventricular arrhythmias and A-V nodal dissociation, are likely to be exaggerated by hypokalemia, even in the face of serum digoxin concentrations in the "normal range". (See WARNINGS.)
+Sorbitol
+Concomitant use of Sorbitol with KAYEXALATE has been implicated in cases of intestinal necrosis, which may be fatal. Therefore, concomitant administration is not recommended. (See WARNINGS.)
+Lithium
+KAYEXALATE may decrease absorption of lithium.
+Thyroxine
+KAYEXALATE may decrease absorption of thyroxine.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Studies have not been performed.
+
+Pregnancy Category C
+
+Animal reproduction studies have not been conducted with KAYEXALATE. It is also not known whether KAYEXALATE can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. KAYEXALATE should be given to a pregnant woman only if clearly needed.
+
+Nursing Mothers
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when KAYEXALATE is administered to a nursing woman.
+
+Pediatric Use
+
+The effectiveness of KAYEXALATE in pediatric patients has not been established. In neonates, KAYEXALATE should not be given by the oral route. In both children and neonates particular care should be observed with rectal administration, as excessive dosage or inadequate dilution could result in impaction of the resin.
+Due to the risk of digestive hemorrhage or intestinal necrosis, particular care should be observed in premature infants or low birth weight infants.
+

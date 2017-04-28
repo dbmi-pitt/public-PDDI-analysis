@@ -1,0 +1,117 @@
+ZESTRIL (lisinopril) tablet 
+
+Lisinopril is an oral long-acting angiotensin converting enzyme inhibitor.
+
+CONTRAINDICATIONS
+
+ZESTRIL is contraindicated in patients who are hypersensitive to this product and in patients with a history of angioedema related to previous treatment with an angiotensin converting enzyme inhibitor and in patients with hereditary or idiopathic angioedema.
+
+WARNINGS
+
+Anaphylactoid and Possibly Related Reactions
+
+Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including ZESTRIL) may be subject to a variety of adverse reactions, some of them serious.
+
+Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including ZESTRIL. This may occur at any time during treatment. ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients. ZESTRIL should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred. Even in those instances where swelling of only the tongue is involved, without respiratory distress, patients may require prolonged observation since treatment with antihistamines and corticosteroids may not be sufficient. Very rarely, fatalities have been reported due to angioedema associated with laryngeal edema or tongue edema. Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery. Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (See ADVERSE REACTIONS).
+
+Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (See also INDICATIONS AND USAGE and CONTRAINDICATIONS).
+
+Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
+
+Anaphylactoid Reactions During Membrane Exposure: Sudden and potentially life—threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®1) and treated concomitantly with an ACE inhibitor. In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated. Symptoms have not been relieved by antihistamines in these situations. In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+Hypotension
+
+Excessive hypotension is rare in patients with uncomplicated hypertension treated with ZESTRIL alone.
+
+Patients with heart failure given ZESTRIL commonly have some reduction in blood pressure, with peak blood pressure reduction occurring 6 to 8 hours post dose. Evidence from the two-dose ATLAS trial suggested that incidence of hypotension may increase with dose of lisinopril in heart failure patients. Discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (See DOSAGE AND ADMINISTRATION).
+
+Patients at risk of excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology. It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with ZESTRIL in patients at risk for excessive hypotension who are able to tolerate such adjustments (See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
+
+Patients with acute myocardial infarction in the GISSI-3 trial had a higher (9.0% versus 3.7%) incidence of persistent hypotension (systolic blood pressure < 90 mmHg for more than 1 hour) when treated with ZESTRIL. Treatment with ZESTRIL must not be initiated in acute myocardial infarction patients at risk of further serious hemodynamic deterioration after treatment with a vasodilator (e.g., systolic blood pressure of 100 mmHg or lower) or cardiogenic shock.
+
+In patients at risk of excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of ZESTRIL and/or diuretic is increased. Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, or in patients with acute myocardial infarction, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
+
+If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, receive an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further doses of ZESTRIL which usually can be given without difficulty once the blood pressure has stabilized. If symptomatic hypotension develops, a dose reduction or discontinuation of ZESTRIL or concomitant diuretic may be necessary.
+
+Leukopenia/Neutropenia/Agranulocytosis
+
+Another angiotensin—converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment especially if they also have a collagen vascular disease. Available data from clinical trials of ZESTRIL are insufficient to show that ZESTRIL does not cause agranulocytosis at similar rates. Marketing experience has revealed rare cases of leukopenia/neutropenia and bone marrow depression in which a causal relationship to lisinopril cannot be excluded. Periodic monitoring of white blood cell counts in patients with collagen vascular disease and renal disease should be considered.
+
+Hepatic Failure
+
+Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice or hepatitis and progresses to fulminant hepatic necrosis and (sometimes) death. The mechanism of this syndrome is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
+
+Fetal Toxicity
+
+Pregnancy category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue ZESTRIL as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examinations to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue ZESTRIL, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to ZESTRIL for hypotension, oliguria, and hyperkalemia. (see Precautions, Pediatric Use).
+
+No teratogenic effects of lisinopril were seen in studies of pregnant rats, mice, and rabbits. On a mg/kg basis, the doses used were up to 625 times (in mice), 188 times (in rats), and 0.6 times (in rabbits) the maximum recommended human dose.
+
+PRECAUTIONS
+
+General
+
+Aortic Stenosis/Hypertrophic Cardiomyopathy: As with all vasodilators, lisinopril should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
+
+Impaired Renal Function: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. In patients with severe congestive heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including ZESTRIL, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine may occur. Experience with another angiotensin-converting enzyme inhibitor suggests that these increases are usually reversible upon discontinuation of ZESTRIL and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+
+Some patients with hypertension or heart failure with no apparent pre-existing renal vascular disease have developed increases in blood urea nitrogen and serum creatinine, usually minor and transient, especially when ZESTRIL has been given concomitantly with a diuretic. This is more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of the diuretic and/or ZESTRIL may be required.
+
+Patients with acute myocardial infarction in the GISSI-3 trial treated with ZESTRIL had a higher (2.4% versus 1.1%) incidence of renal dysfunction in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration). In acute myocardial infarction, treatment with ZESTRIL should be initiated with caution in patients with evidence of renal dysfunction, defined as serum creatinine concentration exceeding 2 mg/dL. If renal dysfunction develops during treatment with ZESTRIL (serum creatinine concentration exceeding 3 mg/dL or a doubling from the pre-treatment value) then the physician should consider withdrawal of ZESTRIL.
+
+Evaluation of patients with hypertension, heart failure, or myocardial infarction should always include assessment of renal function (See DOSAGE AND ADMINISTRATION).
+
+Hyperkalemia: In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in approximately 2.2% of hypertensive patients and 4.8% of patients with heart failure. In most cases these were isolated values which resolved despite continued therapy. Hyperkalemia was a cause of discontinuation of therapy in approximately 0.1% of hypertensive patients; 0.6% of patients with heart failure and 0.1% of patients with myocardial infarction. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes. Hyperkalemia can cause serious, sometimes fatal, arrhythmias. ZESTRIL should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium (See PRECAUTIONS, Drug Interactions).
+
+Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, almost always resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
+
+Surgery/Anesthesia: In patients undergoing major surgery or during anesthesia with agents that produce hypotension, ZESTRIL may block angiotensin II formation secondary to compensatory renin release. If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion.
+
+Drug Interactions
+
+Hypotension - Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with ZESTRIL. The possibility of hypotensive effects with ZESTRIL can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with ZESTRIL. If it is necessary to continue the diuretic, initiate therapy with ZESTRIL at a dose of 5 mg daily, and provide close medical supervision after the initial dose until blood pressure has stabilized (See WARNINGS, and DOSAGE AND ADMINISTRATION). When a diuretic is added to the therapy of a patient receiving ZESTRIL, an additional antihypertensive effect is usually observed. Studies with ACE inhibitors in combination with diuretics indicate that the dose of the ACE inhibitor can be reduced when it is given with a diuretic (See DOSAGE AND ADMINISTRATION).
+
+Antidiabetics: Epidemiological studies have suggested that concomitant administration of ACE inhibitors and antidiabetic medicines (insulins, oral hypoglycemic agents) may cause an increased blood-glucose-lowering effect with risk of hypoglycemia. This phenomenon appeared to be more likely to occur during the first weeks of combined treatment and in patients with renal impairment. In diabetic patients treated with oral antidiabetic agents or insulin, glycemic control should be closely monitored for hypoglycemia, especially during the first month of treatment with an ACE inhibitor.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving lisinopril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on ZESTRIL and other agents that affect the RAS.
+
+Do not co-administer aliskiren with ZESTRIL in patients with diabetes. Avoid use of aliskiren with ZESTRIL in patients with renal impairment (GFR < 60 ml/min).
+
+Other Agents: ZESTRIL has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions. This included post myocardial infarction patients who were receiving intravenous or transdermal nitroglycerin. No clinically important pharmacokinetic interactions occurred when ZESTRIL was used concomitantly with propranolol or hydrochlorothiazide. The presence of food in the stomach does not alter the bioavailability of ZESTRIL.
+
+Agents Increasing Serum Potassium: ZESTRIL attenuates potassium loss caused by thiazide-type diuretics. Use of ZESTRIL with potassium-sparing diuretics (e.g., spironolactone, eplerenone, triamterene or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium. Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium. Potassium-sparing agents should generally not be used in patients with heart failure who are receiving ZESTRIL.
+
+Lithium: Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors. Lithium toxicity was usually reversible upon discontinuation of lithium and the ACE inhibitor. It is recommended that serum lithium levels be monitored frequently if ZESTRIL is administered concomitantly with lithium.
+
+Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including ZESTRIL.
+
+DOSAGE AND ADMINISTRATION
+
+Hypertension
+
+Initial Therapy: In patients with uncomplicated essential hypertension not on diuretic therapy, the recommended initial dose is 10 mg once a day. Dosage should be adjusted according to blood pressure response. The usual dosage range is 20 to 40 mg per day administered in a single daily dose. The antihypertensive effect may diminish toward the end of the dosing interval regardless of the administered dose, but most commonly with a dose of 10 mg daily. This can be evaluated by measuring blood pressure just prior to dosing to determine whether satisfactory control is being maintained for 24 hours. If it is not, an increase in dose should be considered. Doses up to 80 mg have been used but do not appear to give greater effect. If blood pressure is not controlled with ZESTRIL alone, a low dose of a diuretic may be added. Hydrochlorothiazide, 12.5 mg has been shown to provide an additive effect. After the addition of a diuretic, it may be possible to reduce the dose of ZESTRIL.
+
+Diuretic Treated Patients: In hypertensive patients who are currently being treated with a diuretic, symptomatic hypotension may occur occasionally following the initial dose of ZESTRIL. The diuretic should be discontinued, if possible, for two to three days before beginning therapy with ZESTRIL to reduce the likelihood of hypotension (See WARNINGS). The dosage of ZESTRIL should be adjusted according to blood pressure response. If the patient's blood pressure is not controlled with ZESTRIL alone, diuretic therapy may be resumed as described above.
+
+If the diuretic cannot be discontinued, an initial dose of 5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS and PRECAUTIONS, Drug Interactions).
+
+Concomitant administration of ZESTRIL with potassium supplements, potassium salt substitutes, or potassium-sparing diuretics may lead to increases of serum potassium (See PRECAUTIONS).
+
+Dosage Adjustment in Renal Impairment: The usual dose of ZESTRIL (10 mg) is recommended for patients with creatinine clearance > 30 mL/min (serum creatinine of up to approximately 3 mg/dL). For patients with creatinine clearance ≥ 10 mL/min ≤ 30 mL/min (serum creatinine ≥ 3 mg/dL), the first dose is 5 mg once daily. For patients with creatinine clearance < 10 mL/min (usually on hemodialysis) the recommended initial dose is 2.5 mg. The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
+
+

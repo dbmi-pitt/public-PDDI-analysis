@@ -1,0 +1,141 @@
+Drug Label for drug brand Effient, containing Prasugrel hydrochloride.
+
+
+WARNING: BLEEDING RISK
+
+
+Effient can cause significant, sometimes fatal, bleeding see Warnings and Precautions (5.1 and 5.2) and Adverse Reactions (6.1).
+Do not use Effient in patients with active pathological bleeding or a history of transient ischemic attack or stroke see Contraindications (4.1 and 4.2).
+In patients 75 years of age, Effient is generally not recommended, because of the increased risk of fatal and intracranial bleeding and uncertain benefit, except in high-risk situations (patients with diabetes or a history of prior MI) where its effect appears to be greater and its use may be considered see Use in Specific Populations (8.5).
+Do not start Effient in patients likely to undergo urgent coronary artery bypass graft surgery (CABG). When possible, discontinue Effient at least 7 days prior to any surgery.
+Additional risk factors for bleeding include:
+ <list>
+ <item>
+ <item>body weight 60 kg
+ <item>
+ <item>propensity to bleed
+ <item>
+ <item>concomitant use of medications that increase the risk of bleeding (e.g., warfarin, heparin, fibrinolytic therapy, chronic use of non-steroidal anti-inflammatory drugs NSAIDs )
+ <item>
+ </list>
+
+Suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, percutaneous coronary intervention (PCI), CABG, or other surgical procedures in the setting of Effient.
+If possible, manage bleeding without discontinuing Effient. Discontinuing Effient, particularly in the first few weeks after acute coronary syndrome, increases the risk of subsequent cardiovascular events see Warnings and Precautions (5.3).
+WARNING: BLEEDING RISK
+See full prescribing information for complete boxed warning
+Effient can cause significant, sometimes fatal, bleeding (5.1, 5.2, and 6.1).
+Do not use Effient in patients with active pathological bleeding or a history of transient ischemic attack or stroke (4.1 and 4.2).
+In patients 75 years of age, Effient is generally not recommended because of the increased risk of fatal and intracranial bleeding and uncertain benefit, except in high-risk patients (diabetes or prior MI), where its effect appears to be greater and its use may be considered (8.5).
+ <list>
+ <item>
+ <item>body weight 60 kg
+ <item>
+ <item>propensity to bleed
+ <item>
+ <item>concomitant use of medications that increase the risk of bleeding
+ <item>
+ </list>
+
+If possible, manage bleeding without discontinuing Effient. Stopping Effient, particularly in the first few weeks after acute coronary syndrome, increases the risk of subsequent cardiovascular events (5.3).
+
+
+4 CONTRAINDICATIONS
+
+ <list>
+ <item>
+ <item>Active pathological bleeding (4.1)
+ <item>
+ <item>Prior transient ischemic attack or stroke (4.2)
+ <item>
+ <item>Hypersensitivity to prasugrel or any component of the product (4.3)
+ <item>
+ </list>
+
+
+4.1 Active Bleeding
+
+Effient is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage see Warnings and Precautions (5.1) and Adverse Reactions (6.1).
+
+4.2 Prior Transient Ischemic Attack or Stroke
+
+Effient is contraindicated in patients with a history of prior transient ischemic attack (TIA) or stroke. In TRITON-TIMI 38 (TR ial to Assess I mprovement in T herapeutic Outcomes by O ptimizing Platelet InhibitioN with Prasugrel), patients with a history of TIA or ischemic stroke ( 3 months prior to enrollment) had a higher rate of stroke on Effient (6.5%, of which 4.2% were thrombotic stroke and 2.3% were intracranial hemorrhage ICH ) than on clopidogrel (1.2%, all thrombotic). In patients without such a history, the incidence of stroke was 0.9% (0.2% ICH) and 1.0% (0.3% ICH) with Effient and clopidogrel, respectively. Patients with a history of ischemic stroke within 3 months of screening and patients with a history of hemorrhagic stroke at any time were excluded from TRITON-TIMI 38. Patients who experience a stroke or TIA while on Effient generally should have therapy discontinued see Adverse Reactions (6.1) and Clinical Studies (14).
+
+4.3 Hypersensitivity
+
+Effient is contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to prasugrel or any component of the product see Adverse Reactions (6.2).
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>CABG-related bleeding: Risk increases in patients receiving Effient who undergo CABG (5.2).
+ <item>
+ <item>Discontinuation of Effient: Premature discontinuation increases risk of stent thrombosis, MI, and death (5.3).
+ <item>
+ <item>Thrombotic thrombocytopenic purpura (TTP): TTP has been reported with Effient (5.4).
+ <item>
+ <item>Hypersensitivity: Hypersensitivity including angioedema has been reported with Effient including in patients with a history of hypersensitivity reaction to other thienopyridines (5.5).
+ <item>
+ </list>
+
+
+5.1 General Risk of Bleeding
+
+Thienopyridines, including Effient, increase the risk of bleeding. With the dosing regimens used in TRITON-TIMI 38, TIMI (Thrombolysis in Myocardial Infarction) Major (clinically overt bleeding associated with a fall in hemoglobin 5 g/dL, or intracranial hemorrhage) and TIMI Minor (overt bleeding associated with a fall in hemoglobin of 3 g/dL but 5 g/dL) bleeding events were more common on Effient than on clopidogrel see Adverse Reactions (6.1). The bleeding risk is highest initially, as shown in Figure 1 (events through 450 days, inset shows events through 7 days).
+Suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, PCI, CABG, or other surgical procedures even if the patient does not have overt signs of bleeding.
+Do not use Effient in patients with active bleeding, prior TIA or stroke see Contraindications (4.1 and 4.2).
+Other risk factors for bleeding are:
+ <list>
+ <item>
+ <item>Age 75 years. Because of the risk of bleeding (including fatal bleeding) and uncertain effectiveness in patients 75 years of age, use of Effient is generally not recommended in these patients, except in high-risk situations (patients with diabetes or history of myocardial infarction) where its effect appears to be greater and its use may be considered see Adverse Reactions (6.1), Use in Specific Populations (8.5), Clinical Pharmacology (12.3), and Clinical Trials (14).
+ <item>
+ <item>CABG or other surgical procedure see Warnings and Precautions (5.2).
+ <item>
+ <item>Body weight 60 kg. Consider a lower (5 mg) maintenance dose see Dosage and Administration (2), Adverse Reactions (6.1), Use in Specific Populations (8.6).
+ <item>
+ <item>Propensity to bleed (e.g., recent trauma, recent surgery, recent or recurrent gastrointestinal (GI) bleeding, active peptic ulcer disease, severe hepatic impairment, or moderate to severe renal impairment) see Adverse Reactions (6.1) and Use in Specific Populations (8.7 and 8.8).
+ <item>
+ <item>Medications that increase the risk of bleeding (e.g., oral anticoagulants, chronic use of non-steroidal anti-inflammatory drugs NSAIDs, and fibrinolytic agents). Aspirin and heparin were commonly used in TRITON-TIMI 38 see Drug Interactions (7), Clinical Studies (14).
+ <item>
+ </list>
+
+Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7-10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure. Because the half-life of prasugrel's active metabolite is short relative to the lifetime of the platelet, it may be possible to restore hemostasis by administering exogenous platelets, however, platelet transfusions within 6 hours of the loading dose or 4 hours of the maintenance dose may be less effective.
+Figure 1
+Structural Formula
+
+5.2 Coronary Artery Bypass Graft Surgery-Related Bleeding
+
+The risk of bleeding is increased in patients receiving Effient who undergo CABG. If possible, Effient should be discontinued at least 7 days prior to CABG.
+Of the 437 patients who underwent CABG during TRITON-TIMI 38, the rates of CABG-related TIMI Major or Minor bleeding were 14.1% in the Effient group and 4.5% in the clopidogrel group see Adverse Reactions (6.1). The higher risk for bleeding events in patients treated with Effient persisted up to 7 days from the most recent dose of study drug. For patients receiving a thienopyridine within 3 days prior to CABG, the frequencies of TIMI Major or Minor bleeding were 26.7% (12 of 45 patients) in the Effient group, compared with 5.0% (3 of 60 patients) in the clopidogrel group. For patients who received their last dose of thienopyridine within 4 to 7 days prior to CABG, the frequencies decreased to 11.3% (9 of 80 patients) in the prasugrel group and 3.4% (3 of 89 patients) in the clopidogrel group.
+Do not start Effient in patients likely to undergo urgent CABG. CABG-related bleeding may be treated with transfusion of blood products, including packed red blood cells and platelets, however, platelet transfusions within 6 hours of the loading dose or 4 hours of the maintenance dose may be less effective.
+
+5.3 Discontinuation of Effient
+
+Discontinue thienopyridines, including Effient, for active bleeding, elective surgery, stroke, or TIA. The optimal duration of thienopyridine therapy is unknown. In patients who are managed with PCI and stent placement, premature discontinuation of any antiplatelet medication, including thienopyridines, conveys an increased risk of stent thrombosis, myocardial infarction, and death. Patients who require premature discontinuation of a thienopyridine will be at increased risk for cardiac events. Lapses in therapy should be avoided, and if thienopyridines must be temporarily discontinued because of an adverse event(s), they should be restarted as soon as possible see Contraindications (4.1 and 4.2) and Warnings and Precautions (5.1).
+
+5.4 Thrombotic Thrombocytopenic Purpura
+
+Thrombotic thrombocytopenic purpura (TTP) has been reported with the use of Effient. TTP can occur after a brief exposure ( 2 weeks). TTP is a serious condition that can be fatal and requires urgent treatment, including plasmapheresis (plasma exchange). TTP is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes fragment red blood cells seen on peripheral smear), neurological findings, renal dysfunction, and fever see Adverse Reactions (6.2).
+
+5.5 Hypersensitivity Including Angioedema
+
+Hypersensitivity including angioedema has been reported in patients receiving Effient, including patients with a history of hypersensitivity reaction to other thienopyridines see Contraindications (4.3), Adverse Reactions (6.2).
+
+
+7 DRUG INTERACTIONS
+
+
+7.1 Warfarin
+
+Coadministration of Effient and warfarin increases the risk of bleeding see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).
+
+7.2 Non-Steroidal Anti-Inflammatory Drugs
+
+Coadministration of Effient and NSAIDs (used chronically) may increase the risk of bleeding see Warnings and Precautions (5.1).
+
+7.3 Other Concomitant Medications
+
+Effient can be administered with drugs that are inducers or inhibitors of cytochrome P450 enzymes see Clinical Pharmacology (12.3).
+Effient can be administered with aspirin (75 mg to 325 mg per day), heparin, GPIIb/IIIa inhibitors, statins, digoxin, and drugs that elevate gastric pH, including proton pump inhibitors and H2 blockers see Clinical Pharmacology (12.3).
+

@@ -1,0 +1,90 @@
+Drug Label for drug brand Tekturna, containing aliskiren hemifumarate.
+
+BOXED WARNING SECTION
+
+
+<list>
+<item>
+<item>When pregnancy is detected, discontinue Tekturna as soon as possible. (5.1)
+<item>
+<item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+<item>
+</list>
+WARNING: FETAL TOXICITY
+See full prescribing information for complete boxed warning
+<list>
+<item>
+<item>When pregnancy is detected, discontinue Tekturna as soon as possible. (5.1)
+<item>
+<item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+<item>
+</list>
+
+DOSAGE  -  ADMINISTRATION SECTION
+
+<list>
+<item>
+<item>Starting dose: 150 mg once daily with a routine pattern with regard to meals. If blood pressure remains uncontrolled titrate up to 300 mg daily (2.1, 2.3)
+<item>
+<item>Majority of effect of given dose attained in 2 weeks (2.1).
+<item>
+</list>
+The usual recommended starting dose of Tekturna is 150 mg once daily. In patients whose blood pressure is not adequately controlled, the daily dose may be increased to 300 mg. Doses above 300 mg did not give an increased blood pressure response but resulted in an increased rate of diarrhea. The antihypertensive effect of a given dose is substantially attained (85-90%) by 2 weeks.
+Tekturna may be administered with some other antihypertensive agents. In diabetics, do not use in combination with angiotensin receptor blockers (ARBs) or angiotensin converting enzyme inhibitors (ACEIs) see Contraindications (4). Concomitant use of aliskiren with an ARB or ACEI is not recommended in patients with GFR 60 ml/min see Warnings and Precautions (5.2). Most exposure to date is with diuretics, an angiotensin receptor blocker (valsartan) or a calcium channel blocker (amlodipine). Aliskiren used together with these drugs has a greater effect at their maximum recommended doses than either drug alone. It is not known whether additive effects are present when Tekturna is used with angiotensin-converting enzyme inhibitors (ACEIs) or beta blockers (BB).
+Patients should establish a routine pattern for taking Tekturna with regard to meals. High fat meals decrease absorption substantially see Clinical Pharmacology (12.3).
+
+CONTRAINDICATIONS SECTION
+
+Do not use aliskiren with ARBs or ACEIs in patients with diabetes see Warnings and Precautions (5.2), Clinical Studies (14.3).
+Do not use with angiotensin receptor blockers (ARBs) or ACE inhibitors (ACEIs) in patients with diabetes (4)
+
+WARNINGS AND PRECAUTIONS SECTION
+
+<list>
+<item>
+<item>Avoid concomitant use with ARBs or ACEIs in patients with renal impairment (GFR 60 mL/min) (5.2).
+<item>
+<item>Anaphylactic Reactions and Head and Neck Angioedema: Discontinue use of Tekturna and monitor until signs and symptoms resolve (5.3).
+<item>
+<item>Hypotension in volume and/or salt depleted patients: Correct imbalances before initiating therapy with Tekturna (5.4).
+<item>
+<item>Impaired renal function: Monitor serum creatinine periodically. (5.5).
+<item>
+<item>Hyperkalemia: Monitor potassium levels periodically. (5.6)
+<item>
+</list>
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Tekturna as soon as possible see Use in Specific Populations (8.1).
+Tekturna is contraindicated in patients with diabetes who are receiving ARBs or ACEIs because of the increased risk of renal impairment, hyperkalemia, and hypotension see Contraindications (4) and Clinical Studies (14.3).
+Avoid use of Tekturna with ARBs or ACEIs in patients with moderate renal impairment (GFR 60 ml/min).
+Hypersensitivity reactions such as anaphylactic reactions and angioedema of the face, extremities, lips, tongue, glottis and/or larynx have been reported in patients treated with Tekturna and has necessitated hospitalization and intubation. This may occur at any time during treatment and has occurred in patients with and without a history of angioedema with ACE inhibitors or angiotensin receptor antagonists. Anaphylactic reactions have been reported from post-marketing experience with unknown frequency. If angioedema involves the throat, tongue, glottis or larynx, or if the patient has a history of upper respiratory surgery, airway obstruction may occur and be fatal. Patients who experience these effects, even without respiratory distress, require prolonged observation and appropriate monitoring measures since treatment with antihistamines and corticosteroids may not be sufficient to prevent respiratory involvement. Prompt administration of subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 ml) and measures to ensure a patent airway may be necessary.
+Discontinue Tekturna immediately in patients who develop anaphylactic reactions or angioedema, and do not readminister.
+In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those receiving high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with Tekturna. This condition should be corrected prior to administration of Tekturna, or the treatment should start under close medical supervision.
+A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+Monitor renal function periodically in patients treated with Tekturna. Changes in renal function, including acute renal failure, can be caused by drugs that affect the renin-angiotensin system. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, severe heart failure, post-myocardial infarction or volume depletion) or patients receiving ARB, ACEI or non-steroidal anti-inflammatory (NSAID) therapy may be at particular risk for developing acute renal failure on Tekturna see Contraindications (4), Warnings and Precautions (5.2), Clinical Studies (14.3). Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function.
+Monitor serum potassium periodically in patients receiving Tekturna. Drugs that affect the renin-angiotensin system can cause hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes, combination use with ARBs or ACEIs see Contraindications (4), Warnings and Precautions (5.2), and Clinical Studies (14.3), NSAIDs, or potassium supplements or potassium sparing diuretics.
+When aliskiren was given with cyclosporine or itraconazole, the blood concentrations of aliskiren were significantly increased. Avoid concomitant use of aliskiren with cyclosporine or itraconazole see Drug Interactions (7).
+
+DRUG INTERACTIONS SECTION
+
+Cyclosporin e : Avoid co-administration of cyclosporine with aliskiren.
+Itraconazole : Avoid co-administration of itraconazole with aliskiren See Clinical Pharmacology (12.3).
+Non-Steroidal Anti-Inflammatory Agents (NSAIDs) including selective Cyclooxygenase-2 inhibitors (COX-2 inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors with agents that affect the renin-angiotensin system, including aliskiren, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving aliskiren and NSAID therapy.
+The antihypertensive effect of aliskiren may be attenuated by NSAIDs.
+<list>
+<item>
+<item>Cyclosporine: Avoid concomitant use (7, 12.3).
+<item>
+<item>Itraconazole: Avoid concomitant use (7, 12.3)
+<item>
+<item>NSAIDs use may lead to increased risk of renal impairment and loss of antihypertensive effect (7)
+<item>
+</list>
+
+DESCRIPTION SECTION
+
+Tekturna contains aliskiren hemifumarate, a renin inhibitor, that is provided as tablets for oral administration. Aliskiren hemifumarate is chemically described as (2S,4S,5S,7S)-N-(2-carbamoyl-2-methylpropyl)-5-amino-4-hydroxy-2,7-diisopropyl-8- 4-methoxy-3-(3-methoxypropoxy)phenyl -octanamide hemifumarate and its structural formula is
+
+Molecular formula: C30H53N3O6 0.5 C4H4O4
+Aliskiren hemifumarate is a white to slightly yellowish crystalline powder with a molecular weight of 609.8 (free base- 551.8). It is soluble in phosphate buffer, n-octanol, and highly soluble in water.
+Aliskiren hemifumarate structural formula

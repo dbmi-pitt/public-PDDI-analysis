@@ -1,0 +1,63 @@
+Drug Label for drug brand Lidocaine Hydrochloride and Dextrose, containing Lidocaine Hydrochloride.
+
+
+CONTRAINDICATIONS
+
+
+Lidocaine hydrochloride is contraindicated in patients with a known history of hypersensitivity to local anesthetics of the amide type. Lidocaine should not be used in patients with Stokes-Adams syndrome, Wolff-Parkinson-White syndrome, or with severe degrees of sinoatrial, atrioventricular, or intraventricular block.
+Solutions containing dextrose may be contraindicated in patients with known allergy to corn or corn products.
+
+
+WARNINGS
+
+Constant monitoring with an electrocardiograph is essential to the proper administration of lidocaine hydrochloride intravenously. Signs of excessive depression of cardiac conductivity, such as prolongation of the PR interval, widening of the QRS interval and the appearance or aggravation of arrhythmias, should be followed by prompt cessation of the intravenous infusion of this agent. It is mandatory to have emergency resuscitative equipment and drugs immediately available to manage adverse reactions involving cardiovascular, respiratory, or central nervous systems.
+Occasional acceleration of ventricular rate may occur when lidocaine hydrochloride is administered to patients with atrial fibrillation. Evidence for proper usage in children is limited.
+Anaphylactic reactions may occur following administration of lidocaine hydrochloride. (See ADVERSE REACTIONS).
+In the case of severe reaction, discontinue the use of the drug.
+Administer Lidocaine Hydrochloride and 5% Dextrose Injection, USP only with a calibrated infusion device.
+
+
+PRECAUTIONS
+
+
+General:
+
+Caution should be employed in the repeated use of lidocaine hydrochloride in patients with severe liver or renal disease because accumulation may occur and lead to toxic phenomena, since lidocaine hydrochloride is metabolized mainly in the liver and excreted by the kidneys. The drug should also be used with caution in patients with hypovolemia and shock, and in all forms of heart block (see Contraindications and Warnings).
+In patients with sinus bradycardia or incomplete heart block, the administration of lidocaine hydrochloride intravenously for the elimination of ventricular ectopic beats without prior acceleration in heart rate (e.g., by isoproterenol or by electric pacing) may promote more frequent and serious ventricular arrhythmias or complete heart block (see Contraindications).
+Most potent anesthetic agents, local anesthetics of the amide type, which includes lidocaine, and muscle relaxants of both depolarizing and non-depolarizing types, have been associated with malignant hyperthermia.
+Care should be taken in the administration of intravenous fluids in patients with compromised myocardial function to avoid fluid overload or disturbances of serum electrolyte concentrations which might interfere with cardiac conduction or result in congestive heart failure.
+Do not administer unless solution is clear and seal is intact.
+
+Laboratory Tests:
+
+Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance, electrolyte concentrations, and acid-base balance during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation.
+
+Drug Interactions:
+
+Lidocaine should be used with caution in patients with digitalis toxicity accompanied by atrioventricular block (see Contraindications).
+Coadministration of propranolol or cimetidine with lidocaine has been reported to reduce the clearance of lidocaine from the plasma and may result in toxic accumulation of the drug.
+When lidocaine is administered with other antiarrhythmic drugs such as amiodarone, phenytoin, procainamide, propranolol or quinidine, the cardiac effects may be additive or antagonistic and toxic effects may be additive. Phenytoin may stimulate the hepatic metabolism of lidocaine, but the clinical significance of this effect is not known.
+
+Carcinogenesis, Mutagenesis, and Impairment of Fertility:
+
+Long term animal studies have not been performed to evaluate carcinogenic potential, mutagenic potential or the effect on fertility of lidocaine hydrochloride.
+
+Pregnancy:
+
+
+Teratogenic Effects: Pregnancy Category B
+
+Reproduction studies have been performed in rats at doses up to five times the maximum human dose and have revealed no significant findings. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, lidocaine hydrochloride should be used during pregnancy only if clearly needed.
+
+Nursing Mothers:
+
+It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when lidocaine hydrochloride is administered to a nursing woman.
+
+Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+Clinical studies of Lidocaine Hydrochloride did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+

@@ -1,0 +1,9 @@
+drug pair    SemMedDB    ONCNonInteruptive
+http://bio2rdf.org/drugbank:DB01234-http://bio2rdf.org/drugbank:DB00981    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00945-http://bio2rdf.org/drugbank:DB01197    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01197-http://bio2rdf.org/drugbank:DB00999    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00999-http://bio2rdf.org/drugbank:DB00328    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00158-http://bio2rdf.org/drugbank:DB00563    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00945-http://bio2rdf.org/drugbank:DB00999    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00999-http://bio2rdf.org/drugbank:DB00584    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB01197-http://bio2rdf.org/drugbank:DB00328    [(None, None)]    [(None, None)]

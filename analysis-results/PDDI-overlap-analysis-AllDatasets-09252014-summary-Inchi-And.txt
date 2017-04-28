@@ -1,0 +1,1106 @@
+  DIKB TO DrugBank
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      DrugBank: 12113 
+
+    Overlap DIKB predicted + observed to DrugBank: 189 
+           (0.337 of DIKB,0.016 of DrugBank) 
+           
+    Overlap DIKB predicted to DrugBank: 176 
+           (0.335 of DIKB,0.015 of DrugBank) 
+    
+    Overlap DIKB observed to DrugBank: 43 
+           (0.531 of DIKB,0.004 of DrugBank) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO Twosides
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      Twosides: 9921 
+
+    Overlap DIKB predicted + observed to Twosides: 69 
+           (0.123 of DIKB,0.007 of Twosides) 
+           
+    Overlap DIKB predicted to Twosides: 67 
+           (0.128 of DIKB,0.007 of Twosides) 
+    
+    Overlap DIKB observed to Twosides: 7 
+           (0.086 of DIKB,0.001 of Twosides) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO NDFRT
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      NDFRT: 1868 
+
+    Overlap DIKB predicted + observed to NDFRT: 79 
+           (0.141 of DIKB,0.042 of NDFRT) 
+           
+    Overlap DIKB predicted to NDFRT: 72 
+           (0.137 of DIKB,0.039 of NDFRT) 
+    
+    Overlap DIKB observed to NDFRT: 25 
+           (0.309 of DIKB,0.013 of NDFRT) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO KEGG
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      KEGG: 26664 
+
+    Overlap DIKB predicted + observed to KEGG: 152 
+           (0.271 of DIKB,0.006 of KEGG) 
+           
+    Overlap DIKB predicted to KEGG: 139 
+           (0.265 of DIKB,0.005 of KEGG) 
+    
+    Overlap DIKB observed to KEGG: 30 
+           (0.370 of DIKB,0.001 of KEGG) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO CredibleMeds
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      CredibleMeds: 82 
+
+    Overlap DIKB predicted + observed to CredibleMeds: 21 
+           (0.037 of DIKB,0.256 of CredibleMeds) 
+           
+    Overlap DIKB predicted to CredibleMeds: 19 
+           (0.036 of DIKB,0.232 of CredibleMeds) 
+    
+    Overlap DIKB observed to CredibleMeds: 6 
+           (0.074 of DIKB,0.073 of CredibleMeds) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO DDICorpus2011
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      DDICorpus2011: 298 
+
+    Overlap DIKB predicted + observed to DDICorpus2011: 8 
+           (0.014 of DIKB,0.027 of DDICorpus2011) 
+           
+    Overlap DIKB predicted to DDICorpus2011: 8 
+           (0.015 of DIKB,0.027 of DDICorpus2011) 
+    
+    Overlap DIKB observed to DDICorpus2011: 2 
+           (0.025 of DIKB,0.007 of DDICorpus2011) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO DDICorpus2013
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      DDICorpus2013: 622 
+
+    Overlap DIKB predicted + observed to DDICorpus2013: 16 
+           (0.029 of DIKB,0.026 of DDICorpus2013) 
+           
+    Overlap DIKB predicted to DDICorpus2013: 11 
+           (0.021 of DIKB,0.018 of DDICorpus2013) 
+    
+    Overlap DIKB observed to DDICorpus2013: 8 
+           (0.099 of DIKB,0.013 of DDICorpus2013) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO NLMCorpus
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      NLMCorpus: 186 
+
+    Overlap DIKB predicted + observed to NLMCorpus: 4 
+           (0.007 of DIKB,0.022 of NLMCorpus) 
+           
+    Overlap DIKB predicted to NLMCorpus: 4 
+           (0.008 of DIKB,0.022 of NLMCorpus) 
+    
+    Overlap DIKB observed to NLMCorpus: 0 
+           (0.000 of DIKB,0.000 of NLMCorpus) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO PKCorpus
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      PKCorpus: 134 
+
+    Overlap DIKB predicted + observed to PKCorpus: 14 
+           (0.025 of DIKB,0.104 of PKCorpus) 
+           
+    Overlap DIKB predicted to PKCorpus: 11 
+           (0.021 of DIKB,0.082 of PKCorpus) 
+    
+    Overlap DIKB observed to PKCorpus: 11 
+           (0.136 of DIKB,0.082 of PKCorpus) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO ONCHighPriority
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      ONCHighPriority: 1150 
+
+    Overlap DIKB predicted + observed to ONCHighPriority: 33 
+           (0.059 of DIKB,0.029 of ONCHighPriority) 
+           
+    Overlap DIKB predicted to ONCHighPriority: 33 
+           (0.063 of DIKB,0.029 of ONCHighPriority) 
+    
+    Overlap DIKB observed to ONCHighPriority: 4 
+           (0.049 of DIKB,0.003 of ONCHighPriority) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO ONCNonInteruptive
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      ONCNonInteruptive: 2101 
+
+    Overlap DIKB predicted + observed to ONCNonInteruptive: 0 
+           (0.000 of DIKB,0.000 of ONCNonInteruptive) 
+           
+    Overlap DIKB predicted to ONCNonInteruptive: 0 
+           (0.000 of DIKB,0.000 of ONCNonInteruptive) 
+    
+    Overlap DIKB observed to ONCNonInteruptive: 0 
+           (0.000 of DIKB,0.000 of ONCNonInteruptive) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO OSCAR
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      OSCAR: 7969 
+
+    Overlap DIKB predicted + observed to OSCAR: 7 
+           (0.012 of DIKB,0.001 of OSCAR) 
+           
+    Overlap DIKB predicted to OSCAR: 5 
+           (0.010 of DIKB,0.001 of OSCAR) 
+    
+    Overlap DIKB observed to OSCAR: 4 
+           (0.049 of DIKB,0.001 of OSCAR) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+  DIKB TO SemMedDB
+     
+    Number of PDDIs: 
+      DIKB predicted + observed: 561  
+      DIKB predicted: 525 
+      DIKB observed: 81 
+      SemMedDB: 3952 
+
+    Overlap DIKB predicted + observed to SemMedDB: 2 
+           (0.004 of DIKB,0.001 of SemMedDB) 
+           
+    Overlap DIKB predicted to SemMedDB: 2 
+           (0.004 of DIKB,0.001 of SemMedDB) 
+    
+    Overlap DIKB observed to SemMedDB: 0 
+           (0.000 of DIKB,0.000 of SemMedDB) 
+                
+ ------------------------------------------------------------------------------------------        
+    
+ DrugBank TO Twosides
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      Twosides: 9921 
+
+    Overlap DrugBank to Twosides: 289 
+           (0.024 of DrugBank,0.029 of Twosides) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO NDFRT
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      NDFRT: 1868 
+
+    Overlap DrugBank to NDFRT: 969 
+           (0.080 of DrugBank,0.519 of NDFRT) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO KEGG
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      KEGG: 26664 
+
+    Overlap DrugBank to KEGG: 2143 
+           (0.177 of DrugBank,0.080 of KEGG) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO CredibleMeds
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      CredibleMeds: 82 
+
+    Overlap DrugBank to CredibleMeds: 57 
+           (0.005 of DrugBank,0.695 of CredibleMeds) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO DDICorpus2011
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      DDICorpus2011: 298 
+
+    Overlap DrugBank to DDICorpus2011: 85 
+           (0.007 of DrugBank,0.285 of DDICorpus2011) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO DDICorpus2013
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      DDICorpus2013: 622 
+
+    Overlap DrugBank to DDICorpus2013: 181 
+           (0.015 of DrugBank,0.291 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO NLMCorpus
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      NLMCorpus: 186 
+
+    Overlap DrugBank to NLMCorpus: 72 
+           (0.006 of DrugBank,0.387 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO PKCorpus
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      PKCorpus: 134 
+
+    Overlap DrugBank to PKCorpus: 57 
+           (0.005 of DrugBank,0.425 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO ONCHighPriority
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      ONCHighPriority: 1150 
+
+    Overlap DrugBank to ONCHighPriority: 319 
+           (0.026 of DrugBank,0.277 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      ONCNonInteruptive: 2101 
+
+    Overlap DrugBank to ONCNonInteruptive: 180 
+           (0.015 of DrugBank,0.086 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO OSCAR
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      OSCAR: 7969 
+
+    Overlap DrugBank to OSCAR: 490 
+           (0.040 of DrugBank,0.061 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DrugBank TO SemMedDB
+
+    Number of PDDIs: 
+      DrugBank: 12113 
+      SemMedDB: 3952 
+
+    Overlap DrugBank to SemMedDB: 150 
+           (0.012 of DrugBank,0.038 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO Twosides
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      Twosides: 9921 
+
+    Overlap NDFRT to Twosides: 73 
+           (0.039 of NDFRT,0.007 of Twosides) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO KEGG
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      KEGG: 26664 
+
+    Overlap NDFRT to KEGG: 594 
+           (0.318 of NDFRT,0.022 of KEGG) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO CredibleMeds
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      CredibleMeds: 82 
+
+    Overlap NDFRT to CredibleMeds: 12 
+           (0.006 of NDFRT,0.146 of CredibleMeds) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO DDICorpus2011
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      DDICorpus2011: 298 
+
+    Overlap NDFRT to DDICorpus2011: 57 
+           (0.031 of NDFRT,0.191 of DDICorpus2011) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO DDICorpus2013
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      DDICorpus2013: 622 
+
+    Overlap NDFRT to DDICorpus2013: 106 
+           (0.057 of NDFRT,0.170 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO NLMCorpus
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      NLMCorpus: 186 
+
+    Overlap NDFRT to NLMCorpus: 27 
+           (0.014 of NDFRT,0.145 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO PKCorpus
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      PKCorpus: 134 
+
+    Overlap NDFRT to PKCorpus: 37 
+           (0.020 of NDFRT,0.276 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO ONCHighPriority
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      ONCHighPriority: 1150 
+
+    Overlap NDFRT to ONCHighPriority: 186 
+           (0.100 of NDFRT,0.162 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      ONCNonInteruptive: 2101 
+
+    Overlap NDFRT to ONCNonInteruptive: 21 
+           (0.011 of NDFRT,0.010 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO OSCAR
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      OSCAR: 7969 
+
+    Overlap NDFRT to OSCAR: 145 
+           (0.078 of NDFRT,0.018 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NDFRT TO SemMedDB
+
+    Number of PDDIs: 
+      NDFRT: 1868 
+      SemMedDB: 3952 
+
+    Overlap NDFRT to SemMedDB: 69 
+           (0.037 of NDFRT,0.017 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO KEGG
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      KEGG: 26664 
+
+    Overlap Twosides to KEGG: 724 
+           (0.073 of Twosides,0.027 of KEGG) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO CredibleMeds
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      CredibleMeds: 82 
+
+    Overlap Twosides to CredibleMeds: 0 
+           (0.000 of Twosides,0.000 of CredibleMeds) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO DDICorpus2011
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      DDICorpus2011: 298 
+
+    Overlap Twosides to DDICorpus2011: 12 
+           (0.001 of Twosides,0.040 of DDICorpus2011) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO DDICorpus2013
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      DDICorpus2013: 622 
+
+    Overlap Twosides to DDICorpus2013: 23 
+           (0.002 of Twosides,0.037 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO NLMCorpus
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      NLMCorpus: 186 
+
+    Overlap Twosides to NLMCorpus: 5 
+           (0.001 of Twosides,0.027 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO PKCorpus
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      PKCorpus: 134 
+
+    Overlap Twosides to PKCorpus: 9 
+           (0.001 of Twosides,0.067 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO ONCHighPriority
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      ONCHighPriority: 1150 
+
+    Overlap Twosides to ONCHighPriority: 25 
+           (0.003 of Twosides,0.022 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      ONCNonInteruptive: 2101 
+
+    Overlap Twosides to ONCNonInteruptive: 40 
+           (0.004 of Twosides,0.019 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO OSCAR
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      OSCAR: 7969 
+
+    Overlap Twosides to OSCAR: 101 
+           (0.010 of Twosides,0.013 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ Twosides TO SemMedDB
+
+    Number of PDDIs: 
+      Twosides: 9921 
+      SemMedDB: 3952 
+
+    Overlap Twosides to SemMedDB: 51 
+           (0.005 of Twosides,0.013 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO CredibleMeds
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      CredibleMeds: 82 
+
+    Overlap KEGG to CredibleMeds: 27 
+           (0.001 of KEGG,0.329 of CredibleMeds) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO DDICorpus2011
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      DDICorpus2011: 298 
+
+    Overlap KEGG to DDICorpus2011: 94 
+           (0.004 of KEGG,0.315 of DDICorpus2011) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO DDICorpus2013
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      DDICorpus2013: 622 
+
+    Overlap KEGG to DDICorpus2013: 182 
+           (0.007 of KEGG,0.293 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO NLMCorpus
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      NLMCorpus: 186 
+
+    Overlap KEGG to NLMCorpus: 83 
+           (0.003 of KEGG,0.446 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO PKCorpus
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      PKCorpus: 134 
+
+    Overlap KEGG to PKCorpus: 57 
+           (0.002 of KEGG,0.425 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO ONCHighPriority
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      ONCHighPriority: 1150 
+
+    Overlap KEGG to ONCHighPriority: 159 
+           (0.006 of KEGG,0.138 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      ONCNonInteruptive: 2101 
+
+    Overlap KEGG to ONCNonInteruptive: 511 
+           (0.019 of KEGG,0.243 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO OSCAR
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      OSCAR: 7969 
+
+    Overlap KEGG to OSCAR: 844 
+           (0.032 of KEGG,0.106 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ KEGG TO SemMedDB
+
+    Number of PDDIs: 
+      KEGG: 26664 
+      SemMedDB: 3952 
+
+    Overlap KEGG to SemMedDB: 403 
+           (0.015 of KEGG,0.102 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO DDICorpus2011
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      DDICorpus2011: 298 
+
+    Overlap CredibleMeds to DDICorpus2011: 1 
+           (0.012 of CredibleMeds,0.003 of DDICorpus2011) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO DDICorpus2013
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      DDICorpus2013: 622 
+
+    Overlap CredibleMeds to DDICorpus2013: 2 
+           (0.024 of CredibleMeds,0.003 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO NLMCorpus
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      NLMCorpus: 186 
+
+    Overlap CredibleMeds to NLMCorpus: 3 
+           (0.037 of CredibleMeds,0.016 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO PKCorpus
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      PKCorpus: 134 
+
+    Overlap CredibleMeds to PKCorpus: 0 
+           (0.000 of CredibleMeds,0.000 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO ONCHighPriority
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      ONCHighPriority: 1150 
+
+    Overlap CredibleMeds to ONCHighPriority: 8 
+           (0.098 of CredibleMeds,0.007 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      ONCNonInteruptive: 2101 
+
+    Overlap CredibleMeds to ONCNonInteruptive: 4 
+           (0.049 of CredibleMeds,0.002 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO OSCAR
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      OSCAR: 7969 
+
+    Overlap CredibleMeds to OSCAR: 23 
+           (0.280 of CredibleMeds,0.003 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ CredibleMeds TO SemMedDB
+
+    Number of PDDIs: 
+      CredibleMeds: 82 
+      SemMedDB: 3952 
+
+    Overlap CredibleMeds to SemMedDB: 0 
+           (0.000 of CredibleMeds,0.000 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO DDICorpus2013
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      DDICorpus2013: 622 
+
+    Overlap DDICorpus2011 to DDICorpus2013: 276 
+           (0.926 of DDICorpus2011,0.444 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO NLMCorpus
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      NLMCorpus: 186 
+
+    Overlap DDICorpus2011 to NLMCorpus: 20 
+           (0.067 of DDICorpus2011,0.108 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO PKCorpus
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      PKCorpus: 134 
+
+    Overlap DDICorpus2011 to PKCorpus: 13 
+           (0.044 of DDICorpus2011,0.097 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO ONCHighPriority
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      ONCHighPriority: 1150 
+
+    Overlap DDICorpus2011 to ONCHighPriority: 2 
+           (0.007 of DDICorpus2011,0.002 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      ONCNonInteruptive: 2101 
+
+    Overlap DDICorpus2011 to ONCNonInteruptive: 1 
+           (0.003 of DDICorpus2011,0.000 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO OSCAR
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      OSCAR: 7969 
+
+    Overlap DDICorpus2011 to OSCAR: 30 
+           (0.101 of DDICorpus2011,0.004 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2011 TO SemMedDB
+
+    Number of PDDIs: 
+      DDICorpus2011: 298 
+      SemMedDB: 3952 
+
+    Overlap DDICorpus2011 to SemMedDB: 27 
+           (0.091 of DDICorpus2011,0.007 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2013 TO NLMCorpus
+
+    Number of PDDIs: 
+      DDICorpus2013: 622 
+      NLMCorpus: 186 
+
+    Overlap DDICorpus2013 to NLMCorpus: 34 
+           (0.055 of DDICorpus2013,0.183 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2013 TO PKCorpus
+
+    Number of PDDIs: 
+      DDICorpus2013: 622 
+      PKCorpus: 134 
+
+    Overlap DDICorpus2013 to PKCorpus: 20 
+           (0.032 of DDICorpus2013,0.149 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2013 TO ONCHighPriority
+
+    Number of PDDIs: 
+      DDICorpus2013: 622 
+      ONCHighPriority: 1150 
+
+    Overlap DDICorpus2013 to ONCHighPriority: 8 
+           (0.013 of DDICorpus2013,0.007 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2013 TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      DDICorpus2013: 622 
+      ONCNonInteruptive: 2101 
+
+    Overlap DDICorpus2013 to ONCNonInteruptive: 2 
+           (0.003 of DDICorpus2013,0.001 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2013 TO OSCAR
+
+    Number of PDDIs: 
+      DDICorpus2013: 622 
+      OSCAR: 7969 
+
+    Overlap DDICorpus2013 to OSCAR: 44 
+           (0.071 of DDICorpus2013,0.006 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ DDICorpus2013 TO SemMedDB
+
+    Number of PDDIs: 
+      DDICorpus2013: 622 
+      SemMedDB: 3952 
+
+    Overlap DDICorpus2013 to SemMedDB: 37 
+           (0.059 of DDICorpus2013,0.009 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NLMCorpus TO PKCorpus
+
+    Number of PDDIs: 
+      NLMCorpus: 186 
+      PKCorpus: 134 
+
+    Overlap NLMCorpus to PKCorpus: 16 
+           (0.086 of NLMCorpus,0.119 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NLMCorpus TO ONCHighPriority
+
+    Number of PDDIs: 
+      NLMCorpus: 186 
+      ONCHighPriority: 1150 
+
+    Overlap NLMCorpus to ONCHighPriority: 6 
+           (0.032 of NLMCorpus,0.005 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NLMCorpus TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      NLMCorpus: 186 
+      ONCNonInteruptive: 2101 
+
+    Overlap NLMCorpus to ONCNonInteruptive: 2 
+           (0.011 of NLMCorpus,0.001 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NLMCorpus TO OSCAR
+
+    Number of PDDIs: 
+      NLMCorpus: 186 
+      OSCAR: 7969 
+
+    Overlap NLMCorpus to OSCAR: 23 
+           (0.124 of NLMCorpus,0.003 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ NLMCorpus TO SemMedDB
+
+    Number of PDDIs: 
+      NLMCorpus: 186 
+      SemMedDB: 3952 
+
+    Overlap NLMCorpus to SemMedDB: 29 
+           (0.156 of NLMCorpus,0.007 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ PKCorpus TO ONCHighPriority
+
+    Number of PDDIs: 
+      PKCorpus: 134 
+      ONCHighPriority: 1150 
+
+    Overlap PKCorpus to ONCHighPriority: 1 
+           (0.007 of PKCorpus,0.001 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ PKCorpus TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      PKCorpus: 134 
+      ONCNonInteruptive: 2101 
+
+    Overlap PKCorpus to ONCNonInteruptive: 1 
+           (0.007 of PKCorpus,0.000 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ PKCorpus TO OSCAR
+
+    Number of PDDIs: 
+      PKCorpus: 134 
+      OSCAR: 7969 
+
+    Overlap PKCorpus to OSCAR: 19 
+           (0.142 of PKCorpus,0.002 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ PKCorpus TO SemMedDB
+
+    Number of PDDIs: 
+      PKCorpus: 134 
+      SemMedDB: 3952 
+
+    Overlap PKCorpus to SemMedDB: 12 
+           (0.090 of PKCorpus,0.003 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ ONCHighPriority TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      ONCHighPriority: 1150 
+      ONCNonInteruptive: 2101 
+
+    Overlap ONCHighPriority to ONCNonInteruptive: 2 
+           (0.002 of ONCHighPriority,0.001 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ ONCHighPriority TO OSCAR
+
+    Number of PDDIs: 
+      ONCHighPriority: 1150 
+      OSCAR: 7969 
+
+    Overlap ONCHighPriority to OSCAR: 44 
+           (0.038 of ONCHighPriority,0.006 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ ONCHighPriority TO SemMedDB
+
+    Number of PDDIs: 
+      ONCHighPriority: 1150 
+      SemMedDB: 3952 
+
+    Overlap ONCHighPriority to SemMedDB: 12 
+           (0.010 of ONCHighPriority,0.003 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ ONCNonInteruptive TO OSCAR
+
+    Number of PDDIs: 
+      ONCNonInteruptive: 2101 
+      OSCAR: 7969 
+
+    Overlap ONCNonInteruptive to OSCAR: 861 
+           (0.410 of ONCNonInteruptive,0.108 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ ONCNonInteruptive TO SemMedDB
+
+    Number of PDDIs: 
+      ONCNonInteruptive: 2101 
+      SemMedDB: 3952 
+
+    Overlap ONCNonInteruptive to SemMedDB: 8 
+           (0.004 of ONCNonInteruptive,0.002 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ OSCAR TO SemMedDB
+
+    Number of PDDIs: 
+      OSCAR: 7969 
+      SemMedDB: 3952 
+
+    Overlap OSCAR to SemMedDB: 124 
+           (0.016 of OSCAR,0.031 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+

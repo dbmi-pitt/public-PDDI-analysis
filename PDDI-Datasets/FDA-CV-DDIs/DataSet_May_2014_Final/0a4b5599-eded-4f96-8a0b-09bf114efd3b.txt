@@ -1,0 +1,162 @@
+MOEXIPRIL HYDROCHLORIDE tablet, film coated 
+
+Moexipril Hydrochloride Tablets, the hydrochloride salt of moexipril, have the empirical formula C27H34N2O7-HCl and a molecular weight of 535.04.
+
+CONTRAINDICATIONS
+
+Moexipril Hydrochloride Tablets are contraindicated in patients who are hypersensitive to this product and in patients with a history of angioedema related to previous treatment with an ACE inhibitor.
+
+WARNINGS
+
+Anaphylactoid And Possibly Related Reactions
+
+Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors, including moexipril, may be subject to a variety of adverse reactions, some of them serious.
+
+Head And Neck Angioedema
+
+Angioedema involving the face, extremities, lips, tongue, glottis, and/or larynx has been reported in patients treated with ACE inhibitors, including moexipril. Symptoms suggestive of angioedema or facial edema occurred in <0.5% of moexipril-treated patients in placebo-controlled trials. None of the cases were considered life-threatening and all resolved either without treatment or with medication (antihistamines or glucocorticoids). One patient treated with hydrochlorothiazide alone experienced laryngeal edema. No instances of angioedema were reported in placebo-treated patients.
+
+In cases of angioedema, treatment should be promptly discontinued and the patient carefully observed until the swelling disappears. In instances where swelling has been confined to the face and lips, the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
+
+Angioedema associated with involvement of the tongue, glottis, or larynx, may be fatal due to airway obstruction. Appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 mL) and/or measures to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
+
+Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+Anaphylactoid Reactions During Desensitization
+
+Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions did not occur when ACE inhibitors were temporarily withheld, but they reappeared when the ACE inhibitors were inadvertently readministered.
+
+Anaphylactoid Reactions During Membrane Exposure
+
+Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+Hypotension
+
+Moexipril can cause symptomatic hypotension, although, as with other ACE inhibitors, this is unusual in uncomplicated hypertensive patients treated with moexipril alone. Symptomatic hypotension was seen in 0.5% of patients given moexipril and led to discontinuation of therapy in about 0.25%. Symptomatic hypotension is most likely to occur in patients who have been salt- and volume-depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Volume- and salt-depletion should be corrected and, in general, diuretics stopped, before initiating therapy with moexipril (see PRECAUTIONS, Drug Interactions, and ADVERSE REACTIONS).
+
+In patients with congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria or progressive azotemia, and rarely, with acute renal failure and death. In these patients, moexipril therapy should be started under close medical supervision, and patients should be followed closely for the first two weeks of treatment and whenever the dose of moexipril or an accompanying diuretic is increased. Care in avoiding hypotension should also be taken in patients with ischemic heart disease, aortic stenosis, or cerebrovascular disease, in whom an excessive decrease in blood pressure could result in a myocardial infarction or a cerebrovascular accident.
+
+If hypotension occurs, the patient should be placed in a supine position and, if necessary, treated with an intravenous infusion of normal saline. Moexipril treatment usually can be continued following restoration of blood pressure and volume.
+
+Neutropenia/Agranulocytosis
+
+Another ACE inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in patients with uncomplicated hypertension, but more frequently in hypertensive patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma. Although there were no instances of severe neutropenia (absolute neutrophil count <500/mm3) among patients given moexipril, as with other ACE inhibitors, monitoring of white blood cell counts should be considered for patients who have collagen-vascular disease, especially if the disease is associated with impaired renal function. Available data from clinical trials of moexipril are insufficient to show that moexipril does not cause agranulocytosis at rates similar to captopril.
+
+Fetal/Neonatal Morbidity And Mortality
+
+ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women. Several dozen cases have been reported in the world literature. When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
+
+The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death. Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development. Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these were caused by the ACE inhibitor exposure.
+
+Fetal and neonatal morbidity do not appear to have resulted from intrauterine ACE inhibitor exposure limited to the first trimester. Mothers who have used ACE inhibitors only during the first trimester should be informed of this. Nonetheless, when patients become pregnant, physicians should make every effort to discontinue the use of moexipril as soon as possible. Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found. In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
+
+If oligohydramnios is observed, moexipril should be discontinued unless it is considered life-saving for the mother. Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not be detected until after the fetus has sustained irreversible injury.
+
+Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension, oliguria, and hyperkalemia. If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion. Exchange transfusion or peritoneal dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
+
+Theoretically, the ACE inhibitor could be removed from the neonatal circulation by exchange transfusion, but no experience with this procedure has been reported.
+
+No embryotoxic, fetotoxic, or teratogenic effects were seen in rats or in rabbits treated with up to 90.9 and 0.7 times, respectively, the Maximum Recommended Human Dose (MRHD) on a mg/m2 basis.
+
+Hepatic Failure
+
+Rarely, ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and sometimes death. The mechanism of this syndrome is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
+
+PRECAUTIONS
+
+General
+
+Impaired Renal Function
+
+As a consequence of inhibition of the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. There is no clinical experience of moexipril in the treatment of hypertension in patients with renal failure.
+
+Some hypertensive patients with no apparent preexisting renal vascular disease have developed increases in blood urea nitrogen and serum creatinine, usually minor and transient, especially when moexipril has been given concomitantly with a thiazide diuretic. This is more likely to occur in patients with preexisting renal impairment. There may be a need for dose adjustment of moexipril and/or the discontinuation of the thiazide diuretic.
+
+Evaluation of hypertensive patients should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
+
+Hypertensive Patients With Congestive Heart Failure
+
+In hypertensive patients with severe congestive heart failure, whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors, including moexipril, may be associated with oliguria and/or progressive azotemia and, rarely, acute renal failure and/or death.
+
+Hypertensive Patients With Renal Artery Stenosis
+
+In hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine have been observed in some patients following ACE inhibitor therapy. These increases were almost always reversible upon discontinuation of the ACE inhibitor and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+
+Hyperkalemia
+
+In clinical trials, persistent hyperkalemia (serum potassium above 5.4 mEq/L) occurred in approximately 1.3% of hypertensive patients receiving moexipril. Risk factors for the development of hyperkalemia with ACE inhibitors include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with moexipril (see PRECAUTIONS, Drug Interactions).
+
+Surgery/Anesthesia
+
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, moexipril may block the effects of compensatory renin release. If hypotension occurs in this setting and is considered to be due to this mechanism, it can be corrected by volume expansion.
+
+Cough
+
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy. ACE inhibitor-induced cough should be considered in the differential diagnosis of cough. In controlled trials with moexipril, cough was present in 6.1% of moexipril patients and 2.2% of patients given placebo.
+
+Information For Patients
+
+Food
+
+Patients should be advised to take moexipril one hour before meals (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+
+Angioedema
+
+Angioedema, including laryngeal edema, may occur with treatment with ACE inhibitors, usually occurring early in therapy (within the first month). Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of the face, extremities, eyes, lips, tongue, difficulty in breathing) and to take no more moexipril until they have consulted with the prescribing physician.
+
+Symptomatic Hypotension
+
+Patients should be cautioned that lightheadedness can occur with moexipril, especially during the first few days of therapy. If fainting occurs, the patient should stop taking moexipril and consult the prescribing physician.
+
+All patients should be cautioned that excessive perspiration and dehydration may lead to an excessive fall in blood pressure because of reduction in fluid volume. Other causes of volume depletion such as vomiting or diarrhea may also lead to a fall in blood pressure; patients should be advised to consult their physician if they develop these conditions.
+
+Hyperkalemia
+
+Patients should be told not to use potassium supplements or salt substitutes containing potassium without consulting their physician.
+
+Neutropenia
+
+Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) that could be a sign of neutropenia.
+
+Pregnancy
+
+Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to ACE inhibitors and should also be told that these consequences do not appear to have resulted from intrauterine ACE inhibitor exposure that has been limited to the first trimester. Patients should be asked to report pregnancies to their physicians as soon as possible.
+
+Drug Interactions
+
+Diuretics
+
+Excessive reductions in blood pressure may occur in patients on diuretic therapy when ACE inhibitors are started. The possibility of hypotensive effects with moexipril can be minimized by discontinuing diuretic therapy for several days or cautiously increasing salt intake before initiation of treatment with moexipril. If this is not possible, the starting dose of moexipril should be reduced. (See WARNINGS and DOSAGE AND ADMINISTRATION).
+
+Potassium Supplements And Potassium-Sparing Diuretics
+
+Moexipril can increase serum potassium because it decreases aldosterone secretion. Use of potassium-sparing diuretics (spironolactone, triamterene, amiloride) or potassium supplements concomitantly with ACE inhibitors can increase the risk of hyperkalemia. Therefore, if concomitant use of such agents is indicated, they should be given with caution and the patient's serum potassium should be monitored.
+
+Oral Anticoagulants
+
+Interaction studies with warfarin failed to identify any clinically important effect on the serum concentrations of the anticoagulant or on its anticoagulant effect.
+
+Lithium
+
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium. These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of lithium toxicity may be increased.
+
+Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting, and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including Moexipril Hydrochloride Tablets.
+
+Other Agents
+
+No clinically important pharmacokinetic interactions occurred when moexipril was administered concomitantly with hydrochlorothiazide, digoxin, or cimetidine.
+
+Moexipril has been used in clinical trials concomitantly with calcium-channel-blocking agents, diuretics, H2 blockers, digoxin, oral hypoglycemic agents, and cholesterol-lowering agents. There was no evidence of clinically important adverse interactions.
+
+DOSAGE AND ADMINISTRATION
+
+Hypertension
+
+The recommended initial dose of moexipril in patients not receiving diuretics is 7.5 mg, one hour prior to meals, once daily. Dosage should be adjusted according to blood pressure response. The antihypertensive effect of moexipril may diminish towards the end of the dosing interval. Blood pressure should, therefore, be measured just prior to dosing to determine whether satisfactory blood pressure control is obtained. If control is not adequate, increased dose or divided dosing can be tried. The recommended dose range is 7.5 to 30 mg daily, administered in one or two divided doses one hour before meals. Total daily doses above 60 mg a day have not been studied in hypertensive patients.
+
+In patients who are currently being treated with a diuretic, symptomatic hypotension may occasionally occur following the initial dose of moexipril. The diuretic should, if possible, be discontinued for 2 to 3 days before therapy with moexipril is begun, to reduce the likelihood of hypotension (see WARNINGS). If the patient's blood pressure is not controlled with moexipril alone, diuretic therapy may then be reinstituted. If diuretic therapy cannot be discontinued, an initial dose of 3.75 mg of moexipril should be used with medical supervision until blood pressure has stabilized (see WARNINGS and PRECAUTIONS, Drug Interactions).
+

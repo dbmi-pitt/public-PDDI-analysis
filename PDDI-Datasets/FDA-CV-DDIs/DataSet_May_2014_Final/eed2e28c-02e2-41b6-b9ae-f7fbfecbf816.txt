@@ -1,0 +1,122 @@
+Drug Label for drug brand Valturna, containing aliskiren hemifumarate and valsartan.
+
+
+WARNING: FETAL TOXICITY
+
+
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Valturna as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+See full prescribing information for complete boxed warning.
+ <list>
+ <item>
+ <item>When pregnancy is detected, discontinue Valturna as soon as possible. (5.1)
+ <item>
+ <item>Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. (5.1)
+ <item>
+ </list>
+
+
+
+4 C O NTRAINDICATIONS
+
+Do not use in patients with diabetes see Warnings (5.2), Clinical Trials (14.2).
+Do not use in patients with diabetes (4)
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Avoid use in patients with renal impairment (GFR 60 ml/min) (5.2).
+ <item>
+ <item>Head and neck angioedema: Discontinue Valturna and monitor until signs and symptoms resolve. (5.3).
+ <item>
+ <item>Hypotension in volume- or salt-depleted patients: Correct imbalances before initiating therapy with Valturna. (5.4).
+ <item>
+ <item>Impaired renal function: Monitor serum creatinine periodically. (5.5).
+ <item>
+ <item>Patients with hepatic impairment: Slower clearance may occur. (5.6).
+ <item>
+ <item>Hyperkalemia: Monitor potassium levels periodically. (5.8)
+ <item>
+ </list>
+
+
+5.1 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Valturna as soon as possible. see Use in Specific Populations (8.1) 
+
+5.2 Renal Impairment/Hyperkalemia/Hypotension when Valturna is used in patients with diabetes
+
+Valturna is contraindicated in patients with diabetes because of the increased risks of renal impairment, hyperkalemia, and hypotension see Contraindications (4) and Clinical Trials (14.2).
+Avoid use of Valturna in patients with moderate renal impairment (GFR 60 ml/min).
+
+5.3 Head and Neck Angioedema
+
+Aliskiren
+Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with aliskiren and has necessitated hospitalization and intubation. This may occur at any time during treatment and has occurred in patients with and without a history of angioedema with ACE inhibitors or angiotensin receptor antagonists. If angioedema involves the throat, tongue, glottis or larynx, or if the patient has a history of upper respiratory surgery, airway obstruction may occur and be fatal. Patients who experience these effects, even without respiratory distress, require prolonged observation since treatment with antihistamines and corticosteroids may not be sufficient to prevent respiratory involvement. Prompt administration of subcutaneous epinephrine solution 1:1000 (0.3 to 0.5 ml) and measures to ensure a patent airway may be necessary.
+Discontinue aliskiren immediately in patients who develop angioedema and do not readminister.
+
+5. 4 Hypotension
+
+In patients with an activated renin-angiotensin-aldosterone system, such as volume- or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur in patients receiving renin-angiotensin-aldosterone system (RAAS) blockers. Correct these conditions prior to the administration of Valturna, or start the treatment under close medical supervision.
+Initiate therapy cautiously in patients with heart failure or recent myocardial infarction and in patients undergoing surgery or dialysis. Patients with heart failure or post-myocardial infarction patients given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed. In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients. In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
+A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
+
+5.5 Impaired Renal Function
+
+Monitor renal function periodically in patients treated with Valturna. Changes in renal function, including acute renal failure, can be caused by drugs that affect the renin-angiotensin system. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, severe heart failure, post-myocardial infarction or volume depletion) or non-steroidal anti-inflammatory (NSAID) therapy may be at particular risk for developing acute renal failure on Valturna see Contraindications (4), Warnings (5.2), Clinical Trials (14.2). Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function.
+
+5.6 Patients with Hepatic Impairment
+
+Valsartan
+As the majority of valsartan is eliminated in the bile, patients with mild-to-moderate hepatic impairment, including patients with biliary obstructive disorders, showed lower valsartan clearance (higher AUCs).
+
+5.7 Patients with Congestive Heart Failure and Post-Myocardial Infarction
+
+Some patients with heart failure have developed increases in blood urea nitrogen, serum creatinine, and potassium on valsartan. These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of the diuretic and/or valsartan may be required. In the Valsartan Heart Failure Trial, in which 93% of patients were on concomitant ACE inhibitors, treatment was discontinued for elevations in creatinine or potassium (total of 1.0% on valsartan vs. 0.2% on placebo). In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), discontinuation due to various types of renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients. Include assessment of renal function when evaluating patients with heart failure or post-myocardial infarction.
+
+5.8 Serum Electrolyte Abnormalities
+
+Monitor serum potassium periodically in patients receiving Valturna. Drugs that affect the renin-angiotensin system can cause hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes see Contraindications (4), Warnings (5.2), and Clinical Trials (14.2), NSAIDs, potassium supplements or potassium sparing diuretics.
+In the short-term controlled trials of various doses of Valturna, in patients without renal insufficiency the incidence of hyperkalemia (serum potassium 5.5 mEq/L) was about 1%-2% higher in the combination treatment group compared with the monotherapies aliskiren and valsartan, or with placebo.
+In a long-term, uncontrolled study with median treatment duration of about one year, about 4% of the patients had at least one serum potassium 5.5 mEq/L at some time during the study, about 0.8% of patients discontinued study treatment and had a high serum potassium at some point during the study. Patients with hyperkalemia were older (median age 65 vs. 55) with slightly lower mean baseline estimated creatinine clearance compared to patients without hyperkalemia. While about 25% of the hyperkalemic episodes occurred in the first two months, other initial episodes were reported throughout the study.
+
+5.9 Cyclosporine or Itraconazole
+
+When aliskiren was given with cyclosporine or itraconazole, the blood concentrations of aliskiren were significantly increased. Avoid concomitant use of aliskiren with cyclosporine or itraconazole s ee Drug Interactions (7).
+
+
+7 DRUG INTERACTIONS
+
+No drug interaction studies have been conducted with Valturna and other drugs, although studies with the individual aliskiren and valsartan components are described below.
+Cyclosporin e : Avoid co-administration of cyclosporine with aliskiren.
+Itraconazole: Avoid co-administration of itraconazole with aliskiren see Clinical Pharmacology (12.3).
+No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with aliskiren, amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin. The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+Warfarin : Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+CYP 450 Interactions : In vitro metabolism studies have indicated that CYP450 mediated drug interactions between valsartan and coadministered drugs are unlikely because of low extent of metabolism s ee Pharmacokinetics Valsartan ( 12.3).
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2. Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
+As with other drugs that block angiotensin II or its effects, concomitant use of potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+Aliskiren and Valsartan
+Non-Steroidal Anti-Inflammatory Agents(NSAIDS) including selective Cyclooxygenase-2 inhibitors (COX-2 inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors with agents that affect the renin-angiotensin system, including aliskiren and valsartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving aliskiren, valsartan and NSAID therapy.
+The antihypertensive effect may be attenuated by NSAIDS.
+ <list>
+ <item>
+ <item>Cyclosporine: Avoid concomitant use (7, 12.3).
+ <item>
+ <item>Itraconazole: Avoid concomitant use (7, 12.3)
+ <item>
+ <item>Potassium sparing diuretics, potassium supplements or salt substitutes may lead to increases in serum potassium, and in heart failure patients, increases in serum creatinine. (7)
+ <item>
+ <item>NSAID use may lead to increased risk of renal impairment and loss of antihypertensive effect (7)
+ <item>
+ </list>
+
+

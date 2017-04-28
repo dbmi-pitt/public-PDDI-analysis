@@ -1,0 +1,72 @@
+Drug Label for drug brand Veletri, containing epoprostenol sodium.
+
+
+4 CONTRAINDICATIONS
+
+
+A large study evaluating the effect of epoprostenol on survival in NYHA Class III and IV patients with congestive heart failure due to severe left ventricular systolic dysfunction was terminated after an interim analysis of 471 patients revealed a higher mortality in patients receiving epoprostenol plus conventional therapy than in those receiving conventional therapy alone. The chronic use of VELETRI in patients with congestive heart failure due to severe left ventricular systolic dysfunction is therefore contraindicated.
+Some patients with pulmonary hypertension have developed pulmonary edema during dose initiation, which may be associated with pulmonary veno-occlusive disease. VELETRI should not be used chronically in patients who develop pulmonary edema during dose initiation.
+VELETRI is also contraindicated in patients with known hypersensitivity to the drug or to structurally related compounds.
+ <list>
+ <item>
+ <item>Congestive heart failure due to severe left ventricular systolic dysfunction (4)
+ <item>
+ <item>Pulmonary edema (4)
+ <item>
+ <item>Hypersensitivity to the drug or to structurally related compounds (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>VELETRI should be used only by clinicians experienced in the diagnosis and treatment of pulmonary hypertension. (5.1)
+ <item>
+ <item>Reconstitute only as directed, with Sterile Water for Injection or Sodium Chloride 0.9% Injection.(5.1)
+ <item>
+ <item>Do not abruptly lower the dose or withdraw dosing. All dosing initiation and changes should be closely monitored. (5.3, 5.4)
+ <item>
+ </list>
+
+
+5.1 General
+
+Reconstitute VELETRI only as directed using Sterile Water for Injection, USP, or Sodium Chloride 0.9% Injection, USP. Do not mix VELETRI with any other parenteral medications or solutions prior to or during administration.
+VELETRI should be used only by clinicians experienced in the diagnosis and treatment of pulmonary hypertension. Carefully establish the diagnosis of idiopathic or heritable PAH or PAH/CTD.
+
+5.2 Dose Initiation
+
+VELETRI is a potent pulmonary and systemic vasodilator. Initiate VELETRI in a setting with adequate personnel and equipment for physiologic monitoring and emergency care. Dose initiation has been performed during right heart catheterization and without cardiac catheterization. During dose initiation, asymptomatic increases in pulmonary artery pressure coincident with increases in cardiac output occurred rarely. In such cases, consider dose reduction, but such an increase does not imply that chronic treatment is contraindicated.
+
+5.3 Chronic Use and Dose Adjustment
+
+During chronic use, deliver VELETRI continuously on an ambulatory basis through a permanent indwelling central venous catheter. Unless contraindicated, administer anticoagulant therapy to patients receiving VELETRI to reduce the risk of pulmonary thromboembolism or systemic embolism through a patent foramen ovale. To reduce the risk of infection, use aseptic technique in the reconstitution and administration of VELETRI and in routine catheter care. Because epoprostenol is metabolized rapidly, even brief interruptions in the delivery of VELETRI may result in symptoms associated with rebound pulmonary hypertension including dyspnea, dizziness, and asthenia. Intravenous therapy with VELETRI will likely be needed for prolonged periods, possibly years, so consider the patient's capacity to accept and care for a permanent intravenous catheter and infusion pump.
+Based on clinical trials, the acute hemodynamic response (reduction in pulmonary artery resistance) to epoprostenol did not correlate well with improvement in exercise tolerance or survival during chronic use of epoprostenol. Adjust dosage of VELETRI during chronic use at the first sign of recurrence or worsening of symptoms attributable to pulmonary hypertension or the occurrence of adverse events associated with epoprostenol see Dosage and Administration (2). Following dosage adjustments, monitor standing and supine blood pressure and heart rate closely for several hours.
+
+5.4 Withdrawal Effects
+
+Abrupt withdrawal (including interruptions in drug delivery) or sudden large reductions in dosage of VELETRI may result in symptoms associated with rebound pulmonary hypertension, including dyspnea, dizziness, and asthenia. In clinical trials, one Class III primary pulmonary hypertension patient's death was judged attributable to the interruption of epoprostenol. Avoid abrupt withdrawal.
+
+5.5 Sepsis
+
+See Adverse Reactions (6.1)
+
+
+7 DRUG INTERACTIONS
+
+Additional reductions in blood pressure may occur when VELETRI is administered with diuretics, antihypertensive agents, or other vasodilators. When other antiplatelet agents or anticoagulants are used concomitantly, there is the potential for VELETRI to increase the risk of bleeding. However, patients receiving infusions of epoprostenol in clinical trials were maintained on anticoagulants without evidence of increased bleeding. In clinical trials, epoprostenol was used with digoxin, diuretics, anticoagulants, oral vasodilators, and supplemental oxygen.
+In a pharmacokinetic substudy in patients with congestive heart failure receiving furosemide or digoxin in whom therapy with epoprostenol was initiated, apparent oral clearance values for furosemide (n 23) and digoxin (n 30) were decreased by 13% and 15%, respectively, on the second day of therapy and had returned to baseline values by day 87. The change in furosemide clearance value is not likely to be clinically significant. However, patients on digoxin may show elevations of digoxin concentrations after initiation of therapy with epoprostenol, which may be clinically significant in patients prone to digoxin toxicity.
+ <list>
+ <item>
+ <item>Diuretics, antihypertensive agents, or other vasodilators: reduction in blood pressure (7)
+ <item>
+ <item>Antiplatelet agents or anticoagulants: increase the risk of bleeding (7)
+ <item>
+ <item>Patients on digoxin: elevations of digoxin concentrations clinically significant in patients prone to digoxin toxicity (7)
+ <item>
+ </list>
+
+

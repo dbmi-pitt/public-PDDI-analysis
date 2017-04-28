@@ -1,0 +1,158 @@
+MULTAQ (dronedarone) tablet, film coated 
+
+Dronedarone HCl is a white fine powder that is practically insoluble in water and freely soluble in methylene chloride and methanol. 
+
+4 CONTRAINDICATIONS
+
+MULTAQ is contraindicated in patients with:
+
+    Permanent atrial fibrillation (patients in whom normal sinus rhythm will not or cannot be restored) [see Boxed Warning and Warnings and Precautions (5.2)]
+    Symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV symptoms [see Boxed Warning and Warnings and Precautions (5.1)]
+    Second- or third-degree atrioventricular (AV) block, or sick sinus syndrome (except when used in conjunction with a functioning pacemaker)
+    Bradycardia <50 bpm
+    Concomitant use of strong CYP 3A inhibitors, such as ketoconazole, itraconazole, voriconazole, cyclosporine, telithromycin, clarithromycin, nefazodone, and ritonavir [see Drug Interactions (7.2)]
+    Concomitant use of drugs or herbal products that prolong the QT interval and might increase the risk of Torsade de Pointes, such as phenothiazine anti-psychotics, tricyclic antidepressants, certain oral macrolide antibiotics, and Class I and III antiarrhythmics
+    Liver or lung toxicity related to the previous use of amiodarone
+    QTc Bazett interval ≥500 ms or PR interval >280 ms
+    Severe hepatic impairment
+    Pregnancy (Category X): MULTAQ may cause fetal harm when administered to a pregnant woman. MULTAQ is contraindicated in women who are or may become pregnant. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+    Nursing mothers [see Use in Specific Populations (8.3)]
+    Hypersensitivity to the active substance or to any of the excipients
+
+5 WARNINGS AND PRECAUTIONS
+
+5.1 Cardiovascular Death in NYHA Class IV or Decompensated Heart Failure
+
+MULTAQ is contraindicated in patients with NYHA Class IV heart failure or symptomatic heart failure with recent decompensation requiring hospitalization because it doubles the risk of death.
+
+5.2 Cardiovascular Death and Heart Failure in Permanent AF
+
+MULTAQ doubles the risk of cardiovascular death (largely arrhythmic) and heart failure events in patients with permanent AF. Patients treated with dronedarone should undergo monitoring of cardiac rhythm no less often than every 3 months. Cardiovert patients who are in atrial fibrillation (if clinically indicated) or discontinue MULTAQ. MULTAQ offers no benefit in subjects in permanent AF.
+
+5.3 Increased Risk of Stroke in Permanent AF
+
+In a placebo-controlled study in patients with permanent atrial fibrillation, dronedarone was associated with an increased risk of stroke, particularly in the first two weeks of therapy [see Clinical Studies (14.4)]. MULTAQ should only be initiated in patients in sinus rhythm who are receiving appropriate antithrombotic therapy [see Drug interactions (7.3)].
+
+5.4 New Onset or Worsening Heart Failure
+
+New onset or worsening of heart failure has been reported during treatment with MULTAQ in the postmarketing setting. In a placebo controlled study in patients with permanent AF increased rates of heart failure were observed in patients with normal left ventricular function and no history of symptomatic heart failure, as well as those with a history of heart failure or left ventricular dysfunction.
+
+Advise patients to consult a physician if they develop signs or symptoms of heart failure, such as weight gain, dependent edema, or increasing shortness of breath. If heart failure develops or worsens and requires hospitalization, discontinue MULTAQ.
+
+5.5 Liver Injury
+
+Hepatocellular liver injury, including acute liver failure requiring transplant, has been reported in patients treated with MULTAQ in the postmarketing setting. Advise patients treated with MULTAQ to report immediately symptoms suggesting hepatic injury (such as anorexia, nausea, vomiting, fever, malaise, fatigue, right upper quadrant pain, jaundice, dark urine, or itching). Consider obtaining periodic hepatic serum enzymes, especially during the first 6 months of treatment, but it is not known whether routine periodic monitoring of serum enzymes will prevent the development of severe liver injury. If hepatic injury is suspected, promptly discontinue MULTAQ and test serum enzymes, aspartate aminotransferase (AST), alanine aminotransferase (ALT) and alkaline phosphatase, as well as serum bilirubin, to establish whether there is liver injury. If liver injury is found, institute appropriate treatment and investigate the probable cause. Do not restart MULTAQ in patients without another explanation for the observed liver injury.
+
+5.6 Pulmonary Toxicity
+
+Cases of interstitial lung disease including pneumonitis and pulmonary fibrosis have been reported in patients treated with MULTAQ in the post-marketing setting [see Adverse Reactions (6.2)]. Onset of dyspnea or non-productive cough may be related to pulmonary toxicity and patients should be carefully evaluated clinically. If pulmonary toxicity is confirmed, MULTAQ should be discontinued.
+
+5.7 Hypokalemia and Hypomagnesemia with Potassium-Depleting Diuretics
+
+Hypokalemia or hypomagnesemia may occur with concomitant administration of potassium-depleting diuretics. Potassium levels should be within the normal range prior to administration of MULTAQ and maintained in the normal range during administration of MULTAQ.
+
+5.8 QT Interval Prolongation
+
+Dronedarone induces a moderate (average of about 10 ms but much greater effects have been observed) QTc (Bazett) prolongation [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)]. If the QTc Bazett interval is ≥500 ms, discontinue MULTAQ [see Contraindications (4)].
+
+5.9 Increase in Creatinine after Treatment Initiation
+
+Small increases in creatinine levels (about 0.1 mg/dL) following dronedarone treatment initiation have been shown to be a result of inhibition of creatinine's tubular secretion.
+
+The elevation has a rapid onset, reaches a plateau after 7 days and is reversible after discontinuation.
+
+Larger increases in creatinine after dronedarone initiation have been reported in the postmarketing setting. Some cases also reported increases in blood urea nitrogen. In most cases, these effects appear to be reversible upon drug discontinuation. Monitor renal function periodically.
+
+5.10 Women of Childbearing Potential
+
+Premenopausal women who have not undergone a hysterectomy or oophorectomy must use effective contraception while using MULTAQ. Dronedarone caused fetal harm in animal studies at doses equivalent to recommended human doses. Counsel women of childbearing potential regarding appropriate contraceptive choices [see Use in Specific Populations (8.1)].
+
+7 DRUG INTERACTIONS
+
+7.1 Pharmacodynamic Interactions
+
+Drugs prolonging the QT interval (inducing Torsade de Pointes)
+
+Co-administration of drugs prolonging the QT interval (such as certain phenothiazines, tricyclic antidepressants, certain macrolide antibiotics, and Class I and III antiarrhythmics) is contraindicated because of the potential risk of Torsade de Pointes-type ventricular tachycardia [see Contraindications (4), Clinical Pharmacology (12.3)].
+
+Digoxin
+
+In the ANDROMEDA (patients with recently decompensated heart failure) and PALLAS (patients with permanent AF) trials baseline use of digoxin was associated with an increased risk of arrhythmic or sudden death in dronedarone-treated patients compared to placebo. In patients not taking digoxin, no difference in risk of sudden death was observed in the dronedarone vs. placebo groups. [See Clinical Trials (14.3)].
+
+Digoxin can potentiate the electrophysiologic effects of dronedarone (such as decreased AV-node conduction). Dronedarone increases exposure to digoxin [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+
+Consider discontinuing digoxin. If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity.
+
+Calcium channel blockers
+
+Calcium channel blockers with depressant effects on the sinus and AV nodes could potentiate dronedarone's effects on conduction.
+
+Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+
+Beta-blockers
+
+In clinical trials, bradycardia was more frequently observed when dronedarone was given in combination with beta-blockers.
+
+Give a low dose of beta-blockers initially, and increase only after ECG verification of good tolerability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+
+7.2 Effects of Other Drugs on Dronedarone
+
+Ketoconazole and other potent CYP 3A inhibitors
+
+Concomitant use of ketoconazole as well as other potent CYP 3A inhibitors such as itraconazole, voriconazole, ritonavir, clarithromycin, and nefazodone is contraindicated because exposure to dronedarone is significantly increased [see Contraindications (4), Clinical Pharmacology (12.3)].
+
+Grapefruit juice
+
+Patients should avoid grapefruit juice beverages while taking MULTAQ because exposure to dronedarone is significantly increased [see Clinical Pharmacology (12.3)].
+
+Rifampin and other CYP 3A inducers
+
+Avoid rifampin or other CYP 3A inducers such as phenobarbital, carbamazepine, phenytoin, and St John's wort because they decrease exposure to dronedarone significantly [see Clinical Pharmacology (12.3)].
+
+Calcium channel blockers
+
+Verapamil and diltiazem are moderate CYP 3A inhibitors and increase dronedarone exposure. Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+
+7.3 Effects of Dronedarone on Other Drugs
+
+Simvastatin
+
+Dronedarone increased simvastatin/simvastatin acid exposure. Avoid doses greater than 10 mg once daily of simvastatin [see Clinical Pharmacology (12.3)].
+
+Other statins
+
+Because of multiple mechanisms of interaction with statins (CYPs and transporters), follow statin label recommendations for use with CYP 3A and P-gp inhibitors such as dronedarone.
+
+Calcium channel blockers
+
+Dronedarone increased the exposure of calcium channel blockers (verapamil, diltiazem or nifedipine). Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+
+Sirolimus, tacrolimus, and other CYP3A substrates with narrow therapeutic range
+
+Dronedarone can increase plasma concentrations of tacrolimus, sirolimus, and other CYP 3A substrates with a narrow therapeutic range when given orally. Monitor plasma concentrations and adjust dosage appropriately.
+
+Beta-blockers and other CYP 2D6 substrates
+
+Dronedarone increased the exposure of propranolol and metoprolol. Give low doses of beta-blockers initially, and increase only after ECG verification of good tolerability. Other CYP 2D6 substrates, including other beta-blockers, tricyclic antidepressants, and selective serotonin reuptake inhibitors (SSRIs) may have increased exposure upon co-administration with dronedarone [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+
+P-glycoprotein substrates
+
+Digoxin
+
+Dronedarone increased digoxin exposure by inhibiting the P-gp transporter. Consider discontinuing digoxin. If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+
+Dabigatran
+
+Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone.
+
+Other P-gp substrates are expected to have increased exposure when co-administered with dronedarone.
+
+Warfarin
+
+When co-administered with dronedarone exposure to S-warfarin was slightly higher than when warfarin was administered alone. There were no clinically significant increases in INR [see Clinical Pharmacology (12.3)].
+
+More patients experienced clinically significant INR elevations (≥ 5) usually within 1 week after starting dronedarone vs. placebo in patients taking oral anticoagulants in ATHENA. However, no excess risk of bleeding was observed in the dronedarone group.
+
+Postmarketing cases of increased INR with or without bleeding events have been reported in warfarin-treated patients initiated on dronedarone. Monitor INR after initiating dronedarone in patients taking warfarin.
+
+

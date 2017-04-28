@@ -1,0 +1,131 @@
+Drug Label for drug brand Lotrel, containing amlodipine besylate and benazepril hydrochloride.
+
+
+WARNING: FETAL TOXICITY
+
+
+When pregnancy is detected, discontinue Lotrel as soon as possible (5.5). Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.5)
+See full prescribing information for complete boxed warning
+When pregnancy is detected, discontinue Lotrel as soon as possible (5.5). Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus (5.5).
+
+
+4 CONTRAINDICATIONS
+
+ <list>
+ <item>
+ <item>Do not co-administer aliskiren with angiotensin receptor blockers, ACE inhibitors, including Lotrel in patients with diabetes.
+ <item>
+ <item>Lotrel is contraindicated in patients with a history of angioedema, with or without previous ACE inhibitor treatment, or patients who are hypersensitive to benazepril, to any other ACE inhibitor, to amlodipine, or to any of the excipients of Lotrel.
+ <item>
+ </list>
+
+ <list>
+ <item>
+ <item>Do not co-administer aliskiren with ARBs or ACEIs, including Lotrel, in patients with diabetes (4)
+ <item>
+ <item>Lotrel is contraindicated in patients with a history of angioedema, with or without previous ACE inhibitor treatment, or patients who are hypersensitive to benazepril, to any other ACE inhibitor, or to amlodipine. (4)
+ <item>
+ </list>
+
+
+
+5 WARNINGS AND PRECAUTIONS
+
+ <list>
+ <item>
+ <item>Watch for anaphylactoid reactions, including angioedema (head, neck or intestinal) (5.1).
+ <item>
+ <item>Warn patients with severe obstructive coronary artery disease about the risk of myocardial infarction or increased angina (5.2)
+ <item>
+ <item>Assess for hypotension and hyperkalemia (5.4 and 5.8)
+ <item>
+ <item>Avoid fetal or neonatal exposure (5.5)
+ <item>
+ <item>Titrate slowly in patients with impaired hepatic (5.6) or severely impaired renal (5.7) function
+ <item>
+ </list>
+
+
+5.1 Anaphylactoid and Possibly Related Reactions
+
+Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including Lotrel) may be subject to a variety of adverse reactions, some of them serious. These reactions usually occur after one of the first few doses of the ACE inhibitor, but they sometimes do not appear until after months of therapy. Black patients receiving ACE inhibitors have a higher incidence of angioedema compared to nonblacks.
+Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with ACE inhibitors. In U.S. clinical trials, symptoms consistent with angioedema were seen in none of the subjects who received placebo and in about 0.5% of the subjects who received benazepril. Angioedema associated with laryngeal edema can be fatal. If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, discontinue treatment with Lotrel and treat immediately. When involvement of the tongue, glottis, or larynx appears likely to cause airway obstruction, appropriate therapy, e.g., administer subcutaneous epinephrine injection 1:1000 (0.3-0.5 mL), promptly see Adverse Reactions (6).
+Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting), in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions. In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
+Anaphylactoid Reactions During Membrane Exposure: Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor. Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+5.2 Increased Angina and/or Myocardial Infarction
+
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.
+
+5.3 Patients with Aortic and Mitral Valve Stenosis, Obstructive Hypertrophic Cardiomyopathy
+
+As with all other vasodilators, special caution is required when using amlodipine in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
+
+5.4 Hypotension
+
+Lotrel can cause symptomatic hypotension. Symptomatic hypotension is most likely to occur in patients who have been volume or salt depleted as a result of diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting. Volume and/or salt depletion should be corrected before starting therapy with benazepril. If hypotension occurs, the patient'should be placed in the supine position and if necessary given physiological saline i.v. Treatment with benazepril can be continued once blood pressure and volume have returned to normal.
+In patients with congestive heart failure, with or without associated renal insufficiency, ACE inhibitor therapy may cause excessive hypotension, which may be associated with oliguria, azotemia, and (rarely) with acute renal failure and death. In such patients, start Lotrel therapy under close medical supervision, follow closely for the first 2 weeks of treatment and whenever the dose of the benazepril component is increased or a diuretic is added or its dose increased.
+Symptomatic hypotension is also possible in patients with severe aortic stenosis.
+
+5.5 Fetal Toxicity
+
+Pregnancy Category D
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue Lotrel as soon as possible see Use in Specific Populations (8.1).
+
+5.6 Hepatitis and Hepatic Failure
+
+There have been rare reports of predominantly cholestatic hepatitis and isolated cases of acute liver failure, some of them fatal, in patients on ACE inhibitors. The mechanism is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevation of hepatic enzymes should discontinue the ACE inhibitor and be kept under medical surveillance.
+
+5.7 Impaired Renal Function
+
+Monitor renal function periodically in patients treated with Lotrel. Changes in renal function, including acute renal failure, can be caused by drugs that affect the renin-angiotensin system. Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, severe heart failure, post-myocardial infarction or volume depletion) or who are on NSAIDS or angiotensin receptor blockers may be at particular risk of developing acute renal failure on Lotrel. Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Lotrel.
+
+5.8 Hyperkalemia
+
+Monitor serum potassium periodically in patients receiving Lotrel. Drugs that affect the renin-angiotensin system can cause hyperkalemia. Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements, and/or potassium-containing salt substitutes. In U.S. placebo-controlled trials of Lotrel, hyperkalemia (serum potassium at least 0.5 mEq/L greater than the upper limit of normal) not present at baseline occurred in approximately 1.5% of hypertensive patients receiving Lotrel. Increases in serum potassium were generally reversible.
+
+5.9 Cough
+
+Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, generally resolving after discontinuation of therapy. Consider ACE inhibitor-induced cough in the differential diagnosis of cough.
+
+5.10 Surgery/Anesthesia
+
+In patients undergoing surgery or during anesthesia with agents that produce hypotension, benazepril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release. Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.
+
+
+7 DRUG INTERACTIONS
+
+ <list>
+ <item>
+ <item>Potassium supplements / Potassium-sparing diuretics: risk of hyperkalemia.
+ <item>
+ <item>Lithium: Increased serum Lithium levels, toxicity symptoms.
+ <item>
+ <item>Injectable gold: facial flushing, nausea, vomiting, or hypotension may occur
+ <item>
+ <item>NSAID: Risk of renal dysfunction, loss of antihypertensive effect (7.1)
+ <item>
+ <item>If simvastatin is co-administered with amlodipine, do not exceed doses greater than 20 mg daily of simvastatin (7.1)
+ <item>
+ <item>Dual inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia (7.1)
+ <item>
+ </list>
+
+
+7.1 Drug/Drug interactions
+
+Amlodipine
+Simvastatin: Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+CYP3A4 Inhibitors: Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors to determine the need for dose adjustment.
+CYP3A4 Inducers: No information is available on the quantitative effects of CYP3A4 inducers on amlodipine. Blood pressure should be monitored when amlodipine is co-administered with CYP3A4 inducers.
+Benazepril
+Potassium Supplements and Potassium-Sparing Diuretics: Benazepril can attenuate potassium loss caused by thiazide diuretics. Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) or potassium supplements can increase the risk of hyperkalemia. If concomitant use of such agents is indicated, the patient's serum potassium should be monitored frequently.
+Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium. When coadministering Lotrel and lithium, frequent monitoring of serum lithium levels is recommended.
+Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
+Antidiabetic agents: In rare cases, diabetic patients receiving an ACE inhibitor (including benazepril) concomitantly with insulin or oral antidiabetics may develop hypoglycemia. Such patients should therefore be advised about the possibility of hypoglycemic reactions, and should be monitored accordingly.
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on Lotrel and other agents that block the RAS.
+Do not co-administer aliskiren with Lotrel in patients with diabetes. Avoid use of aliskiren with Lotrel in patients with renal impairment (GFR 60 ml/min).
+

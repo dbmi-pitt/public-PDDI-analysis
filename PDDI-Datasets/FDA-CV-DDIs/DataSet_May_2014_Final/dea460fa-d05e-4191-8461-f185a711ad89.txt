@@ -1,0 +1,54 @@
+PROSTIN VR PEDIATRIC (alprostadil) injection, solution 
+
+PROSTIN VR PEDIATRIC Sterile Solution for intravascular infusion contains 500 micrograms alprostadil, more commonly known as prostaglandin E1, in 1.0 mL dehydrated alcohol.
+
+WARNING
+
+Apnea is experienced by about 10 to 12% of neonates with congenital heart defects treated with PROSTIN VR PEDIATRIC Sterile Solution. Apnea is most often seen in neonates weighing less than 2 kg at birth and usually appears during the first hour of drug infusion. Therefore, respiratory status should be monitored throughout treatment, and PROSTIN VR PEDIATRIC should be used where ventilatory assistance is immediately available.
+
+CONTRAINDICATIONS
+
+None.
+
+WARNINGS
+
+See WARNING box.
+
+NOTE: PROSTIN VR PEDIATRIC Sterile Solution must be diluted before it is administered. See dilution instructions in DOSAGE AND ADMINISTRATION section.
+
+The administration of PROSTIN VR PEDIATRIC to neonates may result in gastric outlet obstruction secondary to antral hyperplasia. This effect appears to be related to duration of therapy and cumulative dose of the drug. Neonates receiving PROSTIN VR PEDIATRIC at recommended doses for more than 120 hours should be closely monitored for evidence of antral hyperplasia and gastric outlet obstruction.
+
+PROSTIN VR PEDIATRIC should be infused for the shortest time and at the lowest dose that will produce the desired effects. The risks of long-term infusion of PROSTIN VR PEDIATRIC should be weighed against the possible benefits that critically ill infants may derive from its administration.
+
+PRECAUTIONS
+
+General Precautions
+
+Cortical proliferation of the long bones, first observed in dogs, has also been observed in infants during long-term infusions of alprostadil. The cortical proliferation in infants regressed after withdrawal of the drug.
+
+In infants treated with PROSTIN VR PEDIATRIC at the usual doses for 10 hours to 12 days and who died of causes unrelated to ductus structural weakness, tissue sections of the ductus and pulmonary arteries have shown intimal lacerations, a decrease in medial muscularity and disruption of the medial and internal elastic lamina. Localized and aneurysmal dilatations and vessel wall edema also were seen compared to a series of pathological specimens from infants not treated with PROSTIN VR PEDIATRIC. The incidence of such structural alterations has not been defined.
+
+Because alprostadil inhibits platelet aggregation, use PROSTIN VR PEDIATRIC cautiously in neonates with bleeding tendencies.
+
+PROSTIN VR PEDIATRIC should not be used in neonates with respiratory distress syndrome. A differential diagnosis should be made between respiratory distress syndrome (hyaline membrane disease) and cyanotic heart disease (restricted pulmonary blood flow). If full diagnostic facilities are not immediately available, cyanosis (pO2 less than 40 torr) and restricted pulmonary blood flow apparent on an X-ray are appropriate indicators of congenital heart defects.
+
+Necessary Monitoring
+
+In all neonates, arterial pressure should be monitored intermittently by umbilical artery catheter, auscultation, or with a Doppler transducer. Should arterial pressure fall significantly, decrease the rate of infusion immediately.
+
+In infants with restricted pulmonary blood flow, measure efficacy of PROSTIN VR PEDIATRIC by monitoring improvement in blood oxygenation. In infants with restricted systemic blood flow, measure efficacy by monitoring improvement of systemic blood pressure and blood pH.
+
+Drug Interactions
+
+No drug interactions have been reported between PROSTIN VR PEDIATRIC and the therapy standard in neonates with restricted pulmonary or systemic blood flow. Standard therapy includes antibiotics, such as penicillin and gentamicin; vasopressors, such as dopamine and isoproterenol; cardiac glycosides; and diuretics, such as furosemide.
+
+Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+Long-term carcinogenicity studies and fertility studies have not been done. The Ames and Alkaline Elution assays reveal no potential for mutagenesis.
+
+DOSAGE AND ADMINISTRATION
+
+The preferred route of administration for PROSTIN VR PEDIATRIC Sterile Solution is continuous intravenous infusion into a large vein. Alternatively, PROSTIN VR PEDIATRIC may be administered through an umbilical artery catheter placed at the ductal opening. Increases in blood pO2 (torr) have been the same in neonates who received the drug by either route of administration.
+
+Begin infusion with 0.05 to 0.1 micrograms alprostadil per kilogram of body weight per minute. A starting dose of 0.1 micrograms per kilogram of body weight per minute is the recommended starting dose based on clinical studies; however, adequate clinical response has been reported using a starting dose of 0.05 micrograms per kilogram of body weight per minute. After a therapeutic response is achieved (increased pO2 in infants with restricted pulmonary blood flow or increased systemic blood pressure and blood pH in infants with restricted systemic blood flow), reduce the infusion rate to provide the lowest possible dosage that maintains the response. This may be accomplished by reducing the dosage from 0.1 to 0.05 to 0.025 to 0.01 micrograms per kilogram of body weight per minute. If response to 0.05 micrograms per kilogram of body weight per minute is inadequate, dosage can be increased up to 0.4 micrograms per kilogram of body weight per minute although, in general, higher infusion rates do not produce greater effects.
+

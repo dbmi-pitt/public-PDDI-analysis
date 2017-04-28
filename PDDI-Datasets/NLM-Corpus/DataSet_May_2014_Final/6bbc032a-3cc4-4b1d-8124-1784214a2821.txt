@@ -1,0 +1,148 @@
+BENICAR HCT (olmesartan medoxomil-hydrochlorothiazide) tablet, film coated 
+
+CONTRAINDICATIONS
+
+BENICAR HCT is contraindicated in patients who are hypersensitive to any component of this product.
+
+Because of the hydrochlorothiazide component, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
+
+Do not co-administer aliskiren with BENICAR HCT in patients with diabetes.
+
+WARNINGS
+
+Fetal Toxicity
+
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected discontinue BENICAR HCT as soon as possible. These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy. Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents. Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus. Perform serial ultrasound examinations to assess the intra-amniotic environment. If oligohydramnios is observed, discontinue BENICAR HCT, unless it is considered lifesaving for the mother. Fetal testing may be appropriate, based on the week of pregnancy. Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury. Closely observe infants with histories of in utero exposure to BENICAR HCT for hypotension, oliguria, and hyperkalemia(see PRECAUTIONS, Pediatric Use).
+
+There is no clinical experience with the use of BENICAR HCT in pregnant women. No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rats at oral doses up to 1625 mg/kg/day (280 times the MRHD on a mg/m2 basis). In rats, however, fetal body weights at 1625 mg/kg/day (a toxic, sometimes lethal dose in the dams) were significantly lower than control. The no observed effect dose for developmental toxicity in rats, 162.5 mg/kg/day, is about 28 times, on a mg/m2 basis, the MRHD of BENICAR HCT® (40 mg olmesartan medoxomil /25 mg hydrochlorothiazide/day).
+
+Thiazides cross the placental barrier and appear in cord blood. There is a risk of fetal or neonatal jaundice, thrombocytopenia and possibly other adverse reactions that have occurred in adults.
+
+Hypotension in Volume- or Salt-Depleted Patients
+
+In patients with an activated renin-angiotensin system, such as volume- or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may occur after initiation of treatment with BENICAR HCT, as with any angiotensin receptor blocker. Treatment should start under close medical supervision. If hypotension does occur, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline (See DOSAGE AND ADMINISTRATION). When electrolyte and fluid imbalances have been corrected, therapy usually can be continued without difficulty. A transient hypotensive response is not a contraindication to further treatment.
+
+Sprue-like Enteropathy
+
+Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation. Intestinal biopsies of patients often demonstrated villous atrophy. If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies. Consider discontinuation of BENICAR HCT in cases where no other etiology is identified.
+
+Hydrochlorothiazide
+
+Hepatic Impairment
+
+Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
+
+Hypersensitivity Reaction
+
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+
+Systemic Lupus Erythematosus
+
+Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
+
+Lithium Interaction
+
+Lithium generally should not be given with thiazides (see PRECAUTIONS: Drug Interactions; Hydrochlorothiazide, Lithium).
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+PRECAUTIONS
+
+General
+
+Olmesartan medoxomil-hydrochlorothiazide
+
+In a double-blind clinical trial of various doses of olmesartan medoxomil and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.4 mEq/L) was 2.1%; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%. In this trial, no patient discontinued due to increases or decreases in serum potassium.
+
+Hydrochlorothiazide
+
+Periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals. All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis and hypokalemia. Serum and urine electrolyte determinations are important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia and gastrointestinal disturbances such as nausea and vomiting.
+
+Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
+
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
+
+Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+
+Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt except in rare instances when the hyponatremia is life-threatening. In actual salt depletion, appropriate replacement is the therapy of choice.
+
+Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
+
+In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required. Hyperglycemia may occur with thiazide diuretics. Thus latent diabetes mellitus may become manifest during thiazide therapy.
+
+The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
+
+If progressive renal impairment becomes evident consider withholding or discontinuing diuretic therapy.
+
+Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
+
+Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
+
+Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
+
+Impaired Renal Function
+
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with olmesartan medoxomil. In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death. Similar results may be anticipated in patients treated with olmesartan medoxomil. (See CLINICAL PHARMACOLOGY, Special Populations)
+
+In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported. There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
+
+Thiazides should be used with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.
+
+Drug Interactions
+
+Olmesartan medoxomil
+
+No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with hydrochlorothiazide, digoxin or warfarin in healthy volunteers. The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2]. Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce or are metabolized by those enzymes are not expected.
+
+Dual Blockade of the Renin- Angiotensin System (RAS)
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy. Closely monitor blood pressure, renal function and electrolytes in patients on Benicar HCT and other agents that affect the RAS.
+
+Do not co-administer aliskiren with Benicar HCT in patients with diabetes (see CONTRAINDICATIONS). Avoid use of aliskiren with Benicar HCT in patients with renal impairment (GFR <60ml/min).
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Colesevelam hydrochloride
+
+Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan. Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect. Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose (see CLINICAL PHARMACOLOGY, Drug Interactions).
+
+Hydrochlorothiazide
+
+When administered concurrently the following drugs may interact with thiazide diuretics:
+
+Alcohol, Barbiturates, Or Narcotics – potentiation of orthostatic hypotension may occur.
+
+Antidiabetic Drugs (oral agents and insulin) – dosage adjustment of the antidiabetic drug may be required.
+
+Other Antihypertensive Drugs – additive effect or potentiation.
+
+Cholestyramine and Colestipol Resins – absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins. Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
+
+Corticosteroids, ACTH – intensified electrolyte depletion, particularly hypokalemia.
+
+Pressor Amines (e.g. Norepinephrine) – possible decreased response to pressor amines but not sufficient to preclude their use.
+
+Skeletal Muscle Relaxants, Non depolarizing (e.g. Tubocurarine) – possible increased responsiveness to the muscle relaxant.
+
+Lithium– should not generally be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparation with olmesartan medoxomil-hydrochlorothiazide.
+
+Non-steroidal Anti-inflammatory Drugs – in some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. Therefore, when olmesartan medoxomil-hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+
+
+The usual recommended starting dose of BENICAR® (olmesartan medoxomil) is 20 mg once daily when used as monotherapy in patients who are not volume-contracted. For patients requiring further reduction in blood pressure after 2 weeks of therapy, the dose may be increased to 40 mg. Doses above 40 mg do not appear to have greater effect. Twice-daily dosing offers no advantage over the same total dose given once daily. No initial dosage adjustment is recommended for elderly patients, for patients with moderate to marked renal impairment (creatinine clearance <40mL/min) or with moderate to marked hepatic dysfunction (see CLINICAL PHARMACOLOGY, Special Populations). For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), BENICAR® should be initiated under close medical supervision and consideration should be given to use of a lower starting dose (see WARNINGS, Hypotension in Volume- or Salt-Depleted Patients).
+
+Hydrochlorothiazide is effective in doses between 12.5 mg and 50 mg once daily.
+
+The side effects (see WARNINGS) of BENICAR® are generally rare and independent of dose; those of hydrochlorothiazide are most typically dose-dependent (primarily hypokalemia). Some dose-independent phenomena (e.g., pancreatitis) do occur with hydrochlorothiazide. Therapy with any combination of olmesartan medoxomil and hydrochlorothiazide will be associated with both sets of dose-independent side effects.
+
+To minimize dose-independent side effects, it is usually appropriate to begin combination therapy only after a patient has failed to achieve the desired effect with monotherapy.
+

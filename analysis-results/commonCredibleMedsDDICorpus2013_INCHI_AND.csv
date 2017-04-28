@@ -1,0 +1,3 @@
+drug pair    DDICorpus2013    CredibleMeds
+http://bio2rdf.org/drugbank:DB00390-http://bio2rdf.org/drugbank:DB01026    [(None, None)]    [(None, None)]
+http://bio2rdf.org/drugbank:DB00675-http://bio2rdf.org/drugbank:DB00715    [(None, None)]    [(None, None)]

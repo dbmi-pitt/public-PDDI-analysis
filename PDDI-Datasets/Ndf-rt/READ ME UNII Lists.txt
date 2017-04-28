@@ -1,0 +1,79 @@
+The enclosed lists are in tab-delimited text format.
+  
+The full list is not compatible with older versions of Microsoft Excel, i.e. pre-Excel 2007.
+
+Choose Open->Text files to read the files in Excel 2007, 2010 or 2013 (US ASCII).
+
+
+
+
+UNII Records File
+
+UNII		Unique Ingredient Identifier - a non-proprietary, free, unique, unambiguous, nonsemantic, alphanumeric identifier based on a substance’s molecular structure and/or descriptive information.	http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/default.html
+
+PT		Preferred Term - Preferred Substance Name - display name
+
+MF		Molecular Formula - total atoms represented as a molecular structure in a UNII description
+
+INCHIKEY	A fixed-length string created from the IUPAC International Chemical Identifier (InChI)	http://www.iupac.org/home/publications/e-resources/inchi.html
+
+EINECS		European INventory of Existing Commercial chemical Substances registry number	http://esis.jrc.ec.europa.eu/
+
+RN		Registry Number used by many public chemical information systems
+
+NCIt_CC		NCI Thesaurus Concept Code	http://ncit60.nci.nih.gov/            
+
+ITIS		Integrated Taxonomic Information System Taxonomic Serial Number (ITIS TSN)	http://www.itis.gov/
+
+NCBI		NCBI taxonomy organism ID	http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Root
+
+PLANTS		USDA PLANTS organism ID	http://plants.usda.gov/java/
+
+
+
+
+UNII Names File
+
+Name		Name associated with a particular UNII
+
+Type		Type of name
+
+	values: 
+		PT = Preferred Term - Preferred Substance Name - display name
+		SN = Systematic Name  (a new value - many existing SY terms will become SN)  
+		SY = Synonym
+		CD = Code
+		TR = Trade (Brand) Name
+
+UNII		Unique Ingredient Identifier - a non-proprietary, free, unique, unambiguous, nonsemantic, alphanumeric identifier based on a substance’s molecular structure and/or descriptive information. http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/default.html
+
+PT		Preferred Term - Preferred Substance Name - display name
+
+
+
+UNII Changes File
+
+UNII		Unique Ingredient Identifier - a non- proprietary, free, unique, unambiguous, non semantic, alphanumeric identifier based on a substance’s molecular structure and/or descriptive information. http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/default.htm
+
+Data		Field Value
+
+Field		Data type
+
+	values:
+		BI = NCBI taxonomy ID	http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Root   
+		EN = EINECS	http://esis.jrc.ec.europa.eu/
+		IN = InChI Key
+		IT = Taxonomic Serial number assigned to organisms by the Integrated Taxonomic Information System (ITIS)	http://www.itis.gov/
+		MF = Total atoms represented as a molecular structure in a UNII description
+		PL = USDA PLANTS ID	http://plants.usda.gov/java/
+		PT = Preferred Term - Preferred Substance Name - display name
+		RN = Registry Number used by many public chemical information systems
+		SY = Synonym (includes CD, SN, SY and TR types)              
+		TH = NCI Thesaurus Concept Code	http://ncit60.nci.nih.gov/
+
+                
+Type		Type of Change
+
+	values:
+		ADD = Addition to current list
+		DEL = Deletion from previous list
