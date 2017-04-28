@@ -1,17 +1,10 @@
 """ Simple Python script to build a dictionary of DDIs from the CredibleMeds site"
-<<<<<<< HEAD
+
 # Authors: Serkan Ayvaz, Richard D Boyce 
 #
 # September 2014
 # modified: Feb 25, 2017 by Serkan Ayvaz
-=======
 
-# Authors: Serkan Ayvaz, Richard D Boyce 
-#
-# September 2014
-# 
-
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
 """
 
 "#from SPARQLWrapper import SPARQLWrapper, JSON"
@@ -27,11 +20,8 @@ import time
 sys.path = sys.path + ['.']
 from PDDI_Model import getPDDIDict
 
-<<<<<<< HEAD
 CREDIBLEMEDS_DATA = "../PDDI-Datasets/Crediblemeds/credibleMeds-listing-02262017.txt"
-=======
-CREDIBLEMEDS_DATA = "../PDDI-Datasets/Crediblemeds/credibleMeds-listing-09202014.txt"
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
+
 
 def credibleMeds_Pickle_Generator():
     # open the CREDIBLEMEDS data file and parse it incrementally
@@ -88,9 +78,5 @@ if __name__ == "__main__":
     gen=credibleMeds_Pickle_Generator()  
     f = open("../pickle-data/crediblemeds-ddis.pickle","w")
     pickle.dump(gen, f)
-<<<<<<< HEAD
-    f.close()
-=======
     f.close()
 
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
