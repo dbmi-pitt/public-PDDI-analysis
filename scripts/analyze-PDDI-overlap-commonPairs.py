@@ -28,11 +28,8 @@ NDFRT_PDDI_FILE_INCHI_AND = "../pickle-data/ndfrt-mapped-ddis-inchi-and.pickle"
 NDFRT_PDDI_FILE_INCHI_OR = "../pickle-data/ndfrt-mapped-ddis-inchi-or.pickle"
 KEGG_PDDI_FILE = "../pickle-data/kegg-ddis.pickle"
 CREDIBLEMEDS_PDDI_FILE = "../pickle-data/crediblemeds-ddis.pickle"
-<<<<<<< HEAD
 WORLDVISTA_PDDI_FILE_INCHI_AND = "../pickle-data/worldvista-ddis-inchi-and.pickle"
 WORLDVISTA_PDDI_FILE_INCHI_OR = "../pickle-data/worldvista-ddis-inchi-or.pickle"
-=======
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
 DDICORPUS2011_PDDI_FILE_INCHI_AND = "../pickle-data/ddicorpus2011-ddis-inchi-and.pickle"
 DDICORPUS2011_PDDI_FILE_INCHI_OR = "../pickle-data/ddicorpus2011-ddis-inchi-or.pickle"
 DDICORPUS2013_PDDI_FILE_INCHI_AND = "../pickle-data/ddicorpus2013-ddis-inchi-and.pickle"
@@ -46,10 +43,6 @@ ONCNONINTERUPTIVE_PDDI_FILE = "../pickle-data/oncnoninteruptive-ddis.pickle"
 OSCAR_PDDI_FILE = "../pickle-data/oscar-ddis.pickle"
 SEMMEDDB_PDDI_FILE = "../pickle-data/semmeddb-ddis.pickle"  
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
 ############################################################
 # Utility functions
 ############################################################
@@ -93,7 +86,7 @@ def writeCommonPDDIs(fname,commonL):
     f.close()
 
 
-<<<<<<< HEAD
+
 def findOverlapTwoSets(d1, d2):
     """ Comparison is made on the drug pair, not the anticipated event"""
     common = {}
@@ -123,9 +116,6 @@ def findOverlapTwoSets(d1, d2):
 #       
     return (common)
 
-
-=======
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
 def findOverlapThreeSets(d1, d2, d3):
     """ Comparison is made on the drug pair, not the anticipated event"""
     common = {}
@@ -134,24 +124,7 @@ def findOverlapThreeSets(d1, d2, d3):
     for key,pddiL in d1.iteritems():
         k1 = "%s-%s" % (pddiL[0]["drug1"], pddiL[0]["drug2"])        
         k2 = "%s-%s" % (pddiL[0]["drug2"], pddiL[0]["drug1"])          
-<<<<<<< HEAD
-                                  
-=======
-         
-#          if d2.has_key(k1):  
-#              if d3.has_key(k1):     
-#                  s= "[%s - %s]: %s" % ( pddiL[0].get("object"),  pddiL[0].get("object"), pddiL[0].get("evidenceStatement")) 
-#                  print s
-#                  common[k1] =s  
-#                  continue     
-#                    
-#          if d2.has_key(k2):  
-#              if d3.has_key(k2): 
-#                  s= "[%s - %s]: %s" % ( pddiL[0].get("object"), pddiL[0].get("precipitant"), pddiL[0].get("evidenceStatement"))  
-#                  print s
-#                  common[k2] =s
-                                     
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
+             
         if d2.has_key(k1):  
             if d3.has_key(k1):     
                       s= "%s\t%s\t%s\t%s"% (
@@ -293,11 +266,7 @@ def analyzeFourDataSetOverlap(Name1,Pickle1,Name2,Pickle2,Name3,Pickle3,Name4,Pi
    
    
     # write data
-<<<<<<< HEAD
     writeCommonPDDIs("../analysis-results/common"+Name1+Name2+Name3+Name4+".csv", commonForAll)
-=======
-#     writeCommonPDDIs("../analysis-results/common"+Name1+Name2+Name3+Name4+".csv", commonForAll)
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
    
     # report
     print '''Four Source Overlap Analysis 
@@ -335,7 +304,6 @@ def analyzeThreeDataSetOverlap(Name1,Pickle1,Name2,Pickle2,Name3,Pickle3):
      ''' 
     
     
-<<<<<<< HEAD
 def analyzeTwoDataSetOverlap(Name1,Pickle1,Name2,Pickle2):
     
     Dataset_1_Pairs = mapDrugPairs(Pickle1)
@@ -358,9 +326,7 @@ def analyzeTwoDataSetOverlap(Name1,Pickle1,Name2,Pickle2):
      ''' 
     
     
-      
-=======
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
+
 def runClinicalSourceOverlap():
     CREDIBLEMEDS_L = loadPickle(CREDIBLEMEDS_PDDI_FILE)   
     NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_OR)       
@@ -445,8 +411,6 @@ def runBioinformaticsSourceOverlap():
     analyzeThreeDataSetOverlap("KEGG",KEGG_L,"DRUGBANK",DRUGBANK_L,"SEMMEDDB",SEMMEDDB_L) 
     analyzeThreeDataSetOverlap("KEGG",KEGG_L,"TWOSIDES",TWOSIDES_L,"SEMMEDDB",SEMMEDDB_L)
     analyzeThreeDataSetOverlap("DRUGBANK",DRUGBANK_L,"TWOSIDES",TWOSIDES_L,"SEMMEDDB",SEMMEDDB_L) 
-<<<<<<< HEAD
-   
 
 def runWorldVistaOverlap_OR_1():      
     NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_OR)      
@@ -495,7 +459,7 @@ def runWorldVistaOverlap_AND_2():
     analyzeTwoDataSetOverlap("ONCHIGHPRIORITY",ONCHIGHPRIORITY_L, "WORLDVISTA", WORLDVISTA_L)
     analyzeTwoDataSetOverlap("CREDIBLEMEDS", CREDIBLEMEDS_L, "WORLDVISTA", WORLDVISTA_L)
     analyzeTwoDataSetOverlap("ONCNONINTERUPTIVE", ONCNONINTERUPTIVE_L, "WORLDVISTA", WORLDVISTA_L) 
-    
+
 if __name__ == "__main__": 
     
      #runClinicalSourceOverlap()
@@ -506,16 +470,7 @@ if __name__ == "__main__":
      
      #runWorldVistaOverlap_AND_1()
      #runWorldVistaOverlap_AND_2()
-=======
-               
-    
-if __name__ == "__main__": 
-    
-     runClinicalSourceOverlap()
-#      runNLPSourceOverlap()
- #    runBioinformaticsSourceOverlap()
->>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
-     
+
       
 
    
