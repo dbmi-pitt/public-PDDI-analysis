@@ -589,7 +589,11 @@ and mapped the drugs back to Drugbank.
 
 -----------------------------------------------------------------
 HOW THE DRUGBANK AND CHEBI MAPPINGS ARE CREATED (March/April 2014):
+<<<<<<< HEAD
 -----------------------------------------------------------------
+=======
+------------------------------------------------------------------
+>>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
 
 (1) download drugbank.xml from drugbank and 25Jan2014 Records.txt as UNNIs records
 
@@ -660,6 +664,7 @@ TODO (04/04/2014):
 - Bring in Hassanzadeh's mappings once tested and re-export the mappings
 
 
+<<<<<<< HEAD
 ------------------------------------------------------------
 French DDI Referrals
 ------------------------------------------------------------
@@ -703,3 +708,6 @@ HEP, HIV Drug Interactions (January 2016):
 6) Give the file a name like <drug>_interactions_<drug id>_all.html where <drug> is the drug you selected and <drug id> is and identifier for the drug within the website
 
 Same process done for HIV-Insite-Drug-Interactions (url: arv.ucsf.edu/insite?page=ar-00-02) but word documents were also created through copying and pasting the tables for each drug under "Search by Antiretroviral Drug". File names were simply the drug name before the parentheses.
+=======
+
+>>>>>>> b68ffcf13d3236cbfc6301e38acab75da70a6ee9
