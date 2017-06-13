@@ -206,8 +206,23 @@ Date retrieved: 7/21/2014
 all-kegg-drugs-7212014.txt -  Contains the list of all Kegg drugs, downloaded from the Kegg FTP site.
 KEGG-Drugs.txt - drug data with all available information in text 
 
+
+ 
 drugbank-to-kegg-mapping.csv - this is the file used in the study. it contains the mappings from Kegg to Drugbank 
-			       for all drugs in Bio2RDF with an xref containing the text "kegg".
+			       for all drugs in Bio2RDF with an xref containing the text "kegg". 
+			       Bio2RDF was queried using the follow'ng SPARQL Query:
+			       
+PREFIX n1:	<http://bio2rdf.org/drugbank_vocabulary:>
+PREFIX n2:	<http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?s ?kegg ?label
+WHERE {
+     ?s a n1:Drug;
+     n2:label ?label;
+     n1:x-kegg ?kegg. 
+  FILTER regex(str(?kegg),"http://bio2rdf.org/kegg")
+}
+
 
 This is the link to KEGG Medicus API : <http://www.kegg.jp/kegg/rest/keggapi2.html> 
 

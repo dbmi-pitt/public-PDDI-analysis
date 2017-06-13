@@ -1,18 +1,20 @@
-# query-KEGG-DDIs.py
-
+"""  
 # Simple Python script to query "http://rest.kegg.jp/" for KEGG DDIs"
 #    No extra libraries required.
 
 # Authors: Richard D Boyce, Serkan Ayvaz
 #
 # September 2013/ Updated September 2014 
+# Updated June 2017 by Serkan Ayvaz
 # 
+""" 
 
 import urllib2
 import urllib
 import traceback
 import sys 
 import pickle
+
 
 sys.path = sys.path + ['.']
 from PDDI_Model import getPDDIDict
@@ -38,12 +40,12 @@ if __name__ == "__main__":
 
     keggAPIURL = "http://rest.kegg.jp/ddi/"
 
-    f = open("../PDDI-Datasets/Kegg/all-kegg-drugs-7212014.txt","r")
+    f = open("../PDDI-Datasets/Kegg/all-kegg-drugs-06052017.txt","r")
     buf = f.read()
     f.close()
     keggDrugs = buf.split("\n")
 
-    f = open("../PDDI-Datasets/Kegg/drugbank-to-kegg-mapping.csv","r")
+    f = open("../PDDI-Datasets/Kegg/drugbank-to-kegg-mapping-06052017.txt","r")
     buf = f.read()
     f.close()
     l = buf.split("\n")
@@ -61,10 +63,11 @@ if __name__ == "__main__":
     # process the KEGG DDIs that contain drug entities that can be mapped to DrugBank ids
     totalQCnt = noResCnt = totalResCnt = skippedCnt = dupCnt = 0
     
- #   cntr = -1
+       
     for kd in keggDrugs:
- #       cntr += 1
-#         if cntr % 500 == 0:
+
+       # if totalQCnt % 50 == 0:
+         #print "Number of drugs queries : %s" % totalQCnt
 #             f = open("../pickle-data/kegg-ddis.pickle","w")
 #             pickle.dump(pddiDictL, f)
 #             f.close()
@@ -89,11 +92,11 @@ if __name__ == "__main__":
                 drug2 = drug2.replace("dr:","").replace("cpd:","")
 
                 if keggIdToDrugBankD.get(drug1) == None:
-                    print "INFO: Skipping results because drug1 did not map to drugbank: %s" % r
+                    #print "INFO: Skipping results because drug1 did not map to drugbank: %s" % r
                     skippedCnt += 1
                     continue
                 if keggIdToDrugBankD.get(drug2) == None:
-                    print "INFO: Skipping results because drug2 did not map to drugbank: %s" % r
+                    #print "INFO: Skipping results because drug2 did not map to drugbank: %s" % r
                     skippedCnt += 1
                     continue
 
@@ -134,10 +137,11 @@ if __name__ == "__main__":
     f.close()
 
     print """
-Total drugs queried: %d
-No results: %d
-Total DDIs returned: %d
-Total DDIs skipped due to no DrugBank mapping: %d
-Total duplicated PDDIs: %d
-""" % (totalQCnt,noResCnt,totalResCnt,skippedCnt,dupCnt)
-
+                Total drugs queried: %d
+                No results: %d
+                Total DDIs returned: %d
+                Total DDIs skipped due to no DrugBank mapping: %d
+                Total duplicated PDDIs: %d
+         """ % (totalQCnt,noResCnt,totalResCnt,skippedCnt,dupCnt)
+         
+         
