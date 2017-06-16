@@ -20,19 +20,18 @@ import time
 sys.path = sys.path + ['.']
 from PDDI_Model import getPDDIDict
 
-Drugbank4_DATA = "../PDDI-Datasets/DrugBank/Drugbank5-PDDIs.csv"
-#Drugbank4_DATA = "../PDDI-Datasets/DrugBank/drugbank4-DDIs.csv"
+Drugbank_DATA = "../PDDI-Datasets/DrugBank/Drugbank5-PDDIs.csv"
 
-def Drugbank4_Pickle_Generator():
+def Drugbank_Pickle_Generator():
     # open the load-Drugbank4-DDIs data file and parse it incrementally
     #
     # @returns: a PDDI drug model dictionary containing all of the data in a single
     #           a PDDI.
-   
-    pddiDictL = []
+  
+    pddiDictL = []    
+    f = open(Drugbank_DATA, 'r')    
     
-    f = open(Drugbank4_DATA, 'r')
-    
+      
     while 1 :
         if not f:
             f.close()
@@ -53,32 +52,29 @@ def Drugbank4_Pickle_Generator():
          pddi["drug1"],
          pddi["precipitant"], 
          pddi["drug2"], 
-         #pddi["label"], 
+         pddi["label"], 
          pddi["source"]
          ) = (
               elts[1], 
               "http://bio2rdf.org/drugbank:" + str(elts[0]), 
-              elts[3], 
-             # elts[4], 
+              elts[3],               
               "http://bio2rdf.org/drugbank:" + str(elts[2]), 
+              elts[4], 
               "Drugbank"
               )
 
-        #print "object: %s: %s-- precipitant:%s : %s" % (pddi["object"],pddi["drug1"],pddi["precipitant"], pddi["drug2"])
-        print "object: %s -- precipitant: %s" % (pddi["drug1"], pddi["drug2"])
+        #print "object: %s: %s-- precipitant:%s : %s" % (pddi["object"],pddi["drug1"],pddi["precipitant"], pddi["drug2"]) 
              
         # return the dictionary entry
         pddiDictL.append(pddi)
-
-         
+             
     return pddiDictL       
    
 
 if __name__ == "__main__":
-
-    gen=Drugbank4_Pickle_Generator()
-  
+    print "Began" 
+    gen=Drugbank_Pickle_Generator()  
     f = open("../pickle-data/drugbank5-ddis.pickle","w")
     pickle.dump(gen, f)
     f.close()
-
+    print "Done" 
