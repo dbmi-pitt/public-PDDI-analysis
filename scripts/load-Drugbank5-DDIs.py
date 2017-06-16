@@ -1,9 +1,8 @@
 """ Simple Python script to build a dictionary of DDIs from the Drugbank 4 database"
 
 # Authors: Serkan Ayvaz
-#
-# June 2014
-# 
+# Added June 2014 
+# Updated June 2017 by Serkan Ayvaz
 
 """
 
@@ -21,7 +20,7 @@ import time
 sys.path = sys.path + ['.']
 from PDDI_Model import getPDDIDict
 
-Drugbank4_DATA = "../PDDI-Datasets/DrugBank/Drugbank4-PDDIs.csv"
+Drugbank4_DATA = "../PDDI-Datasets/DrugBank/Drugbank5-PDDIs.csv"
 #Drugbank4_DATA = "../PDDI-Datasets/DrugBank/drugbank4-DDIs.csv"
 
 def Drugbank4_Pickle_Generator():
@@ -48,23 +47,25 @@ def Drugbank4_Pickle_Generator():
                l = f.readline() 
         
         elts = l.strip("\n").split("$")
-        #elts = l.strip("\n").split(",")
           
         pddi = getPDDIDict()             
         (pddi["object"], 
          pddi["drug1"],
          pddi["precipitant"], 
          pddi["drug2"], 
+         #pddi["label"], 
          pddi["source"]
          ) = (
               elts[1], 
               "http://bio2rdf.org/drugbank:" + str(elts[0]), 
               elts[3], 
+             # elts[4], 
               "http://bio2rdf.org/drugbank:" + str(elts[2]), 
               "Drugbank"
               )
-        #print "object: %s -- precipitant:%s " %(pddi["object"],pddi["precipitant"])
-        print "object: %s: %s-- precipitant:%s : %s" % (pddi["object"],pddi["drug1"],pddi["precipitant"], pddi["drug2"])
+
+        #print "object: %s: %s-- precipitant:%s : %s" % (pddi["object"],pddi["drug1"],pddi["precipitant"], pddi["drug2"])
+        print "object: %s -- precipitant: %s" % (pddi["drug1"], pddi["drug2"])
              
         # return the dictionary entry
         pddiDictL.append(pddi)
@@ -77,7 +78,7 @@ if __name__ == "__main__":
 
     gen=Drugbank4_Pickle_Generator()
   
-    f = open("../pickle-data/drugbank4-ddis.pickle","w")
+    f = open("../pickle-data/drugbank5-ddis.pickle","w")
     pickle.dump(gen, f)
     f.close()
 
