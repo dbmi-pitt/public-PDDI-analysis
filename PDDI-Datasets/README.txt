@@ -206,8 +206,23 @@ Date retrieved: 7/21/2014
 all-kegg-drugs-7212014.txt -  Contains the list of all Kegg drugs, downloaded from the Kegg FTP site.
 KEGG-Drugs.txt - drug data with all available information in text 
 
+
+ 
 drugbank-to-kegg-mapping.csv - this is the file used in the study. it contains the mappings from Kegg to Drugbank 
-			       for all drugs in Bio2RDF with an xref containing the text "kegg".
+			       for all drugs in Bio2RDF with an xref containing the text "kegg". 
+			       Bio2RDF was queried using the follow'ng SPARQL Query:
+			       
+PREFIX n1:	<http://bio2rdf.org/drugbank_vocabulary:>
+PREFIX n2:	<http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?s ?kegg ?label
+WHERE {
+     ?s a n1:Drug;
+     n2:label ?label;
+     n1:x-kegg ?kegg. 
+  FILTER regex(str(?kegg),"http://bio2rdf.org/kegg")
+}
+
 
 This is the link to KEGG Medicus API : <http://www.kegg.jp/kegg/rest/keggapi2.html> 
 
@@ -586,7 +601,6 @@ We used the RX_CUIs to link our FDA_RXNORM_DRUGBANK mapping table to get the Dru
 and mapped the drugs back to Drugbank.
 
 
-
 -----------------------------------------------------------------
 HOW THE DRUGBANK AND CHEBI MAPPINGS ARE CREATED (March/April 2014):
 -----------------------------------------------------------------
@@ -671,5 +685,46 @@ HEP, HIV Drug Interactions (January 2016):
 5) This will bring a page of all interactions for the drug. Select "view source" in your browser and save the HTML file to the appropriate folder. 
 6) Give the file a name like <drug>_interactions_<drug id>_all.html where <drug> is the drug you selected and <drug id> is and identifier for the drug within the website
 
-Same process done for HIV-Insite-Drug-Interactions (url: arv.ucsf.edu/insite?page=ar-00-02) but word documents were also created through copying and pasting the tables for each drug under "Search by Antiretroviral Drug". File names were simply the drug name before the parentheses.
+------------------------------------------------------------
+French DDI Referrals
+------------------------------------------------------------
 
+Date retrieved: Dec 17, 2016
+
+* Dataset and Source Location
+ The dataset was developed by  national drugs institute (ANSM). It can be found at:
+ http://ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses/(offset)/0
+
+The Drugbank Mappings of the dataset was kindly provided by Dr. Sebastien Cossin in December 2016.
+
+* Following are the descriptions for fields used in the FrenchDB drug Interactions:
+# mol2 : drug1
+# mol1 : drug2
+# prota2 : drug2 or therapeutic class of drug2
+# prota1 : drug1 or class of drug1
+# description_interaction : DDI description (associated sometimes with action to be taken)
+# mecanisme : mecanism
+# niveau : level of severity  
+# DB1 : DB code of drug1
+# DB2 : DB code of drug2
+ 
+The initials in Severity level(niveau) column refer to: 
+  # CI (contre indiquee) : Contraindicated
+  # AD (association deconseillee) : avoid if possible
+  # PE (precaution d'emploi) : precaution for use, mainly pharmacocinetic interaction
+  # PC (prendre en compte) : take into account, mainly pharmacodynamic interaction
+
+
+-----------------------------------------------------------------
+HEP, HIV Drug Interactions (January 2016):
+-----------------------------------------------------------------
+
+1) Go to www.hep-druginteractions.org/view_all_interactions/new or www.hiv-druginteractions.org/view_all_interactions/new depending on which dataset you are working on downloading.
+
+2) Pick the drug that you want to retrieve all interactions for and then click Submit
+3) A page with a table of interactions will be shown. Click on the colored shape in the first row of the table.
+4) A page with the specific interaction will appear. A link at the bottom of the page will be present in a statement like "View all available interactions with <drug> by clicking here." Click on the "here" link.
+5) This will bring a page of all interactions for the drug. Select "view source" in your browser and save the HTML file to the appropriate folder. 
+6) Give the file a name like <drug>_interactions_<drug id>_all.html where <drug> is the drug you selected and <drug id> is and identifier for the drug within the website
+
+Same process done for HIV-Insite-Drug-Interactions (url: arv.ucsf.edu/insite?page=ar-00-02) but word documents were also created through copying and pasting the tables for each drug under "Search by Antiretroviral Drug". File names were simply the drug name before the parentheses.
