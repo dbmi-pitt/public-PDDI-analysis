@@ -21,9 +21,12 @@ sys.path = sys.path + ['.']
 from PDDI_Model import getPDDIDict
 
 # See PDDI_Model for the structure of the PDDI dictionaries being parsed
-DIKB_OBSERVED_PDDI_FILE = "../pickle-data/dikb-observed-ddis.pickle"
-DIKB_PREDICTED_PDDI_FILE = "../pickle-data/dikb-predicted-ddis.pickle"
-TWOSIDES_PDDI_FILE = "../pickle-data/twosides-ddis.pickle"
+
+# DIKB_OBSERVED_PDDI_FILE = "../pickle-data/dikb-observed-ddis.pickle"
+# DIKB_PREDICTED_PDDI_FILE = "../pickle-data/dikb-predicted-ddis.pickle"
+# TWOSIDES_PDDI_FILE = "../pickle-data/twosides-ddis.pickle"
+# SEMMEDDB_PDDI_FILE = "../pickle-data/semmeddb-ddis.pickle"
+
 DRUGBANK_PDDI_FILE = "../pickle-data/drugbank4-ddis.pickle"
 NDFRT_PDDI_FILE_INCHI_AND = "../pickle-data/ndfrt-mapped-ddis-inchi-and.pickle"
 NDFRT_PDDI_FILE_INCHI_OR = "../pickle-data/ndfrt-mapped-ddis-inchi-or.pickle"
@@ -40,7 +43,10 @@ PKCORPUS_PDDI_FILE_INCHI_OR= "../pickle-data/pkcorpus-ddis-inchi-or.pickle"
 ONCHIGHPRIORITY_PDDI_FILE = "../pickle-data/onchighpriority-ddis.pickle"
 ONCNONINTERUPTIVE_PDDI_FILE = "../pickle-data/oncnoninteruptive-ddis.pickle"
 OSCAR_PDDI_FILE = "../pickle-data/oscar-ddis.pickle"
-SEMMEDDB_PDDI_FILE = "../pickle-data/semmeddb-ddis.pickle"  
+HIV_FILE="../pickle-data/hiv-ddis.pickle"
+HEP_FILE="../pickle-data/hep-ddis.pickle"
+FRENCH_FILE="../pickle-data/frenchDB-ddis.pickle"
+
 
  
 def loadPickle(FILE_Name):
@@ -119,16 +125,21 @@ def writePDDIsForProtocolTest(fname,PDDIs,label):
        
 def combinePDDIDatasets(IsForProtocol,IsConservativeMapping): 
        
-    DIKB_OBSERVED_L = loadPickle(DIKB_OBSERVED_PDDI_FILE)    
-    DIKB_PREDICTED_L = loadPickle(DIKB_PREDICTED_PDDI_FILE)   
+    # DIKB_OBSERVED_L = loadPickle(DIKB_OBSERVED_PDDI_FILE)    
+    # DIKB_PREDICTED_L = loadPickle(DIKB_PREDICTED_PDDI_FILE)
+    # TWOSIDES_L = loadPickle(TWOSIDES_PDDI_FILE)
+    # SEMMEDDB_L = loadPickle(SEMMEDDB_PDDI_FILE)
+     
     DRUGBANK_L = loadPickle(DRUGBANK_PDDI_FILE)   
-    TWOSIDES_L = loadPickle(TWOSIDES_PDDI_FILE)    
     KEGG_L = loadPickle(KEGG_PDDI_FILE) 
     CREDIBLEMEDS_L = loadPickle(CREDIBLEMEDS_PDDI_FILE)       
     ONCHIGHPRIORITY_L = loadPickle(ONCHIGHPRIORITY_PDDI_FILE)  
     ONCNONINTERUPTIVE_L = loadPickle(ONCNONINTERUPTIVE_PDDI_FILE)  
-    OSCAR_L = loadPickle(OSCAR_PDDI_FILE) 
-    SEMMEDDB_L = loadPickle(SEMMEDDB_PDDI_FILE)   
+    OSCAR_L = loadPickle(OSCAR_PDDI_FILE)
+    HIV_L = loadPickle(HIV_FILE)
+    HEP_L = loadPickle(HEP_FILE)
+    FRENCH_L = loadPickle(FRENCH_FILE)
+
 
     if IsConservativeMapping:
         NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_AND)    
@@ -143,12 +154,11 @@ def combinePDDIDatasets(IsForProtocol,IsConservativeMapping):
         NLMCORPUS_L = loadPickle(NLMCORPUS_PDDI_FILE_INCHI_OR) 
         PKCORPUS_L = loadPickle(PKCORPUS_PDDI_FILE_INCHI_OR)
         
-        
-    allPDDIs = ( DIKB_OBSERVED_L + DIKB_PREDICTED_L + DRUGBANK_L + TWOSIDES_L + NDFRT_L + KEGG_L 
+    # DIKB_OBSERVED_L + DIKB_PREDICTED_L + SEMMEDDB_L + TWOSIDES_L
+    allPDDIs = (DRUGBANK_L + NDFRT_L + KEGG_L 
                  + CREDIBLEMEDS_L +DDICORPUS2011_L + DDICORPUS2013_L + NLMCORPUS_L + PKCORPUS_L 
-                 + ONCHIGHPRIORITY_L + ONCNONINTERUPTIVE_L + OSCAR_L + SEMMEDDB_L        
+                 + ONCHIGHPRIORITY_L + ONCNONINTERUPTIVE_L + OSCAR_L + HIV_L + HEP_L + FRENCH_L
                )
-    
     
     if IsForProtocol:
         if IsConservativeMapping:
@@ -160,15 +170,15 @@ def combinePDDIDatasets(IsForProtocol,IsConservativeMapping):
               writePDDIs("../analysis-results/CombinedDatasetConservative.csv",allPDDIs,"Combined")
         else:
              writePDDIs("../analysis-results/CombinedDatasetNotConservative.csv",allPDDIs,"Combined")
-  
+
+# DIKB %d, Twosides: %d, SemmedDB %d             
    
     # report
     print '''Dataset PDDI Breakdown 
 
 Number of PDDIs:   
-    DIKB: %d 
     Drugbank: %d 
-    Twosides: %d
+
     NDF-RT: %d 
     KEGG: %d 
     CredibleMeds: %d
@@ -179,18 +189,24 @@ Number of PDDIs:
     ONC High-Priority : %d 
     ONC Non-Interuptive : %d 
     OSCAR : %d 
-    SemMedDB : %d 
+    HIV : %d 
+    HEP : %d 
+    FRENCH : %d 
     
     Total: %d   
+
+
     
 ------------------------------------------------------------------------------------------
 
 
-''' % ( len(DIKB_OBSERVED_L + DIKB_PREDICTED_L),len(DRUGBANK_L),len(TWOSIDES_L),len(NDFRT_L),
+''' % ( len(DRUGBANK_L),len(NDFRT_L),
         len(KEGG_L),len(CREDIBLEMEDS_L),len(DDICORPUS2011_L),len(DDICORPUS2013_L),
         len(NLMCORPUS_L), len(PKCORPUS_L), len(ONCHIGHPRIORITY_L), len(ONCNONINTERUPTIVE_L),
-        len(OSCAR_L), len(SEMMEDDB_L), len(allPDDIs)
-      ) 
+        len(OSCAR_L), len(HIV_L), len(HEP_L), len(FRENCH_L), len(allPDDIs)
+      )
+    
+    # len(DIKB_OBSERVED_L + DIKB_PREDICTED_L), len(TWOSIDES_L), len(SEMMEDDB_L)
             
 if __name__ == "__main__":        
      #combinePDDIDatasets(True, True)    #Conservative Mapping Test

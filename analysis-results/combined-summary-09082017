@@ -1,0 +1,40 @@
+(1) Conservative mapping by 09/08/2017
+
+Number of PDDIs:   
+    Drugbank: 24103 
+    NDF-RT: 1876 
+    KEGG: 52104 
+    CredibleMeds: 83
+    DDI Corpus 2011: 334
+    DDI Corpus 2013: 787
+    NLM Corpus: 238     
+    PK Corpus: 146   
+    ONC High-Priority : 1930 
+    ONC Non-Interuptive : 2101 
+    OSCAR : 10325 
+    HIV : 19198 
+    HEP : 11194 
+    FRENCH : 62047 
+    
+    Total: 186466
+
+(2) Not conservative mapping by 09/08/2017
+
+Number of PDDIs:   
+    Drugbank: 24103 
+
+    NDF-RT: 2606 
+    KEGG: 52104 
+    CredibleMeds: 83
+    DDI Corpus 2011: 733
+    DDI Corpus 2013: 1780
+    NLM Corpus: 328     
+    PK Corpus: 184   
+    ONC High-Priority : 1930 
+    ONC Non-Interuptive : 2101 
+    OSCAR : 10325 
+    HIV : 19198 
+    HEP : 11194 
+    FRENCH : 62047 
+    
+    Total: 188716
