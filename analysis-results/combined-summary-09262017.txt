@@ -1,7 +1,9 @@
-(1) Conservative mapping by 09/08/2017
+Dataset PDDI Breakdown 
 
+(1) Conservative mapping by 09/26/2017
 Number of PDDIs:   
     Drugbank: 24103 
+
     NDF-RT: 1876 
     KEGG: 52104 
     CredibleMeds: 83
@@ -15,11 +17,11 @@ Number of PDDIs:
     HIV : 19198 
     HEP : 11194 
     FRENCH : 62047 
+    World Vista: 13693
     
-    Total: 186466
+    Total: 200159 
 
-(2) Not conservative mapping by 09/08/2017
-
+(2) Not conservative mapping by 09/26/2017
 Number of PDDIs:   
     Drugbank: 24103 
 
@@ -36,5 +38,6 @@ Number of PDDIs:
     HIV : 19198 
     HEP : 11194 
     FRENCH : 62047 
+    World Vista: 30901
     
-    Total: 188716
+    Total: 219617 

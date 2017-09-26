@@ -16,6 +16,11 @@ import traceback
 import pickle
 import sys
 import re
+import sys
+# sys.setdefaultencoding() does not exist, here!
+reload(sys)  # Reload does the trick!
+sys.setdefaultencoding('UTF8')
+
 sys.path = sys.path + ['.']
 
 from PDDI_Model import getPDDIDict
@@ -46,6 +51,8 @@ OSCAR_PDDI_FILE = "../pickle-data/oscar-ddis.pickle"
 HIV_FILE="../pickle-data/hiv-ddis.pickle"
 HEP_FILE="../pickle-data/hep-ddis.pickle"
 FRENCH_FILE="../pickle-data/frenchDB-ddis.pickle"
+WORLD_VISTA_OR="../pickle-data/worldvista-ddis-inchi-or.pickle"
+WORLD_VISTA_AND="../pickle-data/worldvista-ddis-inchi-and.pickle"
 
 
  
@@ -58,9 +65,10 @@ def loadPickle(FILE_Name):
       
 def writePDDIs(fname,PDDIs,label):
     f = open(fname, "w")
-    s = "drug1\tobject\tdrug2\tprecipitant\tcertainty\tcontraindication\tdateAnnotated\tddiPkEffect\tddiPkMechanism\teffectConcept\thomepage\tlabel\tnumericVal\tobjectUri\tpathway\tprecaution\tprecipUri\tseverity\turi\twhoAnnotated\tsource\tddiType\tevidence\tevidenceSource\tevidenceStatement\tresearchStatementLabel\tresearchStatement\n"  
+    s = "drug1\tobject\tdrug2\tprecipitant\tcertainty\tcontraindication\tdateAnnotated\tddiPkEffect\tddiPkMechanism\teffectConcept\thomepage\tlabel\tnumericVal\tobjectUri\tpathway\tprecaution\tprecipUri\tseverity\turi\twhoAnnotated\tsource\tddiType\tevidence\tevidenceSource\tevidenceStatement\tresearchStatementLabel\tresearchStatement\n"
 
     for a in PDDIs:
+         
         rgx = re.compile(" ")       
         obj = a.get('object').strip()
         obj = rgx.sub("_",obj)    
@@ -140,24 +148,26 @@ def combinePDDIDatasets(IsForProtocol,IsConservativeMapping):
     HEP_L = loadPickle(HEP_FILE)
     FRENCH_L = loadPickle(FRENCH_FILE)
 
-
     if IsConservativeMapping:
         NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_AND)    
         DDICORPUS2011_L = loadPickle(DDICORPUS2011_PDDI_FILE_INCHI_AND) 
         DDICORPUS2013_L = loadPickle(DDICORPUS2013_PDDI_FILE_INCHI_AND) 
         NLMCORPUS_L = loadPickle(NLMCORPUS_PDDI_FILE_INCHI_AND) 
         PKCORPUS_L = loadPickle(PKCORPUS_PDDI_FILE_INCHI_AND)
+        WORLD_VISTA_L = loadPickle(WORLD_VISTA_AND)
     else: 
         NDFRT_L = loadPickle(NDFRT_PDDI_FILE_INCHI_OR)    
         DDICORPUS2011_L = loadPickle(DDICORPUS2011_PDDI_FILE_INCHI_OR) 
         DDICORPUS2013_L = loadPickle(DDICORPUS2013_PDDI_FILE_INCHI_OR) 
         NLMCORPUS_L = loadPickle(NLMCORPUS_PDDI_FILE_INCHI_OR) 
         PKCORPUS_L = loadPickle(PKCORPUS_PDDI_FILE_INCHI_OR)
+        WORLD_VISTA_L = loadPickle(WORLD_VISTA_OR)
         
     # DIKB_OBSERVED_L + DIKB_PREDICTED_L + SEMMEDDB_L + TWOSIDES_L
     allPDDIs = (DRUGBANK_L + NDFRT_L + KEGG_L 
-                 + CREDIBLEMEDS_L +DDICORPUS2011_L + DDICORPUS2013_L + NLMCORPUS_L + PKCORPUS_L 
-                 + ONCHIGHPRIORITY_L + ONCNONINTERUPTIVE_L + OSCAR_L + HIV_L + HEP_L + FRENCH_L
+                + CREDIBLEMEDS_L +DDICORPUS2011_L + DDICORPUS2013_L + NLMCORPUS_L + PKCORPUS_L 
+                + ONCHIGHPRIORITY_L + ONCNONINTERUPTIVE_L + OSCAR_L + HIV_L + HEP_L + FRENCH_L
+                + WORLD_VISTA_L
                )
     
     if IsForProtocol:
@@ -192,6 +202,7 @@ Number of PDDIs:
     HIV : %d 
     HEP : %d 
     FRENCH : %d 
+    World Vista: %d
     
     Total: %d   
 
@@ -203,15 +214,16 @@ Number of PDDIs:
 ''' % ( len(DRUGBANK_L),len(NDFRT_L),
         len(KEGG_L),len(CREDIBLEMEDS_L),len(DDICORPUS2011_L),len(DDICORPUS2013_L),
         len(NLMCORPUS_L), len(PKCORPUS_L), len(ONCHIGHPRIORITY_L), len(ONCNONINTERUPTIVE_L),
-        len(OSCAR_L), len(HIV_L), len(HEP_L), len(FRENCH_L), len(allPDDIs)
+        len(OSCAR_L), len(HIV_L), len(HEP_L), len(FRENCH_L), len(WORLD_VISTA_L), len(allPDDIs)
       )
     
     # len(DIKB_OBSERVED_L + DIKB_PREDICTED_L), len(TWOSIDES_L), len(SEMMEDDB_L)
             
 if __name__ == "__main__":        
-     #combinePDDIDatasets(True, True)    #Conservative Mapping Test
+     # combinePDDIDatasets(True, True)    #Conservative Mapping Test
      combinePDDIDatasets(True, False)   #Not Conservative Mapping Test
-     #combinePDDIDatasets(False)  
-
+     
+     # combinePDDIDatasets(False, True) #  Conservative Mapping with all columns
+     # combinePDDIDatasets(False, False) #  Not conservative Mapping with all columns
 
 
