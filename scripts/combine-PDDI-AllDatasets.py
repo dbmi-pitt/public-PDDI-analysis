@@ -76,7 +76,7 @@ def writePDDIs(fname,PDDIs,label):
         pre = a.get('precipitant').strip()
         pre = rgx.sub("_", pre)
         
-        s += "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (
+        s = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (
            a.get('drug1'),
            obj,
            a.get('drug2'),
@@ -104,9 +104,8 @@ def writePDDIs(fname,PDDIs,label):
            a.get('evidenceStatement'), 
            a.get('researchStatementLabel'),
            a.get('researchStatement')  
-          )       
-     
-    f.write(s)
+          )
+        f.write(s)
     f.close()
     
 def writePDDIsForProtocolTest(fname,PDDIs,label):
@@ -221,9 +220,9 @@ Number of PDDIs:
             
 if __name__ == "__main__":        
      # combinePDDIDatasets(True, True)    #Conservative Mapping Test
-     combinePDDIDatasets(True, False)   #Not Conservative Mapping Test
+     # combinePDDIDatasets(True, False)   #Not Conservative Mapping Test
      
      # combinePDDIDatasets(False, True) #  Conservative Mapping with all columns
-     # combinePDDIDatasets(False, False) #  Not conservative Mapping with all columns
+     combinePDDIDatasets(False, False) #  Not conservative Mapping with all columns
 
 
