@@ -66,6 +66,7 @@ def loadPickle(FILE_Name):
 def writePDDIs(fname,PDDIs,label):
     f = open(fname, "w")
     s = "drug1\tobject\tdrug2\tprecipitant\tcertainty\tcontraindication\tdateAnnotated\tddiPkEffect\tddiPkMechanism\teffectConcept\thomepage\tlabel\tnumericVal\tobjectUri\tpathway\tprecaution\tprecipUri\tseverity\turi\twhoAnnotated\tsource\tddiType\tevidence\tevidenceSource\tevidenceStatement\tresearchStatementLabel\tresearchStatement\n"
+    f.write(s)
 
     for a in PDDIs:
          
@@ -222,7 +223,7 @@ if __name__ == "__main__":
      # combinePDDIDatasets(True, True)    #Conservative Mapping Test
      # combinePDDIDatasets(True, False)   #Not Conservative Mapping Test
      
-     # combinePDDIDatasets(False, True) #  Conservative Mapping with all columns
-     combinePDDIDatasets(False, False) #  Not conservative Mapping with all columns
+     combinePDDIDatasets(False, True) #  Conservative Mapping with all columns
+     # combinePDDIDatasets(False, False) #  Not conservative Mapping with all columns
 
 
